@@ -1,0 +1,55 @@
+# Quick start
+
+Make a movie in a few minutes: import photos, press Play, Export when you like it.
+
+![Empty project — drop media or use Add photos & videos](../.gitbook/assets/empty-start.png)
+
+## 1. Start a project
+
+- **File → New** (**⌘N**), or **⌘W** to clear the current document (the traffic-light close does **not** quit — reopen from the Dock).
+- **File → Open…** (**⌘O**), **Open Recent**, or drop a `.memorystring` file onto the window.
+- Autosave runs once a file exists. **⌘S** / **⇧⌘S** anytime. **⌘Q** prompts to save untitled work.
+
+## 2. Import media
+
+Bring photos and videos into the **Library** (left):
+
+1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
+2. Or drop folders, photos, or videos onto the window.
+
+**Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
+**Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
+
+Other types are skipped.
+
+## 3. Order the story
+
+Drag thumbnails in the Library or clips on the Timeline. The **Intro** slide stays first when it is on.
+
+Library calendar menu (or **Edit → Sort by Date Taken**): **Oldest First (Story Order)**, **Newest First**, or **Import Order**.
+
+## 4. Preview
+
+**Space** (or the toolbar Play/Pause). Click or drag the playhead to scrub. See [Preview](../preview.md).
+
+## 5. Music
+
+Music lives in Inspector → **Audio**, not the Library.
+
+After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks. Toolbar **+** → **Music…** or **Royalty-Free Library…**. See [Music](../music.md).
+
+## 6. Polish (optional)
+
+Open the Inspector (**⌥⌘I**). Tabs:
+
+- **Style** — Look, Energy, Stage, Photo Size, Captions, Customize… (Studio)
+- **Intro** — opening card
+- **Motion** — Studio only: Transitions Mix and multi-photo groups
+- **Audio** — playlist
+- **Format** — aspect / Social Safe
+
+## 7. Export
+
+Toolbar **Export** or **File → Export Movie…** (**⌘E**). Confirm format, frame rate, and (Studio) quality, then **Export**. Wait for **Creating memory…**.
+
+You get an H.264 MP4. The movie ends on the stage floor with the MemoryString credit.
