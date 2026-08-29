@@ -66,9 +66,15 @@ Every movie eases to the stage floor (black on Dark, cream on Light). No toggle 
 
 ## Social Safe
 
-An **export mode**, not a Look — same toggle on Format and in the Export dialog. Built for tall frames that hate letterbox bars.
+An **export mode**, not a Look — same toggle in two places, on purpose. Built for tall frames that hate letterbox bars.
 
-<figure><img src="../.gitbook/assets/export-social-safe.png" alt="Export Movie: Social Safe keeps photos and captions inside the frame"><figcaption>Social Safe — Export Movie dialog</figcaption></figure>
+**Format tab** (Inspector → **Format**) is the live one. Turn Social Safe on here so the **preview** shows the safe frame while you edit: photos, captions, and mats sit inside the crop *before* you encode.
+
+<figure><img src="../.gitbook/assets/inspector-format-social-safe.png" alt="Format tab: Social Safe checkbox so the preview matches the share crop"><figcaption>Social Safe — Format inspector (live preview)</figcaption></figure>
+
+**Export Movie** is for **this file**. The dialog’s Format swatches and Social Safe apply to that encode only — they do **not** change the live preview. Compose in YouTube 16:9 on the Format tab, then export a TikTok 9:16 with Social Safe without switching the whole workbench. Frame rate and quality live only in Export.
+
+<figure><img src="../.gitbook/assets/export-social-safe.png" alt="Export Movie: Social Safe keeps photos and captions inside the frame"><figcaption>Social Safe — Export Movie dialog (this encode)</figcaption></figure>
 
 Turn it on to fill tall frames with soft stage wash, keep mats and effects, and clamp Photo Size to about **85–98%**.
 
