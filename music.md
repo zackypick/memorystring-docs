@@ -17,7 +17,15 @@ Only import tracks you have the rights to use.
 
 ## Royalty-free library
 
-Toolbar **+**, **File**, or Audio → **Royalty-Free Library…**. The sheet is **Royalty Free - No Attribution Required**. Each row shows title / artist, a short **style** column (e.g. Quiet ballad), and duration. Preview a row, then **Add**.
+Toolbar **+**, **File**, or Audio → **Royalty-Free Library…**.
+
+![Royalty Free - No Attribution Required sheet](../.gitbook/assets/royalty-free-library.png)
+
+The sheet title is **Royalty Free - No Attribution Required**. Subtitle: *Tracks from the YouTube Audio Library.* Built-in tracks need no attribution; your own imports are not owned by MemoryString.
+
+**Sort:** Catalog · Title (A–Z) · Genre (A–Z) · Duration (shortest / longest first).
+
+Each row: checkbox, **title** / **artist**, **style** (e.g. Quiet ballad) or **In project** if it is already on the playlist, duration, and a play button to audition (does not move the show playhead). Check tracks, then **Add**. **Cancel** dismisses. **Add** stays disabled until at least one unused track is selected.
 
 ## Match Look Soundtrack
 
@@ -53,6 +61,6 @@ Only import tracks you have the rights to use. MemoryString does not claim owner
 
 ## Video sound (not the music lane)
 
-On import, MemoryString listens to each **video**: **speech keeps clip audio**; **silence or noise is muted**. Same in Essential and Studio. If you decline on-device speech detection, mute still runs from **loudness only**.
+On import, MemoryString listens to each **video**: **speech keeps clip audio**; **silence or noise is muted**. Same in Essential and Studio. If you decline on-device speech detection, mute still runs from **loudness only**. How it decides: [Auto detection](auto-detection.md).
 
 Unmute or mute anytime: right-click **Mute Video Sound** / **Unmute Video Sound**, the Library / Timeline speaker badge, or the Inspector clip footer. No toast. See [Library](library.md).

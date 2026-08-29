@@ -53,7 +53,7 @@ See [Essential and Studio](workspace/essential-studio.md).
 
 The small round ring on a **paused** photo is that slide’s **center of interest** (focus) — where MemoryString aims the motion. Original files are never modified.
 
-**Auto (on import):** every photo and video gets one: the **largest face** in the frame, else the **main subject**, else the **middle** of the frame.
+**Auto (on import):** every photo and video gets one: the **largest face** (aim near the eyes), else the **main subject**, else the **middle** of the frame. Videos sample several frames in the trim window. Full order: [Auto detection](auto-detection.md).
 
 **Manual override:** pause and click the spot you want (*Tap photo to set focus*). The ring jumps there; the status line shows **Focus · 62%, 38%** (example). Dragging instead of clicking pans the paused view and leaves focus alone. Each change is its own **⌘Z**.
 

@@ -2,6 +2,8 @@
 
 The left sidebar is this project’s photos and videos. Music is in Inspector → **Audio**, not here.
 
+![Library with photos, transition names, mute badges](../.gitbook/assets/library-photos.png)
+
 ![Library header: sort, captions, options, add](../.gitbook/assets/library-header.png)
 
 Left to right when the Library has items: **calendar** (sort), **captions** bubble, **⋯**, and **+** on the trailing edge.
@@ -78,7 +80,7 @@ Click a thumb to select and seek. **⌘**-click toggles; **⇧**-click extends a
 
 ### Videos
 
-On import, MemoryString listens to each clip (Essential and Studio): **speech stays audible**; **silence or noise is muted**. Detection is on-device. If you skip the speech prompt, mute still uses **loudness only**.
+On import, MemoryString listens to each clip (Essential and Studio): **speech stays audible**; **silence or noise is muted**. Detection is on-device. If you skip the speech prompt, mute still uses **loudness only**. How it decides: [Auto detection](auto-detection.md).
 
 **Mute Video Sound** / **Unmute Video Sound** — right-click, the speaker badge, or the Inspector footer. Manual mute is yours.
 

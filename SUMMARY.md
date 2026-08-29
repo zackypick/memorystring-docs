@@ -14,6 +14,7 @@
 * [Timeline](timeline.md)
 * [Intro and captions](intro-captions.md)
 * [Music](music.md)
+* [Auto detection](auto-detection.md)
 
 ## Style and motion
 

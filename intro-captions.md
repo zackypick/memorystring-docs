@@ -70,7 +70,7 @@ Essential: type in the clip bar; font and style knobs are in Studio. Studio also
 
 ### Auto Caption
 
-Fills empty captions on-device, in order: **Place · date** (GPS or IPTC city + capture date; country is added only when the show has photos from more than one country) → **capture date** → a **readable filename** with real words. Place and date autofill are always allowed when the media has them. UUID / hash-looking names, camera serials, WhatsApp export titles, and similar are never used — those slides stay blank.
+Does **not** run on import. Fills empty captions on-device, in order: **Place · date** (GPS or IPTC city + capture date; country is added only when the show has photos from more than one country) → **capture date** → a **readable filename** with real words. Place and date autofill are always allowed when the media has them. UUID / hash-looking names, camera serials, WhatsApp export titles, and similar are never used — those slides stay blank. Pipeline: [Auto detection](auto-detection.md).
 
 - Library captions bubble → **Auto Caption N Untitled Slide(s)**
 - **Edit → Auto Caption N Untitled Slides**

@@ -2,6 +2,8 @@
 
 Under the preview: scrub, reorder, trim, and line up slides with music.
 
+![Photo lane and music waveform for a full show](../.gitbook/assets/timeline-full.png)
+
 ![Timeline header: clip name, caption field, Generate, zoom](../.gitbook/assets/timeline-chrome.png)
 
 ## Layout

@@ -49,6 +49,6 @@ MemoryString is proprietary software. Only Zacky Pickholz holds the rights to th
 
 ## How this book is organized
 
-Start with [Quick start](getting-started/quick-start.md), then the [window](workspace/the-window.md). Feature pages follow the Inspector tabs: Style, Intro, Motion, Audio, Format.
+Start with [Quick start](getting-started/quick-start.md), then the [window](workspace/the-window.md). Feature pages follow the Inspector tabs: Style, Intro, Motion, Audio, Format. Import detectors (mute, focus, Auto Caption) are in [Auto detection](auto-detection.md).
 
 The same topics live in **Help → MemoryString Help…** (**⌘/**). **Help → Show Walkthrough** replays the first-run tour.
