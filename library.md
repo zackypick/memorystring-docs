@@ -8,6 +8,8 @@ The left sidebar is this project’s photos and videos. Music is in Inspector �
 
 Left to right when the Library has items: **calendar** (sort), **captions** bubble, **⋯**, and **+** on the trailing edge.
 
+Drag the **vertical divider** on the Library’s right edge to widen or narrow the sidebar (the width is remembered). **View → Toggle Sidebar** (**⌃⌘S**) hides it.
+
 ## Import
 
 - Toolbar or Library **+** → **Photos & Videos…**, or **File → Import Media…**

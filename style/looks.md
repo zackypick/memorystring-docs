@@ -62,7 +62,17 @@ Above roughly **93% Energy**, **Spiral-in** and **Reveal from depth** cannot pla
 
 ## Stage
 
-**Dark** (black void) or **Light** (cream gallery). Behind every plate, wash, seam, the end fade, and the intro card’s plate / Matte frame chrome so Light never leaves a black scrap on cream. The eight Looks pick **Dark** by default. Changing Stage yourself also marks Style as Custom.
+**Dark** (black void) or **Light** (cream gallery). Inspector → **Style**, under Energy. It is the host colour behind every plate, wash, seam, the end fade, and the intro card’s plate / Matte frame chrome so Light never leaves a black scrap on cream. The eight Looks pick **Dark** by default. Changing Stage yourself also marks Style as Custom.
+
+![Stage Dark / Light](../.gitbook/assets/inspector-stage.png)
+
+**Dark** — black void (classic MemoryString).
+
+<figure><img src="../.gitbook/assets/stage-dark.jpg" alt="Dark stage"><figcaption>Dark stage</figcaption></figure>
+
+**Light** — cream gallery. Export credit watermark is bronze on Light.
+
+<figure><img src="../.gitbook/assets/stage-light.jpg" alt="Light stage"><figcaption>Light stage</figcaption></figure>
 
 ## Photo Size
 

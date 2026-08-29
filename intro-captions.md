@@ -58,15 +58,19 @@ Photo Size, border, torn edge, curl, shadow, wind, and backdrop wash stay on **p
 
 Optional. MemoryString does not add them unless you type or use **Auto Caption**. These are **not** the intro title.
 
-Select a media slide and type in the Inspector clip bar, or **Intro → This Slide → Add Caption**. **Generate** writes one. **Aa** opens position / color / size. A group’s caption belongs to its **lead** card.
+Select a media slide and type in the Inspector clip bar (**Add a caption…**). **Generate** writes one. **Aa** opens that slide’s position / color / size (and **Caption Style…** jumps to Style → Captions). A group’s caption belongs to its **lead** card.
 
 **Position** per slide: Inherit / Bottom / Top / Center, or drag on the preview (**Reset** snaps back).
 
-### Studio → Style → Captions → Type & Placement
+### Studio → Style → Captions
 
-Project-wide: **Font**, **Color**, **Auto Size** / **Size**, **Align**, **Motion** (None / Fade / Rise / Scale), **Default Placement**, **Shade Behind Text**.
+![Captions: Type & Placement, Auto Caption, Clear](../.gitbook/assets/inspector-captions.png)
 
-Essential: type in the clip bar; font and style knobs are in Studio. Studio also offers **Reset Caption Style** (when style was changed) and **Reset N Positions** (when slides have dragged positions).
+Project-wide defaults every slide caption follows unless that slide overrides them. Open **Type & Placement** for **Font**, **Color**, **Auto Size** / **Size**, **Align**, **Motion** (None / Fade / Rise / Scale), **Default Placement**, and **Shade Behind Text**.
+
+Bulk: **Auto Caption N Untitled Slides** (empty only), **Auto Caption All Slides…**, **Clear All Captions…**. Studio also offers **Reset Caption Style** (when style was changed) and **Reset N Positions** (when slides have dragged positions).
+
+Essential: type in the clip bar; font and style knobs are in Studio.
 
 ### Auto Caption
 

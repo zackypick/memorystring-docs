@@ -24,7 +24,7 @@ On the right:
 
 Toolbar **+** (near the project name) is **Photos & Videos…**, **Music…**, and **Royalty-Free Library…**.
 
-**View → Toggle Sidebar** (**⌃⌘S**) shows or hides the Library.
+**View → Toggle Sidebar** (**⌃⌘S**) shows or hides the Library. Drag the **vertical divider** on the Library’s right edge to widen or narrow it; the width is remembered.
 
 ## Inspector clip bar
 

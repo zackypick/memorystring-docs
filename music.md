@@ -31,11 +31,22 @@ Each row: checkbox, **title** / **artist**, **style** (e.g. Quiet ballad) or **I
 
 On by default. Empty projects start quiet. After the first photos or videos land, MemoryString **soft-seeds** bundled mood track(s) to cover the show — the current Look’s pool, or **Would It Matter** when no Look is selected. Mute or remove anytime. Saved projects that already have an empty playlist are left alone.
 
-With Match Look on, clicking a Style **Look** chip retargets that auto bed to a fitting track from that Look’s mood pool at random (Energy can lean the pool calmer or brighter). Longer shows stitch more tracks from the pool before repeating — **only while** the playlist is empty or still that untouched auto bed.
+**While the playlist is still that untouched auto bed** (empty, or only auto-seeded and auto-ordered):
 
-Dropping or importing your own audio **replaces** that bed only while it is still fully auto-seeded and auto-ordered. If you picked royalty-free rows, reordered, trimmed, or removed anything — or already added your own files — the new audio **appends** instead.
+- Clicking a Style **Look** chip **retargets** the bed to a fitting track from that Look’s mood pool at random (Energy can lean the pool calmer or brighter)
+- Longer shows stitch more tracks from the pool before repeating
+- Dropping or importing your own audio **replaces** that bed
+
+**Auto-adding / retargeting stops** as soon as you make a manual soundtrack change: royalty-free rows you picked, a reorder, a trim, a remove — or you already added your own files. After that, a Look click does **not** swap the bed, and a new import **appends** instead of replacing.
 
 Turn **Match Look Soundtrack** off to keep the playlist when changing Looks. Library picks, reorders, and your own imports stay put either way.
+
+## Audition
+
+- **Royalty-free sheet** — play on a row (does **not** move the show playhead). The slideshow bed stays paused while you preview
+- **Audio tab** — local play/pause + position on each playlist row (gold fill is already heard; does **not** move the show playhead)
+- **Timeline** — select a soundtrack clip on the music lane, then **scrub** the playhead (or nudge **←** / **→**). You hear that track at the playhead; the mixed bed and video buses stay silent while you scrub. Audition stops shortly after the head sits still. Clicking without dragging does not start it
+- **Trim grips** on a music clip audition the cut edge in the source song
 
 ## Arrange on the Timeline
 

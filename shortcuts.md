@@ -37,8 +37,8 @@ Traffic-light close closes the window only — reopen from the Dock.
 | **⌃⌘S** | Toggle Sidebar |
 | **⌥⌘I** | Show / Hide Inspector |
 | **⇧⌘S** | Switch Essential / Studio |
-| **⌘+** / **⌘-** / **⌘0** | Increase / Decrease / Default **UI** text size (not slide captions) |
 | **⌥⌘+** / **⌥⌘-** | Timeline zoom in / out |
+| **⌘+** / **⌘-** / **⌘0** | Increase / Decrease / Default **UI** text size (not Timeline zoom, not slide captions) |
 
 ## Playback
 

@@ -32,10 +32,10 @@ A walkthrough of the app, then the “Memories” slideshow it exported — the 
 
 **Slideshow export example** — a finished MemoryString movie (“Memories”).
 
-<figure>
-  <video src=".gitbook/assets/memories4.mp4" poster=".gitbook/assets/memories-poster.jpg" controls></video>
-  <figcaption>Slideshow export example</figcaption>
-</figure>
+<figure><img src=".gitbook/assets/memories-poster.jpg" alt="Slideshow export example"><figcaption>Slideshow export example</figcaption></figure>
+
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/memories4.mp4" %}
+
 
 ## Who made it
 

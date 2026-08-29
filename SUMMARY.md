@@ -20,6 +20,7 @@
 
 * [Looks](style/looks.md)
 * [Customize](style/customize.md)
+* [Lens effects](style/lens-effects.md)
 * [Transitions](motion/transitions.md)
 * [Multi-photo groups](motion/groups.md)
 
