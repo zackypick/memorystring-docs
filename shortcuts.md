@@ -67,7 +67,7 @@ Docs and diagnostics.
 | **⌘/** | MemoryString Help… |
 | **⌘,** | MCP Server |
 
-**Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash package (stacks, Mac specs, breadcrumbs; no media filenames).
+**Help → Full Documentation Online** opens this GitBook in a browser. **Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash package (stacks, Mac specs, breadcrumbs; no media filenames).
 
 ## Tips
 
