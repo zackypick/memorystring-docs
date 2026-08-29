@@ -59,6 +59,8 @@ The small round ring on a **paused** photo is that slide’s **center of interes
 
 **Reset Center of Interest** (right-click the paused photo) drops the override, re-runs detection, and restores the import pick.
 
+![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
+
 **What it aims:** Ken Burns and punch-in end framed around this point; the blurred backdrop follows it; cards in a Photo Stack, Carousel, 3D Ribbon, Perspective Pair, or Filmstrip use it too. Depth dissolve, card flip, slide rotate, spiral-in, and reveal from depth show the whole photo, so they ignore it.
 
 On the **intro**, a single click on the still (or title) sets the same aim; **double-click** the title to edit text. This is a framing aim, not caption position.

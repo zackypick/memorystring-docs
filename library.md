@@ -72,7 +72,9 @@ On a **photo or video** (not empty space):
 - **Group Transition** — when **two or more** media clips are selected (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
 - **Ungroup** — when the clip is in a group
 - **Lens Effect** — Studio only; pin pooled effects on that slide or group
-- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**
+- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md) (right-click):
+
+![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
 - **Set Duration…** (**⌘D**)
 - Videos: **Mute Video Sound** / **Unmute Video Sound**, **Reset Length**
 - **Auto Caption** or **Clear Caption**

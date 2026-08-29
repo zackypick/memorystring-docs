@@ -43,6 +43,8 @@ There is no toast. A muted clip shows a speaker-off badge in the Library and Tim
 
 **Override:** pause and click the spot (*Tap photo to set focus*). The ring moves; the status line shows **Focus · x%, y%**. Dragging pans the paused view and leaves focus alone. **Reset Center of Interest** (right-click) drops the override and re-runs detection.
 
+![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
+
 Ken Burns and punch-in end on this point; the backdrop follows it; group cards use it too. Some whole-photo cuts ignore it. Details: [Preview](preview.md).
 
 ## Auto Caption
