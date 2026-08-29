@@ -1,18 +1,22 @@
 # MemoryString
 
-The cinematic slideshow Mac app — simple enough for anyone, good enough to send to family. **Free.** No nagging, no limits, no cloud rummaging through your photos.
+Cinematic slideshows on your Mac. Simple enough for anyone, and great to send to the family — the kind of movie people watch twice. **Free.** No nagging, no limits, no cloud thumbing through your photos.
 
-Paid makers upsell you at every step. Most people never find this kind of app and settle for a thin slideshow. MemoryString stays on your Mac so nobody is training models on your family.
+Everything happens on your Mac. Nobody is training a model on your kids' birthdays.
 
-Birthdays, anniversaries, any occasion. Export for the popular networks in a breeze. Import photos and videos, add music and a Look, hit Export.
+Import photos and videos, add music and a Look, hit Export. Social frames included, so the anniversary reel is on the family group chat before the cake is cut.
 
-## Make a movie they keep
+## Get it
 
-- **Cuts that move** — a full single-slide pack, plus Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
-- **Looks** — Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp
+[**Download MemoryString for Mac**](https://www.codebyz.com/products/memory-string#download) — free, always the latest build. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+
+## What's in the box
+
+- **Cuts that move** — the full single-slide pack, plus Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
+- **Looks** — Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp. One chip, whole new film
 - **Music** — bundled royalty-free tracks, or yours
 - **The rest of the film** — intro title, captions, reorder, trim, mute ([Organizing](organizing.md))
-- **Export** — H.264 MP4, Social and Classic frames, on this Mac. Every movie eases onto the stage floor with a **Created with MemoryString** credit. There is no switch to turn that off.
+- **Export** — H.264 MP4, Social and Classic frames. Every movie signs off with a **Created with MemoryString** credit, and no, there is no switch for that
 
 ## Watch a demo
 
@@ -28,8 +32,4 @@ Birthdays, anniversaries, any occasion. Export for the popular networks in a bre
 
 Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved.
 
-## Requirements
-
-macOS 14 (Sonoma) or later. Universal: Apple Silicon and Intel.
-
-Start with [Quick start](getting-started/quick-start.md). Same topics live in **Help → MemoryString Help…** (**⌘/**).
+New here? [Quick start](getting-started/quick-start.md) gets you to a finished movie. The same topics live in the app under **Help → MemoryString Help…** (**⌘/**).
