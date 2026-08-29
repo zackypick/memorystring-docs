@@ -61,6 +61,8 @@ First click on a group selects the **whole window** (champagne outline in the Li
 
 Right-click two or more selected clips → **Group Transition**. **Ungroup** / **Change Transition** on an existing group. See [Library](library.md).
 
+![Library: Group Transition when several clips are selected](.gitbook/assets/library-context-group.png)
+
 ### In-group photos and videos
 
 Click the group again on a **member** (Library) or a **thumb** on the Timeline cell (second click) to **drill in** to that seat. The accent ring is on one photo.

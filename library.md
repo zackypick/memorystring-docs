@@ -63,24 +63,24 @@ Whole groups move together until you drill into a seat. Full story: [Organizing]
 
 ## Right-click a slide
 
-Library grid and Timeline photo lane share the same clip menu. Timeline:
+On a **photo or video** in the Library (not empty space):
 
-![Timeline clip menu: Slide Transition, rotate, duration, Auto Caption, Remove](../.gitbook/assets/timeline-context-menu.png)
+![Library: Change Transition and Ungroup on a grouped clip](../.gitbook/assets/library-context-ungroup.png)
 
-On a **photo or video** (not empty space):
+![Library: Group Transition when several clips are selected](../.gitbook/assets/library-context-group.png)
 
 - **Slide Transition** — pick a single-slide cut, or **Random**
 - **Change Transition** — when the clip is already in a group
 - **Group Transition** — when **two or more** media clips are selected (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
 - **Ungroup** — when the clip is in a group
 - **Lens Effect** — Studio only; pin pooled effects on that slide or group
-- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md) (right-click):
-
-![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
+- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md) (right-click)
 - **Set Duration…** (**⌘D**)
 - Videos: **Mute Video Sound** / **Unmute Video Sound**, **Reset Length**
 - **Auto Caption** or **Clear Caption**
 - **Remove from Project** (**⌘⌫**)
+
+The Timeline photo-lane menu is the same idea — see [Timeline](timeline.md).
 
 On the **intro**: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Reset Center of Interest**.
 

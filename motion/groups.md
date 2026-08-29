@@ -14,6 +14,10 @@ Once you rearrange slides by hand, windows are **pinned** to those photos. Sorti
 
 Right-click two or more selected clips → **Group Transition**; **Change Transition** or **Ungroup** on an existing group. See [Library](../library.md).
 
+![Library: Change Transition and Ungroup on a grouped clip](../.gitbook/assets/library-context-ungroup.png)
+
+![Library: Group Transition when several clips are selected](../.gitbook/assets/library-context-group.png)
+
 Videos that fit a window play through it; shorter clips hold the first frame until that seat’s hero approach, then play. Unmuted clip audio is audible only while that card is the hero.
 
 ## Photo Stacks
