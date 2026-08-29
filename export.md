@@ -68,6 +68,8 @@ Every movie eases to the stage floor (black on Dark, cream on Light). No toggle 
 
 An **export mode**, not a Look — same toggle on Format and in the Export dialog. Built for tall frames that hate letterbox bars.
 
+<figure><img src="../.gitbook/assets/export-social-safe.png" alt="Export Movie: Social Safe keeps photos and captions inside the frame"><figcaption>Social Safe — Export Movie dialog</figcaption></figure>
+
 Turn it on to fill tall frames with soft stage wash, keep mats and effects, and clamp Photo Size to about **85–98%**.
 
 It turns **on** automatically for **9:16**, **4:5**, and **2:3**. It stays **off** for Square, 16:9, and the other Classic frames. You can still toggle it by hand.
