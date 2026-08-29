@@ -58,4 +58,4 @@ Inspector (**⌥⌘I**) when you want more than the defaults:
 
 Toolbar **Export** or **File → Export Movie…** (**⌘E**). Confirm format, frame rate, and (Studio) quality, then **Export**. Wait for **Creating memory…**.
 
-You get an H.264 MP4. The movie ends on the stage floor with the MemoryString credit.
+You get an H.264 MP4.

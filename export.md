@@ -62,8 +62,6 @@ Post · 1:1 (1080×1080)
 
 <figure><img src="../.gitbook/assets/format-cinema.jpg" alt="Same show exported as Cinema 21:9 (2560×1080)"><figcaption>Cinema · 2560×1080</figcaption></figure>
 
-Every movie eases to the stage floor (black on Dark, cream on Light). No toggle for that fade — the bow is part of the show.
-
 ## Social Safe
 
 An **export mode**, not a Look — same toggle in two places, on purpose. Built for tall frames that hate letterbox bars.

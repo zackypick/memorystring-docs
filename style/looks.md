@@ -88,7 +88,7 @@ The room the prints live in — **Dark** (black void) or **Light** (cream galler
 
 <figure><img src="../.gitbook/assets/stage-dark.jpg" alt="Dark stage"><figcaption>Dark stage</figcaption></figure>
 
-**Light** — cream gallery. Export credit watermark is bronze on Light.
+**Light** — cream gallery.
 
 <figure><img src="../.gitbook/assets/stage-light.jpg" alt="Light stage"><figcaption>Light stage</figcaption></figure>
 

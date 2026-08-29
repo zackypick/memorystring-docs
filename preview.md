@@ -49,7 +49,7 @@ A champagne **working-status pill** under the preview covers, in this order:
 2. Bake — *Warming k/n* (Play / Auto-warm / Warm Now) or *Updating k/n* (a look/edit refresh of a finished bake)
 3. Asset / **Loading music…**
 
-**k/n** matches the slide counter (every photo seat; the closing credit is not counted). Quiet stage means ready — no idle “Smooth play ready” message. Silence is the compliment.
+**k/n** matches the slide counter (every photo seat). Quiet stage means ready — no idle “Smooth play ready” message. Silence is the compliment.
 
 See [Essential and Studio](workspace/essential-studio.md).
 
