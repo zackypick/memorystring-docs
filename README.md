@@ -1,39 +1,30 @@
 # MemoryString
 
-The no-bullshit Mac app for the best cinematic slideshow you can make — simple enough for anyone, good enough to share with family, friends, and loved ones. **Free to use.**
+The cinematic slideshow Mac app — simple enough for anyone, good enough to send to family. **Free.** No nagging, no limits, no cloud rummaging through your photos.
 
-Built first out of frustration with paid and subscription slideshow makers that nag, limit, and upsell at every turn. Then it became something everyone should get to enjoy: **free**, **no limitations**, **no nagging**, **privacy-preserving**, **local-first**. Your photos stay on your Mac — not sifted by Google or any company training models on family memories. Paywalls (on apps that are usually too complicated, heavy, and mediocre anyway) mean most people never discover this class of tool and settle for bare-bones slideshows. MemoryString is for **anyone** who wants the good stuff without the hustle.
+Paid makers upsell you at every step. Most people never find this kind of app and settle for a thin slideshow. MemoryString stays on your Mac so nobody is training models on your family.
 
-Birthday, anniversary, family occasion — any moment worth a movie. Export in social-friendly frames so sharing on popular networks is a breeze. Import photos and videos, add music and a Look, hit Export. That’s the whole idea.
+Birthdays, anniversaries, any occasion. Export for the popular networks in a breeze. Import photos and videos, add music and a Look, hit Export.
 
-## What you can do
+## Make a movie they keep
 
-- **Cinematic cuts** — a full single-slide pack plus pacing that stays out of your way
-- **Looks** — eight chips (Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp) that set grade, stage, motion, lens, and Match Look music
-- **Multi-photo groups** — Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
-- **Music** — bundled royalty-free tracks, or files you import
-- **Intro slide** — opening title card (on by default)
-- **Timeline** — reorder, trim, durations, captions, mute ([Organizing](organizing.md))
-- **Export** — H.264 MP4 in Social and Classic frames, all on this Mac
-
-Everything runs on-device with your local media. Every movie eases onto the stage floor with a **Created with MemoryString** credit. There is no switch to turn that off.
+- **Cuts that move** — a full single-slide pack, plus Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
+- **Looks** — Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp
+- **Music** — bundled royalty-free tracks, or yours
+- **The rest of the film** — intro title, captions, reorder, trim, mute ([Organizing](organizing.md))
+- **Export** — H.264 MP4, Social and Classic frames, on this Mac. Every movie eases onto the stage floor with a **Created with MemoryString** credit. There is no switch to turn that off.
 
 ## Watch a demo
 
-A walkthrough of the app, then the “Memories” slideshow it exported — the same two clips as [codebyz.com/products/memory-string](https://www.codebyz.com/products/memory-string#demo).
+Same two clips as [codebyz.com/products/memory-string](https://www.codebyz.com/products/memory-string#demo).
 
 ### How to use MemoryString
-
-Import, Oldest First, intro, Auto Caption, a Look, Export.
 
 {% embed url="https://www.codebyz.com/products/memory-string/how-to.mp4" %}
 
 ### Slideshow export example
 
-A finished MemoryString movie (“Memories”).
-
 {% embed url="https://www.codebyz.com/products/memory-string/memories4.mp4" %}
-
 
 ## Who made it
 
@@ -41,11 +32,6 @@ Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 A
 
 ## Requirements
 
-- macOS 14 (Sonoma) or later
-- Universal app: Apple Silicon and Intel
+macOS 14 (Sonoma) or later. Universal: Apple Silicon and Intel.
 
-## How this book is organized
-
-Start with [Quick start](getting-started/quick-start.md), then the [window](workspace/the-window.md). Order the story in [Organizing](organizing.md). Feature pages follow the Inspector tabs: Style, Intro, Motion, Audio, Format. Import detectors (mute, focus, Auto Caption) are in [Auto detection](auto-detection.md).
-
-The same topics live in **Help → MemoryString Help…** (**⌘/**). **Help → Show Walkthrough** replays the first-run tour.
+Start with [Quick start](getting-started/quick-start.md). Same topics live in **Help → MemoryString Help…** (**⌘/**).
