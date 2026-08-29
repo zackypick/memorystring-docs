@@ -39,11 +39,7 @@ A walkthrough of the app, then the “Memories” slideshow it exported — the 
 
 ## Who made it
 
-**Created by Zacky Pickholz.** Website [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved.
-
-That line is also in **MemoryString → About MemoryString** and in the window footer. Feedback: [zacky@codebyz.com](mailto:zacky@codebyz.com).
-
-MemoryString is proprietary software. Only Zacky Pickholz holds the rights to the application.
+Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved.
 
 ## Requirements
 
