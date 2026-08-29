@@ -10,8 +10,6 @@ Birthday, anniversary, family occasion — any moment worth a movie. Export in s
 This GitBook describes **only controls that exist in the Mac app**. Names match the Inspector, menus, About, and in-app Help. If a switch is not in the app, it is not here.
 {% endhint %}
 
-![Essential / Studio, Export, Help, and Inspector toggle](.gitbook/assets/toolbar-right.png)
-
 ## What you can do
 
 - **Cinematic cuts** — a full single-slide pack plus pacing that stays out of your way
