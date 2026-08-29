@@ -74,8 +74,6 @@ Turn it on to fill tall frames with soft stage wash, keep mats and effects, and 
 
 It turns **on** automatically for **9:16**, **4:5**, and **2:3**. It stays **off** for Square, 16:9, and the other Classic frames. You can still toggle it by hand.
 
-A subtle bottom-right **Created with MemoryString** watermark (logo + credit) fades in once during the tail of the last photo — a quarter of that slide’s hold before it starts to leave — and stays through the end floor (about three seconds). It does not fade out and in again. On **Light** stage the credit uses the logo’s **bronze** brown so it stays readable on cream. There is no toggle to disable it.
-
 ## Export Movie
 
 Toolbar **Export** or **File → Export Movie…** (**⌘E**).
