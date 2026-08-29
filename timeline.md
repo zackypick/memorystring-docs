@@ -65,6 +65,8 @@ Right-click a video or music clip for trim:
 
 The Inspector clip footer offers the same playhead trims when a **video** or **soundtrack** is selected. **⌘1** / **⌘2** are Set Start / Set End; **⌘D** opens **Set Duration…** (value selected so you can type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing.
 
+![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
+
 A slide with no caption offers **Auto Caption** (or **Auto Caption N Untitled Slides** for a multi-selection of blanks). Once it has text, that item is **Clear Caption**.
 
 Intro cell: **Disable Intro Slide**.

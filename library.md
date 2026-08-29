@@ -76,6 +76,8 @@ On a **photo or video** in the Library (not empty space):
 - **Lens Effect** — Studio only; pin pooled effects on that slide or group
 - **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md) (right-click)
 - **Set Duration…** (**⌘D**)
+
+![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 - Videos: **Mute Video Sound** / **Unmute Video Sound**, **Reset Length**
 - **Auto Caption** or **Clear Caption**
 - **Remove from Project** (**⌘⌫**)
