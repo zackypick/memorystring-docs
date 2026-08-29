@@ -6,7 +6,7 @@ When a Look is close but not quite — Studio’s fine print. Inspector → **St
 
 ![Customize disclosures at the bottom of Style](../.gitbook/assets/inspector-style.png)
 
-A Look that ticks several lens boxes still plays **at most one** pooled effect per photo. Same Look chip again → fresh three (except **Clean**). See [Looks](looks.md).
+A Look that ticks several lens boxes still plays **at most one** pooled effect per photo. Same Look chip again → fresh three (except **Clean**). See [Looks](looks.md#the-eight-chips).
 
 **Reset Style to Defaults** restores this tab (caption *style*, not *text*). Per-photo film overrides clear too. Undoes with **⌘Z**; never removes photos, music, order, or trims.
 

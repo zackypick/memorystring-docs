@@ -144,7 +144,7 @@ The card spirals in and out; the wash zooms (it does not swirl).
 
 Above roughly **93% Energy** they cannot play (boxes dim). If they were the only kinds checked, the movie falls back to Ken Burns while Energy stays that high. Once stills drop under about four seconds (~93% Energy), mixes drop both for quicker cuts.
 
-Per-slide pick: right-click → **Slide Transition** (includes **Random**). See [Library](../library.md).
+Per-slide pick: right-click → **Slide Transition** (includes **Random**). See [Library](../library.md#right-click-a-slide).
 
 ## Multi-photo
 

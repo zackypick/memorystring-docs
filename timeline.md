@@ -43,7 +43,7 @@ Move the awkward photo. Shorten what overstays. Leave the good ones alone.
 
 Drag clips on the photo lane. Drag from the **Library** into a **gap** to insert or move; drop on a **single** or **group seat** to **Replace**. Music clips reorder on the music lane.
 
-First click on a group selects the whole window; second click on a thumb drills into that seat. See [Organizing](organizing.md).
+First click on a group selects the whole window; second click on a thumb drills into that seat. See [Organizing](organizing.md#in-group-photos-and-videos).
 
 Select a clip, then drag **edge grips** on either end:
 
@@ -93,4 +93,4 @@ The intro stays first. **⌘Z** undoes sort / shuffle.
 
 ## Groups on the strip
 
-Multi-photo windows collapse followers onto a **lead** cell (for example “stack of 4”, “carousel of 5”, “ribbon of N”, “pair of 2”, “filmstrip of N”, “Scatter & Settle”). The cell can show a multi-thumb strip and per-video mute badges. One cell, many faces. See [Multi-photo groups](motion/groups.md).
+Multi-photo windows collapse followers onto a **lead** cell (for example “stack of 4”, “carousel of 5”, “ribbon of N”, “pair of 2”, “filmstrip of N”, “Scatter & Settle”). The cell can show a multi-thumb strip and per-video mute badges. One cell, many faces. See [Multi-photo groups](motion/groups.md#timeline-library).

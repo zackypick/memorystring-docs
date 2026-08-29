@@ -13,8 +13,8 @@ The intro is **full-bleed** — not a floating photo card, not Photo Size / Phot
 Name the night, or leave the card off.
 
 - **Show Intro Slide** — off removes the opening card
-- Text field — up to three lines (export naming can use this text). Select the intro and type here or in the Inspector clip bar
-- Pause and **double-click** the title on the stage to edit. A **single** click sets [center of interest](preview.md)
+- Text field — select the intro and type here or in the Inspector clip bar. The title wraps onto up to three lines on the card. When you export, MemoryString suggests this title as the movie filename
+- Pause and **double-click** the title on the stage to edit. A **single** click sets [center of interest](preview.md#center-of-interest)
 
 Right-click the intro (preview, Timeline, or Library) → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect** (one accent or **None**, same list as Intro → Lens).
 
@@ -80,7 +80,7 @@ Bulk: **Auto Caption N Untitled Slides** (empty only), **Auto Caption All Slides
 
 ### Auto Caption
 
-Does **not** run on import — you choose when. Fills empty captions on-device: **Place · date** (GPS or IPTC city + capture date; country only when the show spans more than one country) → **capture date** → **readable filename** with real words. Place/date autofill when present. UUID / hash names, camera serials, WhatsApp titles never used — those slides stay blank. Pipeline: [Auto detection](auto-detection.md).
+Does **not** run on import — you choose when. Fills empty captions on-device: **Place · date** (GPS or IPTC city + capture date; country only when the show spans more than one country) → **capture date** → **readable filename** with real words. Place/date autofill when present. UUID / hash names, camera serials, WhatsApp titles never used — those slides stay blank. Pipeline: [Auto detection](auto-detection.md#auto-caption).
 
 ![Library captions: Auto Caption untitled, Auto Caption All, Clear All](../.gitbook/assets/library-menu-captions.png)
 

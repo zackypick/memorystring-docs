@@ -101,7 +101,7 @@ Plate, Ambience, Film, Atmosphere & Decals: [Customize](customize.md).
 
 ## Anamorphic Streaks (when checked)
 
-Horizontal blue/amber light bars across the stage (backdrop and card), steered off the subject (center of interest).
+Horizontal blue/amber light bars across the stage (backdrop and card), steered off the subject ([center of interest](../preview.md#center-of-interest)).
 
 Presets: **Subtle Cinema** (default) · **Strong Anamorphic** · **Vintage Film** · **Blue Heavy**
 

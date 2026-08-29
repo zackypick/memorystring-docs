@@ -78,6 +78,6 @@ Only import tracks you have the rights to use. MemoryString does not claim owner
 
 ## Video sound (not the music lane)
 
-Clip audio ≠ soundtrack. On import, MemoryString listens to each **video**: **speech keeps clip audio**; **silence or noise is muted**. Same in Essential and Studio. Decline speech detection and mute still runs from **loudness only**. How it decides: [Auto detection](auto-detection.md).
+Clip audio ≠ soundtrack. On import, MemoryString listens to each **video**: **speech keeps clip audio**; **silence or noise is muted**. Same in Essential and Studio. Decline speech detection and mute still runs from **loudness only**. How it decides: [Auto detection](auto-detection.md#video-sound-auto-mute).
 
-Unmute or mute anytime: right-click **Mute Video Sound** / **Unmute Video Sound**, the Library / Timeline speaker badge, or the Inspector clip footer. No toast. See [Library](library.md).
+Unmute or mute anytime: right-click **Mute Video Sound** / **Unmute Video Sound**, the Library / Timeline speaker badge, or the Inspector clip footer. No toast. See [Library](library.md#videos).

@@ -22,55 +22,55 @@ Energy, output format, intro on/off, intro text, a background still you already 
 
 Looks never turn **Atmosphere** or **Decals** on. That’s your call — the chip won’t surprise you with floating maple leaves.
 
-A Look that enables several light effects does not play them all on every photo — see [Customize](customize.md).
+A Look that enables several light effects does not play them all on every photo — see [Customize](customize.md#lens-effects).
 
 ### Clean
 
 *Nothing between you and the photo.* Chalk white matte, soft contact shadow outside the mat (not a dark rim), **Large** Photo Size, **colored backdrop**, **Gentle** cuts, no film damage, no light effects. Stacks + carousel at Motion defaults; **Perspective Pair** every 6; ribbon rare.
 
-![Clean Look — same photo](../.gitbook/assets/look-clean.jpg)
+![Clean Look](../.gitbook/assets/look-clean.jpg)
 
 ### Polaroid
 
 *Instant prints on a table.* Fat white paper matte with a heavier bottom margin, subtle curl, soft settle glow, gentle wind, plastic vignette, whisper grain. **Large** Photo Size, **Playful** bias. Dense stacks every 3 (size 5); carousel every 6; **Perspective Pair** every 8.
 
-![Polaroid Look — same photo](../.gitbook/assets/look-polaroid.jpg)
+![Polaroid Look](../.gitbook/assets/look-polaroid.jpg)
 
 ### Vintage
 
 *Aged album page.* Heavy black mat, rough torn edge, light curl, warm leak, **grayscale backdrop**, heavy grain / fringe / scratches, **Large** Photo Size, **Gentle** cuts. Sparse stacks + ribbon; **Perspective Pair** every 7; Filmstrip on. (Leaves stay an opt-in Atmosphere pack — not auto-enabled.)
 
-![Vintage Look — same photo](../.gitbook/assets/look-vintage.jpg)
+![Vintage Look](../.gitbook/assets/look-vintage.jpg)
 
 ### Cinematic
 
 *Anamorphic and locked off.* Hairline black frame, strong shadow, soft floor reflection, fine grain, coloured leak, **random backdrop**, the widest lens deal of any Look (~3 from Flare / Ghosting / Orbs / 50mm Prime / Pulse / Starburst / Sweep / Veiling Glare / Anamorphic Streaks / Vignette / Bokeh; **How often** default 70%), **Dramatic** cuts, **Large** Photo Size. Carousel + ribbon lead; **Perspective Pair** every 8; Filmstrip every 8; **Scatter & Settle** every 8, thrown full and wide.
 
-![Cinematic Look — same photo](../.gitbook/assets/look-cinematic.jpg)
+![Cinematic Look](../.gitbook/assets/look-cinematic.jpg)
 
 ### Noir
 
 *Moody photographic black-and-white.* Softened true-mono plate grade (open midtones — not crushed poster blacks), black frame, strong shadow, vignette + light grain, sharp corners, **Large** Photo Size, **Gentle** cuts. Plate **and** backdrop wash stay mono so the stage matches the print; mats and card backs stay **white or black** paper only (**Customize → Plate → Photo Border**), never cream stock. **Perspective Pair** every 7. A step punchier than neighbouring **B&W**. Optical Bokeh stays off (mono Looks never ship it). **Anamorphic Streaks** keep their shape as plain light bars instead of blue/amber; **Refract Bubbles** lose their rainbow rim and read as clear glass.
 
-![Noir Look — same photo](../.gitbook/assets/look-noir.jpg)
+![Noir Look](../.gitbook/assets/look-noir.jpg)
 
 ### B&W
 
 *Soft documentary grayscale.* Gentler true-mono plate grade with open midtones — cleaner and softer than **Noir**, no colour cast. White mat, soft shadow, rounded corners, whisper grain, **Large** Photo Size, **Gentle** cuts. Optical Bokeh stays off; colour accents go neutral as they do on Noir. Same mono rule: wash follows the grayscale look; mats / card backs are **White** or **Black** paper only. **Perspective Pair** every 8.
 
-![B&W Look — same photo](../.gitbook/assets/look-bw.jpg)
+![B&W Look](../.gitbook/assets/look-bw.jpg)
 
 ### Golden Hour
 
 *Warm late-day colour.* Warm plate lift with soft highlight roll-off (colour stays — not sepia Vintage), white mat, subtle curl, soft reflection + settle glow, gentle wind, warm leak, stage sun wash, **Large** Photo Size, **Gentle** cuts. Deals ~3 from Flare / Veiling Glare / Orbs / Sweep / Vignette / Refract Bubbles / Bokeh. **Perspective Pair** every 8.
 
-![Golden Hour Look — same photo](../.gitbook/assets/look-golden-hour.jpg)
+![Golden Hour Look](../.gitbook/assets/look-golden-hour.jpg)
 
 ### Crisp
 
 *Cool editorial snap.* Cool-neutral plate grade with open midtones, thin white frame, strong shadow, sharp corners, vignette, **Large** Photo Size, **Dramatic** cuts. **Perspective Pair** every 8; Filmstrip every 8.
 
-![Crisp Look — same photo](../.gitbook/assets/look-crisp.jpg)
+![Crisp Look](../.gitbook/assets/look-crisp.jpg)
 
 ## Energy
 
@@ -96,8 +96,8 @@ The room the prints live in — **Dark** (black void) or **Light** (cream galler
 
 How big the hero card sits on stage. Word labels only: **Smallest · Small · Medium · Large · Largest** (not a percentage readout). Five stops from **60%** at Smallest through **98%** at Largest — the resting card matches the stop. Default for every Look is **Large**. A still can still grow a little past rest as slow zoom plays out.
 
-Sets hero / single-slide short-edge fill. Every single-slide cut keeps that full size. Group heroes take Photo Size into account; a group may soft-fit under the label so it stays on stage — **single-slide heroes are never flattened to spare a group.** Social Safe clamps Photo Size to about **85–98%**.
+Sets hero / single-slide short-edge fill. Every single-slide cut keeps that full size. Group heroes take Photo Size into account; a group may soft-fit under the label so it stays on stage — **single-slide heroes are never flattened to spare a group.** [Social Safe](../export.md#social-safe) clamps Photo Size to about **85–98%**.
 
 ## Captions on this tab
 
-Bulk Auto Caption / Clear, and (Studio) **Type & Placement**. See [Intro and captions](../intro-captions.md).
+Bulk Auto Caption / Clear, and (Studio) **Type & Placement**. See [Intro and captions](../intro-captions.md#set-a-caption-in-the-inspector).

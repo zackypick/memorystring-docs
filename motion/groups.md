@@ -12,7 +12,7 @@ With two or more kinds on, one planner lays out every window: kinds take turns (
 
 Rearrange slides by hand and windows **pin** to those photos — the planner steps aside until you sort, shuffle, reset, or change cadence / count.
 
-Right-click two or more selected clips → **Group Transition**; **Change Transition** or **Ungroup** on an existing group. See [Library](../library.md).
+Right-click two or more selected clips → **Group Transition**; **Change Transition** or **Ungroup** on an existing group. See [Library](../library.md#right-click-a-slide).
 
 ![Library: Change Transition and Ungroup on a grouped clip](../.gitbook/assets/library-context-ungroup.png)
 

@@ -36,13 +36,13 @@ Full detail — including Shuffle Transitions, replacing a seat, and reordering 
 
 ## 4. Preview
 
-**Space** (or the toolbar Play/Pause). Click or drag the playhead to scrub. See [Preview](../preview.md).
+**Space** (or the toolbar Play/Pause). Click or drag the playhead to scrub. See [Preview](../preview.md#playback).
 
 ## 5. Music
 
 Soundtrack lives in Inspector → **Audio**, not the Library.
 
-After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks. Toolbar **+** → **Music…** or **Royalty-Free Library…**. See [Music](../music.md).
+After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks. Toolbar **+** → **Music…** or **Royalty-Free Library…**. See [Music](../music.md#match-look-soundtrack).
 
 ## 6. Polish (optional)
 

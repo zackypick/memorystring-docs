@@ -29,7 +29,7 @@ If you skip or deny speech, later imports keep loudness only (until you reset th
 
 There is no toast. A muted clip shows a speaker-off badge in the Library and Timeline.
 
-**Override:** right-click **Mute Video Sound** / **Unmute Video Sound**, the speaker badge, or the Inspector clip footer. Manual mute is yours. See [Library](library.md) and [Music](music.md).
+**Override:** right-click **Mute Video Sound** / **Unmute Video Sound**, the speaker badge, or the Inspector clip footer. Manual mute is yours. See [Library](library.md#videos) and [Music](music.md#video-sound-not-the-music-lane).
 
 ## Center of interest
 
@@ -47,7 +47,7 @@ Eyes, not shoulder. **When:** on **import**, every photo and every video gets a 
 
 ![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
 
-Ken Burns and punch-in end here; backdrop follows; group cards use it too. Some whole-photo cuts ignore it. Details: [Preview](preview.md).
+Ken Burns and punch-in end here; backdrop follows; group cards use it too. Some whole-photo cuts ignore it. Details: [Preview](preview.md#center-of-interest).
 
 ## Auto Caption
 
@@ -65,4 +65,4 @@ Untitled-only entry points **never overwrite** what you typed. **Auto Caption Al
 
 Geocoding uses coordinates **already in the media** — not your Mac’s location. Offline still writes date / IPTC captions. One **⌘Z** undoes the whole Auto Caption pass.
 
-See [Intro and captions](intro-captions.md).
+See [Intro and captions](intro-captions.md#auto-caption).

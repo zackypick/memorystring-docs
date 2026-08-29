@@ -51,13 +51,13 @@ A champagne **working-status pill** under the preview covers, in this order:
 
 **k/n** matches the slide counter (every photo seat). Quiet stage means ready — no idle “Smooth play ready” message. Silence is the compliment.
 
-See [Essential and Studio](workspace/essential-studio.md).
+See [Essential and Studio](workspace/essential-studio.md#what-changes).
 
 ## Center of interest
 
 The small round ring on a **paused** photo is **center of interest** — where motion aims so faces stay framed, not cropped at the ear. Originals never modified.
 
-**Auto (on import):** every photo and video gets one — **largest face** (near the eyes), else **main subject**, else **middle** of the frame. Videos sample several frames in the trim window. Full order: [Auto detection](auto-detection.md).
+**Auto (on import):** every photo and video gets one — **largest face** (near the eyes), else **main subject**, else **middle** of the frame. Videos sample several frames in the trim window. Full order: [Auto detection](auto-detection.md#center-of-interest).
 
 **Manual override:** pause and click (*Tap photo to set focus*). Ring jumps; status shows **Focus · 62%, 38%** (example). Drag pans and leaves focus alone. Each change its own **⌘Z**.
 

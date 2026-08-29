@@ -51,7 +51,7 @@ Beats hearing “wait, which trip was that?”
 - **Auto Caption All Slides…** — overwrites after confirmation
 - **Clear All Captions…** — confirmed
 
-See [Intro and captions](intro-captions.md).
+See [Intro and captions](intro-captions.md#auto-caption).
 
 ## ⋯ options
 
@@ -67,7 +67,7 @@ Same photos, different cuts — when motion feels stuck:
 
 Drag thumbs in the grid. Onto the Timeline **photo lane**: a **gap** inserts or moves; drop on a **single** or a **group seat** until **Replace**; drop on the **intro** tile sets the intro background.
 
-Whole groups move together until you drill into a seat. Full story: [Organizing](organizing.md).
+Whole groups move together until you drill into a seat. Full story: [Organizing](organizing.md#drag-to-reorder).
 
 ## Right-click a slide
 
@@ -82,7 +82,7 @@ On a **photo or video** in the Library (not empty space):
 - **Group Transition** — when **two or more** media clips are selected (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
 - **Ungroup** — when the clip is in a group
 - **Lens Effect** — Studio only; pin pooled effects on that slide or group
-- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md) (right-click)
+- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md#rotate-while-paused) (right-click)
 - **Set Duration…** (**⌘D**)
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
@@ -90,9 +90,9 @@ On a **photo or video** in the Library (not empty space):
 - **Auto Caption** or **Clear Caption**
 - **Remove from Project** (**⌘⌫**)
 
-The Timeline photo-lane menu is the same idea — see [Timeline](timeline.md).
+The Timeline photo-lane menu is the same idea — see [Timeline](timeline.md#reorder-and-trim).
 
-On the **intro**: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Reset Center of Interest**.
+On the **intro**: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, [Reset Center of Interest](preview.md#center-of-interest).
 
 Right-click **empty** Library space: the same sort / shuffle / captions / Shuffle Transitions items as the header menus.
 
@@ -102,7 +102,7 @@ Click a thumb to select and seek. **⌘**-click toggles; **⇧**-click extends a
 
 ### Videos
 
-On import, MemoryString listens to each clip (Essential and Studio): **speech stays audible**; **silence or noise is muted**. Detection is on-device. Skip the speech prompt and mute still uses **loudness only**. How it decides: [Auto detection](auto-detection.md).
+On import, MemoryString listens to each clip (Essential and Studio): **speech stays audible**; **silence or noise is muted**. Detection is on-device. Skip the speech prompt and mute still uses **loudness only**. How it decides: [Auto detection](auto-detection.md#video-sound-auto-mute).
 
 **Mute Video Sound** / **Unmute Video Sound** — right-click, the speaker badge, or the Inspector footer. Manual mute is yours.
 
@@ -110,6 +110,6 @@ Videos have a **2 second** minimum trim. **Reset Length** restores the full clip
 
 ## Multi-photo badges
 
-Grouped cards share one clip. Badges: **carousel 2/5**, **stack 1/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**. Selecting the group draws one champagne outline and dims the rest. Click a member to seek to that photo’s turn on stage. Timeline: click the cell for the whole window; click again to drill into one seat. See [Multi-photo groups](motion/groups.md).
+Grouped cards share one clip. Badges: **carousel 2/5**, **stack 1/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**. Selecting the group draws one champagne outline and dims the rest. Click a member to seek to that photo’s turn on stage. Timeline: click the cell for the whole window; click again to drill into one seat. See [Multi-photo groups](motion/groups.md#timeline-library).
 
 **File → Delete Project…** trashes the `.memorystring` file (if saved) and that project’s Imports copies, then opens an empty Untitled project. Originals outside **Imports** are never deleted.

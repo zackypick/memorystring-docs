@@ -25,7 +25,7 @@ Date sorts use camera capture date (EXIF / recording date); file date only if ne
 
 ## Captions (Library bubble)
 
-Bulk fill or clear — fifty captions by hand is a long evening. Full settings: [Intro and captions](intro-captions.md).
+Bulk fill or clear — fifty captions by hand is a long evening. Full settings: [Intro and captions](intro-captions.md#slide-captions).
 
 ![Library captions: Auto Caption untitled, Auto Caption All, Clear All](.gitbook/assets/library-menu-captions.png)
 
@@ -37,7 +37,7 @@ Library **⋯**, Inspector → **Motion → Timeline**, or right-click empty Lib
 
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-menu-options.png)
 
-Clicking a **Look** chip also re-deals transitions (and related Style). See [Looks](style/looks.md).
+Clicking a **Look** chip also re-deals transitions (and related Style). See [Looks](style/looks.md#the-eight-chips).
 
 ## Drag to reorder
 
@@ -53,7 +53,7 @@ Drag from the Library onto the Timeline:
 - Drop on a **single** slide or a **group seat** until **Replace**
 - Drop on the **intro** tile — sets the intro background
 
-Music reorders on the **music lane**, not here. See [Music](music.md).
+Music reorders on the **music lane**, not here. See [Music](music.md#arrange-on-the-timeline).
 
 Hand-dragging **pins** group windows to those photos. Sorting, shuffling, resetting, or changing cadence / count returns placement to the planner. See [Multi-photo groups](motion/groups.md).
 
@@ -61,7 +61,7 @@ Hand-dragging **pins** group windows to those photos. Sorting, shuffling, resett
 
 First click on a group selects the **whole window** (champagne outline in the Library; one cell on the Timeline). Drag then moves every seat together.
 
-Right-click two or more selected clips → **Group Transition**. **Ungroup** / **Change Transition** on an existing group. See [Library](library.md).
+Right-click two or more selected clips → **Group Transition**. **Ungroup** / **Change Transition** on an existing group. See [Library](library.md#right-click-a-slide).
 
 ![Library: Group Transition when several clips are selected](.gitbook/assets/library-context-group.png)
 
