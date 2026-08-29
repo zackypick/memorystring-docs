@@ -23,6 +23,11 @@ Videos that fit a window play through it; shorter clips hold the first frame unt
 
 Fanned cards; faded Ken Burns washes behind (soft crossfade every couple of presents), coloured by Style **Backdrop**.
 
+<figure>
+  <video src="../.gitbook/assets/catalog/group-photo-stack.mp4" poster="../.gitbook/assets/catalog/group-photo-stack.jpg" controls></video>
+  <figcaption>Photo Stack</figcaption>
+</figure>
+
 ## Carousel
 
 - **Carousel Every** — 3…8 (default 4)
@@ -30,6 +35,11 @@ Fanned cards; faded Ken Burns washes behind (soft crossfade every couple of pres
 - **Direction** — Left to Right / Right to Left / Random (default)
 
 Cards join a turning ring from the incoming side, one revolution, then peel off. Beat length follows seat count and Energy. Front card matches single-slide size; sides foreshorten.
+
+<figure>
+  <video src="../.gitbook/assets/catalog/group-carousel.mp4" poster="../.gitbook/assets/catalog/group-carousel.jpg" controls></video>
+  <figcaption>Carousel</figcaption>
+</figure>
 
 ## 3D Ribbon
 
@@ -39,12 +49,22 @@ Cards join a turning ring from the incoming side, one revolution, then peel off.
 
 Open belt; one hero at a time, flanks beside it. Spacing breathes with Photo Size.
 
+<figure>
+  <video src="../.gitbook/assets/catalog/group-ribbon.mp4" poster="../.gitbook/assets/catalog/group-ribbon.jpg" controls></video>
+  <figcaption>3D Ribbon</figcaption>
+</figure>
+
 ## Perspective Pair
 
 - **Pair Every** — 3…8 (default 6)
 - Always **two** photos
 
 Cover-flow deck: front advances to Photo Size, then flies aside as the back becomes the hero.
+
+<figure>
+  <video src="../.gitbook/assets/catalog/group-perspective-pair.mp4" poster="../.gitbook/assets/catalog/group-perspective-pair.jpg" controls></video>
+  <figcaption>Perspective Pair</figcaption>
+</figure>
 
 ## Filmstrip
 
@@ -56,6 +76,11 @@ Off for new projects until you enable it or pick a Look that opts in (**Vintage*
 
 Flat perforated strip; centre hero at Photo Size. Distinct from Ribbon (depth belt) and Carousel (orbit).
 
+<figure>
+  <video src="../.gitbook/assets/catalog/group-filmstrip.mp4" poster="../.gitbook/assets/catalog/group-filmstrip.jpg" controls></video>
+  <figcaption>Filmstrip</figcaption>
+</figure>
+
 ## Scatter & Settle
 
 - **Scatter Every** — 3…8 (default 6)
@@ -66,6 +91,11 @@ Flat perforated strip; centre hero at Photo Size. Distinct from Ribbon (depth be
 - **Speed** — Gentle / Normal / Snappy
 
 Cards throw in, land scattered, come forward in timeline order, then throw off the other side. Waiting cards stay opaque (dimmed, softly blurred). The next slide crossfades only after the last card has left.
+
+<figure>
+  <video src="../.gitbook/assets/catalog/group-scatter-settle.mp4" poster="../.gitbook/assets/catalog/group-scatter-settle.jpg" controls></video>
+  <figcaption>Scatter & Settle</figcaption>
+</figure>
 
 Look feel (Help): Polaroid tosses often into a tight pile; Vintage and B&W lay prints out mildly; Noir stays restrained; Golden Hour a soft warm toss; Cinematic throws full and wide; Crisp snaps.
 

@@ -46,7 +46,72 @@ Optical light on the frame. Atmosphere is weather; Decals are stick-on motifs. C
 
 **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prime, Pulse, Refract Bubbles, Sparkle, Starburst, Sweep, Veiling Glare, Vignette**
 
-Plus **Randomize Selected** and **How often**.
+Plus **Randomize Selected** and **How often**. Each clip below is 1080p from a real export with that effect pinned; the still is the video cover.
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-anamorphic-streaks.mp4" poster="../.gitbook/assets/catalog/lens-anamorphic-streaks.jpg" controls></video>
+  <figcaption>Anamorphic Streaks</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-bokeh.mp4" poster="../.gitbook/assets/catalog/lens-bokeh.jpg" controls></video>
+  <figcaption>Bokeh</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-flare.mp4" poster="../.gitbook/assets/catalog/lens-flare.jpg" controls></video>
+  <figcaption>Flare</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-ghosting.mp4" poster="../.gitbook/assets/catalog/lens-ghosting.jpg" controls></video>
+  <figcaption>Ghosting</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-orbs.mp4" poster="../.gitbook/assets/catalog/lens-orbs.jpg" controls></video>
+  <figcaption>Orbs</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-50mm-prime.mp4" poster="../.gitbook/assets/catalog/lens-50mm-prime.jpg" controls></video>
+  <figcaption>50mm Prime</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-pulse.mp4" poster="../.gitbook/assets/catalog/lens-pulse.jpg" controls></video>
+  <figcaption>Pulse</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-refract-bubbles.mp4" poster="../.gitbook/assets/catalog/lens-refract-bubbles.jpg" controls></video>
+  <figcaption>Refract Bubbles</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-sparkle.mp4" poster="../.gitbook/assets/catalog/lens-sparkle.jpg" controls></video>
+  <figcaption>Sparkle</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-starburst.mp4" poster="../.gitbook/assets/catalog/lens-starburst.jpg" controls></video>
+  <figcaption>Starburst</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-sweep.mp4" poster="../.gitbook/assets/catalog/lens-sweep.jpg" controls></video>
+  <figcaption>Sweep</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-veiling-glare.mp4" poster="../.gitbook/assets/catalog/lens-veiling-glare.jpg" controls></video>
+  <figcaption>Veiling Glare</figcaption>
+</figure>
+
+<figure>
+  <video src="../.gitbook/assets/catalog/lens-vignette.mp4" poster="../.gitbook/assets/catalog/lens-vignette.jpg" controls></video>
+  <figcaption>Vignette</figcaption>
+</figure>
 
 A photo plays **at most one** pooled lens effect. Choice is stable from the photo’s seed.
 
@@ -99,3 +164,68 @@ Each menu is a **single choice**. Default **None**. Looks never set these. Picki
 - **Decals** — **None** · **Travel** (pins / routes / folded map / plane / suitcase **plus** a dotted route plane) · **Vacation** (holiday motifs + the same route plane) · **Party** (sparse cues + a sparkle tick) · **Florals** · **Wedding** · **Pets** · **Sports**
 
 All edge-biased, never a sticker bomb on the hero print. There is no separate Map or Route checkbox.
+
+Each clip below is 1080p from a real export with that one choice on; the still is the video cover.
+
+### Atmosphere — Bubbles
+
+<figure>
+  <video src="../.gitbook/assets/catalog/atm-bubbles.mp4" poster="../.gitbook/assets/catalog/atm-bubbles.jpg" controls></video>
+  <figcaption>Atmosphere · Bubbles</figcaption>
+</figure>
+
+### Atmosphere — Leaves
+
+<figure>
+  <video src="../.gitbook/assets/catalog/atm-leaves.mp4" poster="../.gitbook/assets/catalog/atm-leaves.jpg" controls></video>
+  <figcaption>Atmosphere · Leaves</figcaption>
+</figure>
+
+### Decals — Travel
+
+<figure>
+  <video src="../.gitbook/assets/catalog/decal-travel.mp4" poster="../.gitbook/assets/catalog/decal-travel.jpg" controls></video>
+  <figcaption>Decals · Travel</figcaption>
+</figure>
+
+### Decals — Vacation
+
+<figure>
+  <video src="../.gitbook/assets/catalog/decal-vacation.mp4" poster="../.gitbook/assets/catalog/decal-vacation.jpg" controls></video>
+  <figcaption>Decals · Vacation</figcaption>
+</figure>
+
+### Decals — Party
+
+<figure>
+  <video src="../.gitbook/assets/catalog/decal-party.mp4" poster="../.gitbook/assets/catalog/decal-party.jpg" controls></video>
+  <figcaption>Decals · Party</figcaption>
+</figure>
+
+### Decals — Florals
+
+<figure>
+  <video src="../.gitbook/assets/catalog/decal-florals.mp4" poster="../.gitbook/assets/catalog/decal-florals.jpg" controls></video>
+  <figcaption>Decals · Florals</figcaption>
+</figure>
+
+### Decals — Wedding
+
+<figure>
+  <video src="../.gitbook/assets/catalog/decal-wedding.mp4" poster="../.gitbook/assets/catalog/decal-wedding.jpg" controls></video>
+  <figcaption>Decals · Wedding</figcaption>
+</figure>
+
+### Decals — Pets
+
+<figure>
+  <video src="../.gitbook/assets/catalog/decal-pets.mp4" poster="../.gitbook/assets/catalog/decal-pets.jpg" controls></video>
+  <figcaption>Decals · Pets</figcaption>
+</figure>
+
+### Decals — Sports
+
+<figure>
+  <video src="../.gitbook/assets/catalog/decal-sports.mp4" poster="../.gitbook/assets/catalog/decal-sports.jpg" controls></video>
+  <figcaption>Decals · Sports</figcaption>
+</figure>
