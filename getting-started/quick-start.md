@@ -28,6 +28,8 @@ Drag thumbnails in the Library or clips on the Timeline. The **Intro** slide sta
 
 Library calendar menu (or **Edit → Sort by Date Taken**): **Oldest First (Story Order)**, **Newest First**, **Import Order**, or **Shuffle**. In Essential, a first import auto-sorts **Oldest First** when the Library was empty.
 
+![Library calendar: Oldest First, Newest First, Import Order, Shuffle](../.gitbook/assets/library-menu-sort.png)
+
 Full detail — including Shuffle Transitions, replacing a seat, and reordering **inside** a group: [Organizing](../organizing.md).
 
 ## 4. Preview

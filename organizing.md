@@ -8,6 +8,8 @@ Order the photos and videos, then (optionally) re-roll the cuts. The **Intro** s
 
 Library **calendar** menu, **Edit → Sort by Date Taken**, Inspector → **Motion → Timeline** (Studio), or right-click empty Library space:
 
+![Library calendar: Oldest First, Newest First, Import Order, Shuffle](.gitbook/assets/library-menu-sort.png)
+
 | Command | What it does |
 | --- | --- |
 | **Oldest First (Story Order)** | Capture date, oldest → newest |
@@ -21,13 +23,19 @@ Captions, trims, and rotations stay with each photo. Groups are **planned fresh*
 
 **Essential:** after import, if the Library was empty or already **Oldest First**, new stills auto-sort **Oldest First**. Studio does not.
 
-![Library header: sort, captions, options, add](.gitbook/assets/library-header.png)
+## Captions (Library bubble)
+
+Bulk fill / clear from the speech-bubble menu. Full caption settings: [Intro and captions](intro-captions.md).
+
+![Library captions: Auto Caption untitled, Auto Caption All, Clear All](.gitbook/assets/library-menu-captions.png)
 
 ## Shuffle Transitions
 
 Keeps photo order. Re-rolls single-slide cuts, group kinds, and where group windows sit. Cadence, which group types are on, and card counts stay.
 
 Library **⋯**, Inspector → **Motion → Timeline**, or right-click empty Library space. If you hand-picked **Slide Transition**s, it asks before clearing them.
+
+![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-menu-options.png)
 
 Clicking a **Look** chip also re-deals transitions (and related Style). See [Looks](style/looks.md).
 

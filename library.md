@@ -4,8 +4,6 @@ The left sidebar is this project’s photos and videos. Music is in Inspector �
 
 ![Library with photos, transition names, mute badges](../.gitbook/assets/library-photos.png)
 
-![Library header: sort, captions, options, add](../.gitbook/assets/library-header.png)
-
 Left to right when the Library has items: **calendar** (sort), **captions** bubble, **⋯**, and **+** on the trailing edge.
 
 Drag the **vertical divider** on the Library’s right edge to widen or narrow the sidebar (the width is remembered). **View → Toggle Sidebar** (**⌃⌘S**) hides it.
@@ -28,6 +26,8 @@ Videos show a play badge. Multi-select shows a count.
 
 ## Sort (calendar)
 
+![Library calendar: Oldest First, Newest First, Import Order, Shuffle](../.gitbook/assets/library-menu-sort.png)
+
 - **Oldest First (Story Order)**
 - **Newest First**
 - **Import Order**
@@ -39,6 +39,8 @@ Date sorts use the camera capture date (EXIF / recording date). Only when a file
 
 ## Captions (bubble)
 
+![Library captions: Auto Caption untitled, Auto Caption All, Clear All](../.gitbook/assets/library-menu-captions.png)
+
 - **Auto Caption N Untitled Slide(s)** — fills empty captions only
 - **Auto Caption All Slides…** — overwrites after confirmation
 - **Clear All Captions…** — confirmed
@@ -46,6 +48,8 @@ Date sorts use the camera capture date (EXIF / recording date). Only when a file
 See [Intro and captions](intro-captions.md).
 
 ## ⋯ options
+
+![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](../.gitbook/assets/library-menu-options.png)
 
 - **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector. If you hand-picked **Slide Transition**s, it asks before clearing them.
 - **Reset Slide Durations** — restores default slide timing
