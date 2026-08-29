@@ -64,7 +64,9 @@ Optional. MemoryString does not add them unless you type or use **Auto Caption**
 
 In the right-hand **Inspector**, open **Style** → scroll to **Captions** → expand **Type & Placement**. That is where you set project-wide caption **Font**, color, **Auto Size** / **Size**, **Align**, **Motion**, **Default Placement**, and **Shade Behind Text**. Bulk fill / clear sit under the same **Captions** heading (**Auto Caption …**, **Clear All Captions…**).
 
-To type the words on one slide: select the media clip, then use the Inspector clip bar (**Add a caption…**). **Generate** writes one. **Aa** opens that slide’s position / color / size (and **Caption Style…** jumps back to Style → Captions). A group’s caption belongs to its **lead** card.
+To type the words on one slide: select the media clip, then type in the Timeline caption field or the Inspector clip bar (**Add a caption…**). **Generate** writes one. **Aa** opens that slide’s position / color / size (and **Caption Style…** jumps back to Style → Captions). A group’s caption belongs to its **lead** card.
+
+![Timeline: typing a slide caption](../.gitbook/assets/caption-edit.png)
 
 **Position** per slide: Inherit / Bottom / Top / Center, or drag on the preview (**Reset** snaps back).
 

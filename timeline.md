@@ -6,6 +6,8 @@ Under the preview: scrub, reorder, trim, and line up slides with music.
 
 ![Timeline header: clip name, caption field, Generate, zoom](../.gitbook/assets/timeline-chrome.png)
 
+![Timeline: typing a slide caption](../.gitbook/assets/caption-edit.png)
+
 ## Layout
 
 Top to bottom:
