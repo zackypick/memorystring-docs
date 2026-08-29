@@ -8,55 +8,55 @@ Plus **Randomize Selected** and **How often**. Each clip below is 1080p from a r
 
 <figure><img src="../.gitbook/assets/catalog/lens-anamorphic-streaks.jpg" alt="Anamorphic Streaks"><figcaption>Anamorphic Streaks</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-anamorphic-streaks.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-anamorphic-streaks.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-bokeh.jpg" alt="Bokeh"><figcaption>Bokeh</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-bokeh.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-bokeh.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-flare.jpg" alt="Flare"><figcaption>Flare</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-flare.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-flare.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-ghosting.jpg" alt="Ghosting"><figcaption>Ghosting</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-ghosting.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-ghosting.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-orbs.jpg" alt="Orbs"><figcaption>Orbs</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-orbs.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-orbs.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-50mm-prime.jpg" alt="50mm Prime"><figcaption>50mm Prime</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-50mm-prime.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-50mm-prime.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-pulse.jpg" alt="Pulse"><figcaption>Pulse</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-pulse.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-pulse.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-refract-bubbles.jpg" alt="Refract Bubbles"><figcaption>Refract Bubbles</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-refract-bubbles.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-refract-bubbles.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-sparkle.jpg" alt="Sparkle"><figcaption>Sparkle</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-sparkle.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-sparkle.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-starburst.jpg" alt="Starburst"><figcaption>Starburst</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-starburst.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-starburst.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-sweep.jpg" alt="Sweep"><figcaption>Sweep</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-sweep.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-sweep.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-veiling-glare.jpg" alt="Veiling Glare"><figcaption>Veiling Glare</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-veiling-glare.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-veiling-glare.mp4" %}
 
 <figure><img src="../.gitbook/assets/catalog/lens-vignette.jpg" alt="Vignette"><figcaption>Vignette</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/lens-vignette.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-vignette.mp4" %}
 
 A photo plays **at most one** pooled lens effect. Choice is stable from the photo’s seed.
 

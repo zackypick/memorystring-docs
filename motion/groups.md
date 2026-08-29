@@ -25,7 +25,7 @@ Fanned cards; faded Ken Burns washes behind (soft crossfade every couple of pres
 
 <figure><img src="../.gitbook/assets/catalog/group-photo-stack.jpg" alt="Photo Stack"><figcaption>Photo Stack</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/group-photo-stack.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/group-photo-stack.mp4" %}
 
 
 ## Carousel
@@ -38,7 +38,7 @@ Cards join a turning ring from the incoming side, one revolution, then peel off.
 
 <figure><img src="../.gitbook/assets/catalog/group-carousel.jpg" alt="Carousel"><figcaption>Carousel</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/group-carousel.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/group-carousel.mp4" %}
 
 
 ## 3D Ribbon
@@ -51,7 +51,7 @@ Open belt; one hero at a time, flanks beside it. Spacing breathes with Photo Siz
 
 <figure><img src="../.gitbook/assets/catalog/group-ribbon.jpg" alt="3D Ribbon"><figcaption>3D Ribbon</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/group-ribbon.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/group-ribbon.mp4" %}
 
 
 ## Perspective Pair
@@ -63,7 +63,7 @@ Cover-flow deck: front advances to Photo Size, then flies aside as the back beco
 
 <figure><img src="../.gitbook/assets/catalog/group-perspective-pair.jpg" alt="Perspective Pair"><figcaption>Perspective Pair</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/group-perspective-pair.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/group-perspective-pair.mp4" %}
 
 
 ## Filmstrip
@@ -78,7 +78,7 @@ Flat perforated strip; centre hero at Photo Size. Distinct from Ribbon (depth be
 
 <figure><img src="../.gitbook/assets/catalog/group-filmstrip.jpg" alt="Filmstrip"><figcaption>Filmstrip</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/group-filmstrip.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/group-filmstrip.mp4" %}
 
 
 ## Scatter & Settle
@@ -94,7 +94,7 @@ Cards throw in, land scattered, come forward in timeline order, then throw off t
 
 <figure><img src="../.gitbook/assets/catalog/group-scatter-settle.jpg" alt="Scatter & Settle"><figcaption>Scatter & Settle</figcaption></figure>
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@main/.gitbook/assets/catalog/group-scatter-settle.mp4" %}
+{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/group-scatter-settle.mp4" %}
 
 
 Look feel (Help): Polaroid tosses often into a tight pile; Vintage and B&W lay prints out mildly; Noir stays restrained; Golden Hour a soft warm toss; Cinematic throws full and wide; Crisp snaps.
