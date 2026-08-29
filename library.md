@@ -63,7 +63,9 @@ Whole groups move together until you drill into a seat. Full story: [Organizing]
 
 ## Right-click a slide
 
-![Library / Timeline clip menu](../.gitbook/assets/context-menu.png)
+Library grid and Timeline photo lane share the same clip menu. Timeline:
+
+![Timeline clip menu: Slide Transition, rotate, duration, Auto Caption, Remove](../.gitbook/assets/timeline-context-menu.png)
 
 On a **photo or video** (not empty space):
 

@@ -45,7 +45,18 @@ Select a clip, then drag **edge grips** on either end:
 - **Music** — the edge **auditions** that moment in the source song (the mixed bed stays paused). **Reset Length** returns to the auto-skipped quiet-edge window, or the full file if none was found
 - **Stills** — edge drag changes how long the slide holds
 
-Right-click a video or music clip:
+Right-click a photo or video on the **photo lane**:
+
+![Timeline clip menu: Slide Transition, rotate, duration, Auto Caption, Remove](../.gitbook/assets/timeline-context-menu.png)
+
+- **Slide Transition** — pick a cut, or **Random** (groups: **Change Transition** / **Ungroup** / **Group Transition** when several clips are selected)
+- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical**
+- **Set Duration…** (**⌘D**)
+- **Auto Caption** or **Clear Caption**
+- **Remove from Project** (**⌘⌫**)
+- Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Reset Length**
+
+Right-click a video or music clip for trim:
 
 - **Set Start Here** / **Set End Here** — trim in/out at the playhead
 - **Reset Length**
