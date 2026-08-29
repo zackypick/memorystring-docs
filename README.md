@@ -6,10 +6,6 @@ Built first out of frustration with paid and subscription slideshow makers that 
 
 Birthday, anniversary, family occasion — any moment worth a movie. Export in social-friendly frames so sharing on popular networks is a breeze. Import photos and videos, add music and a Look, hit Export. That’s the whole idea.
 
-{% hint style="info" %}
-This GitBook describes **only controls that exist in the Mac app**. Names match the Inspector, menus, About, and in-app Help. If a switch is not in the app, it is not here.
-{% endhint %}
-
 ## What you can do
 
 - **Cinematic cuts** — a full single-slide pack plus pacing that stays out of your way
