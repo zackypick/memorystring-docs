@@ -6,7 +6,7 @@ Studio only. Inspector → **Style** → **Customize** (open by default in Studi
 
 ![Customize disclosures at the bottom of Style](../.gitbook/assets/inspector-style.png)
 
-Changing a Customize knob (or Stage / Photo Size / Motion) marks the Look chip **Custom**.
+A Look that ticks several lens boxes still plays **at most one** pooled effect per photo. Clicking the **same Look chip again** deals a fresh three (except **Clean**). See [Looks](looks.md).
 
 ## Plate
 

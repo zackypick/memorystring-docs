@@ -1,6 +1,6 @@
 # Quick start
 
-Make a movie in a few minutes: import photos, press Play, Export when you like it.
+Make a movie in a few minutes: import photos, press Play, Export when you like it. Prefer a walkthrough first? [Watch the demos](../README.md#watch-a-demo).
 
 ![Empty project — drop media or use Add photos & videos](../.gitbook/assets/empty-start.png)
 

@@ -51,7 +51,11 @@ See [Intro and captions](intro-captions.md).
 
 ### Videos
 
-On import, speech keeps clip audio; silence or noise is muted. Right-click **Mute Video Sound** / **Unmute Video Sound**. Videos have a **2 second** minimum trim. **Reset Length** restores the full clip.
+On import, MemoryString listens to each clip (Essential and Studio): **speech stays audible**; **silence or noise is muted**. Detection is on-device. If you skip the speech prompt, mute still uses **loudness only**.
+
+**Mute Video Sound** / **Unmute Video Sound** — right-click the clip, the speaker badge on the Library / Timeline cell, or the Inspector footer when that video is selected. Manual mute/unmute is yours; import does not lock it.
+
+Videos have a **2 second** minimum trim. **Reset Length** restores the full clip.
 
 ## Multi-photo badges
 

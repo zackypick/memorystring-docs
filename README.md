@@ -1,22 +1,45 @@
 # MemoryString
 
-MemoryString is a Mac app for cinematic slideshows: import photos and videos, pick a Look, add music, export an MP4.
+The no-bullshit Mac app for the best cinematic slideshow you can make — simple enough for anyone, good enough to share with family, friends, and loved ones. **Free to use.**
+
+Import photos and videos, add music and a Look, hit Export. That’s the whole idea.
 
 {% hint style="info" %}
-This GitBook describes **only controls that exist in the Mac app**. Names match the Inspector, menus, and in-app Help. If a switch is not in the app, it is not here.
+This GitBook describes **only controls that exist in the Mac app**. Names match the Inspector, menus, About, and in-app Help. If a switch is not in the app, it is not here.
 {% endhint %}
 
 ![Essential / Studio, Export, Help, and Inspector toggle](.gitbook/assets/toolbar-right.png)
 
-## What you get
+## What you can do
 
-- **Looks** — eight chips (Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp) that set grade, stage, motion, and lens
+- **Looks** — eight chips (Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp) that set grade, stage, motion, lens, and Match Look music
 - **Multi-photo groups** — Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **Music** — bundled royalty-free tracks, or files you import
 - **Intro slide** — opening title card (on by default)
-- **Export** — H.264 MP4 in Social and Classic frames
+- **Timeline** — reorder, trim, captions, mute
+- **Export** — H.264 MP4 in Social and Classic frames, all on this Mac
 
-Every movie eases onto the stage floor with a **Created with MemoryString** credit. There is no switch to turn that off.
+Everything runs on-device with your local media. Every movie eases onto the stage floor with a **Created with MemoryString** credit. There is no switch to turn that off.
+
+## Watch a demo
+
+The same two clips as [codebyz.com/products/memory-string](https://www.codebyz.com/products/memory-string#demo):
+
+{% embed url="https://www.codebyz.com/products/memory-string/how-to.mp4" %}
+
+*How to use MemoryString* — import, Oldest First, intro, Auto Caption, a Look, Export.
+
+{% embed url="https://github.com/zackypick/memorystring-downloads/releases/download/site-demos/memories4.mp4" %}
+
+*Slideshow export example* — a finished MemoryString movie (“Memories”).
+
+## Who made it
+
+**Created by Zacky Pickholz.** Website [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved.
+
+That line is also in **MemoryString → About MemoryString** and in the window footer. Feedback: [zacky@codebyz.com](mailto:zacky@codebyz.com).
+
+MemoryString is proprietary software. Only Zacky Pickholz holds the rights to the application.
 
 ## Requirements
 
@@ -27,6 +50,4 @@ Every movie eases onto the stage floor with a **Created with MemoryString** cred
 
 Start with [Quick start](getting-started/quick-start.md), then the [window](workspace/the-window.md). Feature pages follow the Inspector tabs: Style, Intro, Motion, Audio, Format.
 
-The same topics live in **Help → MemoryString Help…** (**⌘/**).
-
-To publish: in GitBook, create a space and enable **Git Sync** to `zackypick/memorystring-docs` (`main`, repo root).
+The same topics live in **Help → MemoryString Help…** (**⌘/**). **Help → Show Walkthrough** replays the first-run tour.

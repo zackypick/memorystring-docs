@@ -25,7 +25,8 @@ Essential keeps **Style, Intro, Audio, Format**. Studio adds **Motion**.
 | Inspector tabs | Style, Intro, Audio, Format | those plus **Motion** |
 | Style → **Customize…** | Hidden | Plate, Ambience, Lens Effects, Film, Atmosphere & Decals |
 | Captions | Type in the clip bar; bulk Auto Caption / Clear | plus **Type & Placement** (font, color, size, align, motion, placement, shade) |
-| Intro background | Choose / remove a still | plus Dim, Start zoom, Slow zoom, Soften, Color / Grayscale |
+| Intro background | Choose / remove a still | plus Dim, Start zoom, Slow Zoom, Soften, Color / Grayscale |
+| Intro **Text** (font, color, size, align, outline, shadow) | Hidden — type in the title field | Shown |
 | Intro Card & Motion | — | Frame, Motion, Lens, Decoration |
 | Smooth play | Warms automatically on **Play**; **Stop** while warming | **Auto-warm on Play**, **Warm Now**, **Stop** |
 | Per-slide **Lens Effect** (right-click) | Hidden | Timeline / Library / intro |

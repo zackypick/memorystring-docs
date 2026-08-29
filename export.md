@@ -50,4 +50,4 @@ Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 
 Click **Export** and wait. The toolbar shows **Creating memory…** and a percent. Editing is paused (*Edits paused while creating memory*). If music is still decoding, Export waits.
 
-You get an H.264 MP4. The `.memorystring` project stays editable.
+You get an H.264 MP4. The `.memorystring` project stays editable. Preview with **Space** (and Studio **Warm Now** if you want the baked pass) before you export — the file matches that show, not the workbench ambilight.

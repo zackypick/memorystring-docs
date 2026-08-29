@@ -21,20 +21,34 @@ Toolbar **+**, **File**, or Audio → **Royalty-Free Library…**. The sheet is 
 
 ## Match Look Soundtrack
 
-On by default. Empty projects start quiet. After the first photos or videos land, MemoryString soft-seeds bundled mood track(s) for the current Look (or a default bed when no Look is selected). Mute or remove anytime.
+On by default. Empty projects start quiet. After the first photos or videos land, MemoryString **soft-seeds** bundled mood track(s) to cover the show — the current Look’s pool, or **Would It Matter** when no Look is selected. Mute or remove anytime. Saved projects that already have an empty playlist are left alone.
 
-Clicking a Style **Look** retargets that bed only while it is still the untouched auto playlist. Your own imports, library picks, reorders, and trims stay put. Turn **Match Look Soundtrack** off to keep the playlist when changing Looks.
+With Match Look on, clicking a Style **Look** chip retargets that auto bed to a fitting track from that Look’s mood pool at random (Energy can lean the pool calmer or brighter). Longer shows stitch more tracks from the pool before repeating — **only while** the playlist is empty or still that untouched auto bed.
+
+Dropping or importing your own audio **replaces** that bed only while it is still fully auto-seeded and auto-ordered. If you picked royalty-free rows, reordered, trimmed, or removed anything — or already added your own files — the new audio **appends** instead.
+
+Turn **Match Look Soundtrack** off to keep the playlist when changing Looks. Library picks, reorders, and your own imports stay put either way.
 
 ## Arrange on the Timeline
 
-Reorder on the music lane. Import auto-skips silent lead-in and run-out. Trim with edge grips or **Set Start Here** / **Set End Here** / **Reset Length**. Context menu: **Mute Track** / **Unmute Track**, **Remove from Project**.
+Reorder on the **music lane** (drag clips). The Audio tab also has up / down arrows on each row.
 
-Royalty-free catalog tracks remove immediately (the file stays in the app). Audio you imported yourself asks **Remove from project?** first.
+On import, MemoryString **auto-skips silent lead-in and run-out**. Trim with edge grips or **Set Start Here** / **Set End Here** / **Reset Length** (Reset Length returns to that auto window, or the full file if no quiet edges were found).
 
-Audio tab: local play/pause preview (does not move the show playhead), **Reset music duration(s)** to clear trims. Click the time readout for mute and track volume.
+**Mute Track** / **Unmute Track** — music-lane context menu, Audio tab (click the time readout for mute and track volume 0…100%), or the Inspector clip footer when a soundtrack is selected.
+
+**Remove from Project** — royalty-free catalog tracks remove immediately (the file stays in the app). Audio you imported yourself asks **Remove from project?** first. **⌘Z** either way.
+
+Audio tab: local play/pause preview (does not move the show playhead), **Reset music duration(s)** to clear trims, **Add Music…**, **Royalty-Free Library…**.
 
 ## Mix
 
-Neighbouring tracks butt together with short tapers. The show eases music in over about **1.5 seconds** at the start; the **final 2.5 seconds** of the soundtrack ease out with the closing fade. Music **ducks** under video sound. Per-track volume (0…100%) and mute apply in preview and export.
+Neighbouring tracks butt together with short tapers. The show eases music in over about **1.5 seconds** at the start; the **final 2.5 seconds** of the soundtrack ease out with the closing fade. Music **ducks** under video sound. Per-track volume and mute apply in preview and export.
 
 While a soundtrack decodes, the stage may show **Loading music…**. Photos stay usable; Export and soundtrack edits wait.
+
+## Video sound (not the music lane)
+
+On import, MemoryString listens to each **video**: **speech keeps clip audio**; **silence or noise is muted**. Same in Essential and Studio. If you decline on-device speech detection, mute still runs from **loudness only**.
+
+Unmute or mute anytime: right-click **Mute Video Sound** / **Unmute Video Sound**, the Library / Timeline speaker badge, or the Inspector clip footer. No toast. See [Library](library.md).

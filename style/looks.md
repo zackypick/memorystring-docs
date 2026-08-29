@@ -21,7 +21,9 @@ Inspector → **Style**. A Look is the movie’s aesthetic: grade, border, stage
 | **Golden Hour** | Warm late-day colour. Gentle cuts. |
 | **Crisp** | Cool editorial snap. Dramatic cuts. |
 
-Clicking a chip re-populates **Motion → Transitions Mix**, re-deals single-slide cuts, and applies that Look’s group settings. Hand-picked Motion checkboxes are discarded.
+Clicking a chip re-populates **Motion → Transitions Mix**, **re-deals** single-slide cuts from that mix’s bias, and applies that Look’s group settings. Hand-picked Motion checkboxes are discarded.
+
+**Click the same Look again** to roll a new deal: a fresh three lens effects (every Look except **Clean**), a new mix of single-slide cuts, and a new Match Look bed if that playlist is still the untouched auto soundtrack. Pins you set under Studio **Lens Effect** survive. Atmosphere and Decals stay **None** unless you picked them.
 
 Editing **Customize…**, **Stage**, **Photo Size**, or **Motion** switches the chip to **Custom**.
 
