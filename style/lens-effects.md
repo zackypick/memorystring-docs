@@ -4,59 +4,59 @@ Studio → **Style → Customize → Lens Effects**. Optical light on the frame.
 
 **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prime, Pulse, Refract Bubbles, Sparkle, Starburst, Sweep, Veiling Glare, Vignette**
 
-Plus **Randomize Selected** and **How often**. Each clip below is 1080p from a real export with that effect pinned; the still is the video cover.
+Plus **Randomize Selected** and **How often**. Each clip below is 1080p from a real export with that effect pinned — the player opens on the cover frame.
 
-<figure><img src="../.gitbook/assets/catalog/lens-anamorphic-streaks.jpg" alt="Anamorphic Streaks"><figcaption>Anamorphic Streaks</figcaption></figure>
+### Anamorphic Streaks
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-anamorphic-streaks.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-anamorphic-streaks.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-bokeh.jpg" alt="Bokeh"><figcaption>Bokeh</figcaption></figure>
+### Bokeh
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-bokeh.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-bokeh.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-flare.jpg" alt="Flare"><figcaption>Flare</figcaption></figure>
+### Flare
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-flare.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-flare.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-ghosting.jpg" alt="Ghosting"><figcaption>Ghosting</figcaption></figure>
+### Ghosting
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-ghosting.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-ghosting.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-orbs.jpg" alt="Orbs"><figcaption>Orbs</figcaption></figure>
+### Orbs
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-orbs.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-orbs.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-50mm-prime.jpg" alt="50mm Prime"><figcaption>50mm Prime</figcaption></figure>
+### 50mm Prime
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-50mm-prime.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-50mm-prime.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-pulse.jpg" alt="Pulse"><figcaption>Pulse</figcaption></figure>
+### Pulse
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-pulse.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-pulse.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-refract-bubbles.jpg" alt="Refract Bubbles"><figcaption>Refract Bubbles</figcaption></figure>
+### Refract Bubbles
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-refract-bubbles.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-refract-bubbles.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-sparkle.jpg" alt="Sparkle"><figcaption>Sparkle</figcaption></figure>
+### Sparkle
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-sparkle.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-sparkle.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-starburst.jpg" alt="Starburst"><figcaption>Starburst</figcaption></figure>
+### Starburst
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-starburst.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-starburst.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-sweep.jpg" alt="Sweep"><figcaption>Sweep</figcaption></figure>
+### Sweep
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-sweep.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-sweep.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-veiling-glare.jpg" alt="Veiling Glare"><figcaption>Veiling Glare</figcaption></figure>
+### Veiling Glare
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-veiling-glare.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-veiling-glare.mp4" %}
 
-<figure><img src="../.gitbook/assets/catalog/lens-vignette.jpg" alt="Vignette"><figcaption>Vignette</figcaption></figure>
+### Vignette
 
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/lens-vignette.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-vignette.mp4" %}
 
 A photo plays **at most one** pooled lens effect. Choice is stable from the photo’s seed.
 

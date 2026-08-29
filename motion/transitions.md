@@ -21,159 +21,125 @@ Picking a mix (or a **Look** chip) hands choice back and clears hand-picked chec
 
 ## Single slides
 
-At least **one** single-slide box stays on. The checklist in the app (currently **17 of 17** when all are on). Each clip below is 1080p from a real export; the still is the video cover.
+At least **one** single-slide box stays on. The checklist in the app (currently **17 of 17** when all are on). Each clip below is 1080p from a real export — the player opens on the cover frame.
 
 ### Ken Burns
 
 Unbroken lean-in toward the focus point.
 
-<figure><img src="../.gitbook/assets/catalog/trans-ken-burns.jpg" alt="Ken Burns"><figcaption>Ken Burns</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-ken-burns.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-ken-burns.mp4" %}
 
 
 ### Depth dissolve
 
 Swims up out of blur and back, held square — softens automatically on a light stage.
 
-<figure><img src="../.gitbook/assets/catalog/trans-depth-dissolve.jpg" alt="Depth dissolve"><figcaption>Depth dissolve</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-depth-dissolve.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-depth-dissolve.mp4" %}
 
 
 ### Layers
 
 Overlapping ghost layers on the hand-off.
 
-<figure><img src="../.gitbook/assets/catalog/trans-layers.jpg" alt="Layers"><figcaption>Layers</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-layers.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-layers.mp4" %}
 
 
 ### Card flip
 
 Edge-on flip — fades in, turns face-front, mirror exit.
 
-<figure><img src="../.gitbook/assets/catalog/trans-card-flip.jpg" alt="Card flip"><figcaption>Card flip</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-card-flip.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-card-flip.mp4" %}
 
 
 ### Slide rotate
 
 Polaroid slides in from off-stage, glides, slides out.
 
-<figure><img src="../.gitbook/assets/catalog/trans-slide-rotate.jpg" alt="Slide rotate"><figcaption>Slide rotate</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-slide-rotate.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-slide-rotate.mp4" %}
 
 
 ### Spark slide
 
 Polaroid skates in and off; a spark trail through the flight.
 
-<figure><img src="../.gitbook/assets/catalog/trans-spark-slide.jpg" alt="Spark slide"><figcaption>Spark slide</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-spark-slide.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-spark-slide.mp4" %}
 
 
 ### Sparkle wipe
 
 Glitter trail while the next print skates in.
 
-<figure><img src="../.gitbook/assets/catalog/trans-sparkle-wipe.jpg" alt="Sparkle wipe"><figcaption>Sparkle wipe</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-sparkle-wipe.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-sparkle-wipe.mp4" %}
 
 
 ### Flying card
 
 Card tossed through 3D space.
 
-<figure><img src="../.gitbook/assets/catalog/trans-flying-card.jpg" alt="Flying card"><figcaption>Flying card</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-flying-card.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-flying-card.mp4" %}
 
 
 ### Offset wash
 
 Split seat — card one side at Photo Size; wash opposite.
 
-<figure><img src="../.gitbook/assets/catalog/trans-offset-wash.jpg" alt="Offset wash"><figcaption>Offset wash</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-offset-wash.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-offset-wash.mp4" %}
 
 
 ### Punch-in
 
 Oversized smear in, then punches past the lens.
 
-<figure><img src="../.gitbook/assets/catalog/trans-punch-in.jpg" alt="Punch-in"><figcaption>Punch-in</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-punch-in.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-punch-in.mp4" %}
 
 
 ### Spiral-in
 
 Card coils in; wash zooms in then out.
 
-<figure><img src="../.gitbook/assets/catalog/trans-spiral-in.jpg" alt="Spiral-in"><figcaption>Spiral-in</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-spiral-in.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-spiral-in.mp4" %}
 
 
 ### Reveal from depth
 
 Slow push forward out of distant blur.
 
-<figure><img src="../.gitbook/assets/catalog/trans-reveal-from-depth.jpg" alt="Reveal from depth"><figcaption>Reveal from depth</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-reveal-from-depth.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-reveal-from-depth.mp4" %}
 
 
 ### Accordion fold
 
 Closed bellows unfold while fading in, then fold shut.
 
-<figure><img src="../.gitbook/assets/catalog/trans-accordion-fold.jpg" alt="Accordion fold"><figcaption>Accordion fold</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-accordion-fold.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-accordion-fold.mp4" %}
 
 
 ### Contact sheet
 
 Bright Photo Size print on a dimmed grid of the same photo.
 
-<figure><img src="../.gitbook/assets/catalog/trans-contact-sheet.jpg" alt="Contact sheet"><figcaption>Contact sheet</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-contact-sheet.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-contact-sheet.mp4" %}
 
 
 ### Same-photo fan
 
 One photo fanned in depth — center sharp, soft dim wings.
 
-<figure><img src="../.gitbook/assets/catalog/trans-same-photo-fan.jpg" alt="Same-photo fan"><figcaption>Same-photo fan</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-same-photo-fan.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-same-photo-fan.mp4" %}
 
 
 ### Motion trail
 
 Print with a diagonal motion-trail echo.
 
-<figure><img src="../.gitbook/assets/catalog/trans-motion-trail.jpg" alt="Motion trail"><figcaption>Motion trail</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-motion-trail.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-motion-trail.mp4" %}
 
 
 ### Swirl-in
 
 Card spirals in and out; wash zooms (wash does not swirl).
 
-<figure><img src="../.gitbook/assets/catalog/trans-swirl-in.jpg" alt="Swirl-in"><figcaption>Swirl-in</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/trans-swirl-in.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-swirl-in.mp4" %}
 
 
 **Spiral-in** and **Reveal from depth** take about five seconds to seat. Captions wait until the photo has nearly landed. Only **Varied** carries both in its bias; **Gentle** leans Reveal, **Dramatic** leans Spiral, **Playful** leans neither — or tick them in Motion. By Look: Clean, Vintage, Noir, B&W, Golden Hour are Gentle; Cinematic and Crisp are Dramatic; Polaroid is Playful.
