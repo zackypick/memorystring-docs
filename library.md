@@ -1,14 +1,16 @@
 # Library
 
-The left sidebar is this project’s photos and videos. Music is in Inspector → **Audio**, not here.
+Birthday photos, trip videos, that clip of everyone singing — they land here before they become a movie. Music lives in Inspector → **Audio**.
 
 ![Library with photos, transition names, mute badges](../.gitbook/assets/library-photos.png)
 
-Left to right when the Library has items: **calendar** (sort), **captions** bubble, **⋯**, and **+** on the trailing edge.
+When the Library has items, left to right: **calendar** (sort), **captions** bubble, **⋯**, and **+** on the trailing edge.
 
-Drag the **vertical divider** on the Library’s right edge to widen or narrow the sidebar (the width is remembered). **View → Toggle Sidebar** (**⌃⌘S**) hides it.
+Drag the **vertical divider** on the right to resize (remembered). **View → Toggle Sidebar** (**⌃⌘S**) hides it.
 
 ## Import
+
+Dump a folder, paste a screenshot, or use the menus:
 
 - Toolbar or Library **+** → **Photos & Videos…**, or **File → Import Media…**
 - Drop folders, photos, or videos onto the window
@@ -18,13 +20,15 @@ Drag the **vertical divider** on the Library’s right edge to widen or narrow t
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
 
-Unsupported types are skipped. **⌘C** copies selected Library or Timeline items out as files. While you type in a caption or title field, **⌘V** / **⌘C** stay ordinary text paste and copy.
+Unsupported types are skipped. **⌘C** copies selected Library or Timeline items as files. In a caption or title field, **⌘V** / **⌘C** stay ordinary text paste and copy.
 
 Videos show a play badge. Multi-select shows a count.
 
 **Essential:** after import, if the Library was empty or already **Oldest First**, MemoryString auto-sorts new stills **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
 
 ## Sort (calendar)
+
+Cake after the drive — or shuffle and see:
 
 ![Library calendar: Oldest First, Newest First, Import Order, Shuffle](../.gitbook/assets/library-menu-sort.png)
 
@@ -33,11 +37,13 @@ Videos show a play badge. Multi-select shows a count.
 - **Import Order**
 - **Shuffle** — randomizes photo order (intro stays first)
 
-Same date choices: **Edit → Sort by Date Taken**, Inspector → **Motion** → **Timeline**, or right-click empty Library space.
+Same choices: **Edit → Sort by Date Taken**, Inspector → **Motion** → **Timeline**, or right-click empty Library space.
 
-Date sorts use the camera capture date (EXIF / recording date). Only when a file has neither does it fall back to the file date. Files with no date land at the end. Filenames are never used. Captions, trims, and rotations stay with each photo. Groups are planned fresh. The intro stays first. **⌘Z** undoes a sort or shuffle.
+Date sorts use camera capture date (EXIF / recording date); file date only if neither exists. Undated files land at the end. Filenames never used. Captions, trims, and rotations stay; groups are planned fresh; intro stays first. **⌘Z** undoes.
 
 ## Captions (bubble)
+
+Beats hearing “wait, which trip was that?”
 
 ![Library captions: Auto Caption untitled, Auto Caption All, Clear All](../.gitbook/assets/library-menu-captions.png)
 
@@ -49,6 +55,8 @@ See [Intro and captions](intro-captions.md).
 
 ## ⋯ options
 
+Same photos, different cuts — when motion feels stuck:
+
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](../.gitbook/assets/library-menu-options.png)
 
 - **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector. If you hand-picked **Slide Transition**s, it asks before clearing them.
@@ -57,7 +65,7 @@ See [Intro and captions](intro-captions.md).
 
 ## Reorder and replace
 
-Drag thumbs in the grid. Drag onto the Timeline **photo lane**: a **gap** inserts or moves; drop on a **single** or a **group seat** until **Replace**; drop on the **intro** tile sets the intro background.
+Drag thumbs in the grid. Onto the Timeline **photo lane**: a **gap** inserts or moves; drop on a **single** or a **group seat** until **Replace**; drop on the **intro** tile sets the intro background.
 
 Whole groups move together until you drill into a seat. Full story: [Organizing](organizing.md).
 
@@ -94,7 +102,7 @@ Click a thumb to select and seek. **⌘**-click toggles; **⇧**-click extends a
 
 ### Videos
 
-On import, MemoryString listens to each clip (Essential and Studio): **speech stays audible**; **silence or noise is muted**. Detection is on-device. If you skip the speech prompt, mute still uses **loudness only**. How it decides: [Auto detection](auto-detection.md).
+On import, MemoryString listens to each clip (Essential and Studio): **speech stays audible**; **silence or noise is muted**. Detection is on-device. Skip the speech prompt and mute still uses **loudness only**. How it decides: [Auto detection](auto-detection.md).
 
 **Mute Video Sound** / **Unmute Video Sound** — right-click, the speaker badge, or the Inspector footer. Manual mute is yours.
 
@@ -102,6 +110,6 @@ Videos have a **2 second** minimum trim. **Reset Length** restores the full clip
 
 ## Multi-photo badges
 
-Members of a group are one clip. Badges: **carousel 2/5**, **stack 1/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**. Selecting the group draws one champagne outline around the thumbs and dims the rest of the Library. Clicking a member seeks to that photo’s turn on stage. Timeline: click the cell for the whole window; click again to drill into one seat. See [Multi-photo groups](motion/groups.md).
+Grouped cards share one clip. Badges: **carousel 2/5**, **stack 1/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**. Selecting the group draws one champagne outline and dims the rest. Click a member to seek to that photo’s turn on stage. Timeline: click the cell for the whole window; click again to drill into one seat. See [Multi-photo groups](motion/groups.md).
 
 **File → Delete Project…** trashes the `.memorystring` file (if saved) and that project’s Imports copies, then opens an empty Untitled project. Originals outside **Imports** are never deleted.

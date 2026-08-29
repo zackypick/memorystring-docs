@@ -1,6 +1,6 @@
 # Auto detection
 
-MemoryString runs three on-device detectors. **Video mute** and **center of interest** run on **import**. **Captions** run only when you choose **Auto Caption** — the movie never writes caption text by itself.
+Three helpers on your Mac — less time muting fridge hum, chasing faces, or typing `IMG_4821`. **Video mute** and **center of interest** on **import**. **Captions** only when you choose **Auto Caption** — never written by itself.
 
 Everything stays on this Mac. Original files are never rewritten.
 
@@ -8,14 +8,16 @@ Everything stays on this Mac. Original files are never rewritten.
 
 ## Video sound (auto-mute)
 
+Speech on camera? Keep it. Wind and empty hallway? Quiet them.
+
 **When:** as each **video** is imported (Essential and Studio). Stills have no clip audio. Soundtrack tracks are not auto-muted.
 
 **First import:** MemoryString may ask **Allow On-Device Speech Detection?**
 
-- **Continue** — then macOS’s Speech prompt. Detection is **on-device**. It does **not** transcribe or save what was said. The system prompt may mention Apple; MemoryString does not use a cloud speech path.
+- **Continue** — then macOS’s Speech prompt. Detection is **on-device**; it does **not** transcribe or save what was said. The system prompt may mention Apple; MemoryString has no cloud speech path.
 - **Use Loudness Only** — skip speech. Mute still runs from loudness / tonality.
 
-If you skip or deny speech, later imports keep using loudness only (until you reset that preference).
+If you skip or deny speech, later imports keep loudness only (until you reset that preference).
 
 **How it decides** (whole file, not just the start):
 
@@ -31,7 +33,7 @@ There is no toast. A muted clip shows a speaker-off badge in the Library and Tim
 
 ## Center of interest
 
-**When:** on **import**, every photo and every video gets a focus point. Cached with the file so reopen keeps the same pick.
+Eyes, not shoulder. **When:** on **import**, every photo and every video gets a focus point. Cached with the file so reopen keeps the same pick.
 
 **How it picks** (on-device Vision):
 
@@ -39,28 +41,28 @@ There is no toast. A muted clip shows a speaker-off badge in the Library and Tim
 2. Else the **main subject** (attention saliency)
 3. Else the **middle** of the frame
 
-**Videos:** several frames across the used trim window (not a single opening frame). The strongest face / subject wins, so a title card or the wrong person at the start does not lock focus.
+**Videos:** several frames across the used trim window (not one opening frame). Strongest face / subject wins — a title card or wrong person at the start does not lock focus.
 
-**Override:** pause and click the spot (*Tap photo to set focus*). The ring moves; the status line shows **Focus · x%, y%**. Dragging pans the paused view and leaves focus alone. **Reset Center of Interest** (right-click) drops the override and re-runs detection.
+**Override:** pause and click (*Tap photo to set focus*). Ring moves; status shows **Focus · x%, y%**. Drag pans; leaves focus alone. **Reset Center of Interest** (right-click) drops the override and re-runs detection.
 
 ![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
 
-Ken Burns and punch-in end on this point; the backdrop follows it; group cards use it too. Some whole-photo cuts ignore it. Details: [Preview](preview.md).
+Ken Burns and punch-in end here; backdrop follows; group cards use it too. Some whole-photo cuts ignore it. Details: [Preview](preview.md).
 
 ## Auto Caption
 
-**When:** only when you run it — Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, Timeline **Generate**, or a slide’s **Auto Caption**. Not on import.
+Place and date — not camera codes. Run it: Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, Timeline **Generate**, or a slide’s **Auto Caption**. Not on import.
 
-Untitled-only entry points **never overwrite** what you already typed. **Auto Caption All Slides…** overwrites after confirmation.
+Untitled-only entry points **never overwrite** what you typed. **Auto Caption All Slides…** overwrites after confirmation.
 
 **How it fills an empty caption**, in order:
 
-1. **Place · date** — GPS on the file (stills: EXIF; videos: QuickTime) reverse-geocoded with Apple’s geocoder, or IPTC city/country if GPS is missing. Format like `Tel Aviv-Yafo · 29 July 2026`. **Country** is added only when the show has photos from **more than one country**.
+1. **Place · date** — GPS on the file (stills: EXIF; videos: QuickTime) reverse-geocoded with Apple’s geocoder, or IPTC city/country if GPS is missing. Format like `Tel Aviv-Yafo · 29 July 2026`. **Country** only when the show has photos from **more than one country**.
 2. Else **capture date** — EXIF DateTimeOriginal / video creation date (not the import copy date). Same long-date style.
-3. Else a **readable filename** with real words (`dan_and_mom-beach` → `Dan and Mom Beach`). Embedded calendar dates are rewritten as dates; clock times are dropped.
+3. Else a **readable filename** with real words (`dan_and_mom-beach` → `Dan and Mom Beach`). Embedded calendar dates rewritten as dates; clock times dropped.
 
-**Never copied:** UUID / hash names, camera codes (`IMG_1234`, `DSC…`, `Screenshot …`), WhatsApp export titles. Those slides stay blank.
+**Never copied:** UUID / hash names, camera codes (`IMG_1234`, `DSC…`, `Screenshot …`), WhatsApp export titles. Stay blank — better empty than `IMG_4821` as poetry.
 
-Geocoding uses coordinates **already in the media**. It does not read this Mac’s location. Offline, it still writes date / IPTC captions. One **⌘Z** undoes the whole Auto Caption pass.
+Geocoding uses coordinates **already in the media** — not this Mac’s location. Offline still writes date / IPTC captions. One **⌘Z** undoes the whole Auto Caption pass.
 
 See [Intro and captions](intro-captions.md).

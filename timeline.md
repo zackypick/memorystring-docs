@@ -1,6 +1,6 @@
 # Timeline
 
-Under the preview: scrub, reorder, trim, and line up slides with music.
+The strip under the stage is the movie’s pulse — hold times, music, and where a too-long toast gets trimmed.
 
 ![Photo lane and music waveform for a full show](../.gitbook/assets/timeline-full.png)
 
@@ -10,15 +10,17 @@ Under the preview: scrub, reorder, trim, and line up slides with music.
 
 ## Layout
 
-Top to bottom:
+Time, pictures, music:
 
 1. **Time ruler** — click or drag to seek; hover for a ghost preview (ghost line + dimmer time chip) until you click
 2. **Photo lane** — slides, intro, and group cells
 3. **Music lane** — soundtrack clips
 
-Chrome above the lanes shows the selected clip **name + duration** and a zoom control. The readout is **fit-relative**: **1.0×** means the whole project spans the window; **3.0×** means the strip is three windows wide.
+Chrome above shows selected clip **name + duration** and zoom. Readout is **fit-relative**: **1.0×** = whole project in the window; **3.0×** = three windows wide.
 
 ### Zoom and gestures
+
+Zoom out for the whole birthday; in when a half-second matters.
 
 - **Zoom slider** (minus / plus magnifying glass) — drag all the way **left** for an end-to-end overview
 - **Pinch** on a trackpad to zoom the strip
@@ -29,17 +31,19 @@ Chrome above the lanes shows the selected clip **name + duration** and a zoom co
 
 **⌘+** / **⌘-** / **⌘0** are UI text size (Library thumbs and Timeline *row height*), not Timeline zoom.
 
-Once there are more slides than fit at a readable size, the timeline **scrolls** instead of squeezing. Cells keep a minimum width (thumbs, motion label, duration). Very long projects stop widening at about **8 windows** — zoom in from there. A very short hold still gets a clickable cell.
+Once slides exceed a readable fit, the timeline **scrolls** instead of squeezing. Cells keep a minimum width (thumbs, motion label, duration). Very long projects cap at about **8 windows** — zoom in from there. A very short hold still gets a clickable cell.
 
-During playback the strip **follows the playhead**. Panning by hand while paused is never yanked back. Drag a clip near the left or right edge and the strip auto-scrolls. Hover-scrub on the ruler stands down while the strip is travelling under the pointer (trackpad momentum), then re-syncs when it settles.
+During playback the strip **follows the playhead**. Hand-pan while paused is never yanked back. Drag near either edge to auto-scroll. Hover-scrub on the ruler stands down while the strip travels under the pointer (trackpad momentum), then re-syncs when it settles.
 
-While dragging the playhead, a blue time chip shows tenths, then hundredths / frames as you zoom in. **←** / **→** nudge (~0.1s, accelerates if held); **⇧** for larger steps.
+Dragging the playhead, a blue time chip shows tenths, then hundredths / frames as you zoom in. **←** / **→** nudge (~0.1s, accelerates if held); **⇧** for larger steps.
 
 ## Reorder and trim
 
+Move the awkward photo. Shorten what overstays. Leave the good ones alone.
+
 Drag clips on the photo lane. Drag from the **Library** into a **gap** to insert or move; drop on a **single** or **group seat** to **Replace**. Music clips reorder on the music lane.
 
-First click on a group cell selects the whole window; a second click on a thumb drills into that seat so you can drag it alone. See [Organizing](organizing.md).
+First click on a group selects the whole window; second click on a thumb drills into that seat. See [Organizing](organizing.md).
 
 Select a clip, then drag **edge grips** on either end:
 
@@ -63,7 +67,7 @@ Right-click a video or music clip for trim:
 - **Set Start Here** / **Set End Here** — trim in/out at the playhead
 - **Reset Length**
 
-The Inspector clip footer offers the same playhead trims when a **video** or **soundtrack** is selected. **⌘1** / **⌘2** are Set Start / Set End; **⌘D** opens **Set Duration…** (value selected so you can type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing.
+The Inspector clip footer offers the same playhead trims for a selected **video** or **soundtrack**. **⌘1** / **⌘2** = Set Start / Set End; **⌘D** opens **Set Duration…** (value selected to type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing.
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 
@@ -72,6 +76,8 @@ A slide with no caption offers **Auto Caption** (or **Auto Caption N Untitled Sl
 Intro cell: **Disable Intro Slide**.
 
 ## Motion → Timeline (Studio)
+
+Sort and shuffle from the Inspector when order still feels wrong.
 
 Inspector → **Motion** → **Timeline**:
 
@@ -87,4 +93,4 @@ The intro stays first. **⌘Z** undoes sort / shuffle.
 
 ## Groups on the strip
 
-When a multi-photo window is on, follower slides collapse onto a **lead** cell (for example “stack of 4”, “carousel of 5”, “ribbon of N”, “pair of 2”, “filmstrip of N”, “Scatter & Settle”). The cell can show a multi-thumb strip and per-video mute badges. See [Multi-photo groups](motion/groups.md).
+Multi-photo windows collapse followers onto a **lead** cell (for example “stack of 4”, “carousel of 5”, “ribbon of N”, “pair of 2”, “filmstrip of N”, “Scatter & Settle”). The cell can show a multi-thumb strip and per-video mute badges. One cell, many faces. See [Multi-photo groups](motion/groups.md).
