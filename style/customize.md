@@ -65,67 +65,49 @@ Each menu is a **single choice**. Default **None**. Looks never set these. Picki
 
 All edge-biased, never a sticker bomb on the hero print. There is no separate Map or Route checkbox.
 
-Each clip below is 1080p from a real export with that one choice on; the still is the video cover.
+Each clip below is 1080p from a real export with that one choice on — the player opens on the cover frame.
 
 ### Atmosphere — Bubbles
 
-<figure><img src="../.gitbook/assets/catalog/atm-bubbles.jpg" alt="Atmosphere · Bubbles"><figcaption>Atmosphere · Bubbles</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/atm-bubbles.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/atm-bubbles.mp4" %}
 
 
 ### Atmosphere — Leaves
 
-<figure><img src="../.gitbook/assets/catalog/atm-leaves.jpg" alt="Atmosphere · Leaves"><figcaption>Atmosphere · Leaves</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/atm-leaves.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/atm-leaves.mp4" %}
 
 
 ### Decals — Travel
 
-<figure><img src="../.gitbook/assets/catalog/decal-travel.jpg" alt="Decals · Travel"><figcaption>Decals · Travel</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/decal-travel.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-travel.mp4" %}
 
 
 ### Decals — Vacation
 
-<figure><img src="../.gitbook/assets/catalog/decal-vacation.jpg" alt="Decals · Vacation"><figcaption>Decals · Vacation</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/decal-vacation.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-vacation.mp4" %}
 
 
 ### Decals — Party
 
-<figure><img src="../.gitbook/assets/catalog/decal-party.jpg" alt="Decals · Party"><figcaption>Decals · Party</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/decal-party.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-party.mp4" %}
 
 
 ### Decals — Florals
 
-<figure><img src="../.gitbook/assets/catalog/decal-florals.jpg" alt="Decals · Florals"><figcaption>Decals · Florals</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/decal-florals.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-florals.mp4" %}
 
 
 ### Decals — Wedding
 
-<figure><img src="../.gitbook/assets/catalog/decal-wedding.jpg" alt="Decals · Wedding"><figcaption>Decals · Wedding</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/decal-wedding.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-wedding.mp4" %}
 
 
 ### Decals — Pets
 
-<figure><img src="../.gitbook/assets/catalog/decal-pets.jpg" alt="Decals · Pets"><figcaption>Decals · Pets</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/decal-pets.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-pets.mp4" %}
 
 
 ### Decals — Sports
 
-<figure><img src="../.gitbook/assets/catalog/decal-sports.jpg" alt="Decals · Sports"><figcaption>Decals · Sports</figcaption></figure>
-
-{% embed url="https://cdn.jsdelivr.net/gh/zackypick/memorystring-docs@05d4a9097f6ac7c044e5d06d3346d34f9c14d2b2/.gitbook/assets/catalog/decal-sports.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-sports.mp4" %}
 
