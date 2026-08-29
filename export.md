@@ -4,25 +4,59 @@ Inspector → **Format** sets the aspect you edit in (and the default for Export
 
 ![Social and Classic destination swatches, Social Safe](../.gitbook/assets/inspector-format-swatches.png)
 
-## Preview format
+The stills below are the **same show** at the same moment — one photo on stage — exported in each destination frame so the aspect is obvious.
 
-**Social**
+## Social
 
-| Swatch | Caption |
-| --- | --- |
-| **TikTok** | Reels · Shorts · 9:16 (1080×1920) |
-| **Instagram** | Feed · 4:5 (1080×1350) |
-| **Pinterest** | Pin · 2:3 |
-| **YouTube** | TV · 16:9 (1920×1080, default) |
+### TikTok
 
-**Classic**
+Reels · Shorts · 9:16 (1080×1920)
 
-| Swatch | Caption |
-| --- | --- |
-| **Classic** | 4:3 (1440×1080) |
-| **Photo** | 3:2 (1620×1080) |
-| **Square** | Post · 1:1 (1080×1080) |
-| **Cinema** | 21:9 (2560×1080) |
+<figure><img src="../.gitbook/assets/format-tiktok.jpg" alt="Same show exported as TikTok 9:16 (1080×1920)"><figcaption>TikTok · 1080×1920</figcaption></figure>
+
+### Instagram
+
+Feed · 4:5 (1080×1350)
+
+<figure><img src="../.gitbook/assets/format-instagram.jpg" alt="Same show exported as Instagram 4:5 (1080×1350)"><figcaption>Instagram · 1080×1350</figcaption></figure>
+
+### Pinterest
+
+Pin · 2:3 (1000×1500)
+
+<figure><img src="../.gitbook/assets/format-pinterest.jpg" alt="Same show exported as Pinterest 2:3 (1000×1500)"><figcaption>Pinterest · 1000×1500</figcaption></figure>
+
+### YouTube
+
+TV · 16:9 (1920×1080, default)
+
+<figure><img src="../.gitbook/assets/format-youtube.jpg" alt="Same show exported as YouTube 16:9 (1920×1080)"><figcaption>YouTube · 1920×1080</figcaption></figure>
+
+## Classic
+
+### Classic
+
+4:3 (1440×1080)
+
+<figure><img src="../.gitbook/assets/format-classic.jpg" alt="Same show exported as Classic 4:3 (1440×1080)"><figcaption>Classic · 1440×1080</figcaption></figure>
+
+### Photo
+
+3:2 (1620×1080)
+
+<figure><img src="../.gitbook/assets/format-photo.jpg" alt="Same show exported as Photo 3:2 (1620×1080)"><figcaption>Photo · 1620×1080</figcaption></figure>
+
+### Square
+
+Post · 1:1 (1080×1080)
+
+<figure><img src="../.gitbook/assets/format-square.jpg" alt="Same show exported as Square 1:1 (1080×1080)"><figcaption>Square · 1080×1080</figcaption></figure>
+
+### Cinema
+
+21:9 (2560×1080)
+
+<figure><img src="../.gitbook/assets/format-cinema.jpg" alt="Same show exported as Cinema 21:9 (2560×1080)"><figcaption>Cinema · 2560×1080</figcaption></figure>
 
 Every movie eases to the stage floor (black on Dark, cream on Light). There is no toggle for that fade.
 
