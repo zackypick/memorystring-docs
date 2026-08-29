@@ -2,9 +2,21 @@
 
 The toolbar segmented control switches **Essential** and **Studio**. Same project; Studio shows more knobs.
 
-![Essential / Studio on the toolbar](../.gitbook/assets/toolbar-right.png)
+![Essential selected on the toolbar](../.gitbook/assets/toolbar-essential.png)
 
-**View → Switch to Studio Mode** / **Switch to Essential Mode** (**⇧⌘S**) does the same.
+![Studio selected on the toolbar](../.gitbook/assets/toolbar-right.png)
+
+**View → Switch to Studio Mode** / **Switch to Essential Mode** does the same.
+
+## Inspector tabs
+
+Essential keeps **Style, Intro, Audio, Format**. Studio adds **Motion**.
+
+![Essential inspector tabs](../.gitbook/assets/inspector-essential-tabs.png)
+
+![Studio inspector tabs](../.gitbook/assets/inspector-tabs.png)
+
+![Essential Style inspector](../.gitbook/assets/inspector-essential-style.png)
 
 ## What changes
 
