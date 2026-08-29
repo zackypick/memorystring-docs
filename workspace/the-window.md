@@ -2,6 +2,8 @@
 
 Four panes around the stage:
 
+![Library, Preview, Inspector, and Timeline](../.gitbook/assets/the-window-panes.png)
+
 | Pane | Where | What it is |
 | --- | --- | --- |
 | **Library** | Left | Photos and videos in this project |
