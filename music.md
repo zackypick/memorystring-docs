@@ -27,6 +27,8 @@ The sheet title is **Royalty Free - No Attribution Required**. Subtitle: *Tracks
 
 **Sort:** Catalog · Title (A–Z) · Genre (A–Z) · Duration (shortest / longest first).
 
+![Sort the royalty-free catalog by Catalog order, Title, Genre, or Duration](../.gitbook/assets/royalty-free-library-sort.png)
+
 Each row: checkbox, **title** / **artist**, **style** (e.g. Quiet ballad) or **In project** if it is already on the playlist, duration, and a play button to audition (does not move the show playhead). Check tracks, then **Add**. **Cancel** dismisses. **Add** stays disabled until at least one unused track is selected.
 
 ## Match Look Soundtrack
