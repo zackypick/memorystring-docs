@@ -2,7 +2,9 @@
 
 The no-bullshit Mac app for the best cinematic slideshow you can make — simple enough for anyone, good enough to share with family, friends, and loved ones. **Free to use.**
 
-Import photos and videos, add music and a Look, hit Export. That’s the whole idea.
+Built first out of frustration with paid and subscription slideshow makers that nag, limit, and upsell at every turn. Then it became something everyone should get to enjoy: **free**, **no limitations**, **no nagging**, **privacy-preserving**, **local-first**. Your photos stay on your Mac — not sifted by Google or any company training models on family memories. Paywalls (on apps that are usually too complicated, heavy, and mediocre anyway) mean most people never discover this class of tool and settle for bare-bones slideshows. MemoryString is for **anyone** who wants the good stuff without the hustle.
+
+Birthday, anniversary, family occasion — any moment worth a movie. Export in social-friendly frames so sharing on popular networks is a breeze. Import photos and videos, add music and a Look, hit Export. That’s the whole idea.
 
 {% hint style="info" %}
 This GitBook describes **only controls that exist in the Mac app**. Names match the Inspector, menus, About, and in-app Help. If a switch is not in the app, it is not here.
