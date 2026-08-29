@@ -1,6 +1,6 @@
 # MCP Server
 
-Let an agent drive the open project — import, restyle, scrub, export — without clicking every pane. Works only **while the app is open**. Nothing listens until you enable it, and only on this Mac (`127.0.0.1`).
+Let an agent drive the open project — import, restyle, scrub, export — without clicking every pane. Works only **while the app is open**. Nothing listens until you enable it, and only on your Mac (`127.0.0.1`).
 
 **MemoryString → MCP Server** (**⌘,**).
 
@@ -22,7 +22,7 @@ Default **Port** is **18765**. If status shows the port is already in use, pick 
 
 The door key for every request. MemoryString creates a Bearer token on first launch so **Show** / **Copy** work even before you enable the server.
 
-**Regenerate Token…** replaces the secret — existing client configs stop working until you paste the new snippet. Stored on this Mac (Application Support), not in the project file.
+**Regenerate Token…** replaces the secret — existing client configs stop working until you paste the new snippet. Stored on your Mac (Application Support), not in the project file.
 
 **MemoryString → Reset All Settings…** turns the MCP server **off**. The token file is kept.
 

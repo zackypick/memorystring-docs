@@ -2,7 +2,7 @@
 
 Three helpers on your Mac — less time muting fridge hum, chasing faces, or typing `IMG_4821`. **Video mute** and **center of interest** on **import**. **Captions** only when you choose **Auto Caption** — never written by itself.
 
-Everything stays on this Mac. Original files are never rewritten.
+Everything stays on your Mac. Original files are never rewritten.
 
 ![Paused photo with the center-of-interest ring](../.gitbook/assets/preview-coi.png)
 
@@ -63,6 +63,6 @@ Untitled-only entry points **never overwrite** what you typed. **Auto Caption Al
 
 **Never copied:** UUID / hash names, camera codes (`IMG_1234`, `DSC…`, `Screenshot …`), WhatsApp export titles. Stay blank — better empty than `IMG_4821` as poetry.
 
-Geocoding uses coordinates **already in the media** — not this Mac’s location. Offline still writes date / IPTC captions. One **⌘Z** undoes the whole Auto Caption pass.
+Geocoding uses coordinates **already in the media** — not your Mac’s location. Offline still writes date / IPTC captions. One **⌘Z** undoes the whole Auto Caption pass.
 
 See [Intro and captions](intro-captions.md).
