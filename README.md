@@ -12,11 +12,12 @@ This GitBook describes **only controls that exist in the Mac app**. Names match 
 
 ## What you can do
 
+- **Cinematic cuts** — a full single-slide pack plus pacing that stays out of your way
 - **Looks** — eight chips (Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp) that set grade, stage, motion, lens, and Match Look music
 - **Multi-photo groups** — Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **Music** — bundled royalty-free tracks, or files you import
 - **Intro slide** — opening title card (on by default)
-- **Timeline** — reorder, trim, captions, mute
+- **Timeline** — reorder, trim, durations, captions, mute
 - **Export** — H.264 MP4 in Social and Classic frames, all on this Mac
 
 Everything runs on-device with your local media. Every movie eases onto the stage floor with a **Created with MemoryString** credit. There is no switch to turn that off.

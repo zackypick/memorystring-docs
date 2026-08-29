@@ -28,10 +28,23 @@ Every request needs the Bearer token shown here. MemoryString creates one on fir
 
 ## What the client can do
 
-Call **get_state** first. Then, among other tools: **help**, **document**, **library**, **groups**, **transitions**, **style**, **media_edit**, **captions**, **intro**, **timing**, **audio**, **output**, **export_movie**, **playback**.
+Call **get_state** first. Then mutate the open project:
+
+- **help** — list / search / read in-app Help (does not open the Help window)
+- **document** — new, open, save, save as, close, delete, undo, redo
+- **library** — import / remove / reorder / sort / shuffle / select
+- **groups** — Photo Stack, Carousel, Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
+- **transitions** — slide kinds, mix, shuffle cuts
+- **style** — Looks, Energy, Photo Size, stage, customize knobs (including Anamorphic Streaks and Refract Bubbles knobs and presets), **atmosphere** (`none` / `bubbles` / `leaves`) and **decals** (`none` / `travel` / `vacation` / `party` / `florals` / `wedding` / `pets` / `sports`) as single-choice menus, and **clip_lens** (Studio per-slide Lens Effect pins; consecutive Refract Bubbles pins share one field; `remove_all` clears that slide only)
+- **media_edit** — rotate, flip, center of interest (original files are never rewritten)
+- **captions** / **intro** (including Studio **lens** on the opening card) / **timing** / **audio** / **output**
+- **export_movie** — write an MP4 to a path you pass (no save panel)
+- **playback** — play, pause, seek, next / previous slide, **warm_now** (dirty preview segments only, non-blocking), **stop_warming**
 
 Help and About windows are not exposed as UI; use the **help** tool to read topics.
 
-Destructive **delete** requires confirmation. Untitled work is not thrown away unless you save first or discard unsaved.
+**get_state** also reports `introLens`, per-clip `lensPins` (`null` = inherit the pool, `[]` = none), and smooth-play warm readiness: `canWarmNow`, `isWarming`, `warmStatus` (transport pill text, e.g. `Warming 3/12`), and `autoWarmOnPlay` (Studio preference; Essential always warms on Play). Poll `get_state` after **warm_now** until `isWarming` is false and `canWarmNow` is false. **warm_now** is a no-op when every segment is already warm or a warm is already running (`reason`: `already_warm` / `already_warming`).
 
-In-app Help topic **MCP Server** lists the same tools in more detail.
+**Match Look Soundtrack** is on by default (same as the app). After the first photos land it soft-seeds mood music; a Look click retargets that bed while it is still untouched. `audio.import` replaces that auto bed, same as a Finder drop. Soundtrack edits (**import** / **remove** / **reorder** / **mute** / **volume** / music trim) error while `isLoadingMusic` is true — poll **get_state** and retry. Turn **match_look** off *before* importing photos or applying a Look if you want silence or only your files.
+
+Destructive **delete** requires `confirm: true`. Untitled work will not be thrown away unless you save first or pass `discard_unsaved`.

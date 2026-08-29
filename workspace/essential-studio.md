@@ -34,6 +34,8 @@ Essential keeps **Style, Intro, Audio, Format**. Studio adds **Motion**.
 
 Looks, Energy, Stage, Photo Size, Format, music, import, and export still work in Essential.
 
+**Essential import:** if the Library was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
+
 {% hint style="info" %}
 **MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow.
 {% endhint %}

@@ -14,7 +14,7 @@ The large stage is where you watch the movie. Import lives in the Library; order
 
 The clock is `current / total`. Beside it, **1 of N** counts every photo card (including each seat in a group).
 
-Workbench **ambilight** (color spilling onto the chrome) is display-only. It is never in the export.
+Workbench **ambilight** (color spilling onto the chrome) is display-only. Soft color sampled from the slide at the playhead lights the title bar, Timeline bed, and Inspector seam. It never touches the photo and is never in the export. The title bar settles a beat later than the rest (it can only hold one flat color).
 
 ## Live, baked, and export
 
@@ -68,3 +68,5 @@ On the **intro**, a single click on the still (or title) sets the same aim; **do
 Right-click the paused photo or video (not the intro) → **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical**. Hidden while playing.
 
 Paused on the intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**.
+
+While paused, **double-click** intro text to edit it inline. Captions: a single click selects the slide; a **double-click** hands off to the caption field. Captioned slides get a small blue speech-bubble badge on the Timeline.

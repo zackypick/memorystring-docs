@@ -17,7 +17,7 @@ Only import tracks you have the rights to use.
 
 ## Royalty-free library
 
-Toolbar **+**, **File**, or Audio → **Royalty-Free Library…**. The sheet is **Royalty Free - No Attribution Required**. Preview a row, then **Add**.
+Toolbar **+**, **File**, or Audio → **Royalty-Free Library…**. The sheet is **Royalty Free - No Attribution Required**. Each row shows title / artist, a short **style** column (e.g. Quiet ballad), and duration. Preview a row, then **Add**.
 
 ## Match Look Soundtrack
 
@@ -43,9 +43,13 @@ Audio tab: local play/pause preview (does not move the show playhead), **Reset m
 
 ## Mix
 
-Neighbouring tracks butt together with short tapers. The show eases music in over about **1.5 seconds** at the start; the **final 2.5 seconds** of the soundtrack ease out with the closing fade. Music **ducks** under video sound. Per-track volume and mute apply in preview and export.
+Neighbouring tracks butt together with short tapers (no designed silence between songs). The music-lane waveform **narrows at the fade edges**. The show eases music in over about **1.5 seconds** at the start; the **final 2.5 seconds** of the soundtrack ease out with the closing fade. Music **ducks** under video sound. Loudness is aimed around **−14 LUFS**. Per-track volume (0…100%) and mute apply in preview and export, on top of ducking.
+
+The Audio tab’s local play/pause does not move the show playhead (gold fill is already heard).
 
 While a soundtrack decodes, the stage may show **Loading music…**. Photos stay usable; Export and soundtrack edits wait.
+
+Only import tracks you have the rights to use. MemoryString does not claim ownership of imported audio. The rights notice appears on the import panel and in the royalty-free sheet. Bundled tracks are suitable for personal movies without attribution.
 
 ## Video sound (not the music lane)
 

@@ -29,3 +29,13 @@ Toolbar **+** (near the project name) is **Photos & Videos…**, **Music…**, a
 ## Inspector clip bar
 
 The bottom of the Inspector stays available on every tab: caption (or intro text), **Generate**, **Aa** (caption position / color / size), and trim / mute / volume / remove when a video or soundtrack is selected.
+
+## Text size
+
+**View → Increase / Decrease / Default Text Size** (**⌘+** / **⌘-** / **⌘0**) scales app UI, Library thumbs, and Timeline row height — not slide captions.
+
+## Walkthrough
+
+**Help → Show Walkthrough** replays the first-run tour: Bring in moments → Your Library → Shape the story → Watch it come alive → Make it yours → Share your memory → Essential or Studio.
+
+**MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow.

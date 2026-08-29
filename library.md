@@ -10,22 +10,28 @@ Left to right when the Library has items: **calendar** (sort), **captions** bubb
 
 - Toolbar or Library **+** → **Photos & Videos…**, or **File → Import Media…**
 - Drop folders, photos, or videos onto the window
-- **Edit → Paste** (**⌘V**) — Finder files, or an image/video copied from Preview, Photos, Safari, Messages, or a screenshot. Clipboard images with no file are saved under Application Support **Imports**.
+- **Edit → Paste** (**⌘V**) — Finder files or folders, an image/video from Preview, Photos, Safari, Messages, or a screenshot (**⇧⌘4**). Clipboard images with no file are saved under Application Support **Imports**. Music files join the soundtrack. A `.memorystring` file **opens**.
 - Empty Library: dashed target — *Drop photos & videos here*
 
-**⌘C** copies selected Library or Timeline items out as files. While you type in a caption or title field, **⌘V** / **⌘C** stay ordinary text paste and copy.
+**Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
+**Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
+
+Unsupported types are skipped. **⌘C** copies selected Library or Timeline items out as files. While you type in a caption or title field, **⌘V** / **⌘C** stay ordinary text paste and copy.
 
 Videos show a play badge. Multi-select shows a count.
+
+**Essential:** after import, if the Library was empty or already **Oldest First**, MemoryString auto-sorts new stills **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
 
 ## Sort (calendar)
 
 - **Oldest First (Story Order)**
 - **Newest First**
 - **Import Order**
+- **Shuffle** — randomizes photo order (intro stays first)
 
-Same items: **Edit → Sort by Date Taken**, Inspector → **Motion** → **Timeline**, or right-click empty Library space.
+Same date choices: **Edit → Sort by Date Taken**, Inspector → **Motion** → **Timeline**, or right-click empty Library space.
 
-Date sorts use the camera capture date (EXIF / recording date). Files with no date land at the end. Filenames are never used for date sorting. The intro stays first. **⌘Z** undoes a sort.
+Date sorts use the camera capture date (EXIF / recording date). Only when a file has neither does it fall back to the file date. Files with no date land at the end. Filenames are never used. Captions, trims, and rotations stay with each photo. Groups are planned fresh. The intro stays first. **⌘Z** undoes a sort or shuffle.
 
 ## Captions (bubble)
 
@@ -37,26 +43,49 @@ See [Intro and captions](intro-captions.md).
 
 ## ⋯ options
 
-- **Shuffle Slides** — randomizes photo order (intro stays first)
-- **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector.
+- **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector. If you hand-picked **Slide Transition**s, it asks before clearing them.
 - **Reset Slide Durations** — restores default slide timing
 - **Show Transition Names** — badges on Library thumbs
 
-## Select, rotate, remove
+## Reorder and replace
 
-- Click a thumb to select and seek. **⌘**-click toggles; **⇧**-click extends a range.
-- Right-click → **Rotate Right** / **Rotate Left** (90°, project-only) or **Flip Horizontal** / **Flip Vertical**. Original files are never rewritten. **⌘]** / **⌘[** and **⇧⌘]** / **⇧⌘[** from the Edit menu.
-- **Remove from Project** or **Edit → Delete** (**⌘⌫**). Originals outside MemoryString’s **Imports** folder are never deleted.
-- **File → Delete Project…** trashes the `.memorystring` file (if saved) and that project’s Imports copies, then opens an empty Untitled project.
+Drag thumbs in the grid. Drag onto the Timeline **photo lane**: a **gap** inserts or moves; drop on a **single** or a **group seat** until **Replace**; drop on the **intro** tile sets the intro background.
+
+## Right-click a slide
+
+![Library / Timeline clip menu](../.gitbook/assets/context-menu.png)
+
+On a **photo or video** (not empty space):
+
+- **Slide Transition** — pick a single-slide cut, or **Random**
+- **Change Transition** — when the clip is already in a group
+- **Group Transition** — when **two or more** media clips are selected (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
+- **Ungroup** — when the clip is in a group
+- **Lens Effect** — Studio only; pin pooled effects on that slide or group
+- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**
+- **Set Duration…** (**⌘D**)
+- Videos: **Mute Video Sound** / **Unmute Video Sound**, **Reset Length**
+- **Auto Caption** or **Clear Caption**
+- **Remove from Project** (**⌘⌫**)
+
+On the **intro**: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Reset Center of Interest**.
+
+Right-click **empty** Library space: the same sort / shuffle / captions / Shuffle Transitions items as the header menus.
+
+## Select
+
+Click a thumb to select and seek. **⌘**-click toggles; **⇧**-click extends a range. Select in the Timeline and the Library scrolls that tile into view (and the other way around). Playback does not scroll either pane.
 
 ### Videos
 
 On import, MemoryString listens to each clip (Essential and Studio): **speech stays audible**; **silence or noise is muted**. Detection is on-device. If you skip the speech prompt, mute still uses **loudness only**.
 
-**Mute Video Sound** / **Unmute Video Sound** — right-click the clip, the speaker badge on the Library / Timeline cell, or the Inspector footer when that video is selected. Manual mute/unmute is yours; import does not lock it.
+**Mute Video Sound** / **Unmute Video Sound** — right-click, the speaker badge, or the Inspector footer. Manual mute is yours.
 
 Videos have a **2 second** minimum trim. **Reset Length** restores the full clip.
 
 ## Multi-photo badges
 
-Members of a group are one clip. Library badges look like **carousel 2/5**, **stack 1/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**. Selecting the group draws one champagne outline around the thumbs. Clicking a member seeks to that photo’s turn on stage. See [Multi-photo groups](motion/groups.md).
+Members of a group are one clip. Badges: **carousel 2/5**, **stack 1/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**. Selecting the group draws one champagne outline around the thumbs and dims the rest of the Library. Clicking a member seeks to that photo’s turn on stage. Timeline: click the cell for the whole window; click again to drill into one seat. See [Multi-photo groups](motion/groups.md).
+
+**File → Delete Project…** trashes the `.memorystring` file (if saved) and that project’s Imports copies, then opens an empty Untitled project. Originals outside **Imports** are never deleted.

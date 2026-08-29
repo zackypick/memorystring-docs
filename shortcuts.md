@@ -58,3 +58,11 @@ Traffic-light close closes the window only — reopen from the Dock.
 | **⌘,** | MCP Server |
 
 **Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash package (stacks, Mac specs, breadcrumbs; no media filenames).
+
+## Tips
+
+- Space and arrow keys pass through while you edit title text so typing stays natural.
+- **⌘V** / **⌘C** stay plain text paste and copy while a caption or title field is focused.
+- Undo/Redo stay available for most Inspector changes (Style, Motion, Intro, trims, shuffle).
+- Use **Playback → Play / Pause** from the menu if you prefer clicking (Space is not bound on that menu item).
+- **⌘D** applies to every selected slide. **⌘+** / **⌘-** / **⌘0** change UI text size (library thumbs and timeline row height), not slide captions.

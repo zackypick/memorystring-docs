@@ -1,6 +1,6 @@
 # Quick start
 
-Make a movie in a few minutes: import photos, press Play, Export when you like it. Prefer a walkthrough first? [Watch the demos](../README.md#watch-a-demo).
+Make a movie in a few minutes: import photos, press Play, Export when you like it. Prefer a guided tour? **Help → Show Walkthrough**, or [watch the demos](../README.md#watch-a-demo).
 
 ![Empty project — drop media or use Add photos & videos](../.gitbook/assets/empty-start.png)
 
@@ -26,7 +26,7 @@ Other types are skipped.
 
 Drag thumbnails in the Library or clips on the Timeline. The **Intro** slide stays first when it is on.
 
-Library calendar menu (or **Edit → Sort by Date Taken**): **Oldest First (Story Order)**, **Newest First**, or **Import Order**.
+Library calendar menu (or **Edit → Sort by Date Taken**): **Oldest First (Story Order)**, **Newest First**, **Import Order**, or **Shuffle**. In Essential, a first import auto-sorts **Oldest First** when the Library was empty.
 
 ## 4. Preview
 

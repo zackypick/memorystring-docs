@@ -34,7 +34,7 @@ Turn it on to fill tall frames with soft stage wash (no letterbox bars), keep ma
 
 It turns **on** automatically for **9:16**, **4:5**, and **2:3**. It stays **off** for Square, 16:9, and the other Classic frames. You can still toggle it by hand.
 
-The **Created with MemoryString** end credit always shows.
+A subtle bottom-right **Created with MemoryString** watermark (logo + credit) fades in once during the tail of the last photo — a quarter of that slide’s hold before it starts to leave — and stays through the end floor (about three seconds). It does not fade out and in again. On **Light** stage the credit uses the logo’s **bronze** brown so it stays readable on cream. There is no toggle to disable it.
 
 ## Export Movie
 
@@ -51,3 +51,10 @@ Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 Click **Export** and wait. The toolbar shows **Creating memory…** and a percent. Editing is paused (*Edits paused while creating memory*). If music is still decoding, Export waits.
 
 You get an H.264 MP4. The `.memorystring` project stays editable. Preview with **Space** (and Studio **Warm Now** if you want the baked pass) before you export — the file matches that show, not the workbench ambilight.
+
+## Before you export
+
+- Preview with **Space** and scrub for timing issues.
+- Confirm music rights for imported audio.
+- Check the Export dialog’s format matches where you will post.
+- **⌘S** so the project is saved alongside the MP4.
