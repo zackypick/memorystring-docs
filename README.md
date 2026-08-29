@@ -24,15 +24,18 @@ Everything runs on-device with your local media. Every movie eases onto the stag
 
 ## Watch a demo
 
-The same two clips as [codebyz.com/products/memory-string](https://www.codebyz.com/products/memory-string#demo):
+A walkthrough of the app, then the “Memories” slideshow it exported — the same two clips as [codebyz.com/products/memory-string](https://www.codebyz.com/products/memory-string#demo).
+
+**How to use MemoryString** — import, Oldest First, intro, Auto Caption, a Look, Export.
 
 {% embed url="https://www.codebyz.com/products/memory-string/how-to.mp4" %}
 
-*How to use MemoryString* — import, Oldest First, intro, Auto Caption, a Look, Export.
+**Slideshow export example** — a finished MemoryString movie (“Memories”).
 
-{% embed url="https://github.com/zackypick/memorystring-downloads/releases/download/site-demos/memories4.mp4" %}
-
-*Slideshow export example* — a finished MemoryString movie (“Memories”).
+<figure>
+  <video src=".gitbook/assets/memories4.mp4" poster=".gitbook/assets/memories-poster.jpg" controls></video>
+  <figcaption>Slideshow export example</figcaption>
+</figure>
 
 ## Who made it
 
