@@ -41,9 +41,19 @@ Clicking a **Look** chip also re-deals transitions (and related Style). See [Loo
 
 When “Grandma next to the kids” beats auto-sort, drag.
 
-**Library** — drag thumbs in the grid.
+### Library
 
-**Timeline** photo lane — drag clips; near either edge the strip auto-scrolls past what’s on screen.
+<figure><video src="../.gitbook/assets/library-drag-singles-groups.mp4" poster="../.gitbook/assets/library-drag-singles-groups.jpg"></video>
+<figcaption>Library — drag thumbs to reorder; drop on a slide or group seat to Replace</figcaption></figure>
+
+Drag thumbs in the grid.
+
+### Timeline
+
+<figure><video src="../.gitbook/assets/timeline-drag-singles-groups.mp4" poster="../.gitbook/assets/timeline-drag-singles-groups.jpg"></video>
+<figcaption>Timeline — drag a single clip or a whole group on the photo lane</figcaption></figure>
+
+Photo lane — drag clips; near either edge the strip auto-scrolls past what’s on screen.
 
 Drag from the Library onto the Timeline:
 
