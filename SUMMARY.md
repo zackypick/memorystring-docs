@@ -10,6 +10,7 @@
 ## Build your movie
 
 * [Library](library.md)
+* [Organizing](organizing.md)
 * [Preview](preview.md)
 * [Timeline](timeline.md)
 * [Intro and captions](intro-captions.md)

@@ -19,7 +19,7 @@ This GitBook describes **only controls that exist in the Mac app**. Names match 
 - **Multi-photo groups** — Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **Music** — bundled royalty-free tracks, or files you import
 - **Intro slide** — opening title card (on by default)
-- **Timeline** — reorder, trim, durations, captions, mute
+- **Timeline** — reorder, trim, durations, captions, mute ([Organizing](organizing.md))
 - **Export** — H.264 MP4 in Social and Classic frames, all on this Mac
 
 Everything runs on-device with your local media. Every movie eases onto the stage floor with a **Created with MemoryString** credit. There is no switch to turn that off.
@@ -52,6 +52,6 @@ Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 A
 
 ## How this book is organized
 
-Start with [Quick start](getting-started/quick-start.md), then the [window](workspace/the-window.md). Feature pages follow the Inspector tabs: Style, Intro, Motion, Audio, Format. Import detectors (mute, focus, Auto Caption) are in [Auto detection](auto-detection.md).
+Start with [Quick start](getting-started/quick-start.md), then the [window](workspace/the-window.md). Order the story in [Organizing](organizing.md). Feature pages follow the Inspector tabs: Style, Intro, Motion, Audio, Format. Import detectors (mute, focus, Auto Caption) are in [Auto detection](auto-detection.md).
 
 The same topics live in **Help → MemoryString Help…** (**⌘/**). **Help → Show Walkthrough** replays the first-run tour.

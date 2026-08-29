@@ -37,6 +37,8 @@ While dragging the playhead, a blue time chip shows tenths, then hundredths / fr
 
 Drag clips on the photo lane. Drag from the **Library** into a **gap** to insert or move; drop on a **single** or **group seat** to **Replace**. Music clips reorder on the music lane.
 
+First click on a group cell selects the whole window; a second click on a thumb drills into that seat so you can drag it alone. See [Organizing](organizing.md).
+
 Select a clip, then drag **edge grips** on either end:
 
 - **Videos** — frame feedback in the trim; **2 second** minimum. **Reset Length** restores the full file

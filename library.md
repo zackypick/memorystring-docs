@@ -55,6 +55,8 @@ See [Intro and captions](intro-captions.md).
 
 Drag thumbs in the grid. Drag onto the Timeline **photo lane**: a **gap** inserts or moves; drop on a **single** or a **group seat** until **Replace**; drop on the **intro** tile sets the intro background.
 
+Whole groups move together until you drill into a seat. Full story: [Organizing](organizing.md).
+
 ## Right-click a slide
 
 ![Library / Timeline clip menu](../.gitbook/assets/context-menu.png)
