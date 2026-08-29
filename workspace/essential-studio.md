@@ -4,7 +4,7 @@ The toolbar segmented control switches **Essential** and **Studio**. Same projec
 
 ![Essential selected on the toolbar](../.gitbook/assets/toolbar-essential.png)
 
-![Studio selected on the toolbar](../.gitbook/assets/toolbar-right.png)
+![Studio selected on the toolbar](../.gitbook/assets/toolbar-studio.png)
 
 **View → Switch to Studio Mode** / **Switch to Essential Mode** does the same.
 
