@@ -16,8 +16,6 @@ Birthdays, anniversaries, any occasion. Export for the popular networks in a bre
 
 ## Watch a demo
 
-Same two clips as [codebyz.com/products/memory-string](https://www.codebyz.com/products/memory-string#demo).
-
 ### How to use MemoryString
 
 {% embed url="https://www.codebyz.com/products/memory-string/how-to.mp4" %}
