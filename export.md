@@ -1,12 +1,14 @@
 # Format and export
 
-Inspector → **Format** sets the aspect you edit in (and the default for Export). Frame rate and quality are in the **Export Movie** dialog, not this tab.
+This is where the movie leaves the desk and reaches family, friends, or a feed. Inspector → **Format** sets the aspect you edit in — and the default for Export. Frame rate and quality live in the **Export Movie** dialog, not here.
 
 ![Social and Classic destination swatches, Social Safe](../.gitbook/assets/inspector-format-swatches.png)
 
-The stills below are the **same show** at the same moment — one photo on stage — exported in each destination frame so the aspect is obvious.
+Same show, same moment, one photo on stage — each destination frame side by side.
 
 ## Social
+
+Tall frames for phones and feeds.
 
 ### TikTok
 
@@ -34,6 +36,8 @@ TV · 16:9 (1920×1080, default)
 
 ## Classic
 
+Wider stages — TV, photo print, square post, cinema ribbon.
+
 ### Classic
 
 4:3 (1440×1080)
@@ -58,13 +62,13 @@ Post · 1:1 (1080×1080)
 
 <figure><img src="../.gitbook/assets/format-cinema.jpg" alt="Same show exported as Cinema 21:9 (2560×1080)"><figcaption>Cinema · 2560×1080</figcaption></figure>
 
-Every movie eases to the stage floor (black on Dark, cream on Light). There is no toggle for that fade.
+Every movie eases to the stage floor (black on Dark, cream on Light). No toggle for that fade — the bow is part of the show.
 
 ## Social Safe
 
-An **export mode**, not a Look. Same toggle on Format and in the Export dialog.
+An **export mode**, not a Look — same toggle on Format and in the Export dialog. Built for tall frames that hate letterbox bars.
 
-Turn it on to fill tall frames with soft stage wash (no letterbox bars), keep mats and effects, and clamp Photo Size to about **85–98%**.
+Turn it on to fill tall frames with soft stage wash, keep mats and effects, and clamp Photo Size to about **85–98%**.
 
 It turns **on** automatically for **9:16**, **4:5**, and **2:3**. It stays **off** for Square, 16:9, and the other Classic frames. You can still toggle it by hand.
 
@@ -82,9 +86,9 @@ Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 - **Quality** — Studio: Low / Medium / High / Maximum
 - **Frame Rate** — **30** (smaller/faster) or **60** (smoother motion)
 
-Click **Export** and wait. The toolbar shows **Creating memory…** and a percent. Editing is paused (*Edits paused while creating memory*). If music is still decoding, Export waits.
+Click **Export** and wait. Toolbar shows **Creating memory…** and a percent. Editing pauses (*Edits paused while creating memory*). If music is still decoding, Export waits.
 
-You get an H.264 MP4. The `.memorystring` project stays editable. Preview with **Space** (and Studio **Warm Now** if you want the baked pass) before you export — the file matches that show, not the workbench ambilight.
+You get an H.264 MP4; the `.memorystring` project stays editable. Preview with **Space** (and Studio **Warm Now** if you want the baked pass) before you export — the file matches that show, not the workbench ambilight.
 
 ## Before you export
 

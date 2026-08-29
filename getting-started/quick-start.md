@@ -1,10 +1,12 @@
 # Quick start
 
-Make a movie in a few minutes: import photos, press Play, Export when you like it. Prefer a guided tour? **Help → Show Walkthrough**, or [watch the demos](../README.md#watch-a-demo).
+Photos in, Play, Export — a finished movie in a few minutes. Prefer a guided tour? **Help → Show Walkthrough**, or [watch the demos](../README.md#watch-a-demo).
 
 ![Empty project — drop media or use Add photos & videos](../.gitbook/assets/empty-start.png)
 
 ## 1. Start a project
+
+Blank stage or an old `.memorystring` — either way you’re editing a real project file.
 
 - **File → New** (**⌘N**), or **⌘W** to clear the current document (the traffic-light close does **not** quit — reopen from the Dock).
 - **File → Open…** (**⌘O**), **Open Recent**, or drop a `.memorystring` file onto the window.
@@ -12,7 +14,7 @@ Make a movie in a few minutes: import photos, press Play, Export when you like i
 
 ## 2. Import media
 
-Bring photos and videos into the **Library** (left):
+Fill the **Library** on the left — the cast of the movie.
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
 2. Or drop folders, photos, or videos onto the window.
@@ -24,7 +26,7 @@ Other types are skipped.
 
 ## 3. Order the story
 
-Drag thumbnails in the Library or clips on the Timeline. The **Intro** slide stays first when it is on.
+Drag Library thumbnails or Timeline clips until the order feels like the day you lived. The **Intro** slide stays first when it is on.
 
 Library calendar menu (or **Edit → Sort by Date Taken**): **Oldest First (Story Order)**, **Newest First**, **Import Order**, or **Shuffle**. In Essential, a first import auto-sorts **Oldest First** when the Library was empty.
 
@@ -38,13 +40,13 @@ Full detail — including Shuffle Transitions, replacing a seat, and reordering 
 
 ## 5. Music
 
-Music lives in Inspector → **Audio**, not the Library.
+Soundtrack lives in Inspector → **Audio**, not the Library.
 
 After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks. Toolbar **+** → **Music…** or **Royalty-Free Library…**. See [Music](../music.md).
 
 ## 6. Polish (optional)
 
-Open the Inspector (**⌥⌘I**). Tabs:
+Inspector (**⌥⌘I**) when you want more than the defaults:
 
 - **Style** — Look, Energy, Stage, Photo Size, Captions, Customize… (Studio)
 - **Intro** — opening card

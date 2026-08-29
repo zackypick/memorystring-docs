@@ -1,6 +1,6 @@
 # Essential and Studio
 
-The toolbar segmented control switches **Essential** and **Studio**. Same project; Studio shows more knobs.
+Two depths of the same desk. The toolbar segmented control switches **Essential** and **Studio** — same project file; Studio simply opens more drawers.
 
 ![Essential selected on the toolbar](../.gitbook/assets/toolbar-essential.png)
 
@@ -10,7 +10,7 @@ The toolbar segmented control switches **Essential** and **Studio**. Same projec
 
 ## Inspector tabs
 
-Essential keeps **Style, Intro, Audio, Format**. Studio adds **Motion**.
+Essential keeps the everyday tabs — **Style, Intro, Audio, Format**. Studio adds the motion lab: **Motion**.
 
 ![Essential inspector tabs](../.gitbook/assets/inspector-essential-tabs.png)
 
@@ -19,6 +19,8 @@ Essential keeps **Style, Intro, Audio, Format**. Studio adds **Motion**.
 ![Essential Style inspector](../.gitbook/assets/inspector-essential-style.png)
 
 ## What changes
+
+What Essential hides, and what Studio unlocks.
 
 | | Essential | Studio |
 | --- | --- | --- |
@@ -32,7 +34,7 @@ Essential keeps **Style, Intro, Audio, Format**. Studio adds **Motion**.
 | Per-slide **Lens Effect** (right-click) | Hidden | Timeline / Library / intro |
 | Export **Quality** | Hidden | Low / Medium / High / Maximum |
 
-Looks, Energy, Stage, Photo Size, Format, music, import, and export still work in Essential.
+Looks, Energy, Stage, Photo Size, Format, music, import, and export still work in Essential. Not a lesser app — a quieter one.
 
 **Essential import:** if the Library was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
 

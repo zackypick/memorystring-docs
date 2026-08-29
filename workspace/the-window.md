@@ -1,6 +1,6 @@
 # The window
 
-Four panes around the stage:
+MemoryString is one composition: Library, Preview, Inspector, Timeline — four panes around a stage. Learn the map once; after that your hands stop hunting.
 
 ![Library, Preview, Inspector, and Timeline](../.gitbook/assets/the-window-panes.png)
 
@@ -15,7 +15,7 @@ Four panes around the stage:
 
 ## Toolbar
 
-On the right:
+The useful stuff sits on the right — mode, export, help, and the Inspector toggle.
 
 ![Essential / Studio, Export, Help, Inspector](../.gitbook/assets/toolbar-right.png)
 
@@ -30,14 +30,14 @@ Toolbar **+** (near the project name) is **Photos & Videos…**, **Music…**, a
 
 ## Inspector clip bar
 
-The bottom of the Inspector stays available on every tab: caption (or intro text), **Generate**, **Aa** (caption position / color / size), and trim / mute / volume / remove when a video or soundtrack is selected.
+Whatever tab you’re on, the bottom strip stays: caption (or intro text), **Generate**, **Aa** (caption position / color / size), and trim / mute / volume / remove when a video or soundtrack is selected.
 
 ## Text size
 
-**View → Increase / Decrease / Default Text Size** (**⌘+** / **⌘-** / **⌘0**) scales app UI, Library thumbs, and Timeline row height — not slide captions.
+Chrome, not captions. **View → Increase / Decrease / Default Text Size** (**⌘+** / **⌘-** / **⌘0**) scales app UI, Library thumbs, and Timeline row height — not slide captions.
 
 ## Walkthrough
 
-**Help → Show Walkthrough** replays the first-run tour: Bring in moments → Your Library → Shape the story → Watch it come alive → Make it yours → Share your memory → Essential or Studio.
+Forgot the first-run tour? **Help → Show Walkthrough** plays it again: Bring in moments → Your Library → Shape the story → Watch it come alive → Make it yours → Share your memory → Essential or Studio.
 
-**MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow.
+**MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow — your photos stay put; only the chrome forgets your habits.

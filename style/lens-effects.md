@@ -1,77 +1,103 @@
 # Lens effects
 
-Studio → **Style → Customize → Lens Effects**. Optical light on the frame. Atmosphere is weather; Decals are stick-on motifs. Checkboxes A–Z (same column-major order as Motion):
+Sun flare, soft vignette, glassy orbs — optical light on the frame. Studio → **Style → Customize → Lens Effects**. Atmosphere is weather; Decals are motifs. Checkboxes A–Z (same column-major order as Motion):
 
 **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prime, Pulse, Refract Bubbles, Sparkle, Starburst, Sweep, Veiling Glare, Vignette**
 
-Plus **Randomize Selected** and **How often**. Each clip below is 1080p from a real export with that effect pinned — the player opens on the cover frame.
+Plus **Randomize Selected** and **How often**. Clips: 1080p real exports with that effect pinned; player opens on the cover frame.
 
 ### Anamorphic Streaks
+
+Horizontal blue/amber light bars across stage and card, steered off the subject.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-anamorphic-streaks.mp4" %}
 
 ### Bokeh
 
+Soft bokeh circles in the optical depth of field.
+
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-bokeh.mp4" %}
 
 ### Flare
+
+A hexagonal flare beam across the frame.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-flare.mp4" %}
 
 ### Ghosting
 
+A chain of chromatic aperture ghosts running from the flare through the frame.
+
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-ghosting.mp4" %}
 
 ### Orbs
+
+Warm and cool discs drifting slowly across the plate.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-orbs.mp4" %}
 
 ### 50mm Prime
 
+Bright central glow plus a line of soft orbs down the flare’s diagonal — card-safe, through the centre.
+
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-50mm-prime.mp4" %}
 
 ### Pulse
+
+Tiny discs pulsing near the focus point.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-pulse.mp4" %}
 
 ### Refract Bubbles
 
+Glassy spheres that magnify and bend the photo at the sides and backdrop.
+
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-refract-bubbles.mp4" %}
 
 ### Sparkle
+
+Soft amber dust motes drifting through the frame.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-sparkle.mp4" %}
 
 ### Starburst
 
+Diffraction spikes from a bright point in the glass.
+
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-starburst.mp4" %}
 
 ### Sweep
+
+A flock of soft discs sweeping across the frame.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-sweep.mp4" %}
 
 ### Veiling Glare
 
+Soft highlight bloom veiling the plate.
+
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-veiling-glare.mp4" %}
 
 ### Vignette
+
+Edges fall into shadow around the print.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-vignette.mp4" %}
 
 A photo plays **at most one** pooled lens effect. Choice is stable from the photo’s seed.
 
-- **Randomize Selected on** (how every Look leaves it): every checked box has **equal odds**; **How often** (default **70%**) is how many photos get one at all. Groups a bit more often. **Refract Bubbles** plays as a 2–3 slide take when it wins, and wins fewer anchors so its screen time stays near a fair share.
-- **Randomize Selected off**: Vignette and optical accents (Bokeh, 50mm Prime, Ghosting, Veiling Glare, Starburst, Anamorphic Streaks) can paint on **every** photo instead of taking the slot. Checking **Refract Bubbles** puts them all back into one draw (bubbles never stack). **How often** stays enabled when Refract Bubbles is on.
+- **Randomize Selected on** (every Look’s default): equal odds per checked box; **How often** (default **70%**) = how many photos get one at all. Groups a bit more often. **Refract Bubbles** wins as a 2–3 slide take, fewer anchors, fair screen time.
+- **Randomize Selected off**: Vignette and optical accents (Bokeh, 50mm Prime, Ghosting, Veiling Glare, Starburst, Anamorphic Streaks) can paint on **every** photo instead of taking the slot. Checking **Refract Bubbles** puts them all back into one draw (bubbles never stack). **How often** stays on when Refract Bubbles is on.
 
-**Bokeh / Sweep / Pulse** are three styles of the same bokeh-circle effect (each takes a pool slot). Anything you check yourself joins the rotation on equal odds — there is no cap of three.
+**Bokeh / Sweep / Pulse** = three styles of the same bokeh-circle effect (each a pool slot). Anything you check joins on equal odds — no cap of three.
 
-If Randomize is on and **no other lens boxes** are checked, MemoryString draws one stable optical effect per photo from the full pool. Atmosphere and film grain / fringe / scratches are never in that pool.
+Randomize on with **no other lens boxes** checked: one stable draw per photo from the full pool. Atmosphere and film grain / fringe / scratches are never in that pool.
 
-**Studio:** right-click a Timeline or Library slide → **Lens Effect** (under Slide Transition) to pin effects on that slide or the whole multi-photo group. Current effects are checked. **Refract Bubbles** is scenery: consecutive slides (or consecutive seats) with Bubbles checked share one field; other pins still stack. Unchecking Bubbles on one slide drops only that slide. Pins survive Look re-deals. Essential does not show this menu.
+**Studio:** right-click Timeline or Library → **Lens Effect** (under Slide Transition) to pin on that slide or the whole multi-photo group. Current effects are checked. **Refract Bubbles** is scenery: consecutive slides (or seats) with Bubbles share one field; other pins stack. Uncheck Bubbles on one slide → only that slide drops. Pins survive Look re-deals. Essential hides this menu — Studio’s quiet privilege.
 
 On a group window, vignette and light leak ride the whole open once. Atmosphere and Decals also paint on Photo Stack / Carousel / Ribbon / Filmstrip windows. Grain and scratches stop once the closing fade owns the frame.
 
-Plate, Ambience, Film, and Atmosphere & Decals stay on [Customize](customize.md).
+Plate, Ambience, Film, Atmosphere & Decals: [Customize](customize.md).
 
 ## Anamorphic Streaks (when checked)
 

@@ -1,6 +1,6 @@
 # Multi-photo groups
 
-Several photos or videos as one beat. On/off is always **Motion → Transitions Mix → Multi-photo**. Sections below that hold cadence, count, and direction.
+When one photo isn’t the whole beat — stacks, rings, ribbons, tossed prints. On/off: **Motion → Transitions Mix → Multi-photo**. Sections below hold cadence, count, and direction.
 
 ![3D Ribbon and Carousel cadence](../.gitbook/assets/inspector-motion-groups.png)
 
@@ -10,7 +10,7 @@ Each featured beat inside a group is **72.5%** of a single slide’s hero time. 
 
 With two or more kinds on, one planner lays out every window: kinds take turns (widest first), a non-travel kind lands between travel kinds when it can, and windows spread evenly. Each kind’s “every N” votes on **one shared rhythm**. **Shuffle Transitions** keeps count/cadence but scatters gaps.
 
-Once you rearrange slides by hand, windows are **pinned** to those photos. Sorting, shuffling, resetting, or changing cadence / count hands placement back to the planner.
+Rearrange slides by hand and windows **pin** to those photos — the planner steps aside until you sort, shuffle, reset, or change cadence / count.
 
 Right-click two or more selected clips → **Group Transition**; **Change Transition** or **Ungroup** on an existing group. See [Library](../library.md).
 
@@ -25,7 +25,7 @@ Videos that fit a window play through it; shorter clips hold the first frame unt
 - **Stack Every** — 3…8 (default 4)
 - **Stack Size** — 3, 4, or 5 cards (default 4)
 
-Fanned cards; faded Ken Burns washes behind (soft crossfade every couple of presents), coloured by Style **Backdrop**.
+Fanned cards in a loose pile; faded Ken Burns washes behind soft-crossfade every couple of presents, coloured by Style **Backdrop**.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-photo-stack.mp4" %}
 
@@ -36,7 +36,7 @@ Fanned cards; faded Ken Burns washes behind (soft crossfade every couple of pres
 - **Photos** — 3, 4, or 5 seats (default 5)
 - **Direction** — Left to Right / Right to Left / Random (default)
 
-Cards join a turning ring from the incoming side, one revolution, then peel off. Beat length follows seat count and Energy. Front card matches single-slide size; sides foreshorten.
+Cards join a turning ring from the incoming side, ride one revolution, then peel off. Beat length follows seat count and Energy. Front card matches single-slide size; sides foreshorten.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-carousel.mp4" %}
 
@@ -47,7 +47,7 @@ Cards join a turning ring from the incoming side, one revolution, then peel off.
 - **Photos** — 4 / 5 / 6 (default 5)
 - **Direction** — Left to Right / Right to Left / Random (default)
 
-Open belt; one hero at a time, flanks beside it. Spacing breathes with Photo Size.
+An open depth belt — one hero at a time, flanks beside it. Spacing breathes with Photo Size.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-ribbon.mp4" %}
 
@@ -57,7 +57,7 @@ Open belt; one hero at a time, flanks beside it. Spacing breathes with Photo Siz
 - **Pair Every** — 3…8 (default 6)
 - Always **two** photos
 
-Cover-flow deck: front advances to Photo Size, then flies aside as the back becomes the hero.
+Cover-flow for two: front advances to Photo Size, then flies aside as the back becomes the hero.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-perspective-pair.mp4" %}
 
@@ -70,7 +70,7 @@ Cover-flow deck: front advances to Photo Size, then flies aside as the back beco
 
 Off for new projects until you enable it or pick a Look that opts in (**Vintage**, **Cinematic**, **Noir**, **B&W**, **Crisp**).
 
-Flat perforated strip; centre hero at Photo Size. Distinct from Ribbon (depth belt) and Carousel (orbit).
+Flat perforated strip; centre hero at Photo Size — not Ribbon’s depth belt, not Carousel’s orbit.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-filmstrip.mp4" %}
 
@@ -84,7 +84,7 @@ Flat perforated strip; centre hero at Photo Size. Distinct from Ribbon (depth be
 - **Throw** — Mild / Medium / Full
 - **Speed** — Gentle / Normal / Snappy
 
-Cards throw in, land scattered, come forward in timeline order, then throw off the other side. Waiting cards stay opaque (dimmed, softly blurred). The next slide crossfades only after the last card has left.
+Cards throw in, land scattered, step forward in timeline order, then throw off the other side. Waiting cards stay opaque (dimmed, softly blurred). Next slide waits until the last card has left.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-scatter-settle.mp4" %}
 

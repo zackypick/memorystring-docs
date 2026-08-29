@@ -1,6 +1,6 @@
 # MCP Server
 
-Control MemoryString from an MCP-capable agent **while the app is open**. The server does not start until you enable it. It listens only on this Mac (`127.0.0.1`).
+Let an agent drive the open project — import, restyle, scrub, export — without clicking every pane. Works only **while the app is open**. Nothing listens until you enable it, and only on this Mac (`127.0.0.1`).
 
 **MemoryString → MCP Server** (**⌘,**).
 
@@ -20,9 +20,9 @@ Default **Port** is **18765**. If status shows the port is already in use, pick 
 
 ## Token
 
-Every request needs the Bearer token shown here. MemoryString creates one on first launch so **Show** / **Copy** work even before you enable the server.
+The door key for every request. MemoryString creates a Bearer token on first launch so **Show** / **Copy** work even before you enable the server.
 
-**Regenerate Token…** replaces the secret — existing client configs stop working until you paste the new snippet. The token is stored on this Mac (Application Support), not in the project file.
+**Regenerate Token…** replaces the secret — existing client configs stop working until you paste the new snippet. Stored on this Mac (Application Support), not in the project file.
 
 **MemoryString → Reset All Settings…** turns the MCP server **off**. The token file is kept.
 
@@ -47,4 +47,4 @@ Help and About windows are not exposed as UI; use the **help** tool to read topi
 
 **Match Look Soundtrack** is on by default (same as the app). After the first photos land it soft-seeds mood music; a Look click retargets that bed while it is still untouched. `audio.import` replaces that auto bed, same as a Finder drop. Soundtrack edits (**import** / **remove** / **reorder** / **mute** / **volume** / music trim) error while `isLoadingMusic` is true — poll **get_state** and retry. Turn **match_look** off *before* importing photos or applying a Look if you want silence or only your files.
 
-Destructive **delete** requires `confirm: true`. Untitled work will not be thrown away unless you save first or pass `discard_unsaved`.
+Destructive **delete** requires `confirm: true`. Untitled work is not thrown away unless you save first or pass `discard_unsaved` — the agent has to mean it.

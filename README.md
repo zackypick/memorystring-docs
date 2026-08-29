@@ -16,7 +16,7 @@ Import photos and videos, add music and a Look, hit Export. Social frames includ
 - **Looks** — Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp. One chip, whole new film
 - **Music** — bundled royalty-free tracks, or yours
 - **The rest of the film** — intro title, captions, reorder, trim, mute ([Organizing](organizing.md))
-- **Export** — H.264 MP4, Social and Classic frames. Every movie signs off with a **Created with MemoryString** credit, and no, there is no switch for that
+- **Export** — H.264 MP4, Social and Classic frames, rendered on this Mac
 
 ## Watch a demo
 

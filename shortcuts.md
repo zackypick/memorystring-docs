@@ -1,8 +1,10 @@
 # Keyboard shortcuts
 
-Menu items also show their keys.
+Hands on the keys — this page is the cheat sheet. Menu items also show their keys.
 
 ## Project
+
+File-level basics.
 
 | Key | Action |
 | --- | --- |
@@ -18,6 +20,8 @@ Traffic-light close closes the window only — reopen from the Dock.
 
 ## Edit
 
+Undo, paste, duration, rotate.
+
 | Key | Action |
 | --- | --- |
 | **⌘Z** / **⇧⌘Z** | Undo / Redo (**⌘Y** also Redo when not typing) |
@@ -32,6 +36,8 @@ Traffic-light close closes the window only — reopen from the Dock.
 
 ## View
 
+Chrome and zoom.
+
 | Key | Action |
 | --- | --- |
 | **⌃⌘S** | Toggle Sidebar |
@@ -41,6 +47,8 @@ Traffic-light close closes the window only — reopen from the Dock.
 | **⌘+** / **⌘-** / **⌘0** | Increase / Decrease / Default **UI** text size (not Timeline zoom, not slide captions) |
 
 ## Playback
+
+Watch without leaving the keyboard.
 
 | Key | Action |
 | --- | --- |
@@ -52,6 +60,8 @@ Traffic-light close closes the window only — reopen from the Dock.
 
 ## Help
 
+Docs and diagnostics.
+
 | Key | Action |
 | --- | --- |
 | **⌘/** | MemoryString Help… |
@@ -61,8 +71,4 @@ Traffic-light close closes the window only — reopen from the Dock.
 
 ## Tips
 
-- Space and arrow keys pass through while you edit title text so typing stays natural.
-- **⌘V** / **⌘C** stay plain text paste and copy while a caption or title field is focused.
-- Undo/Redo stay available for most Inspector changes (Style, Motion, Intro, trims, shuffle).
-- Use **Playback → Play / Pause** from the menu if you prefer clicking (Space is not bound on that menu item).
-- **⌘D** applies to every selected slide. **⌘+** / **⌘-** / **⌘0** change UI text size (library thumbs and timeline row height), not slide captions.
+Space and arrows pass through while you edit title text. **⌘V** / **⌘C** stay plain text while a caption or title field is focused. Undo/Redo cover most Inspector changes (Style, Motion, Intro, trims, shuffle). Prefer clicking? **Playback → Play / Pause** (Space is not bound on that menu item). **⌘D** applies to every selected slide. **⌘+** / **⌘-** / **⌘0** change UI text size (library thumbs and timeline row height), not slide captions.
