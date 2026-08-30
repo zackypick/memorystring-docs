@@ -11,8 +11,6 @@ MemoryString is one composition: Library, Preview, Inspector, Timeline — four 
 | **Inspector** | Right | Style, Intro, Motion, Audio, Format |
 | **Timeline** | Bottom | Photo lane + music lane |
 
-![Inspector tabs: Style, Intro, Motion, Audio, Format](../.gitbook/assets/inspector-tabs.png)
-
 ## Toolbar
 
 The useful stuff sits on the right — mode, export, help, and the Inspector toggle.
@@ -26,9 +24,43 @@ The useful stuff sits on the right — mode, export, help, and the Inspector tog
 
 Toolbar **+** (near the project name) is **Photos & Videos…**, **Music…**, and **Royalty-Free Library…**.
 
-**View → Toggle Sidebar** (**⌃⌘S**) shows or hides the Library; the Inspector toggle (**⌥⌘I**) does the same on the right. Both panels **slide** open and closed — they do not slam or remount the preview. Drag the **vertical divider** on the Library’s right edge to widen or narrow it; the width is remembered.
+## Library
 
-Drag the **thin seam above the Timeline** up or down to grow or shrink the filmstrip height (up to about **160** points extra). That height is remembered too — see [Timeline](../timeline.md#timeline-height).
+Photos and videos for this show. Calendar sort, captions bubble, **⋯**, and **+** sit on the header.
+
+![Library — scroll thumbs, select a slide](../.gitbook/assets/window-library.gif)
+
+**View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it; the width is remembered.
+
+More: [Library](../library.md).
+
+## Preview
+
+The stage is the movie. Under it, the transport — Play, `current / total`, slide **N of M**, and the scrub bar.
+
+![Preview stage and transport](../.gitbook/assets/preview-stage-transport.jpg)
+
+**Space** plays. Click or drag the bar to scrub. **←** / **→** nudge.
+
+More: [Preview](../preview.md).
+
+## Inspector
+
+Style, Intro, Audio, and Format in **Essential**. **Studio** adds **Motion** and the deeper Customize drawers. Whatever tab you’re on, the bottom strip stays: caption (or intro text), **Generate**, **Aa**, and trim / mute / volume / remove when a video or soundtrack is selected.
+
+![Inspector in Essential — Style, Intro, Audio, Format](../.gitbook/assets/window-inspector-essential.gif)
+
+![Inspector in Studio — Style, Intro, Motion, Audio, Format](../.gitbook/assets/window-inspector-studio.gif)
+
+The Inspector toggle (**⌥⌘I**) slides the column open and closed — it does not remount the preview.
+
+More: [Essential and Studio](essential-studio.md).
+
+## Timeline
+
+Photo lane on top, music underneath. Drag the **thin seam above the Timeline** up or down to grow or shrink the filmstrip (up to about **160** points extra). That height is remembered. The zoom slider (minus / plus magnifying glass) scales the strip **live**.
+
+![Timeline — photo lane, music, zoom](../.gitbook/assets/window-timeline.gif)
 
 ![Compact Timeline filmstrip](../.gitbook/assets/timeline-height-low.png)
 
@@ -36,9 +68,9 @@ Drag the seam above the filmstrip to make the strip taller or shorter.
 
 ![Taller Timeline filmstrip](../.gitbook/assets/timeline-height-high.png)
 
-## Inspector clip bar
+**⌘+** / **⌘-** still scale the base row with UI text size; the drag adds on top.
 
-Whatever tab you’re on, the bottom strip stays: caption (or intro text), **Generate**, **Aa** (caption position / color / size), and trim / mute / volume / remove when a video or soundtrack is selected.
+More: [Timeline](../timeline.md).
 
 ## Text size
 
