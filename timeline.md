@@ -83,7 +83,7 @@ Inspector → **Motion** → **Timeline**:
 
 - **Sort by Date Taken** — Oldest First / Newest First / Import Order
 - **Shuffle Slides** — pauses playback, randomizes photo order, seeks to the start
-- **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and window positions. Cadence, which group types are on, and card counts stay. Hand-picked Slide Transitions: asks before clearing. Also Library **⋯**:
+- **Shuffle Transitions** — keeps photo order; starts a fresh deal of single-slide cuts, group kinds, and window positions. Cadence, which group types are on, and card counts stay. Hand-picked Slide Transitions: asks before clearing. Also Library **⋯**:
 
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](../.gitbook/assets/library-menu-options.png)
 

@@ -67,7 +67,7 @@ Same photos, different cuts — when motion feels stuck:
 
 Drag thumbs in the grid. Onto the Timeline **photo lane**: a **gap** inserts or moves; drop on a **single** or a **group seat** until **Replace**; drop on the **intro** tile sets the intro background.
 
-Whole groups move together until you drill into a seat. Full story: [Organizing](organizing.md#drag-to-reorder).
+Whole groups move together until you drill into a seat — the drag shows the whole cluster (not one placeholder tile), and other groups stay intact when you drop. Full story: [Organizing](organizing.md#drag-to-reorder).
 
 ## Right-click a slide
 

@@ -59,7 +59,7 @@ Hand-dragging **pins** group windows to those photos. Sorting, shuffling, resett
 
 ### Singles vs whole groups
 
-First click on a group selects the **whole window** (champagne outline in the Library; one cell on the Timeline). Drag then moves every seat together.
+First click on a group selects the **whole window** (champagne outline in the Library; one cell on the Timeline). Drag then moves every seat together — the flying cluster keeps the members and badge, and reshapes to show where the group will land. Dropping does not split another group; gaps open at group edges, not between someone else’s seats.
 
 Right-click two or more selected clips → **Group Transition**. **Ungroup** / **Change Transition** on an existing group. See [Library](library.md#right-click-a-slide).
 
