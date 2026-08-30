@@ -37,7 +37,7 @@ Library **⋯**, Inspector → **Motion → Timeline**, or right-click empty Lib
 
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-menu-options.png)
 
-Clicking a **Look** chip also re-deals transitions (and related Style). See [Looks](style/looks.md#the-eight-chips).
+Clicking a **Look** chip also starts a fresh deal for transitions (and related Style). Everyday edits leave the show alone — see [Looks](style/looks.md#when-the-show-stays-put).
 
 ## Drag to reorder
 

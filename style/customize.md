@@ -40,7 +40,7 @@ Backdrop = blurred enlarged photo (multi-photo washes crossfade every couple of 
 | --- | --- |
 | **Grayscale** | Every wash fully mono |
 | **Colored** | Every wash keeps the photo’s colours |
-| **Random** | About half mono / half colour, **stable per photo seed** — preview matches export |
+| **Random** | About half mono / half colour, **stable per photo** — preview matches export |
 
 Older projects migrate: Black & White → Grayscale, Color → Colored, Mixed → Random.
 
@@ -48,7 +48,7 @@ Older projects migrate: Black & White → Grayscale, Color → Colored, Mixed �
 
 Optical light on the frame. Full list, clips, Randomize / How often, Anamorphic / Refract knobs: **[Lens effects](lens-effects.md)**.
 
-Checkboxes A–Z: **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prime, Pulse, Refract Bubbles, Sparkle, Starburst, Sweep, Veiling Glare, Vignette**, plus **Randomize Selected** and **How often**. A photo plays **at most one** pooled effect.
+Checkboxes A–Z: **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prime, Pulse, Refract Bubbles, Sparkle, Starburst, Sweep, Veiling Glare, Vignette**, plus **Randomize Selected** and **How often**. A photo plays **at most one** pooled effect. Unticking then re-ticking a box returns the show where it was; **How often** only changes how many slides carry an effect. Full contract: [Lens effects](lens-effects.md#randomize-selected).
 
 ## Film
 
@@ -62,7 +62,7 @@ With a photo selected, **This Photo** sets each to **Inherit**, **Off**, or **On
 
 ## Atmosphere & Decals
 
-Weather and motifs — each menu a **single choice**, default **None**. Looks never set these; picking one does not re-deal the lens pool.
+Weather and motifs — each menu a **single choice**, default **None**. Looks never set these; picking one does not reshuffle the lens pool.
 
 - **Atmosphere** — **None** · **Bubbles** (soap films) · **Leaves** (autumn drift + maple edge motifs)
 - **Decals** — **None** · **Travel** (pins / routes / folded map / plane / suitcase **plus** a dotted route plane) · **Vacation** (holiday motifs + the same route plane) · **Party** (sparse cues + a sparkle tick) · **Florals** · **Wedding** · **Pets** · **Sports**

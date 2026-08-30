@@ -59,7 +59,7 @@ Same photos, different cuts — when motion feels stuck:
 
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](../.gitbook/assets/library-menu-options.png)
 
-- **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector. If you hand-picked **Slide Transition**s, it asks before clearing them.
+- **Shuffle Transitions** — keeps photo order; starts a fresh deal of single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector. If you hand-picked **Slide Transition**s, it asks before clearing them. Everyday edits leave curls and lens picks alone — see [Looks](style/looks.md#when-the-show-stays-put).
 - **Reset Slide Durations** — restores default slide timing
 - **Show Transition Names** — badges on Library thumbs
 

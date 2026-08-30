@@ -14,7 +14,19 @@ Same photo under each chip — grade, mat, wash, and grain change; the kids don�
 
 Click a chip and MemoryString commits: it re-populates **Motion → Transitions Mix**, **re-deals** single-slide cuts from that mix’s bias, and applies that Look’s group settings. Hand-picked Motion checkboxes are discarded.
 
-**Click the same Look again** to roll a new deal — same wardrobe, different shuffle: three lens effects (every Look except **Clean**), a new mix of single-slide cuts, and a new Match Look bed if that playlist is still the untouched auto soundtrack. Pins under Studio **Lens Effect** survive. Atmosphere and Decals stay **None** unless you picked them.
+**Click the same Look again** for a fresh deal — same wardrobe, different arrangement: three lens effects (every Look except **Clean**), a new mix of single-slide cuts, and a new Match Look bed if that playlist is still the untouched auto soundtrack. Pins under Studio **Lens Effect** survive. Atmosphere and Decals stay **None** unless you picked them.
+
+### When the show stays put
+
+Everyday edits leave the rest of the movie alone — curls, torn edges, sunbeams, light leaks, entry directions, and which lens effect each photo prefers:
+
+- Caption, center of interest, slide duration, a hand-picked transition, or a Studio **Lens Effect** pin
+- Reorder or remove a photo; reopen the project
+- Add a photo — only the newcomer gets dressed; neighbours stay as they were
+
+Changing the center of interest re-aims framing around the new focus; it does not reshuffle anything else.
+
+**Look** chips and **Shuffle Transitions** are the deliberate fresh start — a new deal across the show. Ticking lens checkboxes is different: only some slides move, and unticking then re-ticking puts them back. See [Lens effects](lens-effects.md#randomize-selected).
 
 Editing **Customize…**, **Stage**, **Photo Size**, or **Motion** switches the chip to **Custom**.
 

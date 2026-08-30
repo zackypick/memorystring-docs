@@ -84,14 +84,22 @@ Edges fall into shadow around the print.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-vignette.mp4" %}
 
-A photo plays **at most one** pooled lens effect. Choice is stable from the photo’s seed.
+A photo plays **at most one** pooled lens effect. Each photo keeps a fixed preference over every effect in the pool and plays the best one still checked — so the show stays the same show when you edit elsewhere.
+
+### Randomize Selected
 
 - **Randomize Selected on** (every Look’s default): equal odds per checked box; **How often** (default **70%**) = how many photos get one at all. Groups a bit more often. **Refract Bubbles** wins as a 2–3 slide take, fewer anchors, fair screen time.
 - **Randomize Selected off**: Vignette and optical accents (Bokeh, 50mm Prime, Ghosting, Veiling Glare, Starburst, Anamorphic Streaks) can paint on **every** photo instead of taking the slot. Checking **Refract Bubbles** puts them all back into one draw (bubbles never stack). **How often** stays on when Refract Bubbles is on.
 
+**How often** changes how many slides show an effect without changing which effect each slide prefers.
+
+Ticking or unticking a pool checkbox only moves the slides that need to: with a typical three-effect Look deal, unticking one moves about a third of the show; checking one more moves about a quarter. The rest stay put. Untick then re-tick and the show returns exactly where it was.
+
 **Bokeh / Sweep / Pulse** = three styles of the same bokeh-circle effect (each a pool slot). Anything you check joins on equal odds — no cap of three.
 
-Randomize on with **no other lens boxes** checked: one stable draw per photo from the full pool. Atmosphere and film grain / fringe / scratches are never in that pool.
+Randomize on with **no other lens boxes** checked: one stable pick per photo from the full pool. Atmosphere and film grain / fringe / scratches are never in that pool.
+
+Captions, focus, duration, reorder, and Look pins leave those picks alone — see [Looks](looks.md#when-the-show-stays-put). **Look** chips and **Shuffle Transitions** start a fresh deal on purpose.
 
 **Studio:** right-click Timeline or Library → **Lens Effect** (under Slide Transition) to pin on that slide or the whole multi-photo group. Current effects are checked. **Refract Bubbles** is scenery: consecutive slides (or seats) with Bubbles share one field; other pins stack. Uncheck Bubbles on one slide → only that slide drops. Pins survive Look re-deals. Essential hides this menu — Studio’s quiet privilege.
 
