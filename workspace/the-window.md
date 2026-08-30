@@ -26,7 +26,9 @@ The useful stuff sits on the right — mode, export, help, and the Inspector tog
 
 Toolbar **+** (near the project name) is **Photos & Videos…**, **Music…**, and **Royalty-Free Library…**.
 
-**View → Toggle Sidebar** (**⌃⌘S**) shows or hides the Library. Drag the **vertical divider** on the Library’s right edge to widen or narrow it; the width is remembered.
+**View → Toggle Sidebar** (**⌃⌘S**) shows or hides the Library; the Inspector toggle (**⌥⌘I**) does the same on the right. Both panels **slide** open and closed — they do not slam or remount the preview. Drag the **vertical divider** on the Library’s right edge to widen or narrow it; the width is remembered.
+
+Drag the **thin seam above the Timeline** up or down to grow or shrink the filmstrip height (up to about **160** points extra). That height is remembered too — see [Timeline](../timeline.md#timeline-height).
 
 ## Inspector clip bar
 

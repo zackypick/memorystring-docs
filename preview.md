@@ -35,7 +35,7 @@ MemoryString does **not** bake in the background while you edit. Edits appear li
 
 A heavy anniversary album should not stutter for the person who matters.
 
-**Essential** warms automatically when you press **Play**, and shows **Stop** while a warm is running.
+**Essential** warms automatically when you press **Play**. On a cold show, Play briefly blocks with **Preparing smooth playback** until the next couple of *photo* slides from the playhead are ready (intro title and the closing MemoryString card do not hold the gate), then starts on the baked pass. If that short lead takes too long, Play starts anyway and warming continues in the background. **Stop** shows while a warm is running.
 
 **Studio** adds controls on the transport row beside the slide counter:
 
@@ -49,7 +49,7 @@ A champagne **working-status pill** under the preview covers, in this order:
 2. Bake — *Warming k/n* (Play / Auto-warm / Warm Now) or *Updating k/n* (a look/edit refresh of a finished bake)
 3. Asset / **Loading music…**
 
-**k/n** matches the slide counter (every photo seat). Quiet stage means ready — no idle “Smooth play ready” message. Silence is the compliment.
+**k/n** matches the slide counter (every photo seat; the closing MemoryString credit is not counted). Quiet stage means ready — no idle “Smooth play ready” message. Silence is the compliment.
 
 See [Essential and Studio](workspace/essential-studio.md#what-changes).
 

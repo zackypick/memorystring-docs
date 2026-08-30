@@ -18,11 +18,15 @@ Time, pictures, music:
 
 Chrome above shows selected clip **name + duration** and zoom. Readout is **fit-relative**: **1.0×** = whole project in the window; **3.0×** = three windows wide.
 
+### Timeline height
+
+Need taller thumbs? Drag the **thin seam above the Timeline** (between the preview row and the filmstrip) **up** to grow the photo lane, **down** to shrink it. Extra height runs from **0** to about **160** points and is remembered across launches. **⌘+** / **⌘-** still scale the base row with UI text size; this drag adds on top.
+
 ### Zoom and gestures
 
 Zoom out for the whole birthday; in when a half-second matters.
 
-- **Zoom slider** (minus / plus magnifying glass) — drag all the way **left** for an end-to-end overview
+- **Zoom slider** (minus / plus magnifying glass) — scale updates **live** as you drag; all the way **left** for an end-to-end overview
 - **Pinch** on a trackpad to zoom the strip
 - **Scroll-wheel** zoom (pointer over the Timeline)
 - **⌥⌘+** / **⌥⌘-** zoom in / out
@@ -90,6 +94,10 @@ Inspector → **Motion** → **Timeline**:
 - **Reset Slide Durations**
 
 The intro stays first. **⌘Z** undoes sort / shuffle.
+
+## End card
+
+Every show closes on a short **MemoryString** credit. On the photo lane that hold is a trailing black **end** cell — click it to select the end card (same as scrubbing into the closing credit). It is not a media clip you can trim or reorder.
 
 ## Groups on the strip
 

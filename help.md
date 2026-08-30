@@ -1,6 +1,6 @@
 # In-app Help
 
-Stuck mid-edit? The answers live in the app — **Help → MemoryString Help…** (**⌘/** or the **?** toolbar button). **Help → Full Documentation Online** opens this GitBook in a browser. This site is the same topics, public and searchable.
+Stuck mid-edit? The answers live in the app — **Help → MemoryString Help…** (**⌘/** or the **?** toolbar button). **Esc** or **⌘W** closes Help when that window is front. **Help → Full Documentation Online** opens this GitBook in a browser. This site is the same topics, public and searchable.
 
 ![MemoryString Help sidebar and Quick Start](../.gitbook/assets/help-window.png)
 
