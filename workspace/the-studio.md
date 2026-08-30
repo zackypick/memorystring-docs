@@ -8,7 +8,7 @@ Most apps treat the workspace like a factory floor. We treated it like a place y
 
 Library, Preview, Inspector, Timeline — four panes around the stage.
 
-![Library, Preview, Inspector, and Timeline](../.gitbook/assets/the-window-panes.png)
+![The Studio: Library, Preview, Inspector, Timeline](../.gitbook/assets/the-window-panes.png)
 
 | Pane | Where | What it is |
 | --- | --- | --- |
