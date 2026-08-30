@@ -56,6 +56,6 @@ Inspector (**⌥⌘I**) when you want more than the defaults:
 
 ## 7. Export
 
-Toolbar **Export** or **File → Export Movie…** (**⌘E**). Confirm format, quality, and frame rate, then **Export**. Wait for **Creating memory…**.
+Toolbar **Export** or **File → Export Movie…** (**⌘E**). Confirm format, resolution, quality, and frame rate, then **Export**. Wait for **Creating memory…**.
 
 You get an H.264 MP4.

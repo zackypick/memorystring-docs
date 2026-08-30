@@ -1,6 +1,6 @@
 # Format and export
 
-This is where the movie leaves the desk and reaches family, friends, or a feed. Inspector → **Format** sets the aspect you edit in — and the default for Export. Frame rate and quality live in the **Export Movie** dialog, not here.
+This is where the movie leaves the desk and reaches family, friends, or a feed. Inspector → **Format** sets the aspect you edit in — and the default for Export. Frame rate, quality, resolution, and the save destination live in the **Export Movie** dialog, not here.
 
 ![Social and Classic destination swatches, Social Safe](../.gitbook/assets/inspector-format-swatches.png)
 
@@ -70,7 +70,7 @@ An **export mode**, not a Look — same toggle in two places, on purpose. Built 
 
 <figure><img src="../.gitbook/assets/inspector-format-social-safe.png" alt="Format tab: Social Safe checkbox so the preview matches the share crop"><figcaption>Social Safe — Format inspector (live preview)</figcaption></figure>
 
-**Export Movie** is for **this file**. The dialog’s Format swatches and Social Safe apply to that encode only — they do **not** change the live preview. Compose in YouTube 16:9 on the Format tab, then export a TikTok 9:16 with Social Safe without switching the whole workbench. Frame rate and quality live only in Export.
+**Export Movie** is for **this file**. The dialog’s Format swatches and Social Safe apply to that encode only — they do **not** change the live preview. Compose in YouTube 16:9 on the Format tab, then export a TikTok 9:16 with Social Safe without switching the whole workbench. Frame rate, quality, and resolution live only in Export.
 
 <figure><img src="../.gitbook/assets/export-social-safe.png" alt="Export Movie: Social Safe keeps photos and captions inside the frame"><figcaption>Social Safe — Export Movie dialog (this encode)</figcaption></figure>
 
@@ -82,10 +82,11 @@ It turns **on** automatically for **9:16**, **4:5**, and **2:3**. It stays **off
 
 Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 
-![Save As, Format, Social Safe, Quality, Frame Rate, Projected size](../.gitbook/assets/export-dialog.png)
+![Save As, Format, Resolution, Social Safe, Quality, Frame Rate, Projected size](../.gitbook/assets/export-dialog.png)
 
 - **Save As** — filename; **Browse…** for the folder. Default name prefers title text, then the project name, then **Untitled Memory**. The file is `.mp4`.
 - **Format** — destination swatches for **this encode** (does not change the live preview)
+- **Resolution** — **1080p** (default) or **4K**. 4K needs a Mac with more than about **8 GB** of memory; on compact machines only 1080p is available. **Cinema (21:9)** stays on 1080p. 4K takes much longer — roughly **three times** the length of the show.
 - **Social Safe**
 - **Quality** — a slider with four stops: **Email**, **Share**, **Screen**, **Master**. **Share** is the default. The stop sets the encoder bit rate — smallest file at Email, master copy at Master. Same control in Essential and Studio; Studio also shows the target rate in Mbps.
 - **Frame Rate** — **30** (smaller/faster) or **60** (smoother motion)
