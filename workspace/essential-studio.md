@@ -36,6 +36,10 @@ What Essential hides, and what Studio unlocks.
 
 Looks, Energy, Stage, Photo Size, Format, music, import, and export still work in Essential. Not a lesser app — a quieter one.
 
+Same Export dialog in both modes; Studio alone shows the target bit rate next to **Quality**:
+
+![Studio Export Movie: Quality shows 4.0 Mbps at Share](../.gitbook/assets/export-dialog-studio.png)
+
 **Essential import:** if the Library was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
 
 {% hint style="info" %}
