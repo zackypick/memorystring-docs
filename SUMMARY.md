@@ -4,7 +4,7 @@
 
 * [Welcome](README.md)
 * [Quick start](getting-started/quick-start.md)
-* [The window](workspace/the-window.md)
+* [The Studio](workspace/the-studio.md)
 * [Essential and Studio](workspace/essential-studio.md)
 
 ## Build your movie

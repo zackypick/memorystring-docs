@@ -1,6 +1,12 @@
-# The window
+# The Studio
 
-MemoryString is one composition: Library, Preview, Inspector, Timeline — four panes around a stage. Learn the map once; after that your hands stop hunting.
+You step into the Studio.
+
+This wasn’t built just to produce the best slideshows you’ve ever made. It was built so that working on them feels like something. The oak, the gold, the ambient light spilling from the preview panel onto the chrome around it — none of that is decoration. It’s the room you live in while you create.
+
+Most apps treat the workspace like a factory floor. We treated it like a place you’d want to spend an evening. Because you will.
+
+Library, Preview, Inspector, Timeline — four panes around the stage.
 
 ![Library, Preview, Inspector, and Timeline](../.gitbook/assets/the-window-panes.png)
 
