@@ -86,7 +86,7 @@ Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 
 - **Save As** — filename; **Browse…** for the folder. Default name prefers title text, then the project name, then **Untitled Memory**. The file is `.mp4`.
 - **Format** — destination swatches for **this encode** (does not change the live preview)
-- **Resolution** — **1080p** (default) or **4K**. 4K needs a Mac with more than about **8 GB** of memory; on compact machines only 1080p is available. **Cinema (21:9)** stays on 1080p. 4K takes much longer — roughly **three times** the length of the show.
+- **Resolution** — **1080p** (default) or **4K**. 4K takes much longer — around three times the length of the show. **Cinema (21:9)** does not offer 4K — that format stays at 1080p because of the aspect, not the Mac.
 - **Social Safe**
 - **Quality** — a slider with four stops: **Email**, **Share**, **Screen**, **Master**. **Share** is the default. The stop sets the encoder bit rate — smallest file at Email, master copy at Master. Same control in Essential and Studio; Studio also shows the target rate in Mbps.
 - **Frame Rate** — **30** (smaller/faster) or **60** (smoother motion)
