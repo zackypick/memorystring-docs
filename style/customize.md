@@ -48,7 +48,7 @@ Older projects migrate: Black & White → Grayscale, Color → Colored, Mixed �
 
 Optical light on the frame. Full list, clips, Randomize / How often, Anamorphic / Refract knobs: **[Lens effects](lens-effects.md)**.
 
-Checkboxes A–Z: **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prime, Pulse, Refract Bubbles, Sparkle, Starburst, Sweep, Veiling Glare, Vignette**, plus **Randomize Selected** and **How often**. A photo plays **at most one** pooled effect. Unticking then re-ticking a box returns the show where it was; **How often** only changes how many slides carry an effect. Full contract: [Lens effects](lens-effects.md#randomize-selected).
+Checkboxes A–Z: **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prime, Pulse, Refract Bubbles, Sparkle, Starburst, Sweep, Veiling Glare, Vignette**, plus **Randomize Selected** and **How often**. A photo plays **at most one** pooled effect. Unticking then re-ticking a box returns the automatic show where it was; hand picks stay put. Full contract: [Lens effects](lens-effects.md#randomize-selected).
 
 ## Film
 

@@ -14,7 +14,7 @@ Same photo under each chip — grade, mat, wash, and grain change; the kids don�
 
 Click a chip and MemoryString commits: it re-populates **Motion → Transitions Mix**, **re-deals** single-slide cuts from that mix’s bias, and applies that Look’s group settings. Hand-picked Motion checkboxes are discarded.
 
-**Click the same Look again** for a fresh deal — same wardrobe, different arrangement: three lens effects (every Look except **Clean**), a new mix of single-slide cuts, and a new Match Look bed if that playlist is still the untouched auto soundtrack. Pins under Studio **Lens Effect** survive. Atmosphere and Decals stay **None** unless you picked them.
+**Click the same Look again** for a fresh deal — same wardrobe, different arrangement: three lens effects (every Look except **Clean**), a new mix of single-slide cuts, and a new Match Look bed if that playlist is still the untouched auto soundtrack. Atmosphere and Decals stay **None** unless you picked them.
 
 ### When the show stays put
 
@@ -26,7 +26,7 @@ Everyday edits leave the rest of the movie alone — curls, torn edges, sunbeams
 
 Changing the center of interest re-aims framing around the new focus; it does not reshuffle anything else.
 
-**Look** chips and **Shuffle Transitions** are the deliberate fresh start — a new deal across the show. Ticking lens checkboxes is different: only some slides move, and unticking then re-ticking puts them back. See [Lens effects](lens-effects.md#randomize-selected).
+**Look** chips and **Shuffle Transitions** are the deliberate fresh start — a new deal across the *automatic* slides. A lens effect you chose by hand on a slide stays until you change it yourself; Look, Shuffle, and Randomize pool edits only re-dress the automatic ones. Ticking lens checkboxes is different again: only some automatic slides move, and unticking then re-ticking puts them back. See [Lens effects](lens-effects.md#randomize-selected).
 
 Editing **Customize…**, **Stage**, **Photo Size**, or **Motion** switches the chip to **Custom**.
 
