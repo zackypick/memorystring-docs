@@ -82,13 +82,15 @@ It turns **on** automatically for **9:16**, **4:5**, and **2:3**. It stays **off
 
 Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 
-![Save As, Format, Social Safe, Quality, Frame Rate](../.gitbook/assets/export-dialog.png)
+![Save As, Format, Social Safe, Quality, Frame Rate, Projected size](../.gitbook/assets/export-dialog.png)
 
 - **Save As** — filename; **Browse…** for the folder. Default name prefers title text, then the project name, then **Untitled Memory**. The file is `.mp4`.
 - **Format** — destination swatches for **this encode** (does not change the live preview)
 - **Social Safe**
-- **Quality** — Studio: Low / Medium / High / Maximum
+- **Quality** — a slider with four stops: **Email**, **Share**, **Screen**, **Master**. **Share** is the default. The stop sets the encoder bit rate — smallest file at Email, master copy at Master. Same control in Essential and Studio; Studio also shows the target rate in Mbps.
 - **Frame Rate** — **30** (smaller/faster) or **60** (smoother motion)
+
+The footer shows a **projected size** and duration for the current choices. It tracks what the finished MP4 will weigh — same bit rate the encoder is handed, not a rough guess.
 
 Click **Export** and wait. Toolbar shows **Creating memory…** and a percent. Editing pauses (*Edits paused while creating memory*). If music is still decoding, Export waits.
 
