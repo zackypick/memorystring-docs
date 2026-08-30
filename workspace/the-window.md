@@ -30,6 +30,12 @@ Toolbar **+** (near the project name) is **Photos & Videos…**, **Music…**, a
 
 Drag the **thin seam above the Timeline** up or down to grow or shrink the filmstrip height (up to about **160** points extra). That height is remembered too — see [Timeline](../timeline.md#timeline-height).
 
+![Compact Timeline filmstrip](../.gitbook/assets/timeline-height-low.png)
+
+Drag the seam above the filmstrip to make the strip taller or shorter.
+
+![Taller Timeline filmstrip](../.gitbook/assets/timeline-height-high.png)
+
 ## Inspector clip bar
 
 Whatever tab you’re on, the bottom strip stays: caption (or intro text), **Generate**, **Aa** (caption position / color / size), and trim / mute / volume / remove when a video or soundtrack is selected.

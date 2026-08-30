@@ -22,6 +22,12 @@ Chrome above shows selected clip **name + duration** and zoom. Readout is **fit-
 
 Need taller thumbs? Drag the **thin seam above the Timeline** (between the preview row and the filmstrip) **up** to grow the photo lane, **down** to shrink it. Extra height runs from **0** to about **160** points and is remembered across launches. **⌘+** / **⌘-** still scale the base row with UI text size; this drag adds on top.
 
+![Compact Timeline filmstrip](../.gitbook/assets/timeline-height-low.png)
+
+Drag the seam above the filmstrip to make the strip taller or shorter.
+
+![Taller Timeline filmstrip](../.gitbook/assets/timeline-height-high.png)
+
 ### Zoom and gestures
 
 Zoom out for the whole birthday; in when a half-second matters.
