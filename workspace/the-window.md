@@ -62,11 +62,7 @@ Photo lane on top, music underneath. Drag the **thin seam above the Timeline** u
 
 ![Timeline — photo lane, music, zoom](../.gitbook/assets/window-timeline.gif)
 
-![Compact Timeline filmstrip](../.gitbook/assets/timeline-height-low.png)
-
-Drag the seam above the filmstrip to make the strip taller or shorter.
-
-![Taller Timeline filmstrip](../.gitbook/assets/timeline-height-high.png)
+![Drag the seam to grow the filmstrip; zoom slider scales the strip live](../.gitbook/assets/timeline-expand-zoom.gif)
 
 **⌘+** / **⌘-** still scale the base row with UI text size; the drag adds on top.
 
