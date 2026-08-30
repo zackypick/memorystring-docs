@@ -26,7 +26,7 @@ Everyday edits leave the rest of the movie alone — curls, torn edges, sunbeams
 
 Changing the center of interest re-aims framing around the new focus; it does not reshuffle anything else.
 
-**Look** chips and **Shuffle Transitions** are the deliberate fresh start — a new deal across the *automatic* slides. A lens effect you chose by hand on a slide stays until you change it yourself; Look, Shuffle, and Randomize pool edits only re-dress the automatic ones. Ticking lens checkboxes is different again: only some automatic slides move, and unticking then re-ticking puts them back. See [Lens effects](lens-effects.md#randomize-selected).
+**Look** chips and **Shuffle Transitions** are the deliberate fresh start — a new deal across the *automatic* slides. A lens effect you chose by hand on a slide — including a deliberate **None** — stays until you change it yourself (**Use automatic** returns the slide to the shared deal). Look, Shuffle, and Randomize pool edits only re-dress the automatic ones. Ticking lens checkboxes is different again: only some automatic slides move, and unticking then re-ticking puts them back. See [Lens effects](lens-effects.md#randomize-selected).
 
 Editing **Customize…**, **Stage**, **Photo Size**, or **Motion** switches the chip to **Custom**.
 
