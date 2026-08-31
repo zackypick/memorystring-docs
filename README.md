@@ -32,4 +32,6 @@ Import photos and videos, add music and a Look, hit Export. Social frames includ
 
 Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved.
 
+These docs run on [GitBook](https://www.gitbook.com), who gave MemoryString a Community plan — thank you, and thanks to John there for making it happen.
+
 New here? [Quick start](getting-started/quick-start.md) gets you to a finished movie. A shorter subset lives in the app under **Help → MemoryString Help…** (**⌘/**). This site ([memorystring.codebyz.com](https://memorystring.codebyz.com)) is the full public set.
