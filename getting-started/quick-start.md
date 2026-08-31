@@ -28,7 +28,7 @@ Other types are skipped.
 
 Drag Library thumbnails or Timeline clips until the order feels like the day you lived. The **Intro** slide stays first when it is on.
 
-Library calendar menu (or **Edit → Sort by Date Taken**): **Oldest First (Story Order)**, **Newest First**, **Import Order**, or **Shuffle**. In Essential, a first import auto-sorts **Oldest First** when the Library was empty.
+Library calendar menu: **Oldest First (Story Order)**, **Newest First**, **Import Order**, or **Shuffle**. **Edit → Sort by Date Taken** is the three date/import choices only. In Essential, a first import auto-sorts **Oldest First** when the Library was empty.
 
 ![Library calendar: Oldest First, Newest First, Import Order, Shuffle](../.gitbook/assets/library-menu-sort.png)
 
@@ -56,6 +56,6 @@ Inspector (**⌥⌘I**) when you want more than the defaults:
 
 ## 7. Export
 
-Toolbar **Export** or **File → Export Movie…** (**⌘E**). Confirm format, frame rate, and (Studio) quality, then **Export**. Wait for **Creating memory…**.
+Toolbar **Export** or **File → Export Movie…** (**⌘E**). Confirm format, resolution, quality (Compact / Share / High / Best — both modes; Studio also shows Mbps), and frame rate, then **Export**. Wait for **Creating memory…**.
 
 You get an H.264 MP4.

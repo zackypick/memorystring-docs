@@ -32,7 +32,7 @@ Undo, paste, duration, rotate.
 | **⌘]** / **⌘[** | Rotate Right / Rotate Left |
 | **⇧⌘]** / **⇧⌘[** | Flip Horizontal / Flip Vertical |
 
-**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** are in the menu (no extra keys beyond what the menu shows).
+**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. Library calendar and empty-Library right-click add **Shuffle**.
 
 ## View
 
@@ -42,7 +42,7 @@ Chrome and zoom.
 | --- | --- |
 | **⌃⌘S** | Toggle Sidebar |
 | **⌥⌘I** | Show / Hide Inspector |
-| **⇧⌘S** | Switch Essential / Studio |
+| **⌥⌘S** | Switch Essential / Studio |
 | **⌥⌘+** / **⌥⌘-** | Timeline zoom in / out |
 | **⌘+** / **⌘-** / **⌘0** | Increase / Decrease / Default **UI** text size — app chrome, **Library cards**, and **Timeline** strip height (not Timeline zoom, not slide captions) |
 
@@ -67,7 +67,7 @@ Docs and diagnostics.
 | **⌘/** | MemoryString Help… |
 | **⌘,** | MCP Server |
 
-**Help → Full Documentation Online** opens this GitBook in a browser. **Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash package (stacks, Mac specs, breadcrumbs; no media filenames).
+**Help → Full Documentation Online** opens this site ([memorystring.codebyz.com](https://memorystring.codebyz.com)) in a browser. In-app Help is the subset that ships in the app; this site is the full public set. **Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash package (stacks, Mac specs, breadcrumbs; no media filenames).
 
 ## Tips
 

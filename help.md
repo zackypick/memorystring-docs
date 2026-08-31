@@ -1,6 +1,6 @@
 # In-app Help
 
-Stuck mid-edit? The answers live in the app — **Help → MemoryString Help…** (**⌘/** or the **?** toolbar button). **Help → Full Documentation Online** opens this GitBook in a browser. This site is the same topics, public and searchable.
+Stuck mid-edit? The answers live in the app — **Help → MemoryString Help…** (**⌘/** or the **?** toolbar button). **Help → Full Documentation Online** opens this site ([memorystring.codebyz.com](https://memorystring.codebyz.com)) in a browser. In-app Help is the subset that ships in the app; this site is the full public set (The Studio, Essential and Studio, Organizing, Auto detection, and split Style / Motion pages live here only).
 
 ![MemoryString Help sidebar and Quick Start](../.gitbook/assets/help-window.png)
 

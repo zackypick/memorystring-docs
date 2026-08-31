@@ -8,7 +8,7 @@ A slideshow is a story — Tuesday’s cake after Saturday’s drive, not before
 
 ## Sort and shuffle slides
 
-Trip diary, night-just-ended reverse, or a deliberate surprise — Library **calendar**, **Edit → Sort by Date Taken**, Inspector → **Motion → Timeline** (Studio), or right-click empty Library space:
+Trip diary, night-just-ended reverse, or a deliberate surprise — Library **calendar** (or right-click empty Library space) for date/import **and Shuffle**. **Edit → Sort by Date Taken** and Studio **Motion → Timeline → Sort by Date Taken** are the three date/import choices only. Studio **Motion** also has a separate **Shuffle Slides** button:
 
 ![Library calendar: Oldest First, Newest First, Import Order, Shuffle](.gitbook/assets/library-menu-sort.png)
 

@@ -32,4 +32,4 @@ Import photos and videos, add music and a Look, hit Export. Social frames includ
 
 Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved.
 
-New here? [Quick start](getting-started/quick-start.md) gets you to a finished movie. The same topics live in the app under **Help → MemoryString Help…** (**⌘/**).
+New here? [Quick start](getting-started/quick-start.md) gets you to a finished movie. A shorter subset lives in the app under **Help → MemoryString Help…** (**⌘/**). This site ([memorystring.codebyz.com](https://memorystring.codebyz.com)) is the full public set.

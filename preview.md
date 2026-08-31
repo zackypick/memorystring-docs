@@ -35,7 +35,7 @@ MemoryString does **not** bake in the background while you edit. Edits appear li
 
 A heavy anniversary album should not stutter for the person who matters.
 
-**Essential** warms automatically when you press **Play**, and shows **Stop** while a warm is running.
+**Essential** warms automatically when you press **Play**, and shows **Stop** while a warm is running. On a cold show, Play briefly blocks with **Preparing smooth playback** until the next couple of *photo* slides from the playhead are ready (intro title and the closing MemoryString card do not hold the gate), then starts on the baked pass. If that short lead takes too long, Play starts anyway and warming continues in the background.
 
 **Studio** adds controls on the transport row beside the slide counter:
 

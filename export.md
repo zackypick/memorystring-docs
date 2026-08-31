@@ -1,6 +1,6 @@
 # Format and export
 
-This is where the movie leaves the desk and reaches family, friends, or a feed. Inspector → **Format** sets the aspect you edit in — and the default for Export. Frame rate and quality live in the **Export Movie** dialog, not here.
+This is where the movie leaves the desk and reaches family, friends, or a feed. Inspector → **Format** sets the aspect you edit in — and the default for Export. Frame rate, quality, and resolution live in the **Export Movie** dialog, not here.
 
 ![Social and Classic destination swatches, Social Safe](../.gitbook/assets/inspector-format-swatches.png)
 
@@ -70,7 +70,7 @@ An **export mode**, not a Look — same toggle in two places, on purpose. Built 
 
 <figure><img src="../.gitbook/assets/inspector-format-social-safe.png" alt="Format tab: Social Safe checkbox so the preview matches the share crop"><figcaption>Social Safe — Format inspector (live preview)</figcaption></figure>
 
-**Export Movie** is for **this file**. The dialog’s Format swatches and Social Safe apply to that encode only — they do **not** change the live preview. Compose in YouTube 16:9 on the Format tab, then export a TikTok 9:16 with Social Safe without switching the whole workbench. Frame rate and quality live only in Export.
+**Export Movie** is for **this file**. The dialog’s Format swatches and Social Safe apply to that encode only — they do **not** change the live preview. Compose in YouTube 16:9 on the Format tab, then export a TikTok 9:16 with Social Safe without switching the whole workbench. Frame rate, quality, and resolution live only in Export.
 
 <figure><img src="../.gitbook/assets/export-social-safe.png" alt="Export Movie: Social Safe keeps photos and captions inside the frame"><figcaption>Social Safe — Export Movie dialog (this encode)</figcaption></figure>
 
@@ -86,13 +86,16 @@ Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 
 - **Save As** — filename; **Browse…** for the folder. Default name prefers title text, then the project name, then **Untitled Memory**. The file is `.mp4`.
 - **Format** — destination swatches for **this encode** (does not change the live preview)
-- **Social Safe**
-- **Quality** — Studio: Low / Medium / High / Maximum
+- **Resolution** — **1080p** (default) or **4K**. 4K takes much longer — around three times the length of the show. **Cinema (21:9)** does not offer 4K — that format stays at 1080p because of the aspect, not the Mac. Rarely, when other apps leave too little free memory, 4K declines to start and asks you to close some apps or use 1080p. If memory tightens mid-export, the encode slows rather than failing.
+- **Social Safe** — same mode as the Format tab
+- **Quality** — slider stops **Compact**, **Share**, **High**, **Best** (**Share** is the default). Available in Essential and Studio; Studio also shows the target rate in Mbps.
 - **Frame Rate** — **30** (smaller/faster) or **60** (smoother motion)
 
-Click **Export** and wait. Toolbar shows **Creating memory…** and a percent. Editing pauses (*Edits paused while creating memory*). If music is still decoding, Export waits.
+Check the footer **projected size** (and duration) for the current choices. Click **Export** and wait. Toolbar shows **Creating memory…** and a percent. Editing pauses (*Edits paused while creating memory*). If music is still decoding, Export waits.
 
 You get an H.264 MP4; the `.memorystring` project stays editable. Preview with **Space** (and Studio **Warm Now** if you want the baked pass) before you export — the file matches that show, not the workbench ambilight.
+
+Every movie eases to the stage floor before the end hold (black on Dark, cream on Light). A subtle bottom-right **Created with MemoryString** watermark (logo + credit) fades in once during the tail of the last photo and stays through the end floor (about three seconds). On **Light** stage the credit uses the logo’s **bronze** brown. There is no toggle to disable it.
 
 ## Before you export
 

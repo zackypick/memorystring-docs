@@ -35,10 +35,10 @@ Call **get_state** first. Then mutate the open project:
 - **library** — import / remove / reorder / sort / shuffle / select
 - **groups** — Photo Stack, Carousel, Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **transitions** — slide kinds, mix, shuffle cuts
-- **style** — Looks, Energy, Photo Size, stage, customize knobs (including Anamorphic Streaks and Refract Bubbles knobs and presets), **atmosphere** (`none` / `bubbles` / `leaves`) and **decals** (`none` / `travel` / `vacation` / `party` / `florals` / `wedding` / `pets` / `sports`) as single-choice menus, and **clip_lens** (Studio per-slide Lens Effect pins; consecutive Refract Bubbles pins share one field; `remove_all` clears that slide only)
+- **style** — Looks, Energy, Photo Size, stage, customize knobs (including Anamorphic Streaks and Refract Bubbles knobs and presets), **atmosphere** (`none` / `bubbles` / `leaves`) and **decals** (`none` / `travel` / `vacation` / `party` / `florals` / `wedding` / `pets` / `sports`) as single-choice menus, and **clip_lens** (Studio per-slide Lens Effect hand picks; consecutive Refract Bubbles pins share one field; empty `effects` = deliberate **None**; `remove_all` = **Use automatic** — the slide rejoins the shared deal and an effect may reappear). Look / Shuffle re-deal automatic slides only; hand picks including None stay until cleared; pool checkboxes and How often govern automatic slides only
 - **media_edit** — rotate, flip, [center of interest](preview.md#center-of-interest) (original files are never rewritten)
 - **captions** / **intro** (including Studio **lens** on the opening card) / **timing** / **audio** / **output**
-- **export_movie** — write an MP4 to a path you pass (no save panel)
+- **export_movie** — write an MP4 to a path you pass (no save panel). Optional `quality` (`low` / `medium` / `high` / `maximum` → Compact / Share / High / Best; **Share** / `medium` default), `quality_level` (0…1), `resolution` (`1080p` / `4k`; not available for Cinema 21:9; rarely refuses `4k` if the Mac is short of free memory — close other apps or use `1080p`), `fps`, `format`, `social_safe`
 - **playback** — play, pause, seek, next / previous slide, **warm_now** (dirty preview segments only, non-blocking), **stop_warming**
 
 Help and About windows are not exposed as UI; use the **help** tool to read topics.

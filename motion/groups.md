@@ -103,4 +103,4 @@ Look feel (Help): Polaroid tosses often into a tight pile; Vintage and B&W lay p
 
 ## Timeline / Library
 
-Follower slides collapse onto the lead cell. Library badges: **stack 1/5**, **carousel 2/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**. Mix checkboxes and group knobs undo with **⌘Z**.
+Follower slides collapse onto the lead cell. Library badges: **stack 1/5**, **carousel 2/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**, **scatter 2/5**. Mix checkboxes and group knobs undo with **⌘Z**.

@@ -32,7 +32,7 @@ What Essential hides, and what Studio unlocks.
 | Intro Card & Motion | — | Frame, Motion, Lens, Decoration |
 | Smooth play | Warms automatically on **Play**; **Stop** while warming | **Auto-warm on Play**, **Warm Now**, **Stop** |
 | Per-slide **Lens Effect** (right-click) | Hidden | Timeline / Library / intro |
-| Export **Quality** | Hidden | Low / Medium / High / Maximum |
+| Export **Quality** | Compact / Share / High / Best (slider; default **Share**) | same slider, plus target Mbps |
 
 Looks, Energy, Stage, Photo Size, Format, music, import, and export still work in Essential. Not a lesser app — a quieter one.
 

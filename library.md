@@ -4,7 +4,7 @@ Birthday photos, trip videos, that clip of everyone singing — they land here b
 
 ![Library with photos, transition names, mute badges](../.gitbook/assets/library-photos.png)
 
-When the Library has items, left to right: **calendar** (sort), **captions** bubble, **⋯**, and **+** on the trailing edge.
+When the Library has items, left to right: **calendar** (sort / shuffle), **captions** bubble, **⋯**, and **+** on the trailing edge. An empty Library hides calendar and captions — only **⋯** and **+**.
 
 Drag the **vertical divider** on the right to resize (remembered). **View → Toggle Sidebar** (**⌃⌘S**) hides it. **⌘+** / **⌘-** / **⌘0** (UI text size) also enlarge or shrink Library cards — same factor as Timeline strip height.
 
@@ -37,7 +37,7 @@ Cake after the drive — or shuffle and see:
 - **Import Order**
 - **Shuffle** — randomizes photo order (intro stays first)
 
-Same choices: **Edit → Sort by Date Taken**, Inspector → **Motion** → **Timeline**, or right-click empty Library space.
+**Edit → Sort by Date Taken** and Studio **Motion → Timeline → Sort by Date Taken** are the three date/import choices only (no Shuffle). **Shuffle** is on this calendar (and empty-Library right-click). Studio **Motion → Timeline** names the same command **Shuffle Slides** (a separate button, not inside Sort).
 
 Date sorts use camera capture date (EXIF / recording date); file date only if neither exists. Undated files land at the end. Filenames never used. Captions, trims, and rotations stay; groups are planned fresh; intro stays first. **⌘Z** undoes.
 
@@ -110,6 +110,6 @@ Videos have a **2 second** minimum trim. **Reset Length** restores the full clip
 
 ## Multi-photo badges
 
-Grouped cards share one clip. Badges: **carousel 2/5**, **stack 1/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**. Selecting the group draws one champagne outline and dims the rest. Click a member to seek to that photo’s turn on stage. Timeline: click the cell for the whole window; click again to drill into one seat. See [Multi-photo groups](motion/groups.md#timeline-library).
+Grouped cards share one clip. Badges: **carousel 2/5**, **stack 1/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**, **scatter 2/5**. Selecting the group draws one champagne outline and dims the rest. Click a member to seek to that photo’s turn on stage. Timeline: click the cell for the whole window; click again to drill into one seat. See [Multi-photo groups](motion/groups.md#timeline-library).
 
 **File → Delete Project…** trashes the `.memorystring` file (if saved) and that project’s Imports copies, then opens an empty Untitled project. Originals outside **Imports** are never deleted.
