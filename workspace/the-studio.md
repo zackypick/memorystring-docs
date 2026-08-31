@@ -6,7 +6,12 @@ This wasn’t built just to produce the best slideshows you’ve ever made. It w
 
 Most apps treat the workspace like a factory floor. We treated it like a place you’d want to spend an evening. Because you will.
 
-Library, Preview, Inspector, Timeline — four panes around the stage.
+## The panes
+
+- Library
+- Preview
+- Inspector
+- Timeline
 
 ![The Studio: Library, Preview, Inspector, Timeline](../.gitbook/assets/the-window-panes.png)
 
