@@ -1,14 +1,22 @@
 # Auto detection
 
-Helpers on your Mac — less time muting fridge hum, chasing faces, typing `IMG_4821`, or keeping every near-duplicate burst. **Video mute** and **center of interest** run on **import**. **Keep Best Shots** can offer itself after import (and anytime from Library **⋯**). **Auto Trim** is on you — right-click or Library **⋯**, never automatic. **Captions** only when you choose **Auto Caption**.
+On-device helpers that make the movie an instant hit — sharper picks, real moments, a soundtrack that leads, motion that frames the right thing.
 
 Everything stays on your Mac. Original files are never rewritten.
+
+## The helpers
+
+- **Keep Best Shots** — Similar burst photos? Keep the sharp, open-eyed, well-exposed one; extras leave the Library and timeline. Import may ask; Library **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
+- **Auto Trim** — Videos: keep the interesting moment (the blow, the kick, the laugh); drop the wait and the leftover. Right-click or Library **⋯** — not on import. No extra confirm after you pick it. Undo **⌘Z**.
+- **Video mute** — Hush fridge hum and boring room tone on import so the soundtrack can lead.
+- **Center of interest** — Finds faces and subjects so motion frames the right thing — you don’t chase focus yourself.
+- **Auto Caption** — Titles from the photo, only when you choose **Auto Caption** — never written by itself.
 
 ![Paused photo with the center-of-interest ring](../.gitbook/assets/preview-coi.png)
 
 ## Keep Best Shots
 
-Burst of nearly the same smile? MemoryString finds the similar groups and can keep the one that looks best — open eyes, smile, sharpness, exposure.
+Burst of nearly the same smile? MemoryString finds the similar groups and can keep the one that looks best — open eyes, smile, sharpness, exposure. The movie stays lean: one great shot instead of five near-duplicates.
 
 **When:** after **import** when new stills join a similar group, or anytime from Library **⋯** → **Keep Best Shots…**. Videos are left alone.
 
@@ -22,21 +30,21 @@ One undo restores the whole pass. See [Library](library.md#import) and [Library 
 
 ## Auto Trim
 
-Long phone clip — wait, then the moment, then leftover? **Auto Trim** keeps the Energy-length window on the interesting climax and drops the wait and the leftover. If the climax is already at the start, it keeps that front window and still cuts the leftover.
+Long phone clip — wait, then the moment, then leftover? **Auto Trim** keeps the interesting climax and drops the wait and the leftover, so the film hits the blow, the kick, the laugh instead of the setup.
 
 **When:** **not** on import. Right-click a video → **Auto Trim** (runs immediately — no confirm). Or Library **⋯** → **Auto Trim Videos…** (asks when more than one video is in play).
 
 **Undo:** **⌘Z**. **Reset Length** restores the full source anytime.
 
 {% hint style="info" %}
-Auto Trim reads the full source for the highlight, then trims to an Energy-length window on it. It does not mute, caption, or remove clips.
+Auto Trim finds the highlight in the full source, then trims to that window. It does not mute, caption, or remove clips.
 {% endhint %}
 
 See [Library → Videos](library.md#videos) and [Timeline](timeline.md#reorder-and-trim).
 
 ## Video sound (auto-mute)
 
-Speech on camera? Keep it. Wind and empty hallway? Quiet them.
+Speech on camera? Keep it. Fridge hum and empty hallway? Quiet them so the soundtrack can lead.
 
 **When:** as each **video** is imported (Essential and Studio). Stills have no clip audio. Soundtrack tracks are not auto-muted.
 
@@ -61,7 +69,7 @@ There is no toast. A muted clip shows a speaker-off badge in the Library and Tim
 
 ## Center of interest
 
-Eyes, not shoulder. **When:** on **import**, every photo and every video gets a focus point. Cached with the file so reopen keeps the same pick.
+Eyes, not shoulder — so motion frames the person (or subject) that matters without you chasing focus. **When:** on **import**, every photo and every video gets a focus point. Cached with the file so reopen keeps the same pick.
 
 **How it picks** (on-device Vision):
 
@@ -79,7 +87,7 @@ Ken Burns and punch-in end here; backdrop follows; group cards use it too. Some 
 
 ## Auto Caption
 
-Place and date — not camera codes. Run it: Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, Timeline **Generate**, or a slide’s **Auto Caption**. Not on import.
+Place and date — not camera codes — so the film reads like a story instead of `IMG_4821`. Run it yourself: Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, Timeline **Generate**, or a slide’s **Auto Caption**. Not on import — never written by itself.
 
 Untitled-only entry points **never overwrite** what you typed. **Auto Caption All Slides…** overwrites after confirmation.
 
