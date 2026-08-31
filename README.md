@@ -8,7 +8,7 @@ Import photos and videos, add music and a Look, hit Export. Social frames includ
 
 ## Get it
 
-[**Download MemoryString 0.9.19 for Mac**](https://github.com/zackypick/memorystring-downloads/releases/download/v0.9.19/MemoryString-0.9.19.dmg) — free, always the latest build. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+[**Mac App Store**](https://apps.apple.com/app/id6806579257) or [**download MemoryString 0.9.20 for Mac**](https://github.com/zackypick/memorystring-downloads/releases/download/v0.9.20/MemoryString-0.9.20.dmg) — free, always the latest build. macOS 14 (Sonoma) or later, Apple Silicon and Intel. The App Store build is sandboxed; the direct download is the same app without that sandbox.
 
 ## What's in the box
 
