@@ -23,7 +23,7 @@ The Studio is built around four panes: Library, Preview, Inspector, and Timeline
 
 The useful stuff sits on the right — mode, export, help, and the Inspector toggle.
 
-![Essential / Studio, Export, Help, Inspector](../.gitbook/assets/toolbar-right.png)
+![The toolbar — project, Add, Essential / Studio, Export, Help, Inspector](../.gitbook/assets/toolbar-right.png)
 
 - **Essential** / **Studio** — how many controls you see ([next page](essential-studio.md))
 - **Export** — Export Movie dialog
