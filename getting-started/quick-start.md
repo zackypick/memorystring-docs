@@ -24,6 +24,8 @@ Fill the **Library** on the left — the cast of the movie.
 
 Other types are skipped.
 
+After import, MemoryString may offer **Keep Best Shots** when similar photo groups show up. Videos are **not** auto-trimmed — right-click a clip → **Auto Trim**, or Library **⋯**. See [Auto detection](../auto-detection.md#keep-best-shots).
+
 ## 3. Order the story
 
 Drag Library thumbnails or Timeline clips until the order feels like the day you lived. The **Intro** slide stays first when it is on.

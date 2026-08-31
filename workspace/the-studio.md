@@ -32,7 +32,7 @@ Toolbar **+** (near the project name) is **Photos & Videos…**, **Music…**, a
 
 ## Library
 
-Photos and videos for this show. Calendar sort, captions bubble, **⋯**, and **+** sit on the header.
+Photos and videos for this show. Calendar sort, captions bubble, **⋯** (**Keep Best Shots…**, **Auto Trim Videos…**, and more), and **+** sit on the header.
 
 ![Library — scroll thumbs, select a slide](../.gitbook/assets/window-library.gif)
 

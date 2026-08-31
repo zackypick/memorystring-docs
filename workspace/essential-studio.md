@@ -36,7 +36,7 @@ What Essential hides, and what Studio unlocks.
 
 Looks, Energy, Stage, Photo Size, Format, music, import, and export still work in Essential. Not a lesser app — a quieter one.
 
-**Essential import:** if the Library was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
+**Essential import:** if the Library was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it. **Keep Best Shots** and **Auto Trim** work in both modes ([Auto detection](../auto-detection.md#keep-best-shots)).
 
 {% hint style="info" %}
 **MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow.

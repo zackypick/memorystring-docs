@@ -1,10 +1,38 @@
 # Auto detection
 
-Three helpers on your Mac — less time muting fridge hum, chasing faces, or typing `IMG_4821`. **Video mute** and **center of interest** on **import**. **Captions** only when you choose **Auto Caption** — never written by itself.
+Helpers on your Mac — less time muting fridge hum, chasing faces, typing `IMG_4821`, or keeping every near-duplicate burst. **Video mute** and **center of interest** run on **import**. **Keep Best Shots** can offer itself after import (and anytime from Library **⋯**). **Auto Trim** is on you — right-click or Library **⋯**, never automatic. **Captions** only when you choose **Auto Caption**.
 
 Everything stays on your Mac. Original files are never rewritten.
 
 ![Paused photo with the center-of-interest ring](../.gitbook/assets/preview-coi.png)
+
+## Keep Best Shots
+
+Burst of nearly the same smile? MemoryString finds the similar groups and can keep the one that looks best — open eyes, smile, sharpness, exposure.
+
+**When:** after **import** when new stills join a similar group, or anytime from Library **⋯** → **Keep Best Shots…**. Videos are left alone.
+
+**The ask:** how many similar groups, how many extra shots, and **Keep the best shot only?** Default button is **Keep Best** (blue, right). **Keep All** leaves every photo.
+
+{% hint style="info" %}
+The other shots leave the Library and timeline. Undo with **⌘Z**.
+{% endhint %}
+
+One undo restores the whole pass. See [Library](library.md#import) and [Library ⋯](library.md#-options).
+
+## Auto Trim
+
+Long phone clip — wait, then the moment, then leftover? **Auto Trim** keeps the Energy-length window on the interesting climax and drops the wait and the leftover. If the climax is already at the start, it keeps that front window and still cuts the leftover.
+
+**When:** **not** on import. Right-click a video → **Auto Trim** (runs immediately — no confirm). Or Library **⋯** → **Auto Trim Videos…** (asks when more than one video is in play).
+
+**Undo:** **⌘Z**. **Reset Length** restores the full source anytime.
+
+{% hint style="info" %}
+Auto Trim reads the full source for the highlight, then trims to an Energy-length window on it. It does not mute, caption, or remove clips.
+{% endhint %}
+
+See [Library → Videos](library.md#videos) and [Timeline](timeline.md#reorder-and-trim).
 
 ## Video sound (auto-mute)
 

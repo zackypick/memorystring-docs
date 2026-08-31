@@ -32,7 +32,7 @@ Undo, paste, duration, rotate.
 | **⌘]** / **⌘[** | Rotate Right / Rotate Left |
 | **⇧⌘]** / **⇧⌘[** | Flip Horizontal / Flip Vertical |
 
-**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. Library calendar and empty-Library right-click add **Shuffle**.
+**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. Library calendar and empty-Library right-click add **Shuffle**. Library **⋯** has **Keep Best Shots…** and **Auto Trim Videos…**; right-click a video for **Auto Trim**. Undo those with **⌘Z** — see [Auto detection](auto-detection.md#keep-best-shots).
 
 ## View
 

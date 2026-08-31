@@ -26,6 +26,10 @@ Videos show a play badge. Multi-select shows a count.
 
 **Essential:** after import, if the Library was empty or already **Oldest First**, MemoryString auto-sorts new stills **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
 
+{% hint style="info" %}
+**Keep Best Shots** may ask after import when similar photo groups appear — keep the best shot (eyes, smile, sharpness, exposure); the other shots leave the Library and timeline. Undo with **⌘Z**. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
+{% endhint %}
+
 ## Sort (calendar)
 
 Cake after the drive — or shuffle and see:
@@ -61,6 +65,8 @@ Same photos, different cuts — when motion feels stuck:
 
 - **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector. If you hand-picked **Slide Transition**s, it asks before clearing them.
 - **Reset Slide Durations** — restores default slide timing
+- **Keep Best Shots…** — find similar photo groups and keep the best shot in each ([Auto detection](auto-detection.md#keep-best-shots))
+- **Auto Trim Videos…** — trim each video to the Energy-length highlight window ([Auto detection](auto-detection.md#auto-trim))
 - **Show Transition Names** — badges on Library thumbs
 
 ## Reorder and replace
@@ -86,7 +92,7 @@ On a **photo or video** in the Library (not empty space):
 - **Set Duration…** (**⌘D**)
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
-- Videos: **Mute Video Sound** / **Unmute Video Sound**, **Reset Length**
+- Videos: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Length**
 - **Auto Caption** or **Clear Caption**
 - **Remove from Project** (**⌘⌫**)
 
@@ -105,6 +111,8 @@ Click a thumb to select and seek. **⌘**-click toggles; **⇧**-click extends a
 On import, MemoryString listens to each clip (Essential and Studio): **speech stays audible**; **silence or noise is muted**. Detection is on-device. Skip the speech prompt and mute still uses **loudness only**. How it decides: [Auto detection](auto-detection.md#video-sound-auto-mute).
 
 **Mute Video Sound** / **Unmute Video Sound** — right-click, the speaker badge, or the Inspector footer. Manual mute is yours.
+
+**Auto Trim** — right-click a video (no confirm) or Library **⋯** → **Auto Trim Videos…**. Keeps the Energy-length window on the climax; drops the wait and the leftover. Not on import. Undo with **⌘Z**. Details: [Auto detection](auto-detection.md#auto-trim).
 
 Videos have a **2 second** minimum trim. **Reset Length** restores the full clip.
 

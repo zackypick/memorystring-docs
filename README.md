@@ -15,7 +15,7 @@ Import photos and videos, add music and a Look, hit Export. Social frames includ
 - **Cuts that move** — the full single-slide pack, plus Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **Looks** — Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp. One chip, whole new film
 - **Music** — bundled royalty-free tracks, or yours
-- **The rest of the film** — intro title, captions, reorder, trim, mute ([Organizing](organizing.md))
+- **The rest of the film** — intro title, captions, reorder, trim, mute ([Organizing](organizing.md)); **Keep Best Shots** and **Auto Trim** ([Auto detection](auto-detection.md#keep-best-shots))
 - **Export** — H.264 MP4, Social and Classic frames, rendered on your Mac
 
 ## Watch a demo
