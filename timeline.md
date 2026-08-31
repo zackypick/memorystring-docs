@@ -68,6 +68,8 @@ Right-click a photo or video on the **photo lane**:
 - **Remove from Project** (**⌘⌫**)
 - Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Length**
 
+![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
+
 **Auto Trim** (videos) finds the climax in the full source and keeps an Energy-length window on it — wait and leftover go. Context-menu choose runs immediately; undo with **⌘Z**. Not on import. See [Auto detection](auto-detection.md#auto-trim).
 
 Right-click a video or music clip for trim:

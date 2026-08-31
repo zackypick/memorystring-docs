@@ -22,6 +22,8 @@ Burst of nearly the same smile? MemoryString finds the similar groups and can ke
 
 **The ask:** how many similar groups, how many extra shots, and **Keep the best shot only?** Default button is **Keep Best** (blue, right). **Keep All** leaves every photo.
 
+![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
+
 {% hint style="info" %}
 The other shots leave the Library and timeline. Undo with **⌘Z**.
 {% endhint %}
@@ -33,6 +35,8 @@ One undo restores the whole pass. See [Library](library.md#import) and [Library 
 Long phone clip — wait, then the moment, then leftover? **Auto Trim** keeps the interesting climax and drops the wait and the leftover, so the film hits the blow, the kick, the laugh instead of the setup.
 
 **When:** **not** on import. Right-click a video → **Auto Trim** (runs immediately — no confirm). Or Library **⋯** → **Auto Trim Videos…** (asks when more than one video is in play).
+
+![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
 **Undo:** **⌘Z**. **Reset Length** restores the full source anytime.
 

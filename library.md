@@ -30,6 +30,8 @@ Videos show a play badge. Multi-select shows a count.
 **Keep Best Shots** may ask after import when similar photo groups appear — keep the best shot (eyes, smile, sharpness, exposure); the other shots leave the Library and timeline. Undo with **⌘Z**. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
 {% endhint %}
 
+![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
+
 ## Sort (calendar)
 
 Cake after the drive — or shuffle and see:
@@ -61,7 +63,7 @@ See [Intro and captions](intro-captions.md#auto-caption).
 
 Same photos, different cuts — when motion feels stuck:
 
-![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](../.gitbook/assets/library-menu-options.png)
+![Library ⋯: Keep Best Shots… and Auto Trim Videos…](../.gitbook/assets/library-keep-best-auto-trim-menu.png)
 
 - **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector. If you hand-picked **Slide Transition**s, it asks before clearing them.
 - **Reset Slide Durations** — restores default slide timing
