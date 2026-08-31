@@ -20,7 +20,7 @@ Chrome above shows selected clip **name + duration** and zoom. Readout is **fit-
 
 ### Timeline height
 
-Need taller thumbs? Drag the **thin seam above the Timeline** (between the preview row and the filmstrip) **up** to grow the photo lane, **down** to shrink it. Extra height runs from **0** to about **160** points and is remembered across launches. **⌘+** / **⌘-** still scale the base row with UI text size; this drag adds on top.
+Need taller thumbs? Drag the **thin seam above the Timeline** (between the preview row and the filmstrip) **up** to grow the photo lane, **down** to shrink it. Extra height runs from **0** to about **160** points and is remembered across launches. **⌘+** / **⌘-** still scale Timeline strip height (and Library cards) with UI text size; this drag adds on top of that base.
 
 ![Drag the seam to grow the filmstrip; zoom slider scales the strip live](.gitbook/assets/timeline-expand-zoom.gif)
 
@@ -35,7 +35,7 @@ Zoom out for the whole birthday; in when a half-second matters.
 - **Two-finger trackpad pan** or **horizontal scroll** to move along the strip
 - **Middle-mouse drag** to pan
 
-**⌘+** / **⌘-** / **⌘0** are UI text size (Library thumbs and Timeline *row height*), not Timeline zoom.
+**⌘+** / **⌘-** / **⌘0** are UI text size — they scale **Library cards** and Timeline *strip height* together, not Timeline zoom.
 
 Once slides exceed a readable fit, the timeline **scrolls** instead of squeezing. Cells keep a minimum width (thumbs, motion label, duration). Very long projects cap at about **8 windows** — zoom in from there. A very short hold still gets a clickable cell.
 

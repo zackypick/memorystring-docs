@@ -70,13 +70,13 @@ Photo lane on top, music underneath. Drag the **thin seam above the Timeline** u
 
 ![Drag the seam to grow the filmstrip; zoom slider scales the strip live](../.gitbook/assets/timeline-expand-zoom.gif)
 
-**⌘+** / **⌘-** still scale the base row with UI text size; the drag adds on top.
+**⌘+** / **⌘-** still scale Timeline strip height (and Library cards) with UI text size; the drag adds extra height on top of that base.
 
 More: [Timeline](../timeline.md).
 
 ## Text size
 
-Chrome, not captions. **View → Increase / Decrease / Default Text Size** (**⌘+** / **⌘-** / **⌘0**) scales app UI, Library thumbs, and Timeline row height — not slide captions.
+Chrome, not captions. **View → Increase / Decrease / Default Text Size** (**⌘+** / **⌘-** / **⌘0**) scales app UI, **Library cards**, and **Timeline** strip height together — not slide captions.
 
 ## Walkthrough
 

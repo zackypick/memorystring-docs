@@ -6,7 +6,7 @@ Birthday photos, trip videos, that clip of everyone singing — they land here b
 
 When the Library has items, left to right: **calendar** (sort), **captions** bubble, **⋯**, and **+** on the trailing edge.
 
-Drag the **vertical divider** on the right to resize (remembered). **View → Toggle Sidebar** (**⌃⌘S**) hides it.
+Drag the **vertical divider** on the right to resize (remembered). **View → Toggle Sidebar** (**⌃⌘S**) hides it. **⌘+** / **⌘-** / **⌘0** (UI text size) also enlarge or shrink Library cards — same factor as Timeline strip height.
 
 ## Import
 
