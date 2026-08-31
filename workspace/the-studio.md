@@ -8,10 +8,7 @@ Most apps treat the workspace like a factory floor. We treated it like a place y
 
 ## The panes
 
-- Library
-- Preview
-- Inspector
-- Timeline
+The Studio is built around four panes: Library, Preview, Inspector, and Timeline.
 
 ![The Studio: Library, Preview, Inspector, Timeline](../.gitbook/assets/the-window-panes.png)
 
