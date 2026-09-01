@@ -4,9 +4,9 @@ MemoryString turns a folder of photos and videos into a cinematic movie on your 
 
 Messy camera roll? A burst of almost the same smile. A phone clip that waits, then the laugh, then leftover. Fridge hum under the birthday song.
 
-**Keep Best Shots** keeps the open-eyed one. **Auto Trim** jumps to the moment. Motion aims at faces. Captions use place and date, not IMG_4821.
+The app already knows what you need. **Keep Best Shots** keeps the open-eyed one. **Auto Trim** jumps to the moment. Motion aims at faces. Captions use place and date, not IMG_4821. Music is already there, matched to the Look, or use yours.
 
-Drop a folder. Add music and a Look. Hit Export. The anniversary reel can be on the family group chat before the cake is cut.
+Drop a folder. Pick a Look. Hit Export. The anniversary reel can be on the family group chat before the cake is cut.
 
 Everything stays on your Mac. Nobody is training a model on your kids' birthdays. No account, no subscription, free.
 
