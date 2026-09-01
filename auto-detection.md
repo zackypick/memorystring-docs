@@ -1,6 +1,6 @@
 # Auto detection
 
-On-device helpers that make the movie an instant hit — sharper picks, real moments, a soundtrack that leads, motion that frames the right thing.
+Messy camera roll helpers, on your Mac: Keep Best Shots keeps the open-eyed one from a near-duplicate burst. Auto Trim jumps to the moment in a phone clip. Video mute hushes fridge hum so the soundtrack can lead. Motion aims at faces.
 
 Everything stays on your Mac. Original files are never rewritten.
 

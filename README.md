@@ -1,10 +1,12 @@
 # MemoryString
 
-Cinematic slideshows on your Mac. Simple enough for anyone, and great to send to the family — the kind of movie people watch twice. **Free.** No nagging, no limits, no cloud thumbing through your photos.
+Messy camera roll? A burst of almost the same smile. A phone clip that waits, then the laugh, then leftover. Fridge hum under the birthday song.
 
-Everything happens on your Mac. Nobody is training a model on your kids' birthdays.
+**Keep Best Shots** and **Auto Trim** live. Burst photos and phone clips become a movie, on your Mac. No account, no subscription, free.
 
-Import photos and videos, add music and a Look, hit Export. Social frames included, so the anniversary reel is on the family group chat before the cake is cut.
+Keep Best Shots keeps the open-eyed one. Auto Trim jumps to the moment. Motion aims at faces. Captions use place and date, not IMG_4821. Add music and a Look, hit Export. Social frames included, so the anniversary reel is on the family group chat before the cake is cut.
+
+Everything stays on your Mac. Nobody is training a model on your kids' birthdays.
 
 ## Get it
 
@@ -12,10 +14,12 @@ Import photos and videos, add music and a Look, hit Export. Social frames includ
 
 ## What's in the box
 
+- **Keep Best Shots** — similar burst? Keep the sharp, open-eyed shot ([Auto detection](auto-detection.md#keep-best-shots))
+- **Auto Trim** — jump to the laugh, the kick, the blow; drop the wait and the leftover ([Auto detection](auto-detection.md#auto-trim))
 - **Cuts that move** — the full single-slide pack, plus Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **Looks** — Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp. One chip, whole new film
 - **Music** — bundled royalty-free tracks, or yours
-- **The rest of the film** — intro title, captions, reorder, trim, mute ([Organizing](organizing.md)); **Keep Best Shots** and **Auto Trim** ([Auto detection](auto-detection.md#keep-best-shots))
+- **The rest of the film** — intro title, captions from place/date, reorder, mute ([Organizing](organizing.md))
 - **Export** — H.264 MP4, Social and Classic frames, rendered on your Mac
 
 ## Watch a demo
