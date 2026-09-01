@@ -1,12 +1,14 @@
 # MemoryString
 
+MemoryString turns a folder of photos and videos into a cinematic movie on your Mac. Minutes, not an evening in iMovie.
+
 Messy camera roll? A burst of almost the same smile. A phone clip that waits, then the laugh, then leftover. Fridge hum under the birthday song.
 
-**Keep Best Shots** and **Auto Trim** live. Burst photos and phone clips become a movie, on your Mac. No account, no subscription, free.
+**Keep Best Shots** keeps the open-eyed one. **Auto Trim** jumps to the moment. Motion aims at faces. Captions use place and date, not IMG_4821.
 
-Keep Best Shots keeps the open-eyed one. Auto Trim jumps to the moment. Motion aims at faces. Captions use place and date, not IMG_4821. Add music and a Look, hit Export. Social frames included, so the anniversary reel is on the family group chat before the cake is cut.
+Drop a folder. Add music and a Look. Hit Export. The anniversary reel can be on the family group chat before the cake is cut.
 
-Everything stays on your Mac. Nobody is training a model on your kids' birthdays.
+Everything stays on your Mac. Nobody is training a model on your kids' birthdays. No account, no subscription, free.
 
 ## Get it
 
