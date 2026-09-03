@@ -1,7 +1,3 @@
----
-description: "Format and export a MemoryString slideshow as H.264 MP4 on your Mac — Social and Classic frames, Social Safe, 1080p or 4K."
----
-
 # Format and export
 
 This is where the movie leaves the desk and reaches family, friends, or a feed. Inspector → **Format** sets the aspect you edit in — and the default for Export. Frame rate, quality, and resolution live in the **Export Movie** dialog, not here.
