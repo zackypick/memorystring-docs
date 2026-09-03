@@ -1,5 +1,10 @@
 root: ./
 
+# Homepage is welcome.md. README.md is a thin GitHub stub so github.com
+# does not rank a second copy of the published docs.
 structure:
-  readme: README.md
+  readme: welcome.md
   summary: SUMMARY.md
+
+redirects:
+  README: welcome.md

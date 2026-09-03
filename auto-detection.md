@@ -1,3 +1,7 @@
+---
+description: "Keep Best Shots and Auto Trim for a messy camera roll, on your Mac. MemoryString’s helpers stay on-device; Auto Trim is not on import, and original files are never rewritten."
+---
+
 # Auto detection
 
 Messy camera roll helpers, on your Mac: Keep Best Shots keeps the open-eyed one from a near-duplicate burst. Auto Trim jumps to the moment in a phone clip. Video mute hushes fridge hum so the soundtrack can lead. Motion aims at faces.
@@ -97,7 +101,7 @@ Untitled-only entry points **never overwrite** what you typed. **Auto Caption Al
 
 **How it fills an empty caption**, in order:
 
-1. **Place · date** — GPS on the file (stills: EXIF; videos: QuickTime) reverse-geocoded with Apple’s geocoder, or IPTC city/country if GPS is missing. Format like `Tel Aviv-Yafo · 29 July 2026`. **Country** only when the show has photos from **more than one country**.
+1. **Place · date** — GPS on the file (stills: EXIF; videos: QuickTime) reverse-geocoded with Apple’s geocoder, or IPTC city/country if GPS is missing. Format like `place · date`. **Country** only when the show has photos from **more than one country**.
 2. Else **capture date** — EXIF DateTimeOriginal / video creation date (not the import copy date). Same long-date style.
 3. Else a **readable filename** with real words (`dan_and_mom-beach` → `Dan and Mom Beach`). Embedded calendar dates rewritten as dates; clock times dropped.
 

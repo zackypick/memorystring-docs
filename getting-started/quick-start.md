@@ -1,6 +1,6 @@
 # Quick start
 
-Photos in, Play, Export — a finished movie in a few minutes. Prefer a guided tour? **Help → Show Walkthrough**, or [watch the demos](../README.md#watch-a-demo).
+Photos in, Play, Export — a finished movie in a few minutes. Prefer a guided tour? **Help → Show Walkthrough**, or [watch the demos](../welcome.md#watch-a-demo).
 
 ![Empty project — drop media or use Add photos & videos](../.gitbook/assets/empty-start.png)
 

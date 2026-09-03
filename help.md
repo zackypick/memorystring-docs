@@ -20,4 +20,4 @@ Topics: About MemoryString, Quick Start, Library, Preview, Timeline, Music, Effe
 
 **Help → Report a Problem…** emails a sanitized crash package (stacks, Mac specs, breadcrumbs; no media filenames). Useful when something breaks — and polite about what it sends.
 
-**MemoryString → About MemoryString** is the About panel (creator, website, version). The same credit is in the window footer. Public how-to and export clips: [Welcome](README.md#watch-a-demo).
+**MemoryString → About MemoryString** is the About panel (creator, website, version). The same credit is in the window footer. Public how-to and export clips: [Welcome](welcome.md#watch-a-demo).
