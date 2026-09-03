@@ -60,7 +60,7 @@ A Look chip skins the intro (font, colour, outline, shadow, frame, ornament, ent
 
 ## Slide captions
 
-Optional. Not added unless you type or use **Auto Caption**. Not the intro title — “Tel Aviv · July” under a photo.
+Optional. Not added unless you type or use **Auto Caption**. Not the intro title — “Lisbon · July” under a photo.
 
 ## Set a caption in the Inspector
 

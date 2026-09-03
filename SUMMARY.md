@@ -4,6 +4,7 @@
 
 * [Welcome](README.md)
 * [Quick start](getting-started/quick-start.md)
+* [MemoryString vs FotoMagico vs iMovie](getting-started/memorystring-vs-fotomagico-vs-imovie.md)
 * [The Studio](workspace/the-studio.md)
 * [Essential and Studio](workspace/essential-studio.md)
 

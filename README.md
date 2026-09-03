@@ -1,3 +1,10 @@
+---
+description: "Turn a folder of photos into a cinematic MP4 on your Mac. MemoryString is free and on-device, with Keep Best Shots and Auto Trim. No account, no subscription."
+layout:
+  description:
+    visible: false
+---
+
 # MemoryString
 
 MemoryString turns a folder of photos and videos into a cinematic movie on your Mac. Minutes, not an evening in iMovie.
@@ -9,6 +16,8 @@ The app already knows what you need. **Keep Best Shots** keeps the open-eyed one
 Drop a folder. Pick a Look. Hit Export. The anniversary reel can be on the family group chat before the cake is cut.
 
 Everything stays on your Mac. Nobody is training a model on your kids' birthdays. No account, no subscription, free.
+
+Weighing FotoMagico or an evening in iMovie? [MemoryString vs FotoMagico vs iMovie](getting-started/memorystring-vs-fotomagico-vs-imovie.md) is the honest comparison — not a claim that one app covers every stage.
 
 ## Get it
 
