@@ -34,4 +34,5 @@
 
 * [Keyboard shortcuts](shortcuts.md)
 * [MCP Server](mcp.md)
+* [Credits](credits.md)
 * [In-app Help](help.md)

@@ -29,7 +29,7 @@ Undo, paste, duration, rotate.
 | **⌘⌫** | Delete selected media or music |
 | **⌘D** | Set Duration… |
 | **⌘1** / **⌘2** | Set Start Here / Set End Here |
-| **⌘]** / **⌘[** | Rotate Right / Rotate Left |
+| **⌘]** / **⌘[** | Rotate Clockwise / Rotate Counter Clockwise |
 | **⇧⌘]** / **⇧⌘[** | Flip Horizontal / Flip Vertical |
 
 **Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. Library calendar and empty-Library right-click add **Shuffle**. Library **⋯** has **Keep Best Shots…** and **Auto Trim Videos…**; right-click a video for **Auto Trim**. Undo those with **⌘Z** — see [Auto detection](auto-detection.md#keep-best-shots).

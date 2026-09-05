@@ -10,9 +10,10 @@ Drag the **vertical divider** on the right to resize (remembered). **View → To
 
 ## Import
 
-Dump a folder, paste a screenshot, or use the menus:
+Dump a folder, paste a screenshot, pull from Photos.app, or use the menus:
 
 - Toolbar or Library **+** → **Photos & Videos…**, or **File → Import Media…**
+- **File → Import from Photos…** (also on toolbar **+**, the empty-stage Add pill, and Library **+**) — see [Import from Photos](#import-from-photos)
 - Drop folders, photos, or videos onto the window
 - **Edit → Paste** (**⌘V**) — Finder files or folders, an image/video from Preview, Photos, Safari, Messages, or a screenshot (**⇧⌘4**). Clipboard images with no file are saved under Application Support **Imports**. Music files join the soundtrack. A `.memorystring` file **opens**.
 - Empty Library: dashed target — *Drop photos & videos here*
@@ -22,15 +23,40 @@ Dump a folder, paste a screenshot, or use the menus:
 
 Unsupported types are skipped. **⌘C** copies selected Library or Timeline items as files. In a caption or title field, **⌘V** / **⌘C** stay ordinary text paste and copy.
 
-Videos show a play badge. Multi-select shows a count.
+Videos show a play badge and a duration stamp (clock + clip seconds). Multi-select shows a count.
 
 **Essential:** after import, if the Library was empty or already **Oldest First**, MemoryString auto-sorts new stills **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
 
 {% hint style="info" %}
-**Keep Best Shots** may ask after import when similar photo groups appear — keep the best shot (eyes, smile, sharpness, exposure); the other shots leave the Library and timeline. Undo with **⌘Z**. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
+**Keep Best Shots** may ask after import when similar photo groups appear — keep the best shot (eyes, smile, sharpness, exposure); the other shots move to **Outtakes** (still in the project, off the show). Undo with **⌘Z**. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
+
+## Import from Photos
+
+Stay in MemoryString. **File → Import from Photos…** (same item on toolbar **+**, the empty-stage Add pill, and Library **+**) opens the **Import from Photos** sheet.
+
+Categories:
+
+- **Recent** — Last 7 Days / Last 30 Days / Last Year
+- **Albums** — your Photos albums (the path for “import this album”)
+- **People** — named faces, A–Z. If PhotoKit is empty, **Choose Photos Library…** points at your `.photoslibrary` once so named People & Pets can be listed
+- **By Month** — years and months
+- **Trips & Events** — Photos events
+- **Media Type** — Videos, Panoramas, Screenshots, Live Photos, Bursts
+
+Most lists can take a **From / To** date filter (**Any dates**, Apply, Clear). First time: **Access Your Photos**. If access is denied: System Settings → Privacy & Security → Photos.
+
+Import uses the same ingest as a Finder drop — Keep Best may ask; extras go to Outtakes.
+
+## Outtakes
+
+The left column splits into **Takes** (the show) and **Outtakes**, with a hairline seam between them. Drag the seam up to enlarge Outtakes (Takes shrinks), or down for the opposite.
+
+Outtakes holds shots that are in the project but not on the show — Keep Best extras, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy). Empty body: **Nothing discarded.**
+
+Click an outtake to select it (tile ring); the playhead and preview stay on the current movie slide. Drag an outtake up into Takes or the filmstrip to put it on the show; drop onto the intro tile to use it as the intro background (it stays in Outtakes). Right-click → **Move to Takes**, or **Remove from Project** to delete it for real. Calendar sort also sorts Outtakes; Shuffle is show-only.
 
 ## Sort (calendar)
 
@@ -68,7 +94,7 @@ Same photos, different cuts — when motion feels stuck:
 - **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector. If you hand-picked **Slide Transition**s, it asks before clearing them.
 - **Reset Slide Durations** — restores default slide timing
 - **Keep Best Shots…** — find similar photo groups and keep the best shot in each ([Auto detection](auto-detection.md#keep-best-shots))
-- **Auto Trim Videos…** — trim each video to the Energy-length highlight window ([Auto detection](auto-detection.md#auto-trim))
+- **Auto Trim Videos…** — best-effort highlight window (not guaranteed; trim by hand if it misses) ([Auto detection](auto-detection.md#auto-trim))
 - **Show Transition Names** — badges on Library thumbs
 
 ## Reorder and replace
@@ -90,12 +116,15 @@ On a **photo or video** in the Library (not empty space):
 - **Group Transition** — when **two or more** media clips are selected (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
 - **Ungroup** — when the clip is in a group
 - **Lens Effect** — Studio only; pin pooled effects on that slide or group
-- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md#rotate-while-paused) (right-click)
+- **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md#rotate-while-paused) (right-click)
 - **Set Duration…** (**⌘D**)
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 - Videos: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Length**
+- **Set Caption** — focuses the Inspector clip-bar field
 - **Auto Caption** or **Clear Caption**
+- **Move to Outtakes** (on a Take) or **Move to Takes** (on an Outtake)
+- **Reveal in Finder**
 - **Remove from Project** (**⌘⌫**)
 
 The Timeline photo-lane menu is the same idea — see [Timeline](timeline.md#reorder-and-trim).
@@ -114,7 +143,7 @@ On import, MemoryString listens to each clip (Essential and Studio): **speech st
 
 **Mute Video Sound** / **Unmute Video Sound** — right-click, the speaker badge, or the Inspector footer. Manual mute is yours.
 
-**Auto Trim** — right-click a video (no confirm) or Library **⋯** → **Auto Trim Videos…**. Keeps the Energy-length window on the climax; drops the wait and the leftover. Not on import. Undo with **⌘Z**. Details: [Auto detection](auto-detection.md#auto-trim).
+**Auto Trim** — right-click a video (no confirm) or Library **⋯** → **Auto Trim Videos…**. Best-effort highlight window — not guaranteed; trim by hand if it misses. Not on import. Undo with **⌘Z**. Details: [Auto detection](auto-detection.md#auto-trim).
 
 Videos have a **2 second** minimum trim. **Reset Length** restores the full clip.
 

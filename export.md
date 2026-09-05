@@ -88,18 +88,35 @@ Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 
 ![Save As, Format, Social Safe, Quality, Frame Rate](../.gitbook/assets/export-dialog.png)
 
-- **Save As** — filename; **Browse…** for the folder. Default name prefers title text, then the project name, then **Untitled Memory**. The file is `.mp4`.
+- **Save As** — filename; folder chip (click to choose a folder). Default name prefers title text, then the project name, then **Untitled Memory**. The file is `.mp4`.
 - **Format** — destination swatches for **this encode** (does not change the live preview)
 - **Resolution** — **1080p** (default) or **4K**. 4K takes much longer — around three times the length of the show. **Cinema (21:9)** does not offer 4K — that format stays at 1080p because of the aspect, not the Mac. Rarely, when other apps leave too little free memory, 4K declines to start and asks you to close some apps or use 1080p. If memory tightens mid-export, the encode slows rather than failing.
 - **Social Safe** — same mode as the Format tab
 - **Quality** — slider stops **Compact**, **Share**, **High**, **Best** (**Share** is the default). Available in Essential and Studio; Studio also shows the target rate in Mbps.
 - **Frame Rate** — **30** (smaller/faster) or **60** (smoother motion)
+- **Screensaver** — see below
 
 Check the footer **projected size** (and duration) for the current choices. Click **Export** and wait. Toolbar shows **Creating memory…** and a percent. Editing pauses (*Edits paused while creating memory*). If music is still decoding, Export waits.
 
 You get an H.264 MP4; the `.memorystring` project stays editable. Preview with **Space** (and Studio **Warm Now** if you want the baked pass) before you export — the file matches that show, not the workbench ambilight.
 
-Every movie eases to the stage floor before the end hold (black on Dark, cream on Light). A subtle bottom-right **Created with MemoryString** watermark (logo + credit) fades in once during the tail of the last photo and stays through the end floor (about three seconds). On **Light** stage the credit uses the logo’s **bronze** brown. There is no toggle to disable it.
+## Screensaver
+
+Check **Screensaver** at the bottom of Export Movie when the file is meant to loop on a Mac display — not a share movie.
+
+- **No audio** — soundtrack and clip sound are omitted
+- **Skips intro** — the opening title card is not painted
+- **Fades to the stage** — first real slide fades in from Stage color; last slide fades out to Stage color (Dark or Light). No branded end hold
+- Needs at least one photo or video (*Add at least one slide before exporting a screensaver*)
+- Per-show — saved on this project. Turning it on seeds **1080p / 30 / Share**; you can still change those
+
+After export: *Drop the file into System Settings → Wallpaper → add folder to use as a screensaver.*
+
+## The MemoryString credit
+
+Every movie (except a Screensaver export) eases to the stage floor before the end hold (black on Dark, cream on Light). A subtle bottom-right **Created with MemoryString** mark — name + logo — fades in once during the tail of the last photo and stays through the end floor (about three seconds). On **Light** stage the credit uses the logo’s **bronze** brown.
+
+There is no toggle to turn it off. MemoryString is free — days, nights, weekends — and the credit is how the app reaches more families. If you want a loop with no end card, use **Screensaver**.
 
 ## Before you export
 

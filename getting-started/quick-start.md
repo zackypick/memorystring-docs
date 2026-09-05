@@ -17,14 +17,15 @@ Blank stage or an old `.memorystring` — either way you’re editing a real pro
 Fill the **Library** on the left — the cast of the movie.
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
-2. Or drop folders, photos, or videos onto the window.
+2. Or **File → Import from Photos…** (also on **+**) — albums, people, trips, media types from Photos.app
+3. Or drop folders, photos, or videos onto the window.
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
 
 Other types are skipped.
 
-After import, MemoryString may offer **Keep Best Shots** when similar photo groups show up. Videos are **not** auto-trimmed — right-click a clip → **Auto Trim**, or Library **⋯**. See [Auto detection](../auto-detection.md#keep-best-shots).
+After import, MemoryString may offer **Keep Best Shots** when similar photo groups show up — extras move to **Outtakes**. Videos are **not** auto-trimmed — right-click a clip → **Auto Trim**, or Library **⋯**. See [Auto detection](../auto-detection.md#keep-best-shots).
 
 ## 3. Order the story
 
@@ -58,6 +59,6 @@ Inspector (**⌥⌘I**) when you want more than the defaults:
 
 ## 7. Export
 
-Toolbar **Export** or **File → Export Movie…** (**⌘E**). Confirm format, resolution, quality (Compact / Share / High / Best — both modes; Studio also shows Mbps), and frame rate, then **Export**. Wait for **Creating memory…**.
+Toolbar **Export** or **File → Export Movie…** (**⌘E**). Confirm format, resolution, quality (Compact / Share / High / Best — both modes; Studio also shows Mbps), and frame rate, then **Export**. Check **Screensaver** if the file is a looping display movie (no audio, skips intro). Wait for **Creating memory…**.
 
-You get an H.264 MP4.
+You get an H.264 MP4. Every share movie ends with a **Created with MemoryString** credit — the app is free, and that mark is how it reaches more families.
