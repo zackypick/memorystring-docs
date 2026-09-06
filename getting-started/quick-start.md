@@ -24,7 +24,7 @@ Fill the **Library** on the left — the cast of the movie.
 
 Other types are skipped.
 
-After import, MemoryString may offer **Keep Best Shots** when similar photo groups show up. Videos are **not** auto-trimmed — right-click a clip → **Auto Trim**, or Library **⋯**. See [Auto detection](../auto-detection.md#keep-best-shots).
+After import, MemoryString may offer **Keep Best Shots** when similar photo groups show up. Videos are **not** auto-trimmed on import — right-click a clip → **Auto Trim**, or Library **⋯**. Middle four seconds plus a small face nudge; right about 70% of the time. See [Auto detection](../auto-detection.md#auto-trim).
 
 ## 3. Order the story
 

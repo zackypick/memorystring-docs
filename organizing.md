@@ -78,4 +78,4 @@ The group **badge** on a Library thumb re-selects the whole window.
 
 Mistakes are cheap. **⌘Z** undoes sort, shuffle, Shuffle Transitions, drag reorder, **Keep Best Shots**, and **Auto Trim**. Named in the Edit menu (for example Undo Sort by Date Taken, Undo Keep Best Shots).
 
-Keep Best and Auto Trim live under Library **⋯** (and Auto Trim on a video’s right-click). Story: [Auto detection](auto-detection.md#keep-best-shots).
+Keep Best and Auto Trim live under Library **⋯** (and Auto Trim on a video’s right-click). Auto Trim is the middle four seconds plus a small face nudge — right about 70% of the time; trim by hand when it misses. Story: [Auto detection](auto-detection.md#auto-trim).

@@ -13,7 +13,7 @@ MemoryString turns a folder of photos and videos into a cinematic movie on your 
 
 Messy camera roll? A burst of almost the same smile. A phone clip that waits, then the laugh, then leftover. Fridge hum under the birthday song.
 
-The app already knows what you need. **Keep Best Shots** keeps the open-eyed one. **Auto Trim** jumps to the moment. Motion aims at faces. Captions use place and date, not IMG_4821. Music is already there, matched to the Look, or use yours.
+The app already knows what you need. **Keep Best Shots** keeps the open-eyed one. **Auto Trim** takes the middle four seconds and may nudge toward a face — right about 70% of the time; trim by hand when it misses. Motion aims at faces. Captions use place and date, not IMG_4821. Music is already there, matched to the Look, or use yours.
 
 Drop a folder. Pick a Look. Hit Export. The anniversary reel can be on the family group chat before the cake is cut.
 
@@ -28,7 +28,7 @@ Weighing FotoMagico or an evening in iMovie? [MemoryString vs FotoMagico vs iMov
 ## What's in the box
 
 - **Keep Best Shots** — similar burst? Keep the sharp, open-eyed shot ([Auto detection](auto-detection.md#keep-best-shots))
-- **Auto Trim** — jump to the laugh, the kick, the blow; drop the wait and the leftover ([Auto detection](auto-detection.md#auto-trim))
+- **Auto Trim** — middle four seconds, plus up to a second toward a face; stills skipped. Right about 70% of the time ([Auto detection](auto-detection.md#auto-trim))
 - **Cuts that move** — the full single-slide pack, plus Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **Looks** — Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp. One chip, whole new film
 - **Music** — bundled royalty-free tracks, or yours

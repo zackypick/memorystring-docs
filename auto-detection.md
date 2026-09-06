@@ -1,17 +1,17 @@
 ---
-description: "Keep Best Shots and Auto Trim for a messy camera roll, on your Mac. MemoryString’s helpers stay on-device; Auto Trim is not on import, and original files are never rewritten."
+description: "Keep Best Shots and Auto Trim for a messy camera roll, on your Mac. Auto Trim is the middle four seconds plus a small face nudge — on-device, not on import, originals never rewritten."
 ---
 
 # Auto detection
 
-Messy camera roll helpers, on your Mac: Keep Best Shots keeps the open-eyed one from a near-duplicate burst. Auto Trim jumps to the moment in a phone clip. Video mute hushes fridge hum so the soundtrack can lead. Motion aims at faces.
+Messy camera roll helpers, on your Mac: Keep Best Shots keeps the open-eyed one from a near-duplicate burst. Auto Trim seats a video on the middle four seconds, and may nudge toward a face. Video mute hushes fridge hum so the soundtrack can lead. Motion aims at faces.
 
 Everything stays on your Mac. Original files are never rewritten.
 
 ## The helpers
 
 - **Keep Best Shots** — Similar burst photos? Keep the sharp, open-eyed, well-exposed one; extras leave the Library and timeline. Import may ask; Library **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
-- **Auto Trim** — Videos: keep the interesting moment (the blow, the kick, the laugh); drop the wait and the leftover. Right-click or Library **⋯** — not on import. No extra confirm after you pick it. Undo **⌘Z**.
+- **Auto Trim** — Videos: middle four seconds, plus up to a second toward a face if that window is empty. Stills and short Live Photos skipped. Right about 70% of the time. Right-click or Library **⋯** — not on import. Undo **⌘Z**.
 - **Video mute** — Hush fridge hum and boring room tone on import so the soundtrack can lead.
 - **Center of interest** — Finds faces and subjects so motion frames the right thing — you don’t chase focus yourself.
 - **Auto Caption** — Titles from the photo, only when you choose **Auto Caption** — never written by itself.
@@ -36,16 +36,27 @@ One undo restores the whole pass. See [Library](library.md#import) and [Library 
 
 ## Auto Trim
 
-Long phone clip — wait, then the moment, then leftover? **Auto Trim** keeps the interesting climax and drops the wait and the leftover, so the film hits the blow, the kick, the laugh instead of the setup.
+Long phone clip — wait, then the moment, then leftover? **Auto Trim** does not hunt the laugh, the kick, or the blow. It takes a seat in the middle of the file and, if that window has no face, shifts a little toward one.
 
 **When:** **not** on import. Right-click a video → **Auto Trim** (runs immediately — no confirm). Or Library **⋯** → **Auto Trim Videos…** (asks when more than one video is in play).
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
+**What it actually does:**
+
+1. **Stills** are not trimmed. A Live Photo with under **1.0s** of motion is treated as a still — skip trim.
+2. The window is the **middle 4 seconds** of the file (from two seconds before the midpoint to two seconds after), clamped to the file. A file shorter than **4.0s** keeps the whole clip.
+3. If that window has **no face**, the seat shifts by up to **1.0s** toward the nearest window that does. If none, the middle window stays.
+4. That window is the trim.
+
+Several other heuristics were tried. They were not good enough. This is the model that ships. It is **right about 70% of the time**. Trim by hand when it misses.
+
+Finding the real moment — understanding the clip — needs AI. MemoryString is **privacy-focused and free**, so it does not send videos to cloud AI. An on-device / embedded model might come later. Not now.
+
 **Undo:** **⌘Z**. **Reset Length** restores the full source anytime.
 
 {% hint style="info" %}
-Auto Trim finds the highlight in the full source, then trims to that window. It does not mute, caption, or remove clips.
+Auto Trim does not mute, caption, or remove clips. Original files are never rewritten.
 {% endhint %}
 
 See [Library → Videos](library.md#videos) and [Timeline](timeline.md#reorder-and-trim).
