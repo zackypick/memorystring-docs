@@ -62,15 +62,18 @@ Right-click a photo or video on the **photo lane**:
 ![Timeline clip menu: Slide Transition, rotate, duration, Auto Caption, Remove](../.gitbook/assets/timeline-context-menu.png)
 
 - **Slide Transition** — pick a cut, or **Random** (groups: **Change Transition** / **Ungroup** / **Group Transition** when several clips are selected)
-- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical**
-- **Set Duration…** (**⌘D**)
+- **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**
+- **Set Duration…** (**⌘D**). Timeline videos nest duration + **Set Start Here** / **Set End Here** under **Timing**
+- **Set Caption** — focuses the Inspector clip-bar field
 - **Auto Caption** or **Clear Caption**
+- **Move to Outtakes**
+- **Reveal in Finder**
 - **Remove from Project** (**⌘⌫**)
 - Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Length**
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
-**Auto Trim** (videos) finds the climax in the full source and keeps an Energy-length window on it — wait and leftover go. Context-menu choose runs immediately; undo with **⌘Z**. Not on import. See [Auto detection](auto-detection.md#auto-trim).
+**Auto Trim** (videos) is a best-effort highlight window — not guaranteed; trim by hand if it misses. Context-menu choose runs immediately; undo with **⌘Z**. Not on import. See [Auto detection](auto-detection.md#auto-trim).
 
 Right-click a video or music clip for trim:
 

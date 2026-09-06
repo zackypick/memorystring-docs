@@ -13,7 +13,7 @@ MemoryString turns a folder of photos and videos into a cinematic movie on your 
 
 Messy camera roll? A burst of almost the same smile. A phone clip that waits, then the laugh, then leftover. Fridge hum under the birthday song.
 
-The app already knows what you need. **Keep Best Shots** keeps the open-eyed one. **Auto Trim** jumps to the moment. Motion aims at faces. Captions use place and date, not IMG_4821. Music is already there, matched to the Look, or use yours.
+The app already knows what you need. **Keep Best Shots** keeps the open-eyed one. **Auto Trim** is a best-effort try at the moment — trim by hand if it misses. Motion aims at faces. Captions use place and date, not IMG_4821. Music is already there, matched to the Look, or use yours.
 
 Drop a folder. Pick a Look. Hit Export. The anniversary reel can be on the family group chat before the cake is cut.
 
@@ -27,13 +27,15 @@ Weighing FotoMagico or an evening in iMovie? [MemoryString vs FotoMagico vs iMov
 
 ## What's in the box
 
-- **Keep Best Shots** — similar burst? Keep the sharp, open-eyed shot ([Auto detection](auto-detection.md#keep-best-shots))
-- **Auto Trim** — jump to the laugh, the kick, the blow; drop the wait and the leftover ([Auto detection](auto-detection.md#auto-trim))
+- **Keep Best Shots** — similar burst? Keep the sharp, open-eyed shot; extras land in [Outtakes](library.md#outtakes) ([Auto detection](auto-detection.md#keep-best-shots))
+- **Auto Trim** — best-effort highlight window; drop the wait and leftover — not guaranteed ([Auto detection](auto-detection.md#auto-trim))
+- **Import from Photos** — albums, people, trips, and media types from Photos.app ([Library](library.md#import-from-photos))
+- **Outtakes** — shots in the project but off the show; drag or **Move to Outtakes** / **Move to Takes**
 - **Cuts that move** — the full single-slide pack, plus Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **Looks** — Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp. One chip, whole new film
 - **Music** — bundled royalty-free tracks, or yours
 - **The rest of the film** — intro title, captions from place/date, reorder, mute ([Organizing](organizing.md))
-- **Export** — H.264 MP4, Social and Classic frames, rendered on your Mac
+- **Export** — H.264 MP4, Social and Classic frames, or a looping **Screensaver** movie ([Format and export](export.md#screensaver))
 
 ## Watch a demo
 
@@ -49,6 +51,6 @@ Weighing FotoMagico or an evening in iMovie? [MemoryString vs FotoMagico vs iMov
 
 Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved.
 
-These docs run on [GitBook](https://www.gitbook.com), who gave MemoryString a Community plan — thank you, and thanks to John there for making it happen.
+Thanks — GitBook, John Deere, and Adam Angst — live on [Credits](credits.md).
 
 New here? [Quick start](getting-started/quick-start.md) gets you to a finished movie. A shorter subset lives in the app under **Help → MemoryString Help…** (**⌘/**). This site ([memorystring.codebyz.com](https://memorystring.codebyz.com)) is the full public set.

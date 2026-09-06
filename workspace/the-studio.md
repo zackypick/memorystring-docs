@@ -14,7 +14,7 @@ The Studio is built around four panes: Library, Preview, Inspector, and Timeline
 
 | Pane | Where | What it is |
 | --- | --- | --- |
-| **Library** | Left | Photos and videos in this project |
+| **Library** | Left | **Takes** (the show) on top, **Outtakes** in the bottom half |
 | **Preview** | Center | The movie, plus Play / scrub |
 | **Inspector** | Right | Style, Intro, Motion, Audio, Format |
 | **Timeline** | Bottom | Photo lane + music lane |
@@ -34,9 +34,11 @@ Toolbar **+** (near the project name) is **Photos & Videos…**, **Music…**, a
 
 ## Library
 
-Photos and videos for this show. Calendar sort, captions bubble, **⋯** (**Keep Best Shots…**, **Auto Trim Videos…**, and more), and **+** sit on the header.
+Photos and videos for this show. The column splits into **Takes** (the show grid) and **Outtakes** (in the project, off the show). Calendar sort, captions bubble, **⋯** (**Keep Best Shots…**, **Auto Trim Videos…**, and more), and **+** sit on the header. **File → Import from Photos…** is on **+** too.
 
 ![Library — scroll thumbs, select a slide](../.gitbook/assets/window-library.gif)
+
+This still shows the older single-pane Library. Outtakes now occupies the bottom half — a recapture is coming.
 
 **View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it; the width is remembered.
 
