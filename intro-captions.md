@@ -8,6 +8,30 @@ Every movie needs a first frame — whose anniversary — and captions that whis
 
 The intro is **full-bleed** — not a floating photo card, not Photo Size / Photo Border. Film atmosphere (grain, scratches, vignette, light leak, Glow on Entry) still covers the frame. Intro stays **first**; sort and shuffle leave it. Intro type and slide-caption type are independent.
 
+## Show cover and project name
+
+The **cover** is the **poster** for your project — the intro background still and the thumbnail at the front of the Library — **not** the first photo that plays after the title card.
+
+After import, MemoryString picks a cover still and may suggest a show name when the project is still **Untitled**.
+
+### How the cover is chosen
+
+- Prefer a still from the **middle of the show** (photos you kept). Skip the **first two** slides and the **last**, so the cover is not the same picture you see when the show starts. In **Oldest First** order, that avoids doubling the opener.
+- **Not from Outtakes** — only photos on the show.
+- **Drag several files, Add Folder, or Import Media:** same middle-of-show rule — not the first file in the drop.
+- **Photos albums:** if Apple has a key/cover photo and it is not one of those early slides, MemoryString can use it. Otherwise a middle still from what you imported.
+
+You can pick another cover anytime: right-click the intro → **Set Background Image**, drop onto the Inspector **Background** well, or choose from the Library.
+
+### Project name and intro title
+
+When the project is still **Untitled**, MemoryString may set the **show name** (toolbar), **intro title**, and **Save As** default from the album, person, place, or folder — when that name means something.
+
+- Skips generic names: **All Photos**, **Recents**, **Desktop**, **Downloads**, and similar.
+- **Never overwrites** a name you already set.
+
+Export **Save As** also prefers intro title text, then the project name — see [Format and export](export.md#export-movie).
+
 ## Intro Slide (Essential and Studio)
 
 Name the night, or leave the card off.
