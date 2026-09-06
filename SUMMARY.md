@@ -32,6 +32,7 @@
 
 ## More
 
+* [Roadmap](roadmap.md)
 * [Keyboard shortcuts](shortcuts.md)
 * [MCP Server](mcp.md)
 * [Credits](credits.md)
