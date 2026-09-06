@@ -50,12 +50,13 @@ Most lists can take a **From / To** date filter (**Any dates**, Apply, Clear). F
 
 Import uses the same ingest as a Finder drop — Keep Best may ask; extras go to Outtakes.
 
-### Cover and name from Photos
+## Cover and show name
 
-After a Photos import, MemoryString may pick a **cover still** and suggest a **show name** when the project is still **Untitled**. Full rules: [Intro and captions → Show cover and project name](intro-captions.md#show-cover-and-project-name).
+The **first** import into a new show (intro still **Memories**) can name it and pick a cover. Full cover rules: [Intro and captions → Show cover and project name](intro-captions.md#show-cover-and-project-name).
 
-- **Albums:** if Apple’s key photo for the album is not one of the first two show slides or the last, MemoryString can use it as the intro cover. Otherwise it picks a still from the middle of what you imported.
-- **People, trips, albums:** when the source name means something (not **All Photos**, **Recents**, and similar), MemoryString may set the **show name**, **intro title**, and **Save As** default to that album, person, or place. Names you already set are never overwritten.
+- **Photos albums:** Apple’s key photo becomes the cover unless it is already the first or second still on the show. It can be the poster even if it never landed on the timeline. People, trips, Recent, and Media Type have no album key photo — those use a middle-of-show still instead (same as a Finder drop or **Add Folder**).
+- **Name:** a Photos album, person, or trip — when you imported just one of them. **Add Folder**, a folder dropped from Finder, or several files from the same Finder folder — that folder’s name. Generic names — **All Photos**, **Recents**, **Recently Deleted**, **Desktop**, **Downloads**, and the like — are skipped. A name you already set, or an earlier auto-name, is never overwritten.
+- **Your pick sticks:** **Choose from Library**, **Choose File…**, drop onto the intro, or **Remove** — after that, automatic cover never runs again, even after **Keep Best Shots**.
 
 ## Sort (calendar)
 
