@@ -8,6 +8,32 @@ Every movie needs a first frame — whose anniversary — and captions that whis
 
 The intro is **full-bleed** — not a floating photo card, not Photo Size / Photo Border. Film atmosphere (grain, scratches, vignette, light leak, Glow on Entry) still covers the frame. Intro stays **first**; sort and shuffle leave it. Intro type and slide-caption type are independent.
 
+## Show cover and project name
+
+The **cover** is the **poster** for your project — the intro background still and the thumbnail at the front of the Library — **not** the first photo that plays after the title card. Playback always starts on your real first photo or video.
+
+After import, MemoryString can pick a cover and name the show while the intro still says **Memories**.
+
+### How the cover is chosen
+
+1. **Photos albums** — if Apple assigned a key photo, that becomes the cover, even if it never landed on the timeline. People, trips, Recent, and Media Type imports have no album key photo, so they skip this step. If that key photo *is* the first or second still on the show, MemoryString skips it (using it as the poster too would just repeat the open) and uses the next step instead.
+2. **Otherwise** — a still already **on the show**, never an Outtake, never a video. Prefers the **middle third** of the story, not the first, second, or last slide, and a sharp shot with a face when it can tell. A show with one or two photos reuses what you have.
+
+Same on every import path: **Import from Photos**, Finder drop (files or a folder), **Add Folder**, **Import Media**, or paste.
+
+**Choose from Library**, **Choose File…**, dragging onto the Inspector **Background** well, right-click **Set Background Image**, or **Remove** always wins from then on. Once you pick or clear the cover yourself, automatic picking never touches it again — including after **Keep Best Shots**. If Keep Best parks an *auto* cover into Outtakes, MemoryString picks another in-show still.
+
+### Project name and intro title
+
+The first import into a new show can name it. MemoryString sets the intro title (also the window title and the suggested **Save As** filename) from:
+
+- A Photos **album**, **person**, or **trip** — its name, when you imported just one of them
+- **Add Folder**, a folder dropped from Finder, or several files from the same Finder folder — that folder’s name
+
+Generic Photos and Finder names — **All Photos**, **Recents**, **Recently Deleted**, **Desktop**, **Downloads**, and the like — are skipped. Once the show has a real title (yours, or an earlier auto-named import), later imports never rename it.
+
+Export **Save As** also prefers intro title text — see [Format and export](export.md#export-movie).
+
 ## Intro Slide (Essential and Studio)
 
 Name the night, or leave the card off.
@@ -24,7 +50,7 @@ Right-click the intro (preview, Timeline, or Library) → **Disable Intro Slide*
 
 Soft still behind the title — couple, cake, skyline — without competing.
 
-Click the well or **Choose…**, or drop a photo/video onto the well (**Choose from Library** / **Choose File…**). **Remove** clears it. The still is centre-cropped to fill; a missing file shows **Missing**.
+Click the well or **Choose…**, or drop a photo/video onto the well (**Choose from Library** / **Choose File…**). **Remove** clears it. The still is centre-cropped to fill; a missing file shows **Missing**. After import, MemoryString may already have chosen a still — see [Show cover and project name](#show-cover-and-project-name). A pick or clear you make here is sticky.
 
 **Studio** extras when a background is set (Essential keeps add / change / remove only):
 

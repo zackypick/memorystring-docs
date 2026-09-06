@@ -10,9 +10,10 @@ Drag the **vertical divider** on the right to resize (remembered). **View → To
 
 ## Import
 
-Dump a folder, paste a screenshot, or use the menus:
+Dump a folder, paste a screenshot, pull from Photos.app, or use the menus:
 
 - Toolbar or Library **+** → **Photos & Videos…**, or **File → Import Media…**
+- **File → Import from Photos…** (also on toolbar **+**, the empty-stage Add pill, and Library **+**) — see [Import from Photos](#import-from-photos)
 - Drop folders, photos, or videos onto the window
 - **Edit → Paste** (**⌘V**) — Finder files or folders, an image/video from Preview, Photos, Safari, Messages, or a screenshot (**⇧⌘4**). Clipboard images with no file are saved under Application Support **Imports**. Music files join the soundtrack. A `.memorystring` file **opens**.
 - Empty Library: dashed target — *Drop photos & videos here*
@@ -31,6 +32,31 @@ Videos show a play badge. Multi-select shows a count.
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
+
+## Import from Photos
+
+Stay in MemoryString. **File → Import from Photos…** (same item on toolbar **+**, the empty-stage Add pill, and Library **+**) opens the **Import from Photos** sheet.
+
+Categories:
+
+- **Recent** — Last 7 Days / Last 30 Days / Last Year
+- **Albums** — your Photos albums (the path for “import this album”)
+- **People** — named faces, A–Z. If PhotoKit is empty, **Choose Photos Library…** points at your `.photoslibrary` once so named People & Pets can be listed
+- **By Month** — years and months
+- **Trips & Events** — Photos events
+- **Media Type** — Videos, Panoramas, Screenshots, Live Photos, Bursts
+
+Most lists can take a **From / To** date filter (**Any dates**, Apply, Clear). First time: **Access Your Photos**. If access is denied: System Settings → Privacy & Security → Photos.
+
+Import uses the same ingest as a Finder drop — Keep Best may ask; extras go to Outtakes.
+
+## Cover and show name
+
+The **first** import into a new show (intro still **Memories**) can name it and pick a cover. Full cover rules: [Intro and captions → Show cover and project name](intro-captions.md#show-cover-and-project-name).
+
+- **Photos albums:** Apple’s key photo becomes the cover unless it is already the first or second still on the show. It can be the poster even if it never landed on the timeline. People, trips, Recent, and Media Type have no album key photo — those use a middle-of-show still instead (same as a Finder drop or **Add Folder**).
+- **Name:** a Photos album, person, or trip — when you imported just one of them. **Add Folder**, a folder dropped from Finder, or several files from the same Finder folder — that folder’s name. Generic names — **All Photos**, **Recents**, **Recently Deleted**, **Desktop**, **Downloads**, and the like — are skipped. A name you already set, or an earlier auto-name, is never overwritten.
+- **Your pick sticks:** **Choose from Library**, **Choose File…**, drop onto the intro, or **Remove** — after that, automatic cover never runs again, even after **Keep Best Shots**.
 
 ## Sort (calendar)
 
