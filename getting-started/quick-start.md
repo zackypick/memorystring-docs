@@ -23,7 +23,7 @@ Fill the **Library** on the left — the cast of the movie.
 3. Or drop folders, photos, or videos onto the window (or a Photos.app drag).
 4. Or **Add Folder** / paste (**⌘V**).
 
-Empty Library says **Nothing in library yet**; the preview plate takes the drop (hover pulse **Let the story begin**; a `.memorystring` hover reads **The plot thickens**). While **The story begins…** or **The story continues…** is up, drops are ignored. After a populated show, a media drop reads **Add to story**. **Keep Best Shots** waits until fog has cleared.
+Empty Library says **Nothing in library yet**; the preview plate takes the drop (hover pulse **Let the story begin**; a `.memorystring` hover reads **The plot thickens**). While **The story begins…** (first import may show a percent and **Cancel**) or **The story continues…** (opening a project, no percent) is up, drops are ignored. After a populated show, a media drop reads **Add to story**. **Keep Best Shots** waits until fog has cleared.
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`

@@ -56,7 +56,7 @@ Import uses the same ingest as a Finder drop — Keep Best may ask after the fog
 
 Same ingest on every path: **Add / +**, Finder drop, **Photos.app** drag (stills often arrive one remux at a time), **Add Folder**, and paste. Keep Best, park, and skip count the **whole drop**, not one Photos hop.
 
-While **The story begins…** (first import) or **The story continues…** (opening a `.memorystring`) is on the stage, Finder / Photos / project-file **drops are ignored**. Toolbar **+** and File menus still work.
+While **The story begins…** (first import — percent, then **Cancel** if it is still going) or **The story continues…** (opening a `.memorystring` — no percent) is on the stage, Finder / Photos / project-file **drops are ignored**. Toolbar **+** and File menus still work.
 
 ## Cover and show name
 

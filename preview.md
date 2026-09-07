@@ -20,7 +20,7 @@ The clock is `current / total`. Beside it, **1 of N** counts every photo card (i
 
 A blank Untitled project is quiet: Library **Nothing in library yet**, Timeline **Nothing on the timeline yet**, preview **Add photos & videos** plus *Drop photos and videos to start a memory*. Hover a media drop and the plate pulse reads **Let the story begin** (ants on the preview plate only). Hover a `.memorystring` and it reads **The plot thickens**.
 
-Opening an existing `.memorystring` fogs **The story continues…** (same brew as first-import **The story begins…**, no percent). Drops are ignored until that fog lifts. **Keep Best Shots** waits until after the fog. Once the show has clips, a media drop overlay reads **Add to story**.
+First import fogs **The story begins…** with a percent — **Cancel** appears under it after a couple of seconds if the import is still going. Opening an existing `.memorystring` uses the same brew with **The story continues…** and no percent. Drops are ignored until that fog lifts. **Keep Best Shots** waits until after the fog. Once the show has clips, a media drop overlay reads **Add to story**.
 
 ## Live, baked, and export
 
