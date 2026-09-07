@@ -30,7 +30,7 @@ What Essential hides, and what Studio unlocks.
 | Intro background | Choose / remove a still | plus Dim, Start zoom, Slow Zoom, Soften, Color / Grayscale |
 | Intro **Text** (font, color, size, align, outline, shadow) | Hidden — type in the title field | Shown |
 | Intro Card & Motion | — | Frame, Motion, Lens, Decoration |
-| Smooth play | Warms automatically on **Play**; **Stop** while warming | **Auto-warm on Play**, **Warm Now**, **Stop** |
+| Smooth play | Warms automatically on **Play**; centered **Preparing smooth playback** card; **Stop** while warming | **Auto-warm on Play**, **Warm Now**, **Stop** |
 | Per-slide **Lens Effect** (right-click) | Hidden | Timeline / Library / intro |
 | Export **Quality** | Compact / Share / High / Best (slider; default **Share**) | same slider, plus target Mbps |
 

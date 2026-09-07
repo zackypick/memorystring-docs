@@ -16,7 +16,11 @@ Hit **Space**. Scrub. Nudge. Does the toast land before the song swells?
 
 The clock is `current / total`. Beside it, **1 of N** counts every photo card (including each seat in a group).
 
-Workbench **ambilight** (color on the chrome) is display-only. Soft color from the playhead slide lights the title bar, Timeline bed, and Inspector seam — never the photo, never the export. The title bar settles a beat later (one flat color only).
+## Empty stage and opening fog
+
+A blank Untitled project is quiet: Library **Nothing in library yet**, Timeline **Nothing on the timeline yet**, preview **Add photos & videos** plus *Drop photos and videos to start a memory*. Hover a media drop and the plate pulse reads **Let the story begin** (ants on the preview plate only). Hover a `.memorystring` and it reads **The plot thickens**.
+
+Opening an existing `.memorystring` fogs **The story continues…** (same brew as first-import **The story begins…**, no percent). Drops are ignored until that fog lifts. **Keep Best Shots** waits until after the fog. Once the show has clips, a media drop overlay reads **Add to story**.
 
 ## Live, baked, and export
 
@@ -27,7 +31,7 @@ Edit wants instant. Share wants smooth. Export wants the file.
 | **Live preview** | The stage while you edit. Motion, Looks, and captions update immediately. Can hitch on a heavy show. |
 | **Scrub** | Drag the playhead or ruler. Hover the ruler for a ghost frame before you commit. After a bake, scrub uses that smooth pass; moving the playhead drops any paused cover so the head stays honest. |
 | **Baked (smooth play)** | A pre-encoded pass so **Space** and scrub stay fluid. Finished segments stay on disk; reopen restores them if nothing changed. Play switches to this pass as soon as the first slides (or the whole show) are ready — it should not stay on the live, laggy preview. |
-| **Export** | The H.264 MP4. Same choreography, framing, and audio as the baked show (preview seed matches export). Ambilight is not in the file. Format in the Export dialog can differ from the live preview swatch. |
+| **Export** | The H.264 MP4. Same choreography, framing, and audio as the baked show (preview seed matches export). Format in the Export dialog can differ from the live preview swatch. |
 
 MemoryString does **not** bake in the background while you edit. Edits appear live; style and framing keep updating the live stage while a bake catches up.
 
@@ -35,12 +39,12 @@ MemoryString does **not** bake in the background while you edit. Edits appear li
 
 A heavy anniversary album should not stutter for the person who matters.
 
-**Essential** warms automatically when you press **Play**, and shows **Stop** while a warm is running. On a cold show, Play briefly blocks with **Preparing smooth playback** until the next couple of *photo* slides from the playhead are ready (intro title and the closing MemoryString card do not hold the gate), then starts on the baked pass. If that short lead takes too long, Play starts anyway and warming continues in the background.
+**Essential** warms automatically when you press **Play**, and shows **Stop** while a warm is running. On a cold show, Play blocks with a **Preparing smooth playback** card **centered on the preview stage** until the next few *photo* slides from the playhead are ready (intro title and the closing MemoryString card do not hold the gate). The card counts the lead — *Warming 1/5* through *Warming 5/5* — then starts on the baked pass. If that short lead takes too long, Play starts anyway and warming continues in the background.
 
 **Studio** adds controls on the transport row beside the slide counter:
 
 - **Auto-warm on Play** (off by default) — start warming from the playhead when you press **Space**, without blocking the workbench
-- **Warm Now** — bake only segments that are not ready yet (already-warm slides are skipped). Blocks the workbench with a progress dialog until those dirty segments finish, or until **Cancel** / **Esc**. Disabled when everything is already warm
+- **Warm Now** — bake only segments that are not ready yet (already-warm slides are skipped). Blocks the workbench with the same centered **Preparing smooth playback** card until those dirty segments finish, or until **Stop** / **Esc**. Disabled when everything is already warm
 - **Stop** — cancel an in-flight warm (Play warm or Warm Now)
 
 A champagne **working-status pill** under the preview covers, in this order:

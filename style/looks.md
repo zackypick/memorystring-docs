@@ -74,7 +74,7 @@ A Look that enables several light effects does not play them all on every photo 
 
 ## Energy
 
-How fast the room breathes. Header band: **Calm · Steady · Lively · Energetic · Intense**. Slider from **Calm** to **Intense**. Biases motion and pacing. Energy never clears hand-picked Motion checkboxes.
+How fast the room breathes. Header band: **Calm · Steady · Lively · Energetic · Intense**. Slider from **Calm** to **Intense**. Photo stills scale with Energy — about **7.6s** at Calm, **3.4s** at the default (Energetic), **2.0s** at Intense. The **intro card** uses a separate curve so its fade-in still fits: about **7s / 6s / 4s**. Energy never clears hand-picked Motion checkboxes.
 
 Above roughly **93% Energy**, **Spiral-in** and **Reveal from depth** cannot play (boxes dim). If they were the only kinds checked, the movie falls back to Ken Burns while Energy stays that high.
 

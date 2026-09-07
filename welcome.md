@@ -33,9 +33,9 @@ Weighing FotoMagico or an evening in iMovie? [MemoryString vs FotoMagico vs iMov
 - **Outtakes** — shots in the project but off the show; drag or **Move to Outtakes** / **Move to Takes**
 - **Cuts that move** — the full single-slide pack, plus Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **Looks** — Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp. One chip, whole new film
-- **Music** — bundled royalty-free tracks, or yours
+- **Music** — bundled royalty-free tracks matched to the Look, **Surprise me**, or yours
 - **The rest of the film** — intro title, captions from place/date, reorder, mute ([Organizing](organizing.md))
-- **Export** — H.264 MP4, Social and Classic frames, or a looping **Screensaver** movie ([Format and export](export.md#screensaver))
+- **Export** — H.264 MP4, Social frames (Instagram first) and Classic, or a looping **Screensaver** movie ([Format and export](export.md#screensaver))
 
 ## Watch a demo
 

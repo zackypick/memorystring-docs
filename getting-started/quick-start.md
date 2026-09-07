@@ -1,6 +1,6 @@
 # Quick start
 
-Photos in, Play, Export — a finished movie in a few minutes. Prefer a guided tour? **Help → Show Walkthrough**, or [watch the demos](../welcome.md#watch-a-demo).
+Photos in, Play, Export — a finished movie in a few minutes. Prefer a guided tour? **Help → Show Walkthrough** (marks sit on the live **+**, Essential/Studio, and **Export** controls in the title bar), or [watch the demos](../welcome.md#watch-a-demo).
 
 ![Empty project — drop media or use Add photos & videos](../.gitbook/assets/empty-start.png)
 
@@ -18,7 +18,10 @@ Fill the **Library** on the left — the cast of the movie.
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
 2. Or **File → Import from Photos…** (also on **+**) — albums, people, trips, media types from Photos.app
-3. Or drop folders, photos, or videos onto the window.
+3. Or drop folders, photos, or videos onto the window (or a Photos.app drag).
+4. Or **Add Folder** / paste (**⌘V**).
+
+Empty Library says **Nothing in library yet**; the preview plate takes the drop. While **The story begins…** or **The story continues…** is up, drops are ignored. After a populated show, a media drop reads **Add to story**. **Keep Best Shots** waits until fog has cleared.
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
@@ -54,8 +57,8 @@ Inspector (**⌥⌘I**) when you want more than the defaults:
 - **Style** — Look, Energy, Stage, Photo Size, Captions, Customize… (Studio)
 - **Intro** — opening card
 - **Motion** — Studio only: Transitions Mix and multi-photo groups
-- **Audio** — playlist
-- **Format** — aspect / Social Safe
+- **Audio** — playlist, **Pick New Music** / **Extend to Fill** / **Surprise me**
+- **Format** — aspect / Social Safe (Instagram first among Social swatches)
 
 ## 7. Export
 

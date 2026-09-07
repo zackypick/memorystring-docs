@@ -12,31 +12,31 @@ Same show, same moment, one photo on stage — each destination frame side by si
 
 ## Social
 
-Tall frames for phones and feeds.
-
-### TikTok
-
-Reels · Shorts · 9:16 (1080×1920)
-
-<figure><img src="../.gitbook/assets/format-tiktok.jpg" alt="Same show exported as TikTok 9:16 (1080×1920)"><figcaption>TikTok · 1080×1920</figcaption></figure>
+Tall frames for phones and feeds. Swatch order: **Instagram · TikTok · Pinterest · YouTube**. Destination name is 12pt; the caption under it is 9pt.
 
 ### Instagram
 
 Feed · 4:5 (1080×1350)
 
-<figure><img src="../.gitbook/assets/format-instagram.jpg" alt="Same show exported as Instagram 4:5 (1080×1350)"><figcaption>Instagram · 1080×1350</figcaption></figure>
+![Same show exported as Instagram 4:5 (1080×1350)](../.gitbook/assets/format-instagram.jpg)
+
+### TikTok
+
+Reels · Shorts · 9:16 (1080×1920)
+
+![Same show exported as TikTok 9:16 (1080×1920)](../.gitbook/assets/format-tiktok.jpg)
 
 ### Pinterest
 
 Pin · 2:3 (1000×1500)
 
-<figure><img src="../.gitbook/assets/format-pinterest.jpg" alt="Same show exported as Pinterest 2:3 (1000×1500)"><figcaption>Pinterest · 1000×1500</figcaption></figure>
+![Same show exported as Pinterest 2:3 (1000×1500)](../.gitbook/assets/format-pinterest.jpg)
 
 ### YouTube
 
 TV · 16:9 (1920×1080, default)
 
-<figure><img src="../.gitbook/assets/format-youtube.jpg" alt="Same show exported as YouTube 16:9 (1920×1080)"><figcaption>YouTube · 1920×1080</figcaption></figure>
+![Same show exported as YouTube 16:9 (1920×1080)](../.gitbook/assets/format-youtube.jpg)
 
 ## Classic
 
@@ -98,7 +98,7 @@ Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 
 Check the footer **projected size** (and duration) for the current choices. Click **Export** and wait. Toolbar shows **Creating memory…** and a percent. Editing pauses (*Edits paused while creating memory*). If music is still decoding, Export waits.
 
-You get an H.264 MP4; the `.memorystring` project stays editable. Preview with **Space** (and Studio **Warm Now** if you want the baked pass) before you export — the file matches that show, not the workbench ambilight.
+You get an H.264 MP4; the `.memorystring` project stays editable. Preview with **Space** (and Studio **Warm Now** if you want the baked pass) before you export — the file matches that show.
 
 ## Screensaver
 

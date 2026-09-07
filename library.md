@@ -16,7 +16,7 @@ Dump a folder, paste a screenshot, pull from Photos.app, or use the menus:
 - **File → Import from Photos…** (also on toolbar **+**, the empty-stage Add pill, and Library **+**) — see [Import from Photos](#import-from-photos)
 - Drop folders, photos, or videos onto the window
 - **Edit → Paste** (**⌘V**) — Finder files or folders, an image/video from Preview, Photos, Safari, Messages, or a screenshot (**⇧⌘4**). Clipboard images with no file are saved under Application Support **Imports**. Music files join the soundtrack. A `.memorystring` file **opens**.
-- Empty Library: dashed target — *Drop photos & videos here*
+- Empty Library: quiet copy **Nothing in library yet** — the preview plate is the drop target (marching ants on that plate only)
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
@@ -28,7 +28,7 @@ Videos show a play badge and a duration stamp (clock + clip seconds). Multi-sele
 **Essential:** after import, if the Library was empty or already **Oldest First**, MemoryString auto-sorts new stills **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
 
 {% hint style="info" %}
-**Keep Best Shots** may ask after import when similar photo groups appear — keep the best shot (eyes, smile, sharpness, exposure); the other shots move to **Outtakes** (still in the project, off the show). Undo with **⌘Z**. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
+**Keep Best Shots** may ask after import when similar photo groups appear — keep the best shot (eyes, smile, sharpness, exposure); the other shots move to **Outtakes** (still in the project, off the show). Undo with **⌘Z**. The prompt waits until import fog has cleared. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
@@ -48,7 +48,11 @@ Categories:
 
 Most lists can take a **From / To** date filter (**Any dates**, Apply, Clear). First time: **Access Your Photos**. If access is denied: System Settings → Privacy & Security → Photos.
 
-Import uses the same ingest as a Finder drop — Keep Best may ask; extras go to Outtakes.
+Import uses the same ingest as a Finder drop — Keep Best may ask after the fog lifts; extras go to Outtakes.
+
+Same ingest on every path: **Add / +**, Finder drop, **Photos.app** drag (stills often arrive one remux at a time), **Add Folder**, and paste. Keep Best, park, and skip count the **whole drop**, not one Photos hop.
+
+While **The story begins…** (first import) or **The story continues…** (opening a `.memorystring`) is on the stage, Finder / Photos / project-file **drops are ignored**. Toolbar **+** and File menus still work.
 
 ## Cover and show name
 

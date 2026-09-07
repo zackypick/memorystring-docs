@@ -16,7 +16,7 @@ Time, pictures, music:
 2. **Photo lane** — slides, intro, and group cells
 3. **Music lane** — soundtrack clips
 
-Chrome above shows selected clip **name + duration** and zoom. Readout is **fit-relative**: **1.0×** = whole project in the window; **3.0×** = three windows wide.
+Chrome above shows selected clip **name + duration** and zoom. Readout is **fit-relative**: **1.0×** = whole project in the window; **3.0×** = three windows wide. An empty strip is quiet: **Nothing on the timeline yet**.
 
 ### Timeline height
 

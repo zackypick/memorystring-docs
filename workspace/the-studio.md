@@ -2,7 +2,7 @@
 
 You step into the Studio.
 
-This wasn’t built just to produce the best slideshows you’ve ever made. It was built so that working on them feels like something. The oak, the gold, the ambient light spilling from the preview panel onto the chrome around it — none of that is decoration. It’s the room you live in while you create.
+This wasn’t built just to produce the best slideshows you’ve ever made. It was built so that working on them feels like something. The oak and the gold are the room you live in while you create.
 
 Most apps treat the workspace like a factory floor. We treated it like a place you’d want to spend an evening. Because you will.
 
@@ -14,10 +14,10 @@ The Studio is built around four panes: Library, Preview, Inspector, and Timeline
 
 | Pane | Where | What it is |
 | --- | --- | --- |
-| **Library** | Left | **Takes** (the show) on top, **Outtakes** in the bottom half |
-| **Preview** | Center | The movie, plus Play / scrub |
+| **Library** | Left | **Takes** (the show) on top, **Outtakes** in the bottom half. Empty: **Nothing in library yet**. |
+| **Preview** | Center | The movie, plus Play / scrub. Empty: **Add photos & videos**. Opening a project fogs **The story continues…**. |
 | **Inspector** | Right | Style, Intro, Motion, Audio, Format |
-| **Timeline** | Bottom | Photo lane + music lane |
+| **Timeline** | Bottom | Photo lane + music lane. Empty: **Nothing on the timeline yet**. |
 
 ## Toolbar
 
@@ -25,7 +25,7 @@ The useful stuff sits on the right — mode, export, help, and the Inspector tog
 
 ![The toolbar — project, Add, Essential / Studio, Export, Help, Inspector](../.gitbook/assets/toolbar-right.png)
 
-- **Essential** / **Studio** — how many controls you see ([next page](essential-studio.md))
+- **Essential** / **Studio** — how many controls you see ([next page](essential-studio.md)). First-run walkthrough marks sit on this control, **+**, and **Export**.
 - **Export** — Export Movie dialog
 - **?** — MemoryString Help (**⌘/**)
 - Inspector toggle — show or hide the right column (**⌥⌘I**)

@@ -23,7 +23,7 @@ No clearance hunt — pick a mood. Toolbar **+**, **File**, or Audio → **Royal
 
 ![Royalty Free - No Attribution Required sheet](../.gitbook/assets/royalty-free-library.png)
 
-The sheet title is **Royalty Free - No Attribution Required**. Subtitle: *Tracks from the YouTube Audio Library.* Built-in tracks need no attribution; your own imports are not owned by MemoryString.
+The sheet title is **Royalty Free - No Attribution Required**. One-liner under it: **YouTube Audio Library, cleared for MemoryString**. Built-in tracks need no attribution; your own imports are not owned by MemoryString. The sheet chrome matches Export / Import from Photos (oak surface, champagne title, centered Sort bar).
 
 **Sort:** Catalog · Title (A–Z) · Genre (A–Z) · Duration (shortest / longest first).
 
@@ -35,6 +35,8 @@ Each row: checkbox, **title** / **artist**, **style** (e.g. Quiet ballad) or **I
 
 **Match Look Soundtrack** on by default. Empty projects start quiet. After the first photos or videos land, MemoryString **soft-seeds** bundled mood track(s) — the current Look’s pool, or **Would It Matter** when no Look is selected. Mute or remove anytime. Saved projects with an empty playlist are left alone.
 
+Each Look has its own **mood pool** (A-list). Energy leans that list calmer or brighter. The royalty-free sheet lists the **full catalog** — including tracks that are not in any Look pool. Match Look never dumps the whole catalog into a show.
+
 **While the playlist is still that untouched auto bed** (empty, or only auto-seeded and auto-ordered):
 
 - Clicking a Style **Look** chip **retargets** the bed to a fitting track from that Look’s mood pool at random (Energy can lean the pool calmer or brighter)
@@ -44,6 +46,16 @@ Each row: checkbox, **title** / **artist**, **style** (e.g. Quiet ballad) or **I
 **Auto-adding / retargeting stops** on any manual soundtrack change: royalty-free picks, reorder, trim, remove, or your own files. After that, Look clicks do **not** swap the bed; new imports **append**. The app notices when you take the wheel.
 
 Turn **Match Look Soundtrack** off to keep the playlist when changing Looks. Library picks, reorders, and your own imports stay either way.
+
+Audio files are never treated as photos — dropping or seeding `.m4a` / `.mp3` does not run them through the still-image importer.
+
+## Audio tab bed actions
+
+Under the playlist, after **Royalty-Free Library…** / **Add Music…**:
+
+- **Pick New Music** — fresh Match Look bed for this Look (skips recently used tracks). Asks before replacing music you added yourself.
+- **Extend to Fill** — keeps your tracks and appends free music after them so the bed covers the show.
+- **Surprise me** — random pick from the **whole** royalty-free catalog, not the current Look’s pool. The app **remembers that pick immediately**, so a second tap does not land on the same bed while the first is still loading. After Surprise, Look clicks do not overwrite it.
 
 ## Audition
 
@@ -64,7 +76,7 @@ On import, MemoryString **auto-skips silent lead-in and run-out**. Trim with edg
 
 **Remove from Project** — royalty-free catalog tracks remove immediately (file stays in the app). Your imports ask **Remove from project?** first. **⌘Z** either way.
 
-Audio tab: local play/pause preview (does not move the show playhead), **Reset music duration(s)** to clear trims, **Add Music…**, **Royalty-Free Library…**.
+Audio tab: local play/pause preview (does not move the show playhead), **Reset music duration(s)** to clear trims, **Add Music…**, **Royalty-Free Library…**, plus **Pick New Music** / **Extend to Fill** / **Surprise me**.
 
 ## Mix
 

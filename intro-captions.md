@@ -8,6 +8,8 @@ Every movie needs a first frame — whose anniversary — and captions that whis
 
 The intro is **full-bleed** — not a floating photo card, not Photo Size / Photo Border. Film atmosphere (grain, scratches, vignette, light leak, Glow on Entry) still covers the frame. Intro stays **first**; sort and shuffle leave it. Intro type and slide-caption type are independent.
 
+Intro length follows Energy on its **own** curve — not photo still timing — so the title fade-in always has room: about **7s** at Calm, **6s** at the default, **4s** at Intense. Photo stills are shorter at the top of the slider (see [Looks → Energy](style/looks.md#energy)).
+
 ## Show cover and project name
 
 The **cover** is the **poster** for your project — the intro background still and the thumbnail at the front of the Library — **not** the first photo that plays after the title card. Playback always starts on your real first photo or video.
@@ -29,6 +31,8 @@ The first import into a new show can name it. MemoryString sets the intro title 
 
 - A Photos **album**, **person**, or **trip** — its name, when you imported just one of them
 - **Add Folder**, a folder dropped from Finder, or several files from the same Finder folder — that folder’s name
+
+Folder and Photos names are turned into **Title Case** (`july-trip_photos` → `July Trip Photos`). Typed intro text is never rewritten that way.
 
 Generic Photos and Finder names — **All Photos**, **Recents**, **Recently Deleted**, **Desktop**, **Downloads**, and the like — are skipped. Once the show has a real title (yours, or an earlier auto-named import), later imports never rename it.
 
