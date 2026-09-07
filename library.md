@@ -27,7 +27,7 @@ Videos show a play badge. Multi-select shows a count.
 **Essential:** after import, if the Library was empty or already **Oldest First**, MemoryString auto-sorts new stills **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
 
 {% hint style="info" %}
-**Keep Best Shots** may ask after import when similar photo groups appear — keep the best shot (eyes, smile, sharpness, exposure); the other shots leave the Library and timeline. Undo with **⌘Z**. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
+**Keep Best Shots** may ask after import when similar photo groups appear — keep the best shot (eyes, smile, sharpness, exposure); the other shots leave the Library and timeline. Undo with **⌘Z**. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Keep Best](auto-detection.md#keep-best-shots), [Auto Trim](auto-detection.md#auto-trim).
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
@@ -68,7 +68,7 @@ Same photos, different cuts — when motion feels stuck:
 - **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector. If you hand-picked **Slide Transition**s, it asks before clearing them.
 - **Reset Slide Durations** — restores default slide timing
 - **Keep Best Shots…** — find similar photo groups and keep the best shot in each ([Auto detection](auto-detection.md#keep-best-shots))
-- **Auto Trim Videos…** — trim each video to the Energy-length highlight window ([Auto detection](auto-detection.md#auto-trim))
+- **Auto Trim Videos…** — middle four seconds, plus up to a second toward a face ([Auto detection](auto-detection.md#auto-trim))
 - **Show Transition Names** — badges on Library thumbs
 
 ## Reorder and replace
@@ -114,7 +114,7 @@ On import, MemoryString listens to each clip (Essential and Studio): **speech st
 
 **Mute Video Sound** / **Unmute Video Sound** — right-click, the speaker badge, or the Inspector footer. Manual mute is yours.
 
-**Auto Trim** — right-click a video (no confirm) or Library **⋯** → **Auto Trim Videos…**. Keeps the Energy-length window on the climax; drops the wait and the leftover. Not on import. Undo with **⌘Z**. Details: [Auto detection](auto-detection.md#auto-trim).
+**Auto Trim** — right-click a video (no confirm) or Library **⋯** → **Auto Trim Videos…**. Middle four seconds of the file, shifted up to a second if that window has no face. Stills and short Live Photos skipped. Right about 70% of the time. Not on import. Undo with **⌘Z**. Details: [Auto detection](auto-detection.md#auto-trim).
 
 Videos have a **2 second** minimum trim. **Reset Length** restores the full clip.
 

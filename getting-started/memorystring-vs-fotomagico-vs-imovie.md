@@ -34,7 +34,7 @@ iMovie will let you cut a film: tracks, precision edits, the long sit. MemoryStr
 
 ## MemoryString is helpers, then export
 
-[Keep Best Shots](../auto-detection.md#keep-best-shots) keeps the open-eyed frame from a near-duplicate burst — import may ask when similar stills show up. [Auto Trim](../auto-detection.md#auto-trim) jumps to the laugh in a phone clip when you choose it (right-click or Library **⋯**), not on import.
+[Keep Best Shots](../auto-detection.md#keep-best-shots) keeps the open-eyed frame from a near-duplicate burst — import may ask when similar stills show up. [Auto Trim](../auto-detection.md#auto-trim) takes the middle four seconds of a phone clip (and may nudge toward a face) when you choose it — right about 70% of the time. Right-click or Library **⋯**; not on import. Trim by hand when it misses.
 
 [Mute](../auto-detection.md#video-sound-auto-mute) can hush empty room tone so the soundtrack leads; speech on camera stays. Detection is on-device and does not write a transcript. [Center of interest](../auto-detection.md#center-of-interest) aims motion at faces. Auto Caption can fill place · date when you run it — never camera codes, and not on import.
 

@@ -70,7 +70,7 @@ Right-click a photo or video on the **photo lane**:
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
-**Auto Trim** (videos) finds the climax in the full source and keeps an Energy-length window on it — wait and leftover go. Context-menu choose runs immediately; undo with **⌘Z**. Not on import. See [Auto detection](auto-detection.md#auto-trim).
+**Auto Trim** (videos) takes the middle four seconds and may shift up to a second toward a face. Right about 70% of the time — trim by hand when it misses. Context-menu choose runs immediately; undo with **⌘Z**. Not on import. See [Auto detection](auto-detection.md#auto-trim).
 
 Right-click a video or music clip for trim:
 
