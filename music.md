@@ -8,7 +8,7 @@ Pictures move people; music finishes the job. Soundtrack: Inspector → **Audio*
 
 Wedding song, paid playlist — bring it in:
 
-- Toolbar **+** → **Music…**, or **File → Import Music…**
+- Toolbar **+** → **Music…**, or **File → Add Music → Import Music…**
 - Drop audio onto the window
 - **⌘V** with audio on the clipboard
 - Audio tab → **Add Music…**
@@ -19,7 +19,9 @@ Only import tracks you have the rights to use.
 
 ## Royalty-free library
 
-No clearance hunt — pick a mood. Toolbar **+**, **File**, or Audio → **Royalty-Free Library…**.
+No clearance hunt — pick a mood. Toolbar **+**, **File → Add Music → Royalty-Free Library…**, or Audio → **Royalty-Free Library…**.
+
+![Toolbar + includes Royalty-Free Library…](../.gitbook/assets/toolbar-plus-menu.png)
 
 ![Royalty Free - No Attribution Required sheet](../.gitbook/assets/royalty-free-library.png)
 

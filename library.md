@@ -37,6 +37,8 @@ Videos show a play badge and a duration stamp (clock + clip seconds). Multi-sele
 
 Stay in MemoryString. **File → Import from Photos…** (same item on toolbar **+**, the empty-stage Add pill, and Library **+**) opens the **Import from Photos** sheet.
 
+![Toolbar + menu includes Import from Photos…](../.gitbook/assets/toolbar-plus-menu.png)
+
 ![File menu: Import from Photos…](../.gitbook/assets/file-menu-import-photos.png)
 
 Categories:

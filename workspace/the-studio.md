@@ -32,6 +32,8 @@ The useful stuff sits on the right — mode, export, help, and the Inspector tog
 
 Toolbar **+** (near the project name) is **Photos & Videos…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…**.
 
+![Toolbar + menu: Photos & Videos, Import from Photos, Music, Royalty-Free Library](../.gitbook/assets/toolbar-plus-menu.png)
+
 ## Library
 
 Photos and videos for this show. The column splits into **Takes** (the show grid) and **Outtakes** (in the project, off the show). Calendar sort, captions bubble, **⋯** (**Keep Best Shots…**, **Auto Trim Videos…**, and more), and **+** sit on the header. **File → Import from Photos…** is on **+** too.
