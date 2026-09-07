@@ -2,9 +2,11 @@
 
 One chip, whole personality. Inspector → **Style**: a Look sets grade, border, stage, backdrop, lens deal, Photo Size, transition mix bias, Match Look music, and which multi-photo groups run.
 
+![Style tab: Look chips, Energy, Stage](../.gitbook/assets/inspector-style.png)
+
 ![Eight Look chips](../.gitbook/assets/inspector-looks.png)
 
-![Energy, Stage, Photo Size under Look](../.gitbook/assets/inspector-masters.png)
+![Energy (Calm → Intense, band word on the right) and Stage Dark / Light](../.gitbook/assets/inspector-masters.png)
 
 **⌘Z** undoes Style changes. **Reset Style to Defaults** restores this tab (and caption *style*, not caption *text*). Once captions exist, that control becomes a menu: **Reset styles only** or **Reset styles and clear [N] captions…**.
 

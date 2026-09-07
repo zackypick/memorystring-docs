@@ -86,7 +86,7 @@ It turns **on** automatically for **9:16**, **4:5**, and **2:3**. It stays **off
 
 Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 
-![Save As, Format, Social Safe, Quality, Frame Rate](../.gitbook/assets/export-dialog.png)
+![Export Movie: Instagram-first Social swatches, folder chip, Compact→Best, Screensaver](../.gitbook/assets/export-dialog.png)
 
 - **Save As** — filename; folder chip (click to choose a folder). Default name prefers title text, then the project name, then **Untitled Memory**. The file is `.mp4`.
 - **Format** — destination swatches for **this encode** (does not change the live preview)
