@@ -30,15 +30,13 @@ The useful stuff sits on the right — mode, export, help, and the Inspector tog
 - **?** — MemoryString Help (**⌘/**)
 - Inspector toggle — show or hide the right column (**⌥⌘I**)
 
-Toolbar **+** (near the project name) is **Photos & Videos…**, **Music…**, and **Royalty-Free Library…**.
+Toolbar **+** (near the project name) is **Photos & Videos…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…**.
 
 ## Library
 
 Photos and videos for this show. The column splits into **Takes** (the show grid) and **Outtakes** (in the project, off the show). Calendar sort, captions bubble, **⋯** (**Keep Best Shots…**, **Auto Trim Videos…**, and more), and **+** sit on the header. **File → Import from Photos…** is on **+** too.
 
-![Library — scroll thumbs, select a slide](../.gitbook/assets/window-library.gif)
-
-This still shows the older single-pane Library. Outtakes now occupies the bottom half — a recapture is coming.
+![Library — Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
 
 **View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it; the width is remembered.
 

@@ -2,7 +2,7 @@
 
 The big stage is where you watch what you’re making — the movie someone opens on a phone after dinner. Import lives in the Library; order and trim also use the Timeline.
 
-![Preview transport: time, slide counter, Warm Now](../.gitbook/assets/transport.png)
+![Preview transport: time, slide counter, Warm Now — no Auto-warm checkbox](../.gitbook/assets/transport.png)
 
 ## Playback
 
@@ -14,7 +14,7 @@ Hit **Space**. Scrub. Nudge. Does the toast land before the song swells?
 - **←** / **→** nudge; **⇧** for larger steps
 - **⌘→** / **⌘←** next / previous slide; **⌥⌘←** go to start
 
-The clock is `current / total`. Beside it, **1 of N** counts every photo card (including each seat in a group).
+The clock is `current / total`. Beside it, **1 of N** counts every photo card (including each seat in a group). Both modes auto-warm on **Play**. Studio adds **Warm Now** and **Stop** on that row — there is no Auto-warm checkbox.
 
 ## Empty stage and opening fog
 
@@ -39,18 +39,17 @@ MemoryString does **not** bake in the background while you edit. Edits appear li
 
 A heavy anniversary album should not stutter for the person who matters.
 
-**Essential** warms automatically when you press **Play**, and shows **Stop** while a warm is running. On a cold show, Play blocks with a **Preparing smooth playback** card **centered on the preview stage** until the next few *photo* slides from the playhead are ready (intro title and the closing MemoryString card do not hold the gate). The card counts the lead — *Warming 1/5* through *Warming 5/5* — then starts on the baked pass. If that short lead takes too long, Play starts anyway and warming continues in the background.
+**Essential** and **Studio** both auto-warm when you press **Play** (there is no Auto-warm checkbox). **Essential** also shows **Stop** while a warm is running. On a cold Essential show, Play blocks with a **Preparing smooth playback** card **centered on the preview stage** until the next five *photo* slides from the playhead are ready (intro title and the closing MemoryString card do not hold the gate). The card counts the lead — *Warming 1/5* through *Warming 5/5* — then starts on the baked pass. The dialog never lifts early: playback begins only after it reads 5/5 (or you **Stop** / **Esc**).
 
-**Studio** adds controls on the transport row beside the slide counter:
+**Studio** Play does not block the workbench — the movie can start live and switch to the baked pass as the first slides land. Studio adds controls on the transport row beside the slide counter:
 
-- **Auto-warm on Play** (off by default) — start warming from the playhead when you press **Space**, without blocking the workbench
 - **Warm Now** — bake only segments that are not ready yet (already-warm slides are skipped). Blocks the workbench with the same centered **Preparing smooth playback** card until those dirty segments finish, or until **Stop** / **Esc**. Disabled when everything is already warm
 - **Stop** — cancel an in-flight warm (Play warm or Warm Now)
 
 A champagne **working-status pill** under the preview covers, in this order:
 
 1. Export — *Edits paused while creating memory*
-2. Bake — *Warming k/n* (Play / Auto-warm / Warm Now) or *Updating k/n* (a look/edit refresh of a finished bake)
+2. Bake — *Warming k/n* (Play / Warm Now) or *Updating k/n* (a look/edit refresh of a finished bake)
 3. Asset / **Loading music…**
 
 **k/n** matches the slide counter (every photo seat). Quiet stage means ready — no idle “Smooth play ready” message. Silence is the compliment.
@@ -77,7 +76,7 @@ On the **intro**, a single click on the still (or title) sets the same aim; **do
 
 Sideways phone photos happen. Fix here; originals stay untouched.
 
-Right-click the paused photo or video (not the intro) → **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical**. Hidden while playing.
+Right-click the paused photo or video (not the intro) → **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**. Hidden while playing.
 
 Paused on the intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**.
 

@@ -6,7 +6,7 @@ description: "Format and export a MemoryString slideshow as H.264 MP4 on your Ma
 
 This is where the movie leaves the desk and reaches family, friends, or a feed. Inspector → **Format** sets the aspect you edit in — and the default for Export. Frame rate, quality, and resolution live in the **Export Movie** dialog, not here.
 
-![Social and Classic destination swatches, Social Safe](../.gitbook/assets/inspector-format-swatches.png)
+![Inspector Format: Social order Instagram · TikTok · Pinterest · YouTube](../.gitbook/assets/inspector-format-swatches.png)
 
 Same show, same moment, one photo on stage — each destination frame side by side.
 

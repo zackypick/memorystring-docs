@@ -36,7 +36,7 @@ One undo restores the whole pass. See [Library](library.md#import) and [Library 
 
 ## Auto Trim
 
-Long phone clip — wait, then the moment, then leftover? **Auto Trim** is a **best-effort** try at a highlight window: it keeps an Energy-length cut and drops the wait and leftover. It is **not guaranteed** to frame the best moment. Expect to trim by hand when it misses.
+Long phone clip — wait, then the moment, then leftover? **Auto Trim** is a **best-effort** try at a highlight window: it keeps about four seconds from the middle of the clip (and may nudge toward a face) and drops the wait and leftover. It is **not guaranteed** to frame the best moment. Expect to trim by hand when it misses.
 
 Clips that Auto Trim has cut show a small scissors mark just below the mute icon, on timeline tiles, Library cards, and Outtakes cards. The mark is solid when Auto Trim did the cut, and outlined when you trimmed the clip yourself. It appears on hover or selection, and disappears if you reset the clip to its original length. Stills have no mark.
 

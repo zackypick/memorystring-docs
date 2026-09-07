@@ -16,7 +16,7 @@ Dump a folder, paste a screenshot, pull from Photos.app, or use the menus:
 - **File → Import from Photos…** (also on toolbar **+**, the empty-stage Add pill, and Library **+**) — see [Import from Photos](#import-from-photos)
 - Drop folders, photos, or videos onto the window
 - **Edit → Paste** (**⌘V**) — Finder files or folders, an image/video from Preview, Photos, Safari, Messages, or a screenshot (**⇧⌘4**). Clipboard images with no file are saved under Application Support **Imports**. Music files join the soundtrack. A `.memorystring` file **opens**.
-- Empty Library: quiet copy **Nothing in library yet** — the preview plate is the drop target (marching ants on that plate only)
+- Empty Library: quiet copy **Nothing in library yet** — the preview plate is the drop target (marching ants on that plate only). Hover pulse: **Let the story begin**; a `.memorystring` hover: **The plot thickens**
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
@@ -36,6 +36,8 @@ Videos show a play badge and a duration stamp (clock + clip seconds). Multi-sele
 ## Import from Photos
 
 Stay in MemoryString. **File → Import from Photos…** (same item on toolbar **+**, the empty-stage Add pill, and Library **+**) opens the **Import from Photos** sheet.
+
+![File menu: Import from Photos…](../.gitbook/assets/file-menu-import-photos.png)
 
 Categories:
 
