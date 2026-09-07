@@ -15,7 +15,7 @@ The Studio is built around four panes: Library, Preview, Inspector, and Timeline
 | Pane | Where | What it is |
 | --- | --- | --- |
 | **Library** | Left | **Takes** (the show) on top, **Outtakes** in the bottom half. Empty: **Nothing in library yet**. |
-| **Preview** | Center | The movie, plus Play / scrub. Empty: **Add photos & videos**. Opening a project fogs **The story continues…**. |
+| **Preview** | Center | The movie, plus Play / scrub. Empty: **Add photos & videos** plus *Drop photos and videos to start a memory*. Opening a project fogs **The story continues…**. |
 | **Inspector** | Right | Style, Intro, Motion, Audio, Format |
 | **Timeline** | Bottom | Photo lane + music lane. Empty: **Nothing on the timeline yet**. |
 
@@ -84,6 +84,6 @@ Chrome, not captions. **View → Increase / Decrease / Default Text Size** (**�
 
 ## Walkthrough
 
-Forgot the first-run tour? **Help → Show Walkthrough** plays it again: Bring in moments → Your Library → Shape the story → Watch it come alive → Make it yours → Share your memory → Essential or Studio.
+Forgot the first-run tour? **Help → Show Walkthrough** plays it again. Marks sit on the live title-bar **+**, Essential/Studio, and **Export**. Seven stops: **Bring in moments** → **Your Library** → **Shape the story** → **Watch it come alive** → **Make it yours** → **Share your memory** → **Essential or Studio**. Full lines: [In-app Help](../help.md).
 
 **MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow — your photos stay put; only the chrome forgets your habits.
