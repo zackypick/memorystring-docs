@@ -14,13 +14,13 @@ Your library, finally inside the app. Albums, People, trips, media types, smart 
 
 ### **Outtakes**
 
-The photos the app chose not to use, one tap away from the show. Keep Best runs silent. Near-dupes and junk land here, not in the movie. Pull any of them back when you disagree with the cut. This is the app's taste, made visible.
+The photos the app chose not to use, one tap away from the show. Keep Best may ask after import fog lifts — extras land here, not in the movie. Pull any of them back when you disagree with the cut. This is the app's taste, made visible.
 
 ### **Auto Trim**
 
-Smarter cuts on every clip, not just the movie. Group plates and single seats, better moment picks, honest waiting percent while it works.
+Middle four seconds of a phone clip, nudged toward a face when it can tell. Not on import, not guaranteed — trim by hand if it misses. Undo with ⌘Z.
 
-**Also in this version:** a compact export dialog with a post-export thank-you and rate card, screensaver export with a one-second black veil, timeline multi-select and group drag, rebuilt Timing and Rotate & Flip menus, video duration stamps on library thumbs, and an update available notice in the footer and app menu.
+**Also in this version:** a compact export dialog with a post-export thank-you and rate card, screensaver export that fades on the Stage color (no audio, no intro, no end card), timeline multi-select and group drag, rebuilt Timing and Rotate & Flip menus, video duration stamps on library thumbs, and an update available notice in the footer and app menu.
 
 ## Coming next
 
