@@ -2,7 +2,7 @@
 
 Pictures move people; music finishes the job. Soundtrack: Inspector → **Audio** and the Timeline music lane — not the Library.
 
-![Match Look Soundtrack, playlist, Add Music, Royalty-Free Library](../.gitbook/assets/inspector-audio-music.png)
+![Audio tab: Match Look Soundtrack, Royalty-Free Library, Add Music, Pick New / Extend / Surprise](../.gitbook/assets/inspector-audio-music.png)
 
 ## Import your own
 

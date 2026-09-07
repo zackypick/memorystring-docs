@@ -103,4 +103,6 @@ Look feel (Help): Polaroid tosses often into a tight pile; Vintage and B&W lay p
 
 ## Timeline / Library
 
+![Timeline photo lane: stack of 4 and filmstrip of 4 cells](../.gitbook/assets/timeline-full.png)
+
 Follower slides collapse onto the lead cell. Library badges: **stack 1/5**, **carousel 2/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**, **scatter 2/5**. A caption speech-bubble sits on the **captioned seat** only — not on siblings or the collapsed plate. On stage the group still shows the lead caption. Mix checkboxes and group knobs undo with **⌘Z**.

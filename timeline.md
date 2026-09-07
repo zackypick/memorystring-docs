@@ -2,7 +2,7 @@
 
 The strip under the stage is the movie’s pulse — hold times, music, and where a too-long toast gets trimmed.
 
-![Photo lane and music waveform for a full show](../.gitbook/assets/timeline-full.png)
+![Photo lane: stack and filmstrip group cells with duration chips](../.gitbook/assets/timeline-full.png)
 
 ![Timeline header: clip name, caption field, Generate, zoom](../.gitbook/assets/timeline-chrome.png)
 

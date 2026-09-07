@@ -2,7 +2,7 @@
 
 The big stage is where you watch what you’re making — the movie someone opens on a phone after dinner. Import lives in the Library; order and trim also use the Timeline.
 
-![Preview transport: time, slide counter, Warm Now — no Auto-warm checkbox](../.gitbook/assets/transport.png)
+![Preview transport: time, slide counter, Warm Now, Stop, and Warming k/n — no Auto-warm checkbox](../.gitbook/assets/transport.png)
 
 ## Playback
 
