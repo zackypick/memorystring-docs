@@ -62,7 +62,7 @@ The small round ring on a **paused** photo is **center of interest** — where m
 
 **Auto (on import):** every photo and video gets one — **largest face** (near the eyes), else **main subject**, else **middle** of the frame. Videos sample several frames in the trim window. Full order: [Auto detection](auto-detection.md#center-of-interest).
 
-**Manual override:** pause and click (*Tap photo to set focus*). Ring jumps; status shows **Focus · 62%, 38%** (example). Drag pans and leaves focus alone. Each change its own **⌘Z**.
+**Manual override:** pause and click the photo. Ring jumps; status shows **Focus · 62%, 38%** (example). Drag pans and leaves focus alone. Each change its own **⌘Z**.
 
 **Reset Center of Interest** (right-click the paused photo) drops the override, re-runs detection, restores the import pick.
 
