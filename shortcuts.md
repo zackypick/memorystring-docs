@@ -71,4 +71,4 @@ Docs and diagnostics.
 
 ## Tips
 
-Space and arrows pass through while you edit title text. **⌘V** / **⌘C** stay plain text while a caption or title field is focused. Undo/Redo cover most Inspector changes (Style, Motion, Intro, trims, shuffle). Prefer clicking? **Playback → Play / Pause** (Space is not bound on that menu item). **⌘D** applies to every selected slide. **⌘+** / **⌘-** / **⌘0** change UI text size — Library cards and Timeline strip height scale with the same factor; not slide captions.
+Space and arrows pass through while you edit title text. **⌘V** / **⌘C** stay plain text while a caption or title field is focused. Undo/Redo cover most Inspector changes (Style, Motion, Intro, trims, shuffle). Prefer clicking? **Playback → Play** or **Pause** (the item toggles; Space is not bound on that menu item). **⌘D** applies to every selected slide. **⌘+** / **⌘-** / **⌘0** change UI text size — Library cards and Timeline strip height scale with the same factor; not slide captions.
