@@ -59,13 +59,13 @@ Select a clip, then drag **edge grips** on either end:
 
 Right-click a photo or video on the **photo lane**:
 
-![Timeline clip menu: Slide Transition, rotate, duration, Auto Caption, Remove](../.gitbook/assets/timeline-context-menu.png)
+![Timeline clip menu: Slide Transition, rotate, duration, Set Caption, Remove](../.gitbook/assets/timeline-context-menu.png)
 
 - **Slide Transition** — pick a cut, or **Random** (groups: **Change Transition** / **Ungroup** / **Group Transition** when several clips are selected)
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**
 - **Set Duration…** (**⌘D**). Timeline videos nest duration + **Set Start Here** / **Set End Here** under **Timing**
 - **Set Caption** — focuses the Inspector clip-bar field
-- **Auto Caption** or **Clear Caption**
+- **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
 - **Move to Outtakes**
 - **Reveal in Finder**
 - **Remove from Project** (**⌘⌫**)
@@ -84,7 +84,7 @@ The Inspector clip footer offers the same playhead trims for a selected **video*
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 
-A slide with no caption offers **Auto Caption** (or **Auto Caption N Untitled Slides** for a multi-selection of blanks). Once it has text, that item is **Clear Caption**.
+A slide with text also offers **Clear Caption** on this menu. To fill empty captions, use the Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, or **Generate**.
 
 Intro cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, and **Reset Center of Interest** when a background is set.
 

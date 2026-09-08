@@ -95,7 +95,7 @@ Ken Burns and punch-in end here; backdrop follows; group cards use it too. Some 
 
 ## Auto Caption
 
-Place and date — not camera codes — so the film reads like a story instead of `IMG_4821`. Run it yourself: Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, Timeline **Generate**, or a slide’s **Auto Caption**. Not on import — never written by itself.
+Place and date — not camera codes — so the film reads like a story instead of `IMG_4821`. Run it yourself: Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, or Timeline **Generate**. Not on a slide’s right-click menu, and not on import — never written by itself.
 
 Untitled-only entry points **never overwrite** what you typed. **Auto Caption All Slides…** overwrites after confirmation.
 
