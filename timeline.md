@@ -53,7 +53,7 @@ First click on a group selects the whole window; second click on a thumb drills 
 
 Select a clip, then drag **edge grips** on either end:
 
-- **Videos** — frame feedback in the trim; **2 second** minimum. **Reset Length** restores the full file
+- **Videos** — frame feedback in the trim; **2 second** minimum. **Reset Video Duration** restores the full file
 - **Music** — the edge **auditions** that moment in the source song (the mixed bed stays paused). **Reset Length** returns to the auto-skipped quiet-edge window, or the full file if none was found
 - **Stills** — edge drag changes how long the slide holds
 
@@ -69,7 +69,7 @@ Right-click a photo or video on the **photo lane**:
 - **Move to Outtakes**
 - **Reveal in Finder**
 - **Remove from Project** (**⌘⌫**)
-- Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Length**
+- Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
@@ -78,9 +78,9 @@ Right-click a photo or video on the **photo lane**:
 Right-click a video or music clip for trim:
 
 - **Set Start Here** / **Set End Here** — trim in/out at the playhead
-- **Reset Length**
+- Videos: **Reset Video Duration**. Music: **Reset Length**
 
-The Inspector clip footer offers the same playhead trims for a selected **video** or **soundtrack**. **⌘1** / **⌘2** = Set Start / Set End; **⌘D** opens **Set Duration…** (value selected to type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing.
+The Inspector clip footer offers the same playhead trims for a selected **video** or **soundtrack**. Videos use **Reset Video Duration**; music uses **Reset Length**. **⌘1** / **⌘2** = Set Start / Set End; **⌘D** opens **Set Duration…** (value selected to type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing.
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 

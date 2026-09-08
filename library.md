@@ -111,6 +111,7 @@ Same photos, different cuts — when motion feels stuck:
 - **Reset Slide Durations** — restores default slide timing
 - **Keep Best Shots…** — find similar photo groups and keep the best shot in each (videos are never targets; [Auto detection](auto-detection.md#keep-best-shots))
 - **Auto Trim Videos…** — best-effort highlight window (not guaranteed; trim by hand if it misses) ([Auto detection](auto-detection.md#auto-trim))
+- **Reset Video Durations** — restores every video to its original full-source length
 - **Show Transition Names** — badges on Library thumbs
 
 ## Reorder and replace
@@ -136,7 +137,7 @@ On a **photo or video** in the Library (not empty space):
 - **Set Duration…** (**⌘D**)
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
-- Videos: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Length**
+- Videos: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
 - **Set Caption** — focuses the Inspector clip-bar field
 - **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
 - **Move to Outtakes** (on a Take) or **Move to Takes** (on an Outtake)
@@ -161,7 +162,7 @@ On import, MemoryString listens to each clip (Essential and Studio): **speech st
 
 **Auto Trim** — right-click a video (no confirm) or Library **⋯** → **Auto Trim Videos…**. Best-effort highlight window — not guaranteed; trim by hand if it misses. Not on import. Undo with **⌘Z**. Details: [Auto detection](auto-detection.md#auto-trim).
 
-Videos have a **2 second** minimum trim. **Reset Length** restores the full clip.
+Videos have a **2 second** minimum trim. **Reset Video Duration** restores the full clip (photos and music still say **Reset Length**).
 
 ## Multi-photo badges
 

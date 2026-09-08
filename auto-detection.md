@@ -11,7 +11,7 @@ Everything stays on your Mac. Original files are never rewritten.
 ## The helpers
 
 - **Keep Best Shots** — Similar burst photos? Keep the sharp, open-eyed, well-exposed one; extras move to **Outtakes** (still in the project, off the show). Import may ask; Library **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
-- **Auto Trim** — Best-effort: try to keep a good moment and drop the wait and leftover. Not guaranteed — trim by hand if it misses. Right-click or Library **⋯** — not on import. After it runs, the menu disables until **Reset Length**. Undo **⌘Z**.
+- **Auto Trim** — Best-effort: try to keep a good moment and drop the wait and leftover. Not guaranteed — trim by hand if it misses. Right-click or Library **⋯** — not on import. After it runs, the menu disables until **Reset Video Duration**. Undo **⌘Z**.
 - **Video mute** — Hush fridge hum and boring room tone on import so the soundtrack can lead.
 - **Center of interest** — Finds faces and subjects so motion frames the right thing — you don’t chase focus yourself.
 - **Auto Caption** — Titles from the photo, only when you choose **Auto Caption** — never written by itself.
@@ -46,7 +46,7 @@ Clips that Auto Trim has cut show a small scissors mark just below the mute icon
 
 It does not mute, caption, or remove clips.
 
-**Undo:** **⌘Z**. **Reset Length** restores the full source anytime. After Auto Trim applies, the menu item is disabled until you Reset Length.
+**Undo:** **⌘Z**. **Reset Video Duration** restores the full source anytime. After Auto Trim applies, the menu item is disabled until you Reset Video Duration. Library **⋯** has **Reset Video Durations** for every video.
 
 See [Library → Videos](library.md#videos) and [Timeline](timeline.md#reorder-and-trim).
 
