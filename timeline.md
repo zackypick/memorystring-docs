@@ -4,7 +4,7 @@ The strip under the stage is the movie’s pulse — hold times, music, and wher
 
 ![Photo lane: stack and filmstrip group cells with duration chips](../.gitbook/assets/timeline-full.png)
 
-![Timeline header: clip name, caption field, Generate, zoom](../.gitbook/assets/timeline-chrome.png)
+![Timeline header: clip name and zoom](../.gitbook/assets/timeline-chrome.png)
 
 ![Timeline: typing a slide caption](../.gitbook/assets/caption-edit.png)
 
