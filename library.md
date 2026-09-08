@@ -50,7 +50,7 @@ Categories:
 - **Trips & Events** — Photos events
 - **Media Type** — Videos, Panoramas, Screenshots, Live Photos, Bursts
 
-Most lists can take a **From / To** date filter (**Any dates**, Apply, Clear). First time: **Access Your Photos**. If access is denied: System Settings → Privacy & Security → Photos.
+Recent has **Select All** / **Deselect**. Most lists can take a **From** / **To** date filter (**Any dates**, **Apply**, **Clear**). Footer **Import** / **Cancel**. First time: **Access Your Photos**, then **Allow Access**. If access is denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
 
 Import uses the same ingest as a Finder drop — Keep Best may ask after the fog lifts; extras go to Outtakes.
 
