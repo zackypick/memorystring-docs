@@ -65,7 +65,7 @@ Docs and diagnostics.
 | Key | Action |
 | --- | --- |
 | **⌘/** | MemoryString Help… |
-| **⌘,** | MCP Server |
+| **⌘,** | Settings… (Enable MCP Server lives here) |
 
 **Help → Full Documentation Online** opens this site ([memorystring.codebyz.com](https://memorystring.codebyz.com)) in a browser. In-app Help is the subset that ships in the app; this site is the full public set. **Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash package (stacks, Mac specs, breadcrumbs; no media filenames).
 

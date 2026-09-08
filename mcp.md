@@ -2,14 +2,14 @@
 
 Let an agent drive the open project — import, restyle, scrub, export — without clicking every pane. Works only **while the app is open**. Nothing listens until you enable it, and only on your Mac (`127.0.0.1`).
 
-**MemoryString → MCP Server** (**⌘,**).
+**MemoryString → Settings…** (**⌘,**).
 
 ![Enable MCP Server, Port, Copy Client Config, access token](../.gitbook/assets/mcp-settings.png)
 
 ## Turn it on
 
 1. Launch MemoryString.
-2. Open **MCP Server**.
+2. Open **Settings…**.
 3. Turn on **Enable MCP Server**.
 4. Click **Copy Client Config**.
 5. Paste the snippet into Claude, Cursor, or a similar client as a Streamable HTTP server.
