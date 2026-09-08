@@ -54,7 +54,7 @@ Right-click the intro (preview, Timeline, or Library) → **Disable Intro Slide*
 
 Soft still behind the title — couple, cake, skyline — without competing.
 
-Click the well or **Choose…**, or drop a photo/video onto the well (**Choose from Library** / **Choose File…**). **Remove** clears it. The still is centre-cropped to fill; a missing file shows **Missing**. After import, MemoryString may already have chosen a still — see [Show cover and project name](#show-cover-and-project-name). A pick or clear you make here is sticky.
+Click the well, or **Choose…** when empty / **Change…** when a still is already there. Drop a photo/video onto the well, or pick **Choose from Library** / **Choose File…**. **Remove** clears it. The still is centre-cropped to fill; a missing file shows **Missing**. After import, MemoryString may already have chosen a still — see [Show cover and project name](#show-cover-and-project-name). A pick or clear you make here is sticky.
 
 **Studio** extras when a background is set (Essential keeps add / change / remove only):
 
