@@ -42,7 +42,7 @@ Chrome and zoom.
 | --- | --- |
 | **⌃⌘S** | Toggle Sidebar |
 | **⌥⌘I** | Show / Hide Inspector |
-| **⌥⌘S** | Switch Essential / Studio |
+| **⌥⌘S** | Switch to Studio Mode / Switch to Essential Mode |
 | **⌥⌘+** / **⌥⌘-** | Timeline zoom in / out |
 | **⌘+** / **⌘-** / **⌘0** | Increase / Decrease / Default **UI** text size — app chrome, **Library cards**, and **Timeline** strip height (not Timeline zoom, not slide captions) |
 

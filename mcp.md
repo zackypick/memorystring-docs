@@ -22,7 +22,7 @@ Default **Port** is **18765**. If status shows the port is already in use, pick 
 
 The door key for every request. MemoryString creates a Bearer token on first launch so **Show** / **Copy** work even before you enable the server.
 
-**Regenerate Token…** replaces the secret — existing client configs stop working until you paste the new snippet. Stored on your Mac (Application Support), not in the project file.
+**Regenerate Token** replaces the secret (asks first) — existing client configs stop working until you paste the new snippet. Stored on your Mac (Application Support), not in the project file.
 
 **MemoryString → Reset All Settings…** turns the MCP server **off**. The token file is kept.
 
@@ -32,7 +32,7 @@ Call **get_state** first. Then mutate the open project:
 
 - **help** — list / search / read in-app Help (does not open the Help window)
 - **document** — new, open, save, save as, close, delete, undo, redo. Untitled dirty work needs `save_first` (with a `path`) or `discard_unsaved`
-- **library** — import / remove / reorder / sort / shuffle / select / **keep_best** (`confirm: true` required — same as Library **⋯** → **Keep Best Shots…**; extras move to Outtakes; videos are never Keep Best targets; one undo via **document** `undo`) / **move_to_outtakes** / **move_to_takes** (same as the context menu; all given paths or the current selection). Same ingest as **Add / +**, Finder drop, Photos.app drag, **Add Folder**, and paste. After a UI import, MemoryString may also prompt Keep Best when similar photo groups appear (after fog).
+- **library** — import / remove / reorder / sort / shuffle / select / **keep_best** (`confirm: true` required — same as Library **⋯** → **Keep Best Shots…**; extras move to Outtakes; videos are never Keep Best targets; one undo via **document** `undo`) / **move_to_outtakes** / **move_to_takes** (same as the context menu; all given paths or the current selection). Same ingest as **Add / +**, Finder drop (files or a folder), Photos.app drag, and paste. After a UI import, MemoryString may also prompt Keep Best when similar photo groups appear (after fog).
 - **photos** — `list_albums`, `import_album` (title match), or `import_recent` (`Last 7 Days` / `Last 30 Days` / `Last Year`) without opening the sheet (same ingest as **File → Import from Photos…**; needs Photos access)
 - **groups** — Photo Stack, Carousel, Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **transitions** — slide kinds, mix, shuffle cuts, pin / unpin group windows
