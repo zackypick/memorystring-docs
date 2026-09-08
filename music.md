@@ -78,7 +78,7 @@ On import, MemoryString **auto-skips silent lead-in and run-out**. Trim with edg
 
 **Remove from Project** — royalty-free catalog tracks remove immediately (file stays in the app). Your imports ask **Remove from project?** first. **⌘Z** either way.
 
-Audio tab: local play/pause preview (does not move the show playhead), **Reset music duration(s)** to clear trims, **Royalty-Free Library…** then **Add Music…**, plus **Pick New Music** / **Extend to Fill** / **Surprise me**.
+Audio tab: local play/pause preview (does not move the show playhead), **Royalty-Free Library…** then **Add Music…**, plus **Pick New Music** / **Extend to Fill** / **Surprise me**. **Reset Length** clears a track’s trim. Tab **Reset Audio Settings** restores volume, mute, and Match Look — tracks and trims stay.
 
 ## Mix
 
