@@ -56,7 +56,7 @@ After the first photos land, **Match Look Soundtrack** (on by default) soft-seed
 
 Inspector (**⌥⌘I**) when you want more than the defaults:
 
-- **Style** — Look, Energy, Stage, Photo Size, Captions, Customize… (Studio)
+- **Style** — Look, Energy, Stage, Photo Size, Captions, Customize (Studio)
 - **Intro** — opening card
 - **Motion** — Studio only: Transitions Mix and multi-photo groups
 - **Audio** — playlist, **Pick New Music** / **Extend to Fill** / **Surprise me**

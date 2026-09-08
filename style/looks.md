@@ -8,7 +8,7 @@ One chip, whole personality. Inspector → **Style**: a Look sets grade, border,
 
 ![Energy (Calm → Intense, band word on the right) and Stage Dark / Light](../.gitbook/assets/inspector-masters.png)
 
-**⌘Z** undoes Style changes. **Reset Style to Defaults** restores this tab (and caption *style*, not caption *text*). Once captions exist, that control becomes a menu: **Reset styles only** or **Reset styles and clear [N] captions…**.
+**⌘Z** undoes Style changes. **Reset Style to Defaults** restores this tab (and caption *style*, not caption *text*). Once captions exist, that control becomes a menu: **Reset Styles Only** or **Reset Styles and Clear [N] Captions…**.
 
 ## The eight chips
 
@@ -18,7 +18,7 @@ Click a chip and MemoryString commits: it re-populates **Motion → Transitions 
 
 **Click the same Look again** to roll a new deal — same wardrobe, different shuffle: three lens effects (every Look except **Clean**), a new mix of single-slide cuts, and a new Match Look bed if that playlist is still the untouched auto soundtrack. Pins under Studio **Lens Effect** survive. Atmosphere and Decals stay **None** unless you picked them.
 
-Editing **Customize…**, **Stage**, **Photo Size**, or **Motion** switches the chip to **Custom**.
+Editing **Customize**, **Stage**, **Photo Size**, or **Motion** switches the chip to **Custom**.
 
 Energy, output format, intro on/off, intro text, a background still you already chose, and per-photo overrides are not reset. A Look **does** skin the intro card.
 
