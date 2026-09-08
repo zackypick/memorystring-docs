@@ -24,6 +24,6 @@ What we fixed, by version.
 * Rotate and flip now hit the clip under the pointer.
 * Collapsed groups live-resize correctly.
 * Auto Trim and Reset available on first right-click.
-* Lens Effect checkmarks and ambilight fade after spinner fixed.
+* Lens Effect checkmarks and fade after spinner fixed.
 * Smoother window resize; plus Add label centered.
 * Hide empty-stage CTA under bumper.
