@@ -9,12 +9,17 @@ The big stage is where you watch what you’re making — the movie someone open
 Hit **Space**. Scrub. Nudge. Does the toast land before the song swells?
 
 - **Space** or the Play/Pause control
+- Immediately right of Play/Pause, the **speaker** button mutes **in-app preview audio only** — soundtrack plus any unmuted video clips. **Export audio is unchanged.** Per-clip mute (Library badges, Inspector, Audio tab) is separate. The choice is remembered for the session; tooltip: *Mute preview audio (export unchanged).*
 - Click or drag the playhead / time ruler to scrub
 - Hover the ruler for a ghost preview before seeking
 - **←** / **→** nudge; **⇧** for larger steps
 - **⌘→** / **⌘←** next / previous slide; **⌥⌘←** go to start
 
 The clock is `current / total`. Beside it, **1 of N** counts every photo card (including each seat in a group). Both modes auto-warm on **Play**. Studio adds **Warm Now** and **Stop** on that row — there is no Auto-warm checkbox.
+
+## Workbench ambilight
+
+Soft color from the edges of the slide at the playhead spills into the workbench chrome — title bar, Timeline header and bed, Inspector seam. It crossfades as slides change and tracks scrubbing; multi-photo groups follow the stage background. Display only — never on the photo plate, never in export.
 
 ## Empty stage and opening fog
 
