@@ -86,7 +86,7 @@ The Inspector clip footer offers the same playhead trims for a selected **video*
 
 A slide with no caption offers **Auto Caption** (or **Auto Caption N Untitled Slides** for a multi-selection of blanks). Once it has text, that item is **Clear Caption**.
 
-Intro cell: **Disable Intro Slide**.
+Intro cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, and **Reset Center of Interest** when a background is set.
 
 ## Motion → Timeline (Studio)
 
