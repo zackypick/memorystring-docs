@@ -84,7 +84,7 @@ Audio tab: local play/pause preview (does not move the show playhead), **Royalty
 
 Fades and ducks so speech wins the toast. Neighbouring tracks butt with short tapers (no designed silence between songs). Waveform **narrows at the fade edges**. Ease-in ~**1.5 seconds** at the start; **final 2.5 seconds** ease out with the closing fade. Music **ducks** under video sound. Loudness ~**−14 LUFS**. Per-track volume (0…100%) and mute apply in preview and export, on top of ducking.
 
-The transport **speaker** beside Play/Pause is separate: it mutes **all** preview audio (soundtrack + unmuted video clips) without changing export mix or per-clip mute. See [Preview](preview.md#playback).
+The transport **speaker** immediately right of Play/Pause is separate: click it to **mute or unmute** all preview audio (soundtrack + unmuted video clips) without changing export mix or per-clip mute. White icon both ways; slash through the speaker when muted. See [Preview](preview.md#playback).
 
 The Audio tab’s local play/pause does not move the show playhead (gold fill is already heard).
 

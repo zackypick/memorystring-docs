@@ -9,7 +9,7 @@ The big stage is where you watch what you’re making — the movie someone open
 Hit **Space**. Scrub. Nudge. Does the toast land before the song swells?
 
 - **Space** or the Play/Pause control
-- Immediately right of Play/Pause, the **speaker** button mutes **in-app preview audio only** — soundtrack plus any unmuted video clips. **Export audio is unchanged.** Per-clip mute (Library badges, Inspector, Audio tab) is separate. The choice is remembered for the session; tooltip: *Mute preview audio (export unchanged).*
+- Immediately right of Play/Pause, the **speaker** button **toggles mute and unmute** for **in-app preview audio only** — soundtrack plus any unmuted video clips. **Export audio is unchanged.** Per-clip mute (Library badges, Inspector, Audio tab) is separate. The icon is **white** in both states (not champagne or tan); the muted slash goes **through** the speaker, and the cone stays in the **same position**. The choice is remembered for the session; tooltip: *Mute preview audio (export unchanged)* / *Unmute preview audio (export unchanged).*
 - Click or drag the playhead / time ruler to scrub
 - Hover the ruler for a ghost preview before seeking
 - **←** / **→** nudge; **⇧** for larger steps
