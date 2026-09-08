@@ -18,7 +18,7 @@ After import, MemoryString can pick a cover and name the show while the intro st
 
 ### How the cover is chosen
 
-1. **Photos albums** — if Apple assigned a key photo, that becomes the cover, even if it never landed on the timeline. People, trips, Recent, and Media Type imports have no album key photo, so they skip this step. If that key photo *is* the first or second still on the show, MemoryString skips it (using it as the poster too would just repeat the open) and uses the next step instead.
+1. **Photos albums** — if Apple assigned a key photo, that becomes the cover, even if it never landed on the timeline. People, Trips & Events, Recent, By Month, and Media Type imports have no album key photo, so they skip this step. If that key photo *is* the first or second still on the show, MemoryString skips it (using it as the poster too would just repeat the open) and uses the next step instead.
 2. **Otherwise** — a still already **on the show**, never an Outtake, never a video. Prefers the **middle third** of the story, not the first, second, or last slide, and a sharp shot with a face when it can tell. A show with one or two photos reuses what you have.
 
 Same on every import path: **Import from Photos**, Finder drop (files or a folder), **Import Media**, or paste.

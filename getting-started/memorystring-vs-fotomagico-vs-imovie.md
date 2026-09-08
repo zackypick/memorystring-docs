@@ -19,7 +19,7 @@ MemoryString is a free Mac slideshow app: drop a folder of photos, pick a Look, 
 | **Account** | None | License for the editor | Apple ID as usual |
 | **Where it runs** | Your Mac — macOS 14+, Intel and Apple Silicon | Mac and iPad; live play without waiting on a render | Mac (and iOS) |
 | **Camera-roll helpers** | [Keep Best Shots](../auto-detection.md#keep-best-shots) (extras stay in [Outtakes](../library.md#outtakes)), [Auto Trim](../auto-detection.md#auto-trim), mute | You cull and time the show | You cull and cut |
-| **Photos.app** | Dedicated [Import from Photos…](../library.md#import-from-photos) sheet — albums, people, trips, media types, date filter | File-oriented import; Photos is not the main path | iMovie can also pull from Photos — MemoryString’s sheet is browse-by-album / people / trips without becoming an editor |
+| **Photos.app** | Dedicated [Import from Photos…](../library.md#import-from-photos) sheet — Recent, Albums, People, By Month, Trips & Events, Media Type | File-oriented import; Photos is not the main path | iMovie can also pull from Photos — MemoryString’s sheet is browse-by-album / people / trips without becoming an editor |
 | **Looks** | One-chip [Looks](../style/looks.md) — whole-film restyle | Themes, layers, storytelling add-ons | Titles and effects you assemble |
 | **Captions** | Place · date when you run Auto Caption — never camera codes, not a transcript | Titles you design | Titles you build |
 | **Share** | [H.264 MP4](../export.md) on your Mac; [Social Safe](../export.md#social-safe) if you compose 16:9 and export tall; [Screensaver](../export.md#screensaver) loop movie for System Settings → Wallpaper | Live present, plus video export (including pro codecs) | Share from the NLE |

@@ -14,7 +14,7 @@ These docs run on [GitBook](https://www.gitbook.com). GitBook gave MemoryString 
 
 **Adam Angst** ([ridbits.com](https://ridbits.com)) asked for two things that shipped:
 
-- **Import from Photos…** — browse albums, people, trips, and media types without leaving MemoryString
+- **Import from Photos…** — browse Recent, Albums, People, By Month, Trips & Events, and Media Type without leaving MemoryString
 - **Screensaver** — export a silent looping movie you drop into System Settings → Wallpaper
 
 Both live in the app today. [Library](library.md#import-from-photos) and [Format and export](export.md#screensaver).

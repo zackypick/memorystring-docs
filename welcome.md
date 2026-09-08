@@ -29,7 +29,7 @@ Weighing FotoMagico or an evening in iMovie? [MemoryString vs FotoMagico vs iMov
 
 - **Keep Best Shots** — similar burst? Keep the sharp, open-eyed shot; extras land in [Outtakes](library.md#outtakes) ([Auto detection](auto-detection.md#keep-best-shots))
 - **Auto Trim** — best-effort highlight window; drop the wait and leftover — not guaranteed ([Auto detection](auto-detection.md#auto-trim))
-- **Import from Photos** — albums, people, trips, and media types from Photos.app ([Library](library.md#import-from-photos))
+- **Import from Photos** — Recent, Albums, People, By Month, Trips & Events, Media Type ([Library](library.md#import-from-photos))
 - **Outtakes** — shots in the project but off the show; drag or **Move to Outtakes** / **Move to Takes**
 - **Cuts that move** — the full single-slide pack, plus Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip, Scatter & Settle
 - **Looks** — Clean, Polaroid, Vintage, Cinematic, Noir, B&W, Golden Hour, Crisp. One chip, whole new film

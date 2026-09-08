@@ -17,7 +17,7 @@ Blank stage or an old `.memorystring` — either way you’re editing a real pro
 Fill the **Library** on the left — the cast of the movie.
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
-2. Or **File → Import from Photos…** (also on **+**) — albums, people, trips, media types from Photos.app
+2. Or **File → Import from Photos…** (also on **+**) — **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**
 
 ![Toolbar + : Photos & Videos, Import from Photos, Music, Royalty-Free Library](../.gitbook/assets/toolbar-plus-menu.png)
 3. Or drop folders, photos, or videos onto the window (or a Photos.app drag).

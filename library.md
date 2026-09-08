@@ -62,7 +62,7 @@ While **The story begins…** (first import — percent, then **Cancel** if it i
 
 The **first** import into a new show (intro still **Memories**) can name it and pick a cover. Full cover rules: [Intro and captions → Show cover and project name](intro-captions.md#show-cover-and-project-name).
 
-- **Photos albums:** Apple’s key photo becomes the cover unless it is already the first or second still on the show. It can be the poster even if it never landed on the timeline. People, trips, Recent, and Media Type have no album key photo — those use a middle-of-show still instead (same as a Finder drop).
+- **Photos albums:** Apple’s key photo becomes the cover unless it is already the first or second still on the show. It can be the poster even if it never landed on the timeline. People, Trips & Events, Recent, By Month, and Media Type have no album key photo — those use a middle-of-show still instead (same as a Finder drop).
 - **Name:** a Photos album, person, or trip — when you imported just one of them. A folder dropped from Finder, or several files from the same Finder folder — that folder’s name. Folder and Photos names are turned into **Title Case** (`july-trip_photos` → `July Trip Photos`). Generic names — **All Photos**, **Recents**, **Recently Deleted**, **Desktop**, **Downloads**, and the like — are skipped. A name you already set, or an earlier auto-name, is never overwritten.
 - **Your pick sticks:** **Choose from Library**, **Choose File…**, drop onto the intro, or **Remove** — after that, automatic cover never runs again, even after **Keep Best Shots**.
 
