@@ -28,7 +28,7 @@ Videos show a play badge and a duration stamp (clock + clip seconds). Multi-sele
 **Essential:** after import, if the Library was empty or already **Oldest First**, MemoryString auto-sorts new stills **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
 
 {% hint style="info" %}
-**Keep Best Shots** may ask after import when similar photo groups appear — keep the best shot (eyes, smile, sharpness, exposure); the other shots move to **Outtakes** (still in the project, off the show). Videos are never Keep Best targets. Undo with **⌘Z**. The prompt waits until import fog has cleared. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
+**Keep Best Shots** may ask after import when similar photo groups appear. The sheet asks **Keep the best shot only?** — **Keep Best** (default) or **Keep All**. *The other shots move to Outtakes. Undo with ⌘Z.* Videos are never Keep Best targets. The prompt waits until import fog has cleared. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
