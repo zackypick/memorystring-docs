@@ -70,7 +70,7 @@ The **first** import into a new show (intro still **Memories**) can name it and 
 
 The left column splits into **Takes** (the show) and **Outtakes**, with a hairline seam between them. Drag the seam up to enlarge Outtakes (Takes shrinks), or down for the opposite.
 
-Outtakes holds shots that are in the project but not on the show — Keep Best extras, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy). Empty body: **Nothing discarded.**
+When the bin has at least one item, the **Outtakes** header shows a count (for example **Outtakes, 3**). Outtakes holds shots that are in the project but not on the show — Keep Best extras, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy). Empty body: **Nothing discarded.**
 
 Click an outtake to select it (tile ring); the playhead and preview stay on the current movie slide. Drag an outtake up into Takes or the filmstrip to put it on the show; drop onto the intro tile to use it as the intro background (it stays in Outtakes). Right-click → **Move to Takes**, or **Remove from Project** to delete it for real. Calendar sort also sorts Outtakes; Shuffle is show-only.
 
@@ -152,7 +152,7 @@ Right-click **empty** Library space: the same sort / shuffle / captions / Shuffl
 
 ## Select
 
-Click a thumb to select and seek. **⌘**-click toggles; **⇧**-click extends a range. Select in the Timeline and the Library scrolls that tile into view (and the other way around). Playback does not scroll either pane.
+Click a thumb to select and seek. Right-click a thumb to open its menu and stage that clip on the preview. **⌘**-click toggles; **⇧**-click extends a range. Select in the Timeline and the Library scrolls that tile into view (and the other way around). Playback does not scroll either pane.
 
 ### Videos
 

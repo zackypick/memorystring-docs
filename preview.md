@@ -25,7 +25,7 @@ Soft color from the edges of the slide at the playhead spills into the workbench
 
 A blank Untitled project is quiet: Library **Nothing in library yet**, Timeline **Nothing on the timeline yet**, preview **Add photos & videos** plus *Drop photos and videos to start a memory*. Hover a media drop and the plate pulse reads **Let the story begin** (ants on the preview plate only). Hover a `.memorystring` and it reads **The plot thickens**.
 
-First import fogs **The story begins…** with a percent — **Cancel** appears under it after a couple of seconds if the import is still going. Opening an existing `.memorystring` uses the same brew with **The story continues…** and no percent. Drops are ignored until that fog lifts. **Keep Best Shots** waits until after the fog. Once the show has clips, a media drop overlay reads **Add to story**.
+First import fogs **The story begins…** with a percent — **Cancel** appears under it after a couple of seconds if the import is still going. Opening an existing `.memorystring` uses the same brew with **The story continues…** and no percent. Copy sits centered on the **visible preview stage**, not under the title bar. Drops are ignored until that fog lifts. **Keep Best Shots** waits until after the fog. Once the show has clips, a media drop overlay reads **Add to story**.
 
 ## Live, baked, and export
 
@@ -81,8 +81,8 @@ On the **intro**, a single click on the still (or title) sets the same aim; **do
 
 Sideways phone photos happen. Fix here; originals stay untouched.
 
-Right-click the paused photo or video (not the intro) → **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**. Hidden while playing.
+Right-click the paused photo or video → **Rotate & Flip** → **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**. Hidden while playing.
 
-Paused on the intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**.
+Paused on the intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**. With a background still set, the same **Rotate & Flip** submenu appears — it turns the cover photo, not the title type.
 
 While paused, **double-click** intro text to edit inline. Captions: single click selects; **double-click** hands off to the caption field. Captioned slides get a small blue speech-bubble badge on the Timeline.

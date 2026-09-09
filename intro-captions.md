@@ -46,7 +46,7 @@ Name the night, or leave the card off.
 - Text field — select the intro and type here or in the Inspector clip bar. The title wraps onto up to three lines on the card. When you export, MemoryString suggests this title as the movie filename
 - Pause and **double-click** the title on the stage to edit. A **single** click sets [center of interest](preview.md#center-of-interest)
 
-Right-click the intro (preview, Timeline, or Library) → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect** (one accent or **None**, same list as Intro → Lens).
+Right-click the intro (preview, Timeline, or Library) → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect** (one accent or **None**, same list as Intro → Lens). When a background still is set, **Rotate & Flip** uses the same two-level submenu as every other slide — it turns the cover photo, not the title type.
 
 **Reset Intro to Defaults** turns the card off and restores text, type, frame, motion, lens, decoration, and background to new-project defaults. Does not clear slide captions.
 

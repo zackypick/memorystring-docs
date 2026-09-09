@@ -30,7 +30,7 @@ Zoom out for the whole birthday; in when a half-second matters.
 
 - **Zoom slider** (minus / plus magnifying glass) — scale updates **live** as you drag; all the way **left** for an end-to-end overview
 - **Pinch** on a trackpad to zoom the strip
-- **Scroll-wheel** zoom (pointer over the Timeline)
+- **Scroll-wheel** zoom (pointer over the Timeline) — scroll **up** zooms **in**, **down** zooms **out**
 - **⌥⌘+** / **⌥⌘-** zoom in / out
 - **Two-finger trackpad pan** or **horizontal scroll** to move along the strip
 - **Middle-mouse drag** to pan
@@ -86,7 +86,9 @@ The Inspector clip footer offers the same playhead trims for a selected **video*
 
 A slide with text also offers **Clear Caption** on this menu. To fill empty captions, use the Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, or **Generate**.
 
-Intro cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, and **Reset Center of Interest** when a background is set.
+Right-click always selects the clip under the pointer — including the **first slide after the intro** — and parks the playhead at that click on the strip.
+
+Intro cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Rotate & Flip** when a background still is set, and **Reset Center of Interest** when a background is set.
 
 ## Motion → Timeline (Studio)
 

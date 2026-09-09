@@ -1,6 +1,6 @@
 # Looks
 
-One chip, whole personality. Inspector → **Style**: a Look sets grade, border, stage, backdrop, lens deal, Photo Size, transition mix bias, Match Look music, and which multi-photo groups run.
+One chip, whole personality. Inspector → **Style**: a Look sets grade, border, stage, backdrop, lens deal, Photo Size, Stage Intensity, transition mix bias, Match Look music, and which multi-photo groups run.
 
 ![Style tab: Look chips, Energy, Stage](../.gitbook/assets/inspector-style.png)
 
@@ -80,9 +80,17 @@ How fast the room breathes. Header band: **Calm · Steady · Lively · Energetic
 
 Above roughly **93% Energy**, **Spiral-in** and **Reveal from depth** cannot play (boxes dim). If they were the only kinds checked, the movie falls back to Ken Burns while Energy stays that high.
 
+## Photo Size
+
+How big the hero card sits on stage. Inspector → **Style**, under Energy. Word labels only: **Smallest · Small · Medium · Large · Largest** (not a percentage readout). Five stops from **60%** at Smallest through **98%** at Largest — the resting card matches the stop. Default for every Look is **Large**. A still can still grow a little past rest as slow zoom plays out.
+
+Sets hero / single-slide short-edge fill. Every single-slide cut keeps that full size. Group heroes take Photo Size into account; a group may soft-fit under the label so it stays on stage — **single-slide heroes are never flattened to spare a group.** [Social Safe](../export.md#social-safe) clamps Photo Size to about **85–98%**.
+
 ## Stage
 
-The room the prints live in — **Dark** (black void) or **Light** (cream gallery). Inspector → **Style**, under Energy. Host colour behind every plate, wash, seam, the end fade, and the intro card’s plate / Matte frame chrome so Light never leaves a black scrap on cream. The eight Looks pick **Dark** by default. Changing Stage yourself also marks Style as Custom.
+The room the prints live in — **Dark** (black void) or **Light** (cream gallery). Inspector → **Style**, under Photo Size. Host colour behind every plate, wash, seam, the end fade, and the intro card’s plate / Matte frame chrome so Light never leaves a black scrap on cream. The eight Looks pick **Dark** by default. Changing Stage yourself also marks Style as Custom.
+
+In **Studio**, **Stage Intensity** (under the Dark / Light control) sets how loud the stage reads behind your photos — **50%** on **Dark** and **100%** on **Light** when a Look lands its factory value. Lower it and cards stand forward; the blurred stage, accordion bellows, and contact-sheet ghosts stay as context, just quieter. The photo in front is never dimmed. Live preview, Play, and export match.
 
 ![Stage Dark / Light](../.gitbook/assets/inspector-stage.png)
 
@@ -93,12 +101,6 @@ The room the prints live in — **Dark** (black void) or **Light** (cream galler
 **Light** — cream gallery.
 
 <figure><img src="../.gitbook/assets/stage-light.jpg" alt="Light stage"><figcaption>Light stage</figcaption></figure>
-
-## Photo Size
-
-How big the hero card sits on stage. Word labels only: **Smallest · Small · Medium · Large · Largest** (not a percentage readout). Five stops from **60%** at Smallest through **98%** at Largest — the resting card matches the stop. Default for every Look is **Large**. A still can still grow a little past rest as slow zoom plays out.
-
-Sets hero / single-slide short-edge fill. Every single-slide cut keeps that full size. Group heroes take Photo Size into account; a group may soft-fit under the label so it stays on stage — **single-slide heroes are never flattened to spare a group.** [Social Safe](../export.md#social-safe) clamps Photo Size to about **85–98%**.
 
 ## Captions on this tab
 
