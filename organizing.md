@@ -43,9 +43,9 @@ Clicking a **Look** chip also re-deals transitions (and related Style). See [Loo
 
 When “Grandma next to the kids” beats auto-sort, drag.
 
-**Library** — drag thumbs in the grid.
+**Library** — drag thumbs in the grid. A grouped set keeps one champagne plate, even when it wraps. Drop onto the group’s first seat to **join** — not to park beside it.
 
-**Timeline** photo lane — drag clips; near either edge the strip auto-scrolls past what’s on screen.
+**Timeline** photo lane — drag clips; near either edge the strip auto-scrolls past what’s on screen. Hover a cell to peek; lift off and that time sticks.
 
 Drag from the Library onto the Timeline:
 

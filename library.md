@@ -6,7 +6,7 @@ Birthday photos, trip videos, that clip of everyone singing — they land here b
 
 When the Library has items, left to right: **calendar** (sort / shuffle), **captions** bubble, **⋯**, and **+** on the trailing edge. An empty Library hides calendar and captions — only **⋯** and **+**.
 
-Drag the **vertical divider** on the right to resize (remembered). **View → Toggle Sidebar** (**⌃⌘S**) hides it. **⌘+** / **⌘-** / **⌘0** (UI text size) also enlarge or shrink Library cards — same factor as Timeline strip height.
+Drag the **vertical divider** on the right and it **snaps to whole columns** of cards (two and up). Thumbs stay a size that looks like photos — not postage stamps, not billboards. Remembered. **View → Toggle Sidebar** (**⌃⌘S**) hides it. **⌘+** / **⌘-** / **⌘0** (UI text size) also enlarge or shrink Library cards — same factor as Timeline strip height.
 
 ## Import
 
@@ -116,7 +116,7 @@ Same photos, different cuts — when motion feels stuck:
 
 ## Reorder and replace
 
-Drag thumbs in the grid. Onto the Timeline **photo lane**: a **gap** inserts or moves; drop on a **single** or a **group seat** until **Replace**; drop on the **intro** tile sets the intro background.
+Drag thumbs in the grid. A grouped set keeps **one** champagne plate, even when it wraps onto the next row. Drop a photo onto the group’s **first seat** (the hole at the start of that plate) to **join** the window — not to squeeze in beside it like a stranger at the table. Onto the Timeline **photo lane**: a **gap** inserts or moves; drop on a **single** or a **group seat** until **Replace**; drop on the **intro** tile sets the intro background.
 
 Whole groups move together until you drill into a seat. Full story: [Organizing](organizing.md#drag-to-reorder).
 

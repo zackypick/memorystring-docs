@@ -12,8 +12,8 @@ The strip under the stage is the movie’s pulse — hold times, music, and wher
 
 Time, pictures, music:
 
-1. **Time ruler** — click or drag to seek; hover for a ghost preview (ghost line + dimmer time chip) until you click
-2. **Photo lane** — slides, intro, and group cells
+1. **Time ruler** — click or drag to seek
+2. **Photo lane** — slides, intro, and group cells. Hover a cell to peek at that beat; lift off the strip and that moment **sticks** (the playhead does not snap back the way a typical NLE would). Sliding off the top or bottom does not yank you to a random time. Hover is ignored while playing
 3. **Music lane** — soundtrack clips
 
 Chrome above shows **Timeline**, the selected clip **name**, and zoom. Readout is **fit-relative**: **1.0×** = whole project in the window; **3.0×** = three windows wide. An empty strip is quiet: **Nothing on the timeline yet**.

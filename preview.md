@@ -11,7 +11,7 @@ Hit **Space**. Scrub. Nudge. Does the toast land before the song swells?
 - **Space** or the Play/Pause control
 - Immediately right of Play/Pause, the **speaker** button **toggles mute and unmute** for **in-app preview audio only** — soundtrack plus any unmuted video clips. **Export audio is unchanged.** Per-clip mute (Library badges, Inspector, Audio tab) is separate. The icon is **white** in both states (not champagne or tan); the muted slash goes **through** the speaker, and the cone stays in the **same position**. The choice is remembered for the session; tooltip: *Mute preview audio (export unchanged)* / *Unmute preview audio (export unchanged).*
 - Click or drag the playhead / time ruler to scrub
-- Hover the ruler for a ghost preview before seeking
+- Hover the Timeline **photo lane** to peek at that beat; lift off the strip and that moment sticks. Sliding off the top or bottom does not jump the playhead. Hover is ignored while playing
 - **←** / **→** nudge; **⇧** for larger steps
 - **⌘→** / **⌘←** next / previous slide; **⌥⌘←** go to start
 
@@ -34,7 +34,7 @@ Edit wants instant. Share wants smooth. Export wants the file.
 | | What it is |
 | --- | --- |
 | **Live preview** | The stage while you edit. Motion, Looks, and captions update immediately. Can hitch on a heavy show. |
-| **Scrub** | Drag the playhead or ruler. Hover the ruler for a ghost frame before you commit. After a bake, scrub uses that smooth pass; moving the playhead drops any paused cover so the head stays honest. |
+| **Scrub** | Drag the playhead or ruler. Hover the **photo lane** to peek; lift off and that moment sticks. After a bake, scrub uses that smooth pass; moving the playhead drops any paused cover so the head stays honest. |
 | **Baked (smooth play)** | A pre-encoded pass so **Space** and scrub stay fluid. Finished segments stay on disk; reopen restores them if nothing changed. Play switches to this pass as soon as the first slides (or the whole show) are ready — it should not stay on the live, laggy preview. |
 | **Export** | The H.264 MP4. Same choreography, framing, and audio as the baked show (preview seed matches export). Format in the Export dialog can differ from the live preview swatch. |
 

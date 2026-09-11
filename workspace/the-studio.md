@@ -40,7 +40,7 @@ Photos and videos for this show. The column splits into **Takes** (the show grid
 
 ![Library — Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
 
-**View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it; the width is remembered.
+**View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it — it snaps to whole columns of cards. The width is remembered.
 
 More: [Library](../library.md).
 

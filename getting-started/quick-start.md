@@ -34,7 +34,7 @@ After import, MemoryString may offer **Keep Best Shots** when similar photo grou
 
 ## 3. Order the story
 
-Drag Library thumbnails or Timeline clips until the order feels like the day you lived. The **Intro** slide stays first when it is on.
+Drag Library thumbnails or Timeline clips until the order feels like the day you lived. The **Intro** slide stays first when it is on. The Library’s right edge snaps to whole columns of cards.
 
 Library calendar menu: **Oldest First (Story Order)**, **Newest First**, **Import Order**, or **Shuffle**. **Edit → Sort by Date Taken** is the three date/import choices only. In Essential, a first import auto-sorts **Oldest First** when the Library was empty.
 
@@ -44,7 +44,7 @@ Full detail — including Shuffle Transitions, replacing a seat, and reordering 
 
 ## 4. Preview
 
-**Space** (or the toolbar Play/Pause). Click or drag the playhead to scrub. See [Preview](../preview.md#playback).
+**Space** (or the toolbar Play/Pause). Click or drag the playhead to scrub. Hover the Timeline **photo lane** to peek; lift off and that moment sticks. See [Preview](../preview.md#playback).
 
 ## 5. Music
 
