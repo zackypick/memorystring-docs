@@ -124,13 +124,12 @@ Whole groups move together until you drill into a seat. Full story: [Organizing]
 
 On a **photo or video** in the Library (not empty space):
 
-![Library: Change Transition and Ungroup on a grouped clip](../.gitbook/assets/library-context-ungroup.png)
+![Library: Group Transition and Ungroup on a grouped clip](../.gitbook/assets/library-context-ungroup.png)
 
 ![Library: Group Transition when several clips are selected](../.gitbook/assets/library-context-group.png)
 
 - **Slide Transition** — pick a single-slide cut, or **Random**
-- **Change Transition** — when the clip is already in a group
-- **Group Transition** — when **two or more** media clips are selected (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
+- **Group Transition** — join **two or more** selected singles, or change the look of an existing group (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
 - **Ungroup** — when the clip is in a group
 - **Lens Effect** — Studio only; pin pooled effects on that slide or group
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md#rotate-while-paused) (right-click)

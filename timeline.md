@@ -61,7 +61,7 @@ Right-click a photo or video on the **photo lane**:
 
 ![Timeline clip menu: Slide Transition, rotate, duration, Set Caption, Remove](../.gitbook/assets/timeline-context-menu.png)
 
-- **Slide Transition** — pick a cut, or **Random** (groups: **Change Transition** / **Ungroup** / **Group Transition** when several clips are selected)
+- **Slide Transition** — pick a cut, or **Random** (groups: **Group Transition** / **Ungroup**)
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**
 - **Set Duration…** (**⌘D**). Timeline videos nest duration + **Set Start Here** / **Set End Here** under **Timing**
 - **Set Caption** — focuses the Inspector clip-bar field

@@ -61,7 +61,7 @@ Hand-dragging **pins** group windows to those photos. Sorting, shuffling, resett
 
 First click on a group selects the **whole window** (champagne outline in the Library; one cell on the Timeline). Drag then moves every seat together.
 
-Right-click two or more selected clips → **Group Transition**. **Ungroup** / **Change Transition** on an existing group. See [Library](library.md#right-click-a-slide).
+Right-click two or more selected clips or an existing group → **Group Transition**. **Ungroup** on an existing group. See [Library](library.md#right-click-a-slide).
 
 ![Library: Group Transition when several clips are selected](.gitbook/assets/library-context-group.png)
 
