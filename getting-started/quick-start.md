@@ -14,7 +14,7 @@ Blank stage or an old `.memorystring` — either way you’re editing a real pro
 
 ## 2. Import media
 
-Fill the **Library** on the left — the cast of the movie.
+Fill the **Library** on the left — the cast of the movie. MemoryString **links to the original files**; it does not copy your camera roll into the show (a screenshot or other paste with no file behind it is the exception).
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
 2. Or **File → Import from Photos…** (also on **+**) — **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**

@@ -10,12 +10,14 @@ Drag the **vertical divider** on the right and it **snaps to whole columns** of 
 
 ## Import
 
-Dump a folder, paste a screenshot, pull from Photos.app, or use the menus:
+Dump a folder, paste a screenshot, pull from Photos.app, or use the menus.
+
+MemoryString **does not copy** your photos and videos into the show. It keeps **links to the original files** on disk, so the camera roll stays where it is. If you later move or delete an original, that clip looks broken until you point MemoryString at the file again. The exception: a screenshot or other paste with no file behind it — then MemoryString stores its own copy.
 
 - Toolbar or Library **+** → **Photos & Videos…**, or **File → Import Media…**
 - **File → Import from Photos…** (also on toolbar **+**, the empty-stage Add pill, and Library **+**) — see [Import from Photos](#import-from-photos)
 - Drop folders, photos, or videos onto the window
-- **Edit → Paste** (**⌘V**) — Finder files or folders, an image/video from Preview, Photos, Safari, Messages, or a screenshot (**⇧⌘4**). Clipboard images with no file are saved under Application Support **Imports**. Music files join the soundtrack. A `.memorystring` file **opens**.
+- **Edit → Paste** (**⌘V**) — Finder files or folders, an image/video from Preview, Photos, Safari, Messages, or a screenshot (**⇧⌘4**). Clipboard images with no file are saved as a copy (Application Support **Imports**). Music files join the soundtrack. A `.memorystring` file **opens**.
 - Empty Library: quiet copy **Nothing in library yet** — the preview plate is the drop target (marching ants on that plate only). Hover pulse: **Let the story begin**; a `.memorystring` hover: **The plot thickens**
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
@@ -167,4 +169,4 @@ Videos have a **2 second** minimum trim. **Reset Video Duration** restores the f
 
 Grouped cards share one clip. Badges: **carousel 2/5**, **stack 1/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**, **scatter 2/5**. Selecting the group draws one champagne outline and dims the rest. Click a member to seek to that photo’s turn on stage. Timeline: click the cell for the whole window; click again to drill into one seat. See [Multi-photo groups](motion/groups.md#timeline-library).
 
-**File → Delete Project…** trashes the `.memorystring` file (if saved) and that project’s Imports copies, then opens an empty Untitled project. Originals outside **Imports** are never deleted.
+**File → Delete Project…** trashes the `.memorystring` file (if saved) and any snapshot copies the app owned, then opens an empty Untitled project. Originals MemoryString only **linked** to are never deleted.
