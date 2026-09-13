@@ -10,7 +10,11 @@ Drag the **vertical divider** on the right and it **snaps to whole columns** of 
 
 ## Import
 
-Dump a folder, paste a screenshot, pull from Photos.app, or use the menus:
+Dump a folder, paste a screenshot, pull from Photos.app, or use the menus.
+
+Folder and Finder imports stay **linked** — MemoryString does not copy those files. If you later move or delete an original, that clip looks broken until you point MemoryString at the file again.
+
+**Photos.app** is different. There is no way to create stable links into the Photos library, so MemoryString **copies** that media into Application Support **Imports**. A screenshot or other paste with no file behind it is also stored as a copy there.
 
 - Toolbar or Library **+** → **Photos & Videos…**, or **File → Import Media…**
 - **File → Import from Photos…** (also on toolbar **+**, the empty-stage Add pill, and Library **+**) — see [Import from Photos](#import-from-photos)
@@ -52,7 +56,7 @@ Categories:
 
 Recent has **Select All** / **Deselect**. Most lists can take a **From** / **To** date filter (**Any dates**, **Apply**, **Clear**). Footer **Import** / **Cancel**. First time: **Access Your Photos**, then **Allow Access**. If access is denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
 
-Import uses the same ingest as a Finder drop — Keep Best may ask after the fog lifts; extras go to Outtakes.
+Those stills and videos are **copied** into Application Support **Imports** — Photos does not allow stable links into its database. A Finder folder drop stays linked instead. Keep Best may ask after the fog lifts; extras go to Outtakes.
 
 Same ingest on every path: **Add / +**, Finder drop (files or a folder), **Photos.app** drag (stills often arrive one remux at a time), and paste. Keep Best, park, and skip count the **whole drop**, not one Photos hop.
 

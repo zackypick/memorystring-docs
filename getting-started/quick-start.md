@@ -14,7 +14,7 @@ Blank stage or an old `.memorystring` — either way you’re editing a real pro
 
 ## 2. Import media
 
-Fill the **Library** on the left — the cast of the movie.
+Fill the **Library** on the left — the cast of the movie. Folder and Finder imports stay **linked**; media from **Photos.app** is **copied** into Application Support **Imports** because there is no way to create stable links into the Photos library (see [Library](../library.md#import)).
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
 2. Or **File → Import from Photos…** (also on **+**) — **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**
