@@ -37,6 +37,8 @@ Library **⋯**, Inspector → **Motion → Timeline**, or right-click empty Lib
 
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-menu-options.png)
 
+**Reset Slide Durations** (same ⋯ and Motion → Timeline) restores default still timing. To match the movie to the song instead, use **Fit Show to Music** — [Music](music.md#fit-show-to-music).
+
 Clicking a **Look** chip also re-deals transitions (and related Style). See [Looks](style/looks.md#the-eight-chips).
 
 ## Drag to reorder
@@ -76,7 +78,7 @@ The group **badge** on a Library thumb re-selects the whole window.
 
 ## Undo
 
-Mistakes are cheap. **⌘Z** undoes sort, shuffle, Shuffle Transitions, drag reorder, **Keep Best Shots**, and **Auto Trim**. Named in the Edit menu (for example Undo Sort by Date Taken, Undo Keep Best Shots).
+Mistakes are cheap. **⌘Z** undoes sort, shuffle, Shuffle Transitions, drag reorder, **Fit Show to Music**, **Keep Best Shots**, and **Auto Trim**. Named in the Edit menu (for example Undo Sort by Date Taken, Undo Keep Best Shots).
 
 Keep Best and Auto Trim live under Library **⋯** (and Auto Trim on a video’s right-click). Keep Best extras move to [Outtakes](library.md#outtakes). Auto Trim is best-effort — not guaranteed; trim by hand if it misses. Story: [Auto detection](auto-detection.md#keep-best-shots).
 

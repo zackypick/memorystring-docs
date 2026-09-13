@@ -35,7 +35,7 @@ What Essential hides, and what Studio unlocks.
 | Per-slide **Lens Effect** (right-click) | Hidden | Timeline / Library / intro |
 | Export **Quality** | Compact / Share / High / Best (slider; default **Share**) | same slider, plus target Mbps |
 
-Looks, Energy, Stage, Photo Size, Format, music, import, and export still work in Essential. Not a lesser app — a quieter one.
+Looks, Energy, Stage, Photo Size, Format, music, import, and export still work in Essential. **Fit Show to Music** is on **Edit** and the music-lane menu in both modes (Studio also has it on Motion → Timeline). Not a lesser app — a quieter one.
 
 **Essential import:** if the Library was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it. **Keep Best Shots** and **Auto Trim** work in both modes ([Auto detection](../auto-detection.md#keep-best-shots)).
 

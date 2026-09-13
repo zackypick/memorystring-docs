@@ -50,7 +50,7 @@ Full detail — including Shuffle Transitions, replacing a seat, and reordering 
 
 Soundtrack lives in Inspector → **Audio**, not the Library.
 
-After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks from that Look’s mood pool. **Pick New Music**, **Extend to Fill**, and **Surprise me** sit under the playlist. Toolbar **+** → **Music…** or **Royalty-Free Library…**. See [Music](../music.md#match-look-soundtrack).
+After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks from that Look’s mood pool. **Pick New Music**, **Extend to Fill**, and **Surprise me** sit under the playlist. **Fit Show to Music** (Motion, the music-lane menu, or **Edit**) makes the slideshow the same length as the song. Toolbar **+** → **Music…** or **Royalty-Free Library…**. See [Music](../music.md#fit-show-to-music).
 
 ## 6. Polish (optional)
 
@@ -58,7 +58,7 @@ Inspector (**⌥⌘I**) when you want more than the defaults:
 
 - **Style** — Look, Energy, Stage, Photo Size, Captions, Customize (Studio)
 - **Intro** — opening card
-- **Motion** — Studio only: Transitions Mix and multi-photo groups
+- **Motion** — Studio only: Transitions Mix, multi-photo groups, **Fit Show to Music**
 - **Audio** — playlist, **Pick New Music** / **Extend to Fill** / **Surprise me**
 - **Format** — aspect / Social Safe (Instagram first among Social swatches)
 

@@ -56,8 +56,24 @@ Audio files are never treated as photos — dropping or seeding `.m4a` / `.mp3` 
 Under the playlist, after **Royalty-Free Library…** / **Add Music…**:
 
 - **Pick New Music** — fresh Match Look bed for this Look (skips recently used tracks). Asks before replacing music you added yourself.
-- **Extend to Fill** — keeps your tracks and appends free music after them so the bed covers the show.
+- **Extend to Fill** — keeps your tracks and appends free music after them so the bed covers the show. The other direction is [Fit Show to Music](#fit-show-to-music) — pictures match the song.
 - **Surprise me** — random pick from the **whole** royalty-free catalog, not the current Look’s pool. The app **remembers that pick immediately**, so a second tap does not land on the same bed while the first is still loading. After Surprise, Look clicks do not overwrite it.
+
+## Fit Show to Music
+
+The song is the length you want. **Fit Show to Music** changes still holds so the movie ends with the soundtrack.
+
+Same label in three places:
+
+- Inspector → **Motion** → **Timeline** (Studio), next to **Reset Slide Durations**
+- Right-click a track on the music lane
+- **Edit → Fit Show to Music**
+
+{% hint style="info" %}
+Videos keep their own length — they are not sped up or stretched. If the music is still longer than the pictures can cover, it fades out on the closing beat the same way it does today.
+{% endhint %}
+
+**Extend to Fill** (Audio tab) appends music so the *bed* covers the *show*. Fit Show to Music changes the show, not the playlist. **⌘Z** undoes it. **Reset Slide Durations** puts still timing back on Energy defaults.
 
 ## Audition
 
@@ -75,6 +91,8 @@ Line up tracks on the **music lane** (drag clips). Audio tab also has up / down 
 On import, MemoryString **auto-skips silent lead-in and run-out**. Trim with edge grips or **Set Start Here** / **Set End Here** / **Reset Length** (returns to that auto window, or the full file if no quiet edges).
 
 **Mute Track** / **Unmute Track** — music-lane context menu, Audio tab (click the time readout for mute and track volume 0…100%), or the Inspector clip footer when a soundtrack is selected.
+
+**Fit Show to Music** — same music-lane menu, **Edit**, or Motion → Timeline. Changes still holds so the show matches the soundtrack; see [Fit Show to Music](#fit-show-to-music).
 
 **Remove from Project** — royalty-free catalog tracks remove immediately (file stays in the app). Your imports ask **Remove from project?** first. **⌘Z** either way.
 

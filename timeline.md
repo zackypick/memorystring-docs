@@ -80,7 +80,7 @@ Right-click a video or music clip for trim:
 - **Set Start Here** / **Set End Here** — trim in/out at the playhead
 - Videos: **Reset Video Duration**. Music: **Reset Length**
 
-The Inspector clip footer offers the same playhead trims for a selected **video** or **soundtrack**. Videos use **Reset Video Duration**; music uses **Reset Length**. **⌘1** / **⌘2** = Set Start / Set End; **⌘D** opens **Set Duration…** (value selected to type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing.
+The Inspector clip footer offers the same playhead trims for a selected **video** or **soundtrack**. Videos use **Reset Video Duration**; music uses **Reset Length**. **⌘1** / **⌘2** = Set Start / Set End; **⌘D** opens **Set Duration…** (value selected to type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing. **Fit Show to Music** (Motion → Timeline, the music-lane menu, or **Edit**) matches the show to the soundtrack — [Music](music.md#fit-show-to-music).
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 
@@ -103,8 +103,9 @@ Inspector → **Motion** → **Timeline**:
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](../.gitbook/assets/library-menu-options.png)
 
 - **Reset Slide Durations**
+- **Fit Show to Music** — still holds change so the movie matches the soundtrack; videos keep their own length. Same command on **Edit** and the music-lane context menu. See [Music](music.md#fit-show-to-music)
 
-The intro stays first. **⌘Z** undoes sort / shuffle.
+The intro stays first. **⌘Z** undoes sort / shuffle / Fit Show to Music.
 
 ## End card
 
