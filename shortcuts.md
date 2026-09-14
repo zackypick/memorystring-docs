@@ -28,7 +28,7 @@ Undo, paste, duration, rotate.
 | **⌘V** / **⌘C** | Paste / copy media (plain text while a caption or title field is focused) |
 | **⌘⌫** | Delete selected media or music |
 | **⌘D** | Set Duration… |
-| **⌘1** / **⌘2** | Set Start Here / Set End Here |
+| **⌘1** / **⌘2** | Set Start Here / Set End Here (selected video or soundtrack, at the playhead — [audition the Audioline](music.md#audition-the-audioline) first for music) |
 | **⌘]** / **⌘[** | Rotate Clockwise / Rotate Counter Clockwise |
 | **⇧⌘]** / **⇧⌘[** | Flip Horizontal / Flip Vertical |
 

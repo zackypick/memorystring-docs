@@ -96,9 +96,9 @@ The **Audioline** is the music lane under the photo strip — soundtrack clips a
 
 ![Timeline — photo lane above, Audioline (music) below](../.gitbook/assets/window-timeline.gif)
 
-Drag clips to line them up. Trim with edge grips. Waveform **narrows at the fade edges**.
+Click a clip to select it, then **scrub** the playhead to hear that song. That is how you find the moment to **Set Start Here** / **Set End Here**. Drag clips to line them up. Trim with edge grips (those also preview the cut). Waveform **narrows at the fade edges**. When the needle crosses from one song to the next, highlight and sound follow the clip under the needle.
 
-More: [Music](../music.md#arrange-on-the-timeline).
+More: [Music → Audition the Audioline](../music.md#audition-the-audioline).
 
 ## Text size
 

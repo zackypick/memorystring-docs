@@ -50,9 +50,9 @@ Full detail — including Shuffle Transitions, replacing a seat, and reordering 
 
 ## 5. Music
 
-Soundtrack lives in Inspector → **Audio**, not the Library.
+Soundtrack lives in Inspector → **Audio** and on the **Audioline**, not the Library.
 
-After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks from that Look’s mood pool. **Pick New Music**, **Extend to Fill**, and **Surprise me** sit under the playlist. Toolbar **+** → **Music…** or **Royalty-Free Library…**. See [Music](../music.md).
+After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks from that Look’s mood pool. **Pick New Music**, **Extend to Fill**, and **Surprise me** sit under the playlist. Toolbar **+** → **Music…** or **Royalty-Free Library…**. To trim a song, select it on the Audioline, scrub until you hear the spot, then **Set Start Here** / **Set End Here**. See [Music](../music.md#audition-the-audioline).
 
 ## 6. Polish (optional)
 
