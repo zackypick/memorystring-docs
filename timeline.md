@@ -2,9 +2,9 @@
 
 The strip under the stage is the movie’s pulse — hold times, music, and where a too-long toast gets trimmed.
 
-![Photo lane and music waveform for a full show](../.gitbook/assets/timeline-full.png)
+![Photo lane: stack and filmstrip group cells with duration chips](../.gitbook/assets/timeline-full.png)
 
-![Timeline header: clip name, caption field, Generate, zoom](../.gitbook/assets/timeline-chrome.png)
+![Timeline header: clip name and zoom](../.gitbook/assets/timeline-chrome.png)
 
 ![Timeline: typing a slide caption](../.gitbook/assets/caption-edit.png)
 
@@ -12,11 +12,11 @@ The strip under the stage is the movie’s pulse — hold times, music, and wher
 
 Time, pictures, music:
 
-1. **Time ruler** — click or drag to seek; hover for a ghost preview (ghost line + dimmer time chip) until you click
-2. **Photo lane** — slides, intro, and group cells
+1. **Time ruler** — click or drag to seek
+2. **Photo lane** — slides, intro, and group cells. Hover a cell to peek at that beat; lift off the strip and that moment **sticks** (the playhead does not snap back the way a typical NLE would). Sliding off the top or bottom does not yank you to a random time. Hover is ignored while playing
 3. **Music lane** — soundtrack clips
 
-Chrome above shows selected clip **name + duration** and zoom. Readout is **fit-relative**: **1.0×** = whole project in the window; **3.0×** = three windows wide.
+Chrome above shows **Timeline**, the selected clip **name**, and zoom. Readout is **fit-relative**: **1.0×** = whole project in the window; **3.0×** = three windows wide. An empty strip is quiet: **Nothing on the timeline yet**.
 
 ### Timeline height
 
@@ -30,7 +30,7 @@ Zoom out for the whole birthday; in when a half-second matters.
 
 - **Zoom slider** (minus / plus magnifying glass) — scale updates **live** as you drag; all the way **left** for an end-to-end overview
 - **Pinch** on a trackpad to zoom the strip
-- **Scroll-wheel** zoom (pointer over the Timeline)
+- **Scroll-wheel** zoom (pointer over the Timeline) — scroll **up** zooms **in**, **down** zooms **out**
 - **⌥⌘+** / **⌥⌘-** zoom in / out
 - **Two-finger trackpad pan** or **horizontal scroll** to move along the strip
 - **Middle-mouse drag** to pan
@@ -49,41 +49,47 @@ Move the awkward photo. Shorten what overstays. Leave the good ones alone.
 
 Drag clips on the photo lane. Drag from the **Library** into a **gap** to insert or move; drop on a **single** or **group seat** to **Replace**. Music clips reorder on the music lane.
 
-First click on a group selects the whole window; second click on a thumb drills into that seat. See [Organizing](organizing.md#in-group-photos-and-videos).
+First click on a group selects the whole window — drag then moves every seat as one cell, including dropping it **between two other groups**. Second click on a thumb drills into that seat; drag that seat alone into a gap to pull it out. After a seat change the strip may show **Preparing preview…** while the group rebuilds. See [Organizing](organizing.md#in-group-photos-and-videos).
 
 Select a clip, then drag **edge grips** on either end:
 
-- **Videos** — frame feedback in the trim; **2 second** minimum. **Reset Length** restores the full file
+- **Videos** — frame feedback in the trim; **2 second** minimum. **Reset Video Duration** restores the full file
 - **Music** — the edge **auditions** that moment in the source song (the mixed bed stays paused). **Reset Length** returns to the auto-skipped quiet-edge window, or the full file if none was found
 - **Stills** — edge drag changes how long the slide holds
 
 Right-click a photo or video on the **photo lane**:
 
-![Timeline clip menu: Slide Transition, rotate, duration, Auto Caption, Remove](../.gitbook/assets/timeline-context-menu.png)
+![Grouped seat menu: Entire group sits under Group Transition](../.gitbook/assets/library-context-ungroup.png)
 
-- **Slide Transition** — pick a cut, or **Random** (groups: **Change Transition** / **Ungroup** / **Group Transition** when several clips are selected)
-- **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical**
-- **Set Duration…** (**⌘D**)
-- **Auto Caption** or **Clear Caption**
+- **Slide Transition** — pick a cut, or **Random** (groups: **Group Transition** / **Ungroup**)
+- **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**
+- **Set Duration…** (**⌘D**). Timeline videos nest duration + **Set Start Here** / **Set End Here** under **Timing**
+- **Set Caption** — focuses the Inspector clip-bar field
+- **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
+- **Move to Outtakes**
 - **Remove from Project** (**⌘⌫**)
-- Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Length**
+
+On a **grouped seat** the same menu is for **that photo**. A header names it (**Photo 2 of 4 · Photo Stack**). **Entire group ▸** holds rotate / lens / **Set Duration…** / **Move N photos to Outtakes** / **Remove N** for the whole window. **Ungroup** sits next to it. Reveal in Finder and Relink are hidden for now.
+- Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
-**Auto Trim** (videos) takes the middle four seconds and may shift up to a second toward a face. Right about 70% of the time — trim by hand when it misses. Context-menu choose runs immediately; undo with **⌘Z**. Not on import. See [Auto detection](auto-detection.md#auto-trim).
+**Auto Trim** (videos) is a best-effort highlight window — not guaranteed; trim by hand if it misses. Context-menu choose runs immediately; undo with **⌘Z**. Not on import. See [Auto detection](auto-detection.md#auto-trim).
 
 Right-click a video or music clip for trim:
 
 - **Set Start Here** / **Set End Here** — trim in/out at the playhead
-- **Reset Length**
+- Videos: **Reset Video Duration**. Music: **Reset Length**
 
-The Inspector clip footer offers the same playhead trims for a selected **video** or **soundtrack**. **⌘1** / **⌘2** = Set Start / Set End; **⌘D** opens **Set Duration…** (value selected to type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing.
+The Inspector clip footer offers the same playhead trims for a selected **video** or **soundtrack**. Videos use **Reset Video Duration**; music uses **Reset Length**. **⌘1** / **⌘2** = Set Start / Set End; **⌘D** opens **Set Duration…** (value selected to type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing.
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 
-A slide with no caption offers **Auto Caption** (or **Auto Caption N Untitled Slides** for a multi-selection of blanks). Once it has text, that item is **Clear Caption**.
+A slide with text also offers **Clear Caption** on this menu. To fill empty captions, use the Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, or **Generate**.
 
-Intro cell: **Disable Intro Slide**.
+Right-click always selects the clip under the pointer — including the **first slide after the intro** — and parks the playhead at that click on the strip.
+
+Intro cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Rotate & Flip** when a background still is set, and **Reset Center of Interest** when a background is set.
 
 ## Motion → Timeline (Studio)
 

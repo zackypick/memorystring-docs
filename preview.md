@@ -2,21 +2,30 @@
 
 The big stage is where you watch what you’re making — the movie someone opens on a phone after dinner. Import lives in the Library; order and trim also use the Timeline.
 
-![Preview transport: time, slide counter, Warm Now](../.gitbook/assets/transport.png)
+![Preview transport: time, slide counter, Warm Now, Stop, and Warming k/n — no Auto-warm checkbox](../.gitbook/assets/transport.png)
 
 ## Playback
 
 Hit **Space**. Scrub. Nudge. Does the toast land before the song swells?
 
 - **Space** or the Play/Pause control
+- Immediately right of Play/Pause, the **speaker** button **toggles mute and unmute** for **in-app preview audio only** — soundtrack plus any unmuted video clips. **Export audio is unchanged.** Per-clip mute (Library badges, Inspector, Audio tab) is separate. The icon is **white** in both states (not champagne or tan); the muted slash goes **through** the speaker, and the cone stays in the **same position**. The choice is remembered for the session; tooltip: *Mute preview audio (export unchanged)* / *Unmute preview audio (export unchanged).*
 - Click or drag the playhead / time ruler to scrub
-- Hover the ruler for a ghost preview before seeking
+- Hover the Timeline **photo lane** to peek at that beat; lift off the strip and that moment sticks. Sliding off the top or bottom does not jump the playhead. Hover is ignored while playing
 - **←** / **→** nudge; **⇧** for larger steps
 - **⌘→** / **⌘←** next / previous slide; **⌥⌘←** go to start
 
-The clock is `current / total`. Beside it, **1 of N** counts every photo card (including each seat in a group).
+The clock is `current / total`. Beside it, **1 of N** counts every photo card (including each seat in a group). Both modes auto-warm on **Play**. Studio adds **Warm Now** and **Stop** on that row — there is no Auto-warm checkbox.
 
-Workbench **ambilight** (color on the chrome) is display-only. Soft color from the playhead slide lights the title bar, Timeline bed, and Inspector seam — never the photo, never the export. The title bar settles a beat later (one flat color only).
+## Workbench ambilight
+
+Soft color from the edges of the slide at the playhead spills into the workbench chrome — title bar, Timeline header and bed, Inspector seam. It crossfades as slides change and tracks scrubbing; multi-photo groups follow the stage background. Display only — never on the photo plate, never in export.
+
+## Empty stage and opening fog
+
+A blank Untitled project is quiet: Library **Nothing in library yet**, Timeline **Nothing on the timeline yet**, preview **Add photos & videos** plus *Drop photos and videos to start a memory*. Hover a media drop and the plate pulse reads **Let the story begin** (ants on the preview plate only). Hover a `.memorystring` and it reads **The plot thickens**.
+
+First import fogs **The story begins…** with a percent — **Cancel** appears under it after a couple of seconds if the import is still going. Opening an existing `.memorystring` uses the same brew with **The story continues…** and no percent. Copy sits centered on the **visible preview stage**, not under the title bar. Drops are ignored until that fog lifts. **Keep Best Shots** waits until after the fog. Once the show has clips, a media drop overlay reads **Add to story**.
 
 ## Live, baked, and export
 
@@ -25,9 +34,9 @@ Edit wants instant. Share wants smooth. Export wants the file.
 | | What it is |
 | --- | --- |
 | **Live preview** | The stage while you edit. Motion, Looks, and captions update immediately. Can hitch on a heavy show. |
-| **Scrub** | Drag the playhead or ruler. Hover the ruler for a ghost frame before you commit. After a bake, scrub uses that smooth pass; moving the playhead drops any paused cover so the head stays honest. |
+| **Scrub** | Drag the playhead or ruler. Hover the **photo lane** to peek; lift off and that moment sticks. After a bake, scrub uses that smooth pass; moving the playhead drops any paused cover so the head stays honest. |
 | **Baked (smooth play)** | A pre-encoded pass so **Space** and scrub stay fluid. Finished segments stay on disk; reopen restores them if nothing changed. Play switches to this pass as soon as the first slides (or the whole show) are ready — it should not stay on the live, laggy preview. |
-| **Export** | The H.264 MP4. Same choreography, framing, and audio as the baked show (preview seed matches export). Ambilight is not in the file. Format in the Export dialog can differ from the live preview swatch. |
+| **Export** | The H.264 MP4. Same choreography, framing, and audio as the baked show (preview seed matches export). Format in the Export dialog can differ from the live preview swatch. |
 
 MemoryString does **not** bake in the background while you edit. Edits appear live; style and framing keep updating the live stage while a bake catches up.
 
@@ -35,18 +44,17 @@ MemoryString does **not** bake in the background while you edit. Edits appear li
 
 A heavy anniversary album should not stutter for the person who matters.
 
-**Essential** warms automatically when you press **Play**, and shows **Stop** while a warm is running. On a cold show, Play briefly blocks with **Preparing smooth playback** until the next couple of *photo* slides from the playhead are ready (intro title and the closing MemoryString card do not hold the gate), then starts on the baked pass. If that short lead takes too long, Play starts anyway and warming continues in the background.
+**Essential** and **Studio** both auto-warm when you press **Play** (there is no Auto-warm checkbox). **Essential** also shows **Stop** while a warm is running. On a cold Essential show, Play blocks with a **Preparing smooth playback** card **centered on the preview stage** until the next five *photo* slides from the playhead are ready (intro title and the closing MemoryString card do not hold the gate). The card counts the lead — *Warming 1/5* through *Warming 5/5* — then starts on the baked pass. The dialog never lifts early: playback begins only after it reads 5/5 (or you **Stop** / **Esc**).
 
-**Studio** adds controls on the transport row beside the slide counter:
+**Studio** Play does not block the workbench — the movie can start live and switch to the baked pass as the first slides land. Studio adds controls on the transport row beside the slide counter:
 
-- **Auto-warm on Play** (off by default) — start warming from the playhead when you press **Space**, without blocking the workbench
-- **Warm Now** — bake only segments that are not ready yet (already-warm slides are skipped). Blocks the workbench with a progress dialog until those dirty segments finish, or until **Cancel** / **Esc**. Disabled when everything is already warm
+- **Warm Now** — bake only segments that are not ready yet (already-warm slides are skipped). Blocks the workbench with the same centered **Preparing smooth playback** card until those dirty segments finish, or until **Stop** / **Esc**. Disabled when everything is already warm
 - **Stop** — cancel an in-flight warm (Play warm or Warm Now)
 
 A champagne **working-status pill** under the preview covers, in this order:
 
 1. Export — *Edits paused while creating memory*
-2. Bake — *Warming k/n* (Play / Auto-warm / Warm Now) or *Updating k/n* (a look/edit refresh of a finished bake)
+2. Bake — *Warming k/n* (Play / Warm Now) or *Updating k/n* (a look/edit refresh of a finished bake)
 3. Asset / **Loading music…**
 
 **k/n** matches the slide counter (every photo seat). Quiet stage means ready — no idle “Smooth play ready” message. Silence is the compliment.
@@ -59,7 +67,7 @@ The small round ring on a **paused** photo is **center of interest** — where m
 
 **Auto (on import):** every photo and video gets one — **largest face** (near the eyes), else **main subject**, else **middle** of the frame. Videos sample several frames in the trim window. Full order: [Auto detection](auto-detection.md#center-of-interest).
 
-**Manual override:** pause and click (*Tap photo to set focus*). Ring jumps; status shows **Focus · 62%, 38%** (example). Drag pans and leaves focus alone. Each change its own **⌘Z**.
+**Manual override:** pause and click the photo. Ring jumps; status shows **Focus · 62%, 38%** (example). Drag pans and leaves focus alone. Each change its own **⌘Z**.
 
 **Reset Center of Interest** (right-click the paused photo) drops the override, re-runs detection, restores the import pick.
 
@@ -73,8 +81,8 @@ On the **intro**, a single click on the still (or title) sets the same aim; **do
 
 Sideways phone photos happen. Fix here; originals stay untouched.
 
-Right-click the paused photo or video (not the intro) → **Rotate Right** / **Rotate Left** / **Flip Horizontal** / **Flip Vertical**. Hidden while playing.
+Right-click the paused photo or video → **Rotate & Flip** → **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**. Hidden while playing.
 
-Paused on the intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**.
+Paused on the intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**. With a background still set, the same **Rotate & Flip** submenu appears — it turns the cover photo, not the title type.
 
 While paused, **double-click** intro text to edit inline. Captions: single click selects; **double-click** hands off to the caption field. Captioned slides get a small blue speech-bubble badge on the Timeline.

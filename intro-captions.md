@@ -8,6 +8,36 @@ Every movie needs a first frame — whose anniversary — and captions that whis
 
 The intro is **full-bleed** — not a floating photo card, not Photo Size / Photo Border. Film atmosphere (grain, scratches, vignette, light leak, Glow on Entry) still covers the frame. Intro stays **first**; sort and shuffle leave it. Intro type and slide-caption type are independent.
 
+Intro length follows Energy on its **own** curve — not photo still timing — so the title fade-in always has room: about **7s** at Calm, **6s** at the default, **4s** at Intense. Photo stills are shorter at the top of the slider (see [Looks → Energy](style/looks.md#energy)).
+
+## Show cover and project name
+
+The **cover** is the **poster** for your project — the intro background still and the thumbnail at the front of the Library — **not** the first photo that plays after the title card. Playback always starts on your real first photo or video.
+
+After import, MemoryString can pick a cover and name the show while the intro still says **Memories**.
+
+### How the cover is chosen
+
+1. **Photos albums** — if Apple assigned a key photo, that becomes the cover, even if it never landed on the timeline. People, Trips & Events, Recent, By Month, and Media Type imports have no album key photo, so they skip this step. If that key photo *is* the first or second still on the show, MemoryString skips it (using it as the poster too would just repeat the open) and uses the next step instead.
+2. **Otherwise** — a still already **on the show**, never an Outtake, never a video. Prefers the **middle third** of the story, not the first, second, or last slide, and a sharp shot with a face when it can tell. A show with one or two photos reuses what you have.
+
+Same on every import path: **Import from Photos**, Finder drop (files or a folder), **Import Media**, or paste.
+
+**Choose from Library**, **Choose File…**, dragging onto the Inspector **Background** well, right-click **Set Background Image**, or **Remove** always wins from then on. Once you pick or clear the cover yourself, automatic picking never touches it again — including after **Keep Best Shots**. If Keep Best parks an *auto* cover into Outtakes, MemoryString picks another in-show still.
+
+### Project name and intro title
+
+The first import into a new show can name it. MemoryString sets the intro title (also the window title and the suggested **Save As** filename) from:
+
+- A Photos **album**, **person**, or **trip** — its name, when you imported just one of them
+- A folder dropped from Finder, or several files from the same Finder folder — that folder’s name
+
+Folder and Photos names are turned into **Title Case** (`july-trip_photos` → `July Trip Photos`). Typed intro text is never rewritten that way.
+
+Generic Photos and Finder names — **All Photos**, **Recents**, **Recently Deleted**, **Desktop**, **Downloads**, and the like — are skipped. Once the show has a real title (yours, or an earlier auto-named import), later imports never rename it.
+
+Export **Save As** also prefers intro title text — see [Format and export](export.md#export-movie).
+
 ## Intro Slide (Essential and Studio)
 
 Name the night, or leave the card off.
@@ -16,7 +46,7 @@ Name the night, or leave the card off.
 - Text field — select the intro and type here or in the Inspector clip bar. The title wraps onto up to three lines on the card. When you export, MemoryString suggests this title as the movie filename
 - Pause and **double-click** the title on the stage to edit. A **single** click sets [center of interest](preview.md#center-of-interest)
 
-Right-click the intro (preview, Timeline, or Library) → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect** (one accent or **None**, same list as Intro → Lens).
+Right-click the intro (preview, Timeline, or Library) → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect** (one accent or **None**, same list as Intro → Lens). When a background still is set, **Rotate & Flip** uses the same two-level submenu as every other slide — it turns the cover photo, not the title type.
 
 **Reset Intro to Defaults** turns the card off and restores text, type, frame, motion, lens, decoration, and background to new-project defaults. Does not clear slide captions.
 
@@ -24,7 +54,7 @@ Right-click the intro (preview, Timeline, or Library) → **Disable Intro Slide*
 
 Soft still behind the title — couple, cake, skyline — without competing.
 
-Click the well or **Choose…**, or drop a photo/video onto the well (**Choose from Library** / **Choose File…**). **Remove** clears it. The still is centre-cropped to fill; a missing file shows **Missing**.
+Click the well, or **Choose…** when empty / **Change…** when a still is already there. Drop a photo/video onto the well, or pick **Choose from Library** / **Choose File…**. **Remove** clears it. The still is centre-cropped to fill; a missing file shows **Missing**. After import, MemoryString may already have chosen a still — see [Show cover and project name](#show-cover-and-project-name). A pick or clear you make here is sticky.
 
 **Studio** extras when a background is set (Essential keeps add / change / remove only):
 
@@ -70,7 +100,7 @@ Style for the look; Timeline or clip bar for the words.
 
 In the right-hand **Inspector**, open **Style** → **Captions** → **Type & Placement**. Set project-wide **Font**, color, **Auto Size** / **Size**, **Align**, **Motion**, **Default Placement**, and **Shade Behind Text**. Bulk fill / clear under the same **Captions** heading (**Auto Caption …**, **Clear All Captions…**).
 
-Select a media clip; type in the Timeline caption field or Inspector clip bar (**Add a caption…**). **Generate** writes one. **Aa** opens position / color / size (**Caption Style…** → Style → Captions). A group’s caption belongs to its **lead** card.
+Select a media clip; type in the Inspector clip bar (**Add a caption…**). **Generate** writes one. **Aa** opens position / color / size (**Caption Style…** → Style → Captions). On **stage**, a group still shows the **lead** card’s caption. In Library and Timeline chrome, the speech-bubble badge sits on the **captioned seat** only — siblings and the collapsed group plate do not inherit it. Auto Caption / Set Caption on a seat writes that photo only.
 
 ![Timeline: typing a slide caption](../.gitbook/assets/caption-edit.png)
 
@@ -87,6 +117,6 @@ Does **not** run on import — you choose when. Fills empty captions on-device: 
 - Library captions bubble → **Auto Caption N Untitled Slide(s)**
 - **Edit → Auto Caption N Untitled Slides**
 - Style → Captions
-- Timeline / clip-bar **Generate**
+- Inspector clip-bar **Generate**
 
 **Auto Caption All Slides…** overwrites after confirmation (Library bubble in both modes; Style → Captions in Studio). **Clear All Captions…** wipes every caption.

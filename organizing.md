@@ -37,15 +37,17 @@ Library **⋯**, Inspector → **Motion → Timeline**, or right-click empty Lib
 
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-menu-options.png)
 
+**Reset Slide Durations** (same ⋯ and Motion → Timeline) restores default still timing.
+
 Clicking a **Look** chip also re-deals transitions (and related Style). See [Looks](style/looks.md#the-eight-chips).
 
 ## Drag to reorder
 
 When “Grandma next to the kids” beats auto-sort, drag.
 
-**Library** — drag thumbs in the grid.
+**Library** — drag thumbs in the grid. A grouped set keeps one champagne plate, even when it wraps. Drop onto the group’s first seat to **join** — not to park beside it.
 
-**Timeline** photo lane — drag clips; near either edge the strip auto-scrolls past what’s on screen.
+**Timeline** photo lane — drag clips; near either edge the strip auto-scrolls past what’s on screen. Hover a cell to peek; lift off and that time sticks.
 
 Drag from the Library onto the Timeline:
 
@@ -59,18 +61,19 @@ Hand-dragging **pins** group windows to those photos. Sorting, shuffling, resett
 
 ### Singles vs whole groups
 
-First click on a group selects the **whole window** (champagne outline in the Library; one cell on the Timeline). Drag then moves every seat together.
+First click on a group selects the **whole window** (champagne outline in the Library; one cell on the Timeline). Drag then moves every seat together — on the Timeline you can drop that whole cell between two other groups.
 
-Right-click two or more selected clips → **Group Transition**. **Ungroup** / **Change Transition** on an existing group. See [Library](library.md#right-click-a-slide).
+Right-click a grouped photo for **that seat**. Whole-window actions live under **Entire group ▸**. Right-click two or more selected singles → **Group Transition**. **Ungroup** on an existing group. See [Library](library.md#right-click-a-slide).
 
-![Library: Group Transition when several clips are selected](.gitbook/assets/library-context-group.png)
+![Grouped seat menu: Entire group and Ungroup](.gitbook/assets/library-context-ungroup.png)
 
 ### In-group photos and videos
 
 Blinker out, grin in: click the group again on a **member** (Library) or a **thumb** on the Timeline cell (second click) to **drill in**. Accent ring on one photo — drag that seat alone.
 
 - Drop on another **seat** in the same window to swap / replace that place in the group
-- Drop in a **gap** to pull it out of the group (extract)
+- Drop in a **gap** between two groups (or next to a single) to pull it out and park it there
+- After any seat change — add, rearrange, extract, or send one photo to Outtakes — the strip may show **Preparing preview…** while MemoryString rebuilds that group’s scrub
 
 The group **badge** on a Library thumb re-selects the whole window.
 
@@ -78,4 +81,6 @@ The group **badge** on a Library thumb re-selects the whole window.
 
 Mistakes are cheap. **⌘Z** undoes sort, shuffle, Shuffle Transitions, drag reorder, **Keep Best Shots**, and **Auto Trim**. Named in the Edit menu (for example Undo Sort by Date Taken, Undo Keep Best Shots).
 
-Keep Best and Auto Trim live under Library **⋯** (and Auto Trim on a video’s right-click). Auto Trim is the middle four seconds plus a small face nudge — right about 70% of the time; trim by hand when it misses. Story: [Auto detection](auto-detection.md#auto-trim).
+Keep Best and Auto Trim live under Library **⋯** (and Auto Trim on a video’s right-click). Keep Best extras move to [Outtakes](library.md#outtakes). Auto Trim is best-effort — not guaranteed; trim by hand if it misses. Story: [Auto detection](auto-detection.md#keep-best-shots).
+
+Right-click a Take → **Move to Outtakes**; an Outtake → **Move to Takes**. Drag between the two panes is the same move.
