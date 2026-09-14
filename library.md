@@ -78,6 +78,10 @@ First time, macOS asks twice. Allow both — MemoryString stays on your Mac and 
 
 ![Photos automation — Allow so album counts and covers can load](../.gitbook/assets/photos-permission-automation.png)
 
+macOS may also ask **Allow “MemoryString” to find devices on local networks?** The show does not browse your LAN. If that sheet appears, **Allow** is fine — MemoryString stays on your Mac.
+
+![Local Network — Allow if it appears](../.gitbook/assets/photos-permission-local-network.png)
+
 If you already denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
 
 Those stills and videos are **copied** into Application Support **Imports** — Photos does not allow stable links into its database. A Finder folder drop stays linked instead. Keep Best may ask after the fog lifts; extras go to Outtakes.
