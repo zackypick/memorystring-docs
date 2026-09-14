@@ -37,6 +37,8 @@ Library **⋯**, Inspector → **Motion → Timeline**, or right-click empty Lib
 
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-menu-options.png)
 
+**Reset Slide Durations** (same ⋯ and Motion → Timeline) restores default still timing.
+
 Clicking a **Look** chip also re-deals transitions (and related Style). See [Looks](style/looks.md#the-eight-chips).
 
 ## Drag to reorder
@@ -59,18 +61,19 @@ Hand-dragging **pins** group windows to those photos. Sorting, shuffling, resett
 
 ### Singles vs whole groups
 
-First click on a group selects the **whole window** (champagne outline in the Library; one cell on the Timeline). Drag then moves every seat together.
+First click on a group selects the **whole window** (champagne outline in the Library; one cell on the Timeline). Drag then moves every seat together — on the Timeline you can drop that whole cell between two other groups.
 
-Right-click two or more selected clips → **Group Transition**. **Ungroup** / **Change Transition** on an existing group. See [Library](library.md#right-click-a-slide).
+Right-click a grouped photo for **that seat**. Whole-window actions live under **Entire group ▸**. Right-click two or more selected singles → **Group Transition**. **Ungroup** on an existing group. See [Library](library.md#right-click-a-slide).
 
-![Library: Group Transition when several clips are selected](.gitbook/assets/library-context-group.png)
+![Grouped seat menu: Entire group and Ungroup](.gitbook/assets/library-context-ungroup.png)
 
 ### In-group photos and videos
 
 Blinker out, grin in: click the group again on a **member** (Library) or a **thumb** on the Timeline cell (second click) to **drill in**. Accent ring on one photo — drag that seat alone.
 
 - Drop on another **seat** in the same window to swap / replace that place in the group
-- Drop in a **gap** to pull it out of the group (extract)
+- Drop in a **gap** between two groups (or next to a single) to pull it out and park it there
+- After any seat change — add, rearrange, extract, or send one photo to Outtakes — the strip may show **Preparing preview…** while MemoryString rebuilds that group’s scrub
 
 The group **badge** on a Library thumb re-selects the whole window.
 

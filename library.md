@@ -14,12 +14,12 @@ Dump a folder, paste a screenshot, pull from Photos.app, or use the menus.
 
 Folder and Finder imports stay **linked** — MemoryString does not copy those files. If you later move or delete an original, that clip looks broken until you point MemoryString at the file again.
 
-**Photos.app** is different. There is no way to create stable links into the Photos library, so MemoryString **copies** that media into Application Support **Imports**. A screenshot or other paste with no file behind it is also stored as a copy there.
+**Photos.app** is different. There is no way to create stable links into the Photos library, so MemoryString **copies** that media into Application Support **Imports**. A screenshot or other paste with no file behind it is also stored as a copy.
 
 - Toolbar or Library **+** → **Photos & Videos…**, or **File → Import Media…**
 - **File → Import from Photos…** (also on toolbar **+**, the empty-stage Add pill, and Library **+**) — see [Import from Photos](#import-from-photos)
 - Drop folders, photos, or videos onto the window
-- **Edit → Paste** (**⌘V**) — Finder files or folders, an image/video from Preview, Photos, Safari, Messages, or a screenshot (**⇧⌘4**). Clipboard images with no file are saved under Application Support **Imports**. Music files join the soundtrack. A `.memorystring` file **opens**.
+- **Edit → Paste** (**⌘V**) — Finder files or folders, an image/video from Preview, Photos, Safari, Messages, or a screenshot (**⇧⌘4**). Clipboard images with no file are saved as a copy (Application Support **Imports**). Music files join the soundtrack. A `.memorystring` file **opens**.
 - Empty Library: quiet copy **Nothing in library yet** — the preview plate is the drop target (marching ants on that plate only). Hover pulse: **Let the story begin**; a `.memorystring` hover: **The plot thickens**
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
@@ -45,6 +45,8 @@ Stay in MemoryString. **File → Import from Photos…** (same item on toolbar *
 
 ![File menu: Import from Photos…](../.gitbook/assets/file-menu-import-photos.png)
 
+![Import from Photos — Recent, Albums, People, By Month, Trips & Events, Media Type](../.gitbook/assets/photos-import-hub.png)
+
 Categories:
 
 - **Recent** — Last 7 Days / Last 30 Days / Last Year
@@ -54,7 +56,29 @@ Categories:
 - **Trips & Events** — Photos events
 - **Media Type** — Videos, Panoramas, Screenshots, Live Photos, Bursts
 
-Recent has **Select All** / **Deselect**. Most lists can take a **From** / **To** date filter (**Any dates**, **Apply**, **Clear**). Footer **Import** / **Cancel**. First time: **Access Your Photos**, then **Allow Access**. If access is denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
+![Recent — Last 30 Days, Select All / Deselect, ready to import](../.gitbook/assets/photos-import-recent.png)
+
+![Albums — pick one or more, then Import](../.gitbook/assets/photos-import-albums.png)
+
+![People — named faces, A–Z](../.gitbook/assets/photos-import-people.png)
+
+![Date filter open — From / To, Apply, Clear](../.gitbook/assets/photos-import-dates.png)
+
+![By Month — years and months](../.gitbook/assets/photos-import-by-month.png)
+
+![Trips & Events — Photos events, or empty if none](../.gitbook/assets/photos-import-trips.png)
+
+![Media Type — Videos, Panoramas, Screenshots, Live Photos, Bursts](../.gitbook/assets/photos-import-media-type.png)
+
+Recent has **Select All** / **Deselect**. Most lists can take a **From** / **To** date filter (**Any dates**, **Apply**, **Clear**). Footer **Import** / **Cancel**.
+
+First time, macOS asks twice. Allow both — MemoryString stays on your Mac and only reads the library you pick.
+
+![Photo Library — Allow Access to All Photos](../.gitbook/assets/photos-permission-library.png)
+
+![Photos automation — Allow so album counts and covers can load](../.gitbook/assets/photos-permission-automation.png)
+
+If you already denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
 
 Those stills and videos are **copied** into Application Support **Imports** — Photos does not allow stable links into its database. A Finder folder drop stays linked instead. Keep Best may ask after the fog lifts; extras go to Outtakes.
 
@@ -74,7 +98,9 @@ The **first** import into a new show (intro still **Memories**) can name it and 
 
 The left column splits into **Takes** (the show) and **Outtakes**, with a hairline seam between them. Drag the seam up to enlarge Outtakes (Takes shrinks), or down for the opposite.
 
-When the bin has at least one item, the **Outtakes** header shows a count (for example **Outtakes, 3**). Outtakes holds shots that are in the project but not on the show — Keep Best extras, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy). Empty body: **Nothing discarded.**
+![Outtakes bin with three photos](../.gitbook/assets/library-outtakes.png)
+
+When the bin has at least one item, the **Outtakes** header shows a count (for example **Outtakes, 3**). Outtakes holds shots that are in the project but not on the show — Keep Best extras, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy). On a group, top-level **Move to Outtakes** sends **that seat** only; **Entire group ▸ Move N photos to Outtakes** sends every seat. Empty body: **Nothing discarded.**
 
 Click an outtake to select it (tile ring); the playhead and preview stay on the current movie slide. Drag an outtake up into Takes or the filmstrip to put it on the show; drop onto the intro tile to use it as the intro background (it stays in Outtakes). Right-click → **Move to Takes**, or **Remove from Project** to delete it for real. Calendar sort also sorts Outtakes; Shuffle is show-only.
 
@@ -128,13 +154,10 @@ Whole groups move together until you drill into a seat. Full story: [Organizing]
 
 On a **photo or video** in the Library (not empty space):
 
-![Library: Change Transition and Ungroup on a grouped clip](../.gitbook/assets/library-context-ungroup.png)
-
-![Library: Group Transition when several clips are selected](../.gitbook/assets/library-context-group.png)
+![Grouped seat menu: Photo 1 of 5 · Ribbon, Entire group, Ungroup](../.gitbook/assets/library-context-ungroup.png)
 
 - **Slide Transition** — pick a single-slide cut, or **Random**
-- **Change Transition** — when the clip is already in a group
-- **Group Transition** — when **two or more** media clips are selected (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
+- **Group Transition** — join **two or more** selected singles, or change the look of an existing group (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
 - **Ungroup** — when the clip is in a group
 - **Lens Effect** — Studio only; pin pooled effects on that slide or group
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md#rotate-while-paused) (right-click)
@@ -145,10 +168,19 @@ On a **photo or video** in the Library (not empty space):
 - **Set Caption** — focuses the Inspector clip-bar field
 - **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
 - **Move to Outtakes** (on a Take) or **Move to Takes** (on an Outtake)
-- **Reveal in Finder**
 - **Remove from Project** (**⌘⌫**)
 
-The Timeline photo-lane menu is the same idea — see [Timeline](timeline.md#reorder-and-trim).
+On a **grouped seat**, the menu is for **that photo** first. A disabled header names it (**Photo 2 of 4 · Photo Stack**). **Lens Effect**, **Rotate & Flip**, **Set Caption**, **Move to Outtakes**, and **Remove from Project** hit that seat only. **Set Duration…** is not on the seat — it lives under **Entire group**.
+
+Then a group block:
+
+- **Group Transition** — change the look of this window
+- **Entire group ▸** — **Rotate & Flip** every seat, **Lens Effect** on every seat, **Set Duration…** for the window, **Move N photos to Outtakes**, **Remove N photos from Project**
+- **Ungroup**
+
+Reveal in Finder and Relink are hidden for now.
+
+The Timeline photo-lane menu is the same shape — see [Timeline](timeline.md#reorder-and-trim).
 
 On the **intro**: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, [Reset Center of Interest](preview.md#center-of-interest).
 
@@ -172,4 +204,4 @@ Videos have a **2 second** minimum trim. **Reset Video Duration** restores the f
 
 Grouped cards share one clip. Badges: **carousel 2/5**, **stack 1/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**, **scatter 2/5**. Selecting the group draws one champagne outline and dims the rest. Click a member to seek to that photo’s turn on stage. Timeline: click the cell for the whole window; click again to drill into one seat. See [Multi-photo groups](motion/groups.md#timeline-library).
 
-**File → Delete Project…** trashes the `.memorystring` file (if saved) and that project’s Imports copies, then opens an empty Untitled project. Originals outside **Imports** are never deleted.
+**File → Delete Project…** trashes the `.memorystring` file (if saved) and any snapshot copies the app owned, then opens an empty Untitled project. Originals MemoryString only **linked** to are never deleted.

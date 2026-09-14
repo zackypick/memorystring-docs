@@ -39,6 +39,8 @@ iMovie will let you cut a film: tracks, precision edits, the long sit. MemoryStr
 
 [Import from Photos…](../library.md#import-from-photos) is a dedicated sheet: albums (the path Adam Angst asked for), people, trips, media types, and a date filter. iMovie can also import from Photos; MemoryString’s picker is built for a camera-roll night, not an NLE bin.
 
+![Import from Photos — browse albums, people, months, and media types](../.gitbook/assets/photos-import-hub.png)
+
 [Mute](../auto-detection.md#video-sound-auto-mute) can hush empty room tone so the soundtrack leads; speech on camera stays. Detection is on-device and does not write a transcript. [Center of interest](../auto-detection.md#center-of-interest) aims motion at faces. Auto Caption can fill place · date when you run it — never camera codes, and not on import.
 
 [Looks](../style/looks.md) restyle the whole film from one chip. [Export](../export.md) is H.264 MP4, Social or Classic frames, rendered on your Mac. Compose in 16:9 if you like, then export tall with [Social Safe](../export.md#social-safe) without rebuilding the show. Check **Screensaver** for a silent looping movie you drop into System Settings → Wallpaper — no intro, no end card, fades on the Stage color.

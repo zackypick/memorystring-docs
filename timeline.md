@@ -49,7 +49,7 @@ Move the awkward photo. Shorten what overstays. Leave the good ones alone.
 
 Drag clips on the photo lane. Drag from the **Library** into a **gap** to insert or move; drop on a **single** or **group seat** to **Replace**. Music clips reorder on the music lane.
 
-First click on a group selects the whole window; second click on a thumb drills into that seat. See [Organizing](organizing.md#in-group-photos-and-videos).
+First click on a group selects the whole window — drag then moves every seat as one cell, including dropping it **between two other groups**. Second click on a thumb drills into that seat; drag that seat alone into a gap to pull it out. After a seat change the strip may show **Preparing preview…** while the group rebuilds. See [Organizing](organizing.md#in-group-photos-and-videos).
 
 Select a clip, then drag **edge grips** on either end:
 
@@ -59,16 +59,17 @@ Select a clip, then drag **edge grips** on either end:
 
 Right-click a photo or video on the **photo lane**:
 
-![Timeline clip menu: Slide Transition, rotate, duration, Set Caption, Remove](../.gitbook/assets/timeline-context-menu.png)
+![Grouped seat menu: Entire group sits under Group Transition](../.gitbook/assets/library-context-ungroup.png)
 
-- **Slide Transition** — pick a cut, or **Random** (groups: **Change Transition** / **Ungroup** / **Group Transition** when several clips are selected)
+- **Slide Transition** — pick a cut, or **Random** (groups: **Group Transition** / **Ungroup**)
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**
 - **Set Duration…** (**⌘D**). Timeline videos nest duration + **Set Start Here** / **Set End Here** under **Timing**
 - **Set Caption** — focuses the Inspector clip-bar field
 - **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
 - **Move to Outtakes**
-- **Reveal in Finder**
 - **Remove from Project** (**⌘⌫**)
+
+On a **grouped seat** the same menu is for **that photo**. A header names it (**Photo 2 of 4 · Photo Stack**). **Entire group ▸** holds rotate / lens / **Set Duration…** / **Move N photos to Outtakes** / **Remove N** for the whole window. **Ungroup** sits next to it. Reveal in Finder and Relink are hidden for now.
 - Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
