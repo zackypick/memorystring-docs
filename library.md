@@ -62,6 +62,8 @@ Categories:
 
 ![People — named faces, A–Z](../.gitbook/assets/photos-import-people.png)
 
+![Date filter open — From / To, Apply, Clear](../.gitbook/assets/photos-import-dates.png)
+
 ![By Month — years and months](../.gitbook/assets/photos-import-by-month.png)
 
 ![Trips & Events — Photos events, or empty if none](../.gitbook/assets/photos-import-trips.png)
