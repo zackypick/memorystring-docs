@@ -54,7 +54,15 @@ Categories:
 - **Trips & Events** — Photos events
 - **Media Type** — Videos, Panoramas, Screenshots, Live Photos, Bursts
 
-Recent has **Select All** / **Deselect**. Most lists can take a **From** / **To** date filter (**Any dates**, **Apply**, **Clear**). Footer **Import** / **Cancel**. First time: **Access Your Photos**, then **Allow Access**. If access is denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
+Recent has **Select All** / **Deselect**. Most lists can take a **From** / **To** date filter (**Any dates**, **Apply**, **Clear**). Footer **Import** / **Cancel**.
+
+First time, macOS asks twice. Allow both — MemoryString stays on your Mac and only reads the library you pick.
+
+![Photo Library — Allow Access to All Photos](../.gitbook/assets/photos-permission-library.png)
+
+![Photos automation — Allow so album counts and covers can load](../.gitbook/assets/photos-permission-automation.png)
+
+If you already denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
 
 Those stills and videos are **copied** into Application Support **Imports** — Photos does not allow stable links into its database. A Finder folder drop stays linked instead. Keep Best may ask after the fog lifts; extras go to Outtakes.
 
