@@ -20,6 +20,8 @@ Fill the **Library** on the left — the cast of the movie. Folder and Finder im
 2. Or **File → Import from Photos…** (also on **+**) — **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**
 
 ![Toolbar + : Photos & Videos, Import from Photos, Music, Royalty-Free Library](../.gitbook/assets/toolbar-plus-menu.png)
+
+![Import from Photos sheet](../.gitbook/assets/photos-import-hub.png)
 3. Or drop folders, photos, or videos onto the window (or a Photos.app drag).
 4. Or drop a folder / paste (**⌘V**).
 

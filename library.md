@@ -45,6 +45,8 @@ Stay in MemoryString. **File → Import from Photos…** (same item on toolbar *
 
 ![File menu: Import from Photos…](../.gitbook/assets/file-menu-import-photos.png)
 
+![Import from Photos — Recent, Albums, People, By Month, Trips & Events, Media Type](../.gitbook/assets/photos-import-hub.png)
+
 Categories:
 
 - **Recent** — Last 7 Days / Last 30 Days / Last Year
@@ -53,6 +55,18 @@ Categories:
 - **By Month** — years and months
 - **Trips & Events** — Photos events
 - **Media Type** — Videos, Panoramas, Screenshots, Live Photos, Bursts
+
+![Recent — Last 30 Days, Select All / Deselect, ready to import](../.gitbook/assets/photos-import-recent.png)
+
+![Albums — pick one or more, then Import](../.gitbook/assets/photos-import-albums.png)
+
+![People — named faces, A–Z](../.gitbook/assets/photos-import-people.png)
+
+![By Month — years and months](../.gitbook/assets/photos-import-by-month.png)
+
+![Trips & Events — Photos events, or empty if none](../.gitbook/assets/photos-import-trips.png)
+
+![Media Type — Videos, Panoramas, Screenshots, Live Photos, Bursts](../.gitbook/assets/photos-import-media-type.png)
 
 Recent has **Select All** / **Deselect**. Most lists can take a **From** / **To** date filter (**Any dates**, **Apply**, **Clear**). Footer **Import** / **Cancel**. First time: **Access Your Photos**, then **Allow Access**. If access is denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
 
