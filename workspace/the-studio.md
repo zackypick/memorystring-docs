@@ -8,16 +8,18 @@ Most apps treat the workspace like a factory floor. We treated it like a place y
 
 ## The panes
 
-The Studio is built around four panes: Library, Preview, Inspector, and Timeline.
+The Studio is built around Library, Outtakes, Preview, Inspector, Timeline, and Audioline.
 
 ![The Studio: Library, Outtakes, Preview, Inspector, Timeline, Audioline](../.gitbook/assets/the-window-panes.jpg)
 
 | Pane | Where | What it is |
 | --- | --- | --- |
-| **Library** | Left | **Takes** (the show) on top, **Outtakes** in the bottom half. Empty: **Nothing in library yet**. |
+| **Library** | Left | **Takes** — the show grid. Empty: **Nothing in library yet**. |
+| **Outtakes** | Left, under Takes | Parked photos — in the project, off the show. Empty: **Nothing discarded.** |
 | **Preview** | Center | The movie, plus Play / scrub. Empty: **Add photos & videos** plus *Drop photos and videos to start a memory*. Opening a project fogs **The story continues…**. |
 | **Inspector** | Right | Style, Intro, Motion, Audio, Format |
-| **Timeline** | Bottom | Photo lane + music lane. Empty: **Nothing on the timeline yet**. |
+| **Timeline** | Bottom | Photo lane — slides and groups. Empty: **Nothing on the timeline yet**. |
+| **Audioline** | Under the Timeline | Soundtrack clips and their waveforms (the music lane). |
 
 ## Toolbar
 
@@ -44,6 +46,16 @@ Photos and videos for this show. The column splits into **Takes** (the show grid
 
 More: [Library](../library.md).
 
+## Outtakes
+
+Parked photos — in the project, not on the show. Keep Best extras land here, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy).
+
+![Library — Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
+
+Click an outtake to select it; the playhead stays on the current movie slide. Drag up into Takes or the filmstrip to put it back on the show. Empty: **Nothing discarded.**
+
+More: [Library → Outtakes](../library.md#outtakes).
+
 ## Preview
 
 The stage is the movie. Under it, the transport — Play, `current / total`, slide **N of M**, and the scrub bar.
@@ -68,7 +80,7 @@ More: [Essential and Studio](essential-studio.md).
 
 ## Timeline
 
-Photo lane on top, music underneath. Drag the **thin seam above the Timeline** up or down to grow or shrink the filmstrip (up to about **160** points extra). That height is remembered. The zoom slider (minus / plus magnifying glass) scales the strip **live**.
+Photo lane — slides, intro, and group cells. The **Audioline** sits underneath. Drag the **thin seam above the Timeline** up or down to grow or shrink the filmstrip (up to about **160** points extra). That height is remembered. The zoom slider (minus / plus magnifying glass) scales the strip **live**.
 
 ![Timeline — photo lane, music, zoom](../.gitbook/assets/window-timeline.gif)
 
@@ -77,6 +89,16 @@ Photo lane on top, music underneath. Drag the **thin seam above the Timeline** u
 **⌘+** / **⌘-** still scale Timeline strip height (and Library cards) with UI text size; the drag adds extra height on top of that base.
 
 More: [Timeline](../timeline.md).
+
+## Audioline
+
+The **Audioline** is the music lane under the photo strip — soundtrack clips and their waveforms. Soundtrack lives here and on Inspector → **Audio**, not in the Library.
+
+![Timeline — photo lane above, Audioline (music) below](../.gitbook/assets/window-timeline.gif)
+
+Drag clips to line them up. Trim with edge grips. Waveform **narrows at the fade edges**.
+
+More: [Music](../music.md#arrange-on-the-timeline).
 
 ## Text size
 
