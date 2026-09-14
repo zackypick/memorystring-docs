@@ -12,7 +12,9 @@ Drag the **vertical divider** on the right and it **snaps to whole columns** of 
 
 Dump a folder, paste a screenshot, pull from Photos.app, or use the menus.
 
-MemoryString **does not copy** your photos and videos into the show. It keeps **links to the original files** on disk, so the camera roll stays where it is. If you later move or delete an original, that clip looks broken until you point MemoryString at the file again. The exception: a screenshot or other paste with no file behind it — then MemoryString stores its own copy.
+Folder and Finder imports stay **linked** — MemoryString does not copy those files. If you later move or delete an original, that clip looks broken until you point MemoryString at the file again.
+
+**Photos.app** is different. There is no way to create stable links into the Photos library, so MemoryString **copies** that media into Application Support **Imports**. A screenshot or other paste with no file behind it is also stored as a copy.
 
 - Toolbar or Library **+** → **Photos & Videos…**, or **File → Import Media…**
 - **File → Import from Photos…** (also on toolbar **+**, the empty-stage Add pill, and Library **+**) — see [Import from Photos](#import-from-photos)
@@ -72,7 +74,9 @@ The **first** import into a new show (intro still **Memories**) can name it and 
 
 The left column splits into **Takes** (the show) and **Outtakes**, with a hairline seam between them. Drag the seam up to enlarge Outtakes (Takes shrinks), or down for the opposite.
 
-When the bin has at least one item, the **Outtakes** header shows a count (for example **Outtakes, 3**). Outtakes holds shots that are in the project but not on the show — Keep Best extras, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy). Empty body: **Nothing discarded.**
+![Outtakes bin with three photos](../.gitbook/assets/library-outtakes.png)
+
+When the bin has at least one item, the **Outtakes** header shows a count (for example **Outtakes, 3**). Outtakes holds shots that are in the project but not on the show — Keep Best extras, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy). On a group, top-level **Move to Outtakes** sends **that seat** only; **Entire group ▸ Move N photos to Outtakes** sends every seat. Empty body: **Nothing discarded.**
 
 Click an outtake to select it (tile ring); the playhead and preview stay on the current movie slide. Drag an outtake up into Takes or the filmstrip to put it on the show; drop onto the intro tile to use it as the intro background (it stays in Outtakes). Right-click → **Move to Takes**, or **Remove from Project** to delete it for real. Calendar sort also sorts Outtakes; Shuffle is show-only.
 
@@ -126,9 +130,7 @@ Whole groups move together until you drill into a seat. Full story: [Organizing]
 
 On a **photo or video** in the Library (not empty space):
 
-![Library: Group Transition and Ungroup on a grouped clip](../.gitbook/assets/library-context-ungroup.png)
-
-![Library: Group Transition when several clips are selected](../.gitbook/assets/library-context-group.png)
+![Grouped seat menu: Photo 1 of 5 · Ribbon, Entire group, Ungroup](../.gitbook/assets/library-context-ungroup.png)
 
 - **Slide Transition** — pick a single-slide cut, or **Random**
 - **Group Transition** — join **two or more** selected singles, or change the look of an existing group (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
@@ -142,10 +144,19 @@ On a **photo or video** in the Library (not empty space):
 - **Set Caption** — focuses the Inspector clip-bar field
 - **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
 - **Move to Outtakes** (on a Take) or **Move to Takes** (on an Outtake)
-- **Reveal in Finder**
 - **Remove from Project** (**⌘⌫**)
 
-The Timeline photo-lane menu is the same idea — see [Timeline](timeline.md#reorder-and-trim).
+On a **grouped seat**, the menu is for **that photo** first. A disabled header names it (**Photo 2 of 4 · Photo Stack**). **Lens Effect**, **Rotate & Flip**, **Set Caption**, **Move to Outtakes**, and **Remove from Project** hit that seat only. **Set Duration…** is not on the seat — it lives under **Entire group**.
+
+Then a group block:
+
+- **Group Transition** — change the look of this window
+- **Entire group ▸** — **Rotate & Flip** every seat, **Lens Effect** on every seat, **Set Duration…** for the window, **Move N photos to Outtakes**, **Remove N photos from Project**
+- **Ungroup**
+
+Reveal in Finder and Relink are hidden for now.
+
+The Timeline photo-lane menu is the same shape — see [Timeline](timeline.md#reorder-and-trim).
 
 On the **intro**: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, [Reset Center of Interest](preview.md#center-of-interest).
 

@@ -14,7 +14,7 @@ Blank stage or an old `.memorystring` — either way you’re editing a real pro
 
 ## 2. Import media
 
-Fill the **Library** on the left — the cast of the movie. MemoryString **links to the original files**; it does not copy your camera roll into the show (a screenshot or other paste with no file behind it is the exception).
+Fill the **Library** on the left — the cast of the movie. Folder and Finder imports stay **linked**. Media from **Photos.app** is **copied** into Application Support **Imports** (Photos does not allow stable links). A screenshot or other paste with no file behind it is also stored as a copy.
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
 2. Or **File → Import from Photos…** (also on **+**) — **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**
@@ -50,7 +50,7 @@ Full detail — including Shuffle Transitions, replacing a seat, and reordering 
 
 Soundtrack lives in Inspector → **Audio**, not the Library.
 
-After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks from that Look’s mood pool. **Pick New Music**, **Extend to Fill**, and **Surprise me** sit under the playlist. **Fit Show to Music** (Motion, the music-lane menu, or **Edit**) makes the slideshow the same length as the song. Toolbar **+** → **Music…** or **Royalty-Free Library…**. See [Music](../music.md#fit-show-to-music).
+After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks from that Look’s mood pool. **Pick New Music**, **Extend to Fill**, and **Surprise me** sit under the playlist. Toolbar **+** → **Music…** or **Royalty-Free Library…**. See [Music](../music.md).
 
 ## 6. Polish (optional)
 
@@ -58,7 +58,7 @@ Inspector (**⌥⌘I**) when you want more than the defaults:
 
 - **Style** — Look, Energy, Stage, Photo Size, Captions, Customize (Studio)
 - **Intro** — opening card
-- **Motion** — Studio only: Transitions Mix, multi-photo groups, **Fit Show to Music**
+- **Motion** — Studio only: Transitions Mix, multi-photo groups
 - **Audio** — playlist, **Pick New Music** / **Extend to Fill** / **Surprise me**
 - **Format** — aspect / Social Safe (Instagram first among Social swatches)
 

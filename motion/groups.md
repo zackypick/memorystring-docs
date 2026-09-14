@@ -12,11 +12,9 @@ With two or more kinds on, one planner lays out every window: kinds take turns (
 
 Rearrange slides by hand and windows **pin** to those photos — the planner steps aside until you sort, shuffle, reset, or change cadence / count.
 
-Right-click two or more selected clips or an existing group → **Group Transition**; **Ungroup** on an existing group. See [Library](../library.md#right-click-a-slide).
+Right-click a grouped photo for **that seat**. **Entire group ▸** (under **Group Transition**, next to **Ungroup**) rotates, lenses, sets duration, or moves / removes every seat. Right-click two or more selected singles → **Group Transition**. See [Library](../library.md#right-click-a-slide).
 
-![Library: Group Transition and Ungroup on a grouped clip](../.gitbook/assets/library-context-ungroup.png)
-
-![Library: Group Transition when several clips are selected](../.gitbook/assets/library-context-group.png)
+![Grouped seat menu: Photo 1 of 5 · Ribbon, Entire group, Ungroup](../.gitbook/assets/library-context-ungroup.png)
 
 Videos that fit a window play through it; shorter clips hold the first frame until that seat’s hero approach, then play. Unmuted clip audio is audible only while that card is the hero.
 
@@ -105,4 +103,8 @@ Look feel (Help): Polaroid tosses often into a tight pile; Vintage and B&W lay p
 
 ![Timeline photo lane: stack of 4 and filmstrip of 4 cells](../.gitbook/assets/timeline-full.png)
 
-Follower slides collapse onto the lead cell. Library badges: **stack 1/5**, **carousel 2/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**, **scatter 2/5**. A caption speech-bubble sits on the **captioned seat** only — not on siblings or the collapsed plate. On stage the group still shows the lead caption. Mix checkboxes and group knobs undo with **⌘Z**.
+Follower slides collapse onto the lead cell. Library badges: **stack 1/5**, **carousel 2/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**, **scatter 2/5**. A caption speech-bubble sits on the **captioned seat** only — not on siblings or the collapsed plate. On stage the group still shows the lead caption.
+
+**This photo** Lens (top of the seat menu) pins that seat. **Entire group ▸ Lens** copies the effect onto every seat; mixed seats show mixed, not a fake full check. **Anamorphic Streaks** and **Bokeh** never auto-land on group seats (new show, Look, Shuffle, Randomize) — you can still pin them by hand.
+
+After you add, rearrange, extract, or send a seat to Outtakes, the filmstrip may show **Preparing preview…** while MemoryString rebuilds that group’s scrub. Mix checkboxes and group knobs undo with **⌘Z**.

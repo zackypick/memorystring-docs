@@ -49,7 +49,7 @@ Move the awkward photo. Shorten what overstays. Leave the good ones alone.
 
 Drag clips on the photo lane. Drag from the **Library** into a **gap** to insert or move; drop on a **single** or **group seat** to **Replace**. Music clips reorder on the music lane.
 
-First click on a group selects the whole window; second click on a thumb drills into that seat. See [Organizing](organizing.md#in-group-photos-and-videos).
+First click on a group selects the whole window — drag then moves every seat as one cell, including dropping it **between two other groups**. Second click on a thumb drills into that seat; drag that seat alone into a gap to pull it out. After a seat change the strip may show **Preparing preview…** while the group rebuilds. See [Organizing](organizing.md#in-group-photos-and-videos).
 
 Select a clip, then drag **edge grips** on either end:
 
@@ -59,7 +59,7 @@ Select a clip, then drag **edge grips** on either end:
 
 Right-click a photo or video on the **photo lane**:
 
-![Timeline clip menu: Slide Transition, rotate, duration, Set Caption, Remove](../.gitbook/assets/timeline-context-menu.png)
+![Grouped seat menu: Entire group sits under Group Transition](../.gitbook/assets/library-context-ungroup.png)
 
 - **Slide Transition** — pick a cut, or **Random** (groups: **Group Transition** / **Ungroup**)
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**
@@ -67,8 +67,9 @@ Right-click a photo or video on the **photo lane**:
 - **Set Caption** — focuses the Inspector clip-bar field
 - **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
 - **Move to Outtakes**
-- **Reveal in Finder**
 - **Remove from Project** (**⌘⌫**)
+
+On a **grouped seat** the same menu is for **that photo**. A header names it (**Photo 2 of 4 · Photo Stack**). **Entire group ▸** holds rotate / lens / **Set Duration…** / **Move N photos to Outtakes** / **Remove N** for the whole window. **Ungroup** sits next to it. Reveal in Finder and Relink are hidden for now.
 - Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
@@ -80,7 +81,7 @@ Right-click a video or music clip for trim:
 - **Set Start Here** / **Set End Here** — trim in/out at the playhead
 - Videos: **Reset Video Duration**. Music: **Reset Length**
 
-The Inspector clip footer offers the same playhead trims for a selected **video** or **soundtrack**. Videos use **Reset Video Duration**; music uses **Reset Length**. **⌘1** / **⌘2** = Set Start / Set End; **⌘D** opens **Set Duration…** (value selected to type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing. **Fit Show to Music** (Motion → Timeline, the music-lane menu, or **Edit**) matches the show to the soundtrack — [Music](music.md#fit-show-to-music).
+The Inspector clip footer offers the same playhead trims for a selected **video** or **soundtrack**. Videos use **Reset Video Duration**; music uses **Reset Length**. **⌘1** / **⌘2** = Set Start / Set End; **⌘D** opens **Set Duration…** (value selected to type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing.
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 
@@ -103,9 +104,8 @@ Inspector → **Motion** → **Timeline**:
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](../.gitbook/assets/library-menu-options.png)
 
 - **Reset Slide Durations**
-- **Fit Show to Music** — still holds change so the movie matches the soundtrack; videos keep their own length. Same command on **Edit** and the music-lane context menu. See [Music](music.md#fit-show-to-music)
 
-The intro stays first. **⌘Z** undoes sort / shuffle / Fit Show to Music.
+The intro stays first. **⌘Z** undoes sort / shuffle.
 
 ## End card
 

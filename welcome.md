@@ -15,7 +15,7 @@ Drop a folder. Pick a Look. Hit Export. The anniversary reel can be on the famil
 
 **Keep Best Shots** keeps the open-eyed frame. **Auto Trim** tries for the laugh — trim by hand if it misses. Motion aims at faces. Captions use place and date. Music matches the Look, or use yours.
 
-Your photos stay where they are — MemoryString **links to the original files** instead of copying them. Everything stays on your Mac. Nobody is training a model on your kids' birthdays. No account, no subscription, free.
+Finder and folder imports stay **linked** to the original files. Photos.app media is **copied** into Application Support (Photos does not allow stable links). Everything stays on your Mac. Nobody is training a model on your kids' birthdays. No account, no subscription, free.
 
 Weighing FotoMagico or iMovie? [MemoryString vs FotoMagico vs iMovie](getting-started/memorystring-vs-fotomagico-vs-imovie.md).
 
