@@ -59,7 +59,7 @@ Select a clip, then drag **edge grips** on either end:
 
 Right-click a photo or video on the **photo lane**:
 
-![Grouped seat menu: Entire group sits under Group Transition](../.gitbook/assets/library-context-ungroup.png)
+![Timeline grouped-seat menu: Photo 4 of 5 · Carousel, Entire group collapsed](../.gitbook/assets/timeline-grouped-seat-menu.png)
 
 - **Slide Transition** — pick a cut, or **Random** (groups: **Group Transition** / **Ungroup**)
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**

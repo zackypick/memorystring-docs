@@ -87,6 +87,8 @@ Dragging a clip’s **edge grip** also plays that cut in the source song, so you
 
 When the needle is on the bar or lyric you want:
 
+![Audioline clip menu: Set Start Here, Set End Here, Reset Length](../.gitbook/assets/audioline-set-start-end-menu.png)
+
 - Right-click the clip → **Set Start Here** / **Set End Here**
 - Inspector clip footer → **Set Start** / **Set End** (soundtrack selected)
 - **⌘1** / **⌘2**

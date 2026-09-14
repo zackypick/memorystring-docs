@@ -108,6 +108,8 @@ When the bin has at least one item, the **Outtakes** header shows a count (for e
 
 Click an outtake to select it (tile ring); the playhead and preview stay on the current movie slide. Drag an outtake up into Takes or the filmstrip to put it on the show; drop onto the intro tile to use it as the intro background (it stays in Outtakes). Right-click → **Move to Takes**, or **Remove from Project** to delete it for real. Calendar sort also sorts Outtakes; Shuffle is show-only.
 
+![Outtake menu: Move to Takes, Remove from Project](../.gitbook/assets/library-outtakes-menu.png)
+
 ## Sort (calendar)
 
 Cake after the drive — or shuffle and see:
@@ -162,6 +164,8 @@ On a **photo or video** in the Library (not empty space):
 
 - **Slide Transition** — pick a single-slide cut, or **Random**
 - **Group Transition** — join **two or more** selected singles, or change the look of an existing group (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
+
+![Group Transition: pick Carousel, Filmstrip, Photo stack, Ribbon…](../.gitbook/assets/library-group-transition-menu.png)
 - **Ungroup** — when the clip is in a group
 - **Lens Effect** — Studio only; pin pooled effects on that slide or group
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md#rotate-while-paused) (right-click)
@@ -180,6 +184,9 @@ Then a group block:
 
 - **Group Transition** — change the look of this window
 - **Entire group ▸** — **Rotate & Flip** every seat, **Lens Effect** on every seat, **Set Duration…** for the window, **Move N photos to Outtakes**, **Remove N photos from Project**
+
+![Entire group ▸: Rotate & Flip, Set Duration…, Move N to Outtakes, Remove N](../.gitbook/assets/library-entire-group-menu.png)
+
 - **Ungroup**
 
 Reveal in Finder and Relink are hidden for now.
