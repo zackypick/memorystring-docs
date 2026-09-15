@@ -1,5 +1,5 @@
 ---
-description: "Turn a folder of photos into a cinematic MP4 on your Mac. MemoryString is free and on-device, with Keep Best Shots and Auto Trim. No account, no subscription."
+description: "MemoryString creates beautiful shows from your photos — easily and quickly. Free on your Mac."
 layout:
   title:
     visible: false
@@ -9,31 +9,17 @@ layout:
 
 # MemoryString
 
-MemoryString turns a folder of photos and videos into a cinematic movie on your Mac. Minutes, not an evening in iMovie.
+MemoryString creates beautiful shows from your photos — easily and quickly.
 
 Drop a folder. Pick a Look. Hit Export. The anniversary reel can be on the family group chat before the cake is cut.
 
-**Keep Best Shots** keeps the open-eyed frame. **Auto Trim** tries for the laugh — trim by hand if it misses. Motion aims at faces. Captions use place and date. Music matches the Look, or use yours.
-
-Finder and folder imports stay **linked** to the original files. Photos.app media is **copied** into Application Support (Photos does not allow stable links). Everything stays on your Mac. Nobody is training a model on your kids' birthdays. No account, no subscription, free.
-
-Weighing FotoMagico or iMovie? [MemoryString vs FotoMagico vs iMovie](getting-started/memorystring-vs-fotomagico-vs-imovie.md).
+That’s it. A film you’d actually send. Minutes, not an evening. Free, on your Mac.
 
 ## Get it
 
 Get it on the [**Mac App Store**](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12). Free, always the latest build. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
 Prefer to skip the Store? [Download MemoryString 0.9.23 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v0.9.23/MemoryString-0.9.23.dmg). Same app, without the sandbox.
-
-## What's in the box
-
-- **Keep Best Shots** — keep the sharp, open-eyed shot; extras land in [Outtakes](library.md#outtakes)
-- **Auto Trim** — best-effort highlight window ([Auto detection](auto-detection.md#auto-trim))
-- **Looks** — one chip restyles the whole film
-- **Music** — bundled tracks matched to the Look, or yours
-- **Export** — H.264 MP4, Social or Classic, or a looping [Screensaver](export.md#screensaver)
-
-Photos.app import, groups, intro, and captions: [Library](library.md) and [Organizing](organizing.md).
 
 ## Watch a demo
 
@@ -49,4 +35,4 @@ Photos.app import, groups, intro, and captions: [Library](library.md) and [Organ
 
 Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved. Thanks — [Credits](credits.md).
 
-New here? [Quick start](getting-started/quick-start.md). In-app: **Help → MemoryString Help…** (**⌘/**). Full site: [memorystring.codebyz.com](https://memorystring.codebyz.com).
+New here? [Quick start](getting-started/quick-start.md). In-app: **Help → MemoryString Help…** (**⌘/**).
