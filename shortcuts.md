@@ -20,7 +20,7 @@ Traffic-light close closes the window only — reopen from the Dock.
 
 ## Edit
 
-Undo, paste, duration, rotate.
+Undo, clipboard, then the selected slide.
 
 | Key | Action |
 | --- | --- |
@@ -28,6 +28,7 @@ Undo, paste, duration, rotate.
 | **⌘V** / **⌘C** | Paste / copy media (plain text while a caption or title field is focused) |
 | **⌘⌫** | Delete selected media or music |
 | **⌘D** | Set Duration… |
+| **⇧⌘C** | Set Caption (one selected Library or Timeline card; off when more than one card is selected) |
 | **⌘1** / **⌘2** | Set Start Here / Set End Here (selected video or soundtrack, at the playhead — [audition the Audioline](music.md#audition-the-audioline) first for music) |
 | **⌘]** / **⌘[** | Rotate Clockwise / Rotate Counter Clockwise |
 | **⇧⌘]** / **⇧⌘[** | Flip Horizontal / Flip Vertical |
@@ -36,7 +37,7 @@ Undo, paste, duration, rotate.
 
 ## View
 
-Chrome and zoom.
+Window chrome, then Timeline zoom, then UI text size.
 
 | Key | Action |
 | --- | --- |
@@ -71,4 +72,4 @@ Docs and diagnostics.
 
 ## Tips
 
-Space and arrows pass through while you edit title text. **⌘V** / **⌘C** stay plain text while a caption or title field is focused. Undo/Redo cover most Inspector changes (Style, Motion, Intro, trims, shuffle). Prefer clicking? **Playback → Play** or **Pause** (the item toggles; Space is not bound on that menu item). **⌘D** applies to every selected slide. **⌘+** / **⌘-** / **⌘0** change UI text size — Library cards and Timeline strip height scale with the same factor; not slide captions.
+Space and arrows pass through while you edit title text. **⌘V** / **⌘C** stay plain text while a caption or title field is focused. Undo/Redo cover most Inspector changes (Style, Motion, Intro, trims, shuffle). Prefer clicking? **Playback → Play** or **Pause** (the item toggles; Space is not bound on that menu item). **⌘D** applies to every selected slide. **⇧⌘C** focuses the caption field for one selected card. **⌘+** / **⌘-** / **⌘0** change UI text size — Library cards and Timeline strip height scale with the same factor; not slide captions.

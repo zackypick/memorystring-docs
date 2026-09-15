@@ -100,7 +100,7 @@ Style for the look; Timeline or clip bar for the words.
 
 In the right-hand **Inspector**, open **Style** → **Captions** → **Type & Placement**. Set project-wide **Font**, color, **Auto Size** / **Size**, **Align**, **Motion**, **Default Placement**, and **Shade Behind Text**. Bulk fill / clear under the same **Captions** heading (**Auto Caption …**, **Clear All Captions…**).
 
-Select a media clip; type in the Inspector clip bar (**Add a caption…**). **Generate** writes one. **Aa** opens position / color / size (**Caption Style…** → Style → Captions). On **stage**, a group still shows the **lead** card’s caption. In Library and Timeline chrome, the speech-bubble badge sits on the **captioned seat** only — siblings and the collapsed group plate do not inherit it. Auto Caption / Set Caption on a seat writes that photo only.
+Select a media clip; type in the Inspector clip bar (**Add a caption…**), or **⇧⌘C** / right-click **Set Caption** to jump there (one card at a time). **Generate** writes one. **Aa** opens position / color / size (**Caption Style…** → Style → Captions). On **stage**, a group still shows the **lead** card’s caption. In Library and Timeline chrome, the speech-bubble badge sits on the **captioned seat** only — siblings and the collapsed group plate do not inherit it. Auto Caption / Set Caption on a seat writes that photo only.
 
 ![Timeline: typing a slide caption](../.gitbook/assets/caption-edit.png)
 

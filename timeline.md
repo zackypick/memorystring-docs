@@ -64,7 +64,7 @@ Right-click a photo or video on the **photo lane**:
 - **Slide Transition** — pick a cut, or **Random** (groups: **Group Transition** / **Ungroup**)
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**
 - **Set Duration…** (**⌘D**). Timeline videos nest duration + **Set Start Here** / **Set End Here** under **Timing**
-- **Set Caption** — focuses the Inspector clip-bar field
+- **Set Caption** (**⇧⌘C**) — focuses the Inspector clip-bar field
 - **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
 - **Move to Outtakes**
 - **Remove from Project** (**⌘⌫**)

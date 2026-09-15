@@ -173,7 +173,7 @@ On a **photo or video** in the Library (not empty space):
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 - Videos: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
-- **Set Caption** — focuses the Inspector clip-bar field
+- **Set Caption** (**⇧⌘C**) — focuses the Inspector clip-bar field
 - **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
 - **Move to Outtakes** (on a Take) or **Move to Takes** (on an Outtake)
 - **Remove from Project** (**⌘⌫**)
