@@ -37,6 +37,8 @@ Library **⋯**, Inspector → **Motion → Timeline**, or right-click empty Lib
 
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-menu-options.png)
 
+![Motion → Timeline: Sort by Date Taken, Shuffle Slides, Shuffle Transitions, Reset Slide Durations](../.gitbook/assets/inspector-motion-timeline.png)
+
 **Reset Slide Durations** (same ⋯ and Motion → Timeline) restores default still timing.
 
 Clicking a **Look** chip also re-deals transitions (and related Style). See [Looks](style/looks.md#the-eight-chips).
@@ -65,7 +67,7 @@ First click on a group selects the **whole window** (champagne outline in the Li
 
 Right-click a grouped photo for **that seat**. Whole-window actions live under **Entire group ▸**. Right-click two or more selected singles → **Group Transition**. **Ungroup** on an existing group. See [Library](library.md#right-click-a-slide).
 
-![Grouped seat menu: Entire group and Ungroup](.gitbook/assets/library-context-ungroup.png)
+![Entire group ▸: Rotate & Flip, Set Duration…, Move N to Outtakes, Remove N](../.gitbook/assets/library-entire-group-menu.png)
 
 ### In-group photos and videos
 

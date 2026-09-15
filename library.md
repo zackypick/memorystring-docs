@@ -70,9 +70,21 @@ Categories:
 
 ![Media Type — Videos, Panoramas, Screenshots, Live Photos, Bursts](../.gitbook/assets/photos-import-media-type.png)
 
-Recent has **Select All** / **Deselect**. Most lists can take a **From** / **To** date filter (**Any dates**, **Apply**, **Clear**). Footer **Import** / **Cancel**. First time: **Access Your Photos**, then **Allow Access**. If access is denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
+Recent has **Select All** / **Deselect**. Most lists can take a **From** / **To** date filter (**Any dates**, **Apply**, **Clear**). Footer **Import** / **Cancel**.
 
-Import uses the same ingest as a Finder drop — Keep Best may ask after the fog lifts; extras go to Outtakes.
+First time, macOS asks twice. Allow both — MemoryString stays on your Mac and only reads the library you pick.
+
+![Photo Library — Allow Access to All Photos](../.gitbook/assets/photos-permission-library.png)
+
+![Photos automation — Allow so album counts and covers can load](../.gitbook/assets/photos-permission-automation.png)
+
+macOS may also ask **Allow “MemoryString” to find devices on local networks?** The show does not browse your LAN. If that sheet appears, **Allow** is fine — MemoryString stays on your Mac.
+
+![Local Network — Allow if it appears](../.gitbook/assets/photos-permission-local-network.png)
+
+If you already denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
+
+Those stills and videos are **copied** into Application Support **Imports** — Photos does not allow stable links into its database. A Finder folder drop stays linked instead. Keep Best may ask after the fog lifts; extras go to Outtakes.
 
 Same ingest on every path: **Add / +**, Finder drop (files or a folder), **Photos.app** drag (stills often arrive one remux at a time), and paste. Keep Best, park, and skip count the **whole drop**, not one Photos hop.
 
@@ -95,6 +107,8 @@ The left column splits into **Takes** (the show) and **Outtakes**, with a hairli
 When the bin has at least one item, the **Outtakes** header shows a count (for example **Outtakes, 3**). Outtakes holds shots that are in the project but not on the show — Keep Best extras, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy). On a group, top-level **Move to Outtakes** sends **that seat** only; **Entire group ▸ Move N photos to Outtakes** sends every seat. Empty body: **Nothing discarded.**
 
 Click an outtake to select it (tile ring); the playhead and preview stay on the current movie slide. Drag an outtake up into Takes or the filmstrip to put it on the show; drop onto the intro tile to use it as the intro background (it stays in Outtakes). Right-click → **Move to Takes**, or **Remove from Project** to delete it for real. Calendar sort also sorts Outtakes; Shuffle is show-only.
+
+![Outtake menu: Move to Takes, Remove from Project](../.gitbook/assets/library-outtakes-menu.png)
 
 ## Sort (calendar)
 
@@ -150,6 +164,8 @@ On a **photo or video** in the Library (not empty space):
 
 - **Slide Transition** — pick a single-slide cut, or **Random**
 - **Group Transition** — join **two or more** selected singles, or change the look of an existing group (A–Z: Carousel, Filmstrip Horizontal, Filmstrip Vertical, Perspective pair, Photo stack, Ribbon, Scatter & Settle). Illegal counts show *max N* / *min N*
+
+![Group Transition: pick Carousel, Filmstrip, Photo stack, Ribbon…](../.gitbook/assets/library-group-transition-menu.png)
 - **Ungroup** — when the clip is in a group
 - **Lens Effect** — Studio only; pin pooled effects on that slide or group
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical** — 90° / mirrors, project-only, original files untouched. **⌘]** / **⌘[** / **⇧⌘]** / **⇧⌘[**. Same items on the paused [preview](preview.md#rotate-while-paused) (right-click)
@@ -157,7 +173,7 @@ On a **photo or video** in the Library (not empty space):
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 - Videos: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
-- **Set Caption** — focuses the Inspector clip-bar field
+- **Set Caption** (**⇧⌘C**) — focuses the Inspector clip-bar field
 - **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
 - **Move to Outtakes** (on a Take) or **Move to Takes** (on an Outtake)
 - **Remove from Project** (**⌘⌫**)
@@ -168,6 +184,9 @@ Then a group block:
 
 - **Group Transition** — change the look of this window
 - **Entire group ▸** — **Rotate & Flip** every seat, **Lens Effect** on every seat, **Set Duration…** for the window, **Move N photos to Outtakes**, **Remove N photos from Project**
+
+![Entire group ▸: Rotate & Flip, Set Duration…, Move N to Outtakes, Remove N](../.gitbook/assets/library-entire-group-menu.png)
+
 - **Ungroup**
 
 Reveal in Finder and Relink are hidden for now.
