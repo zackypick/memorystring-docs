@@ -1,5 +1,5 @@
 ---
-description: "Thanks — GitBook, John Deere, and Adam Angst (ridbits.com)."
+description: "Thanks — GitBook, John Deere, Adam Angst (ridbits.com), and Daniel Hertrich (hertrich.photo)."
 ---
 
 # Credits
@@ -16,6 +16,10 @@ These docs run on [GitBook](https://www.gitbook.com). GitBook gave MemoryString 
 - **Screensaver** — export a silent looping movie you drop into System Settings → Wallpaper
 
 Both live in the app today. [Library](library.md#import-from-photos) and [Format and export](export.md#screensaver).
+
+## Daniel Hertrich
+
+**Daniel Hertrich** ([hertrich.photo](https://www.hertrich.photo/fototraining)) gave valuable feedback that changed export behavior: MemoryString no longer opens the exported video in a player — it opens the exported file’s location in Finder instead.
 
 ## MemoryString
 
