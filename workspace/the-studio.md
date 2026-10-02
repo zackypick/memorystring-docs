@@ -16,7 +16,7 @@ The Studio is built around Library, Outtakes, Preview, Inspector, Timeline, and 
 | --- | --- | --- |
 | **Library** | Left | **Takes** — the show grid. Empty: **Nothing in library yet**. |
 | **Outtakes** | Left, under Takes | Parked photos — in the project, off the show. Empty: **Nothing discarded.** |
-| **Preview** | Center | The movie, plus Play / scrub. Empty: **Add photos & videos** plus *Drop photos and videos to start a memory*. Opening a project fogs **The story continues…**. |
+| **Preview** | Center | The movie, plus Play / scrub. Empty: **Add photos & videos** plus *Drop photos and videos to start a memory*. |
 | **Inspector** | Right | Style, Intro, Motion, Audio, Format |
 | **Timeline** | Bottom | Photo lane — slides and groups. Empty: **Nothing on the timeline yet**. |
 | **Audioline** | Under the Timeline | Soundtrack clips and their waveforms (the music lane). |
