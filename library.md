@@ -20,7 +20,7 @@ Folder and Finder imports stay **linked** — MemoryString does not copy those f
 - **File → Import from Photos…** (also on toolbar **+**, the empty-stage Add pill, and Library **+**) — see [Import from Photos](#import-from-photos)
 - Drop folders, photos, or videos onto the window
 - **Edit → Paste** (**⌘V**) — Finder files or folders, an image/video from Preview, Photos, Safari, Messages, or a screenshot (**⇧⌘4**). Clipboard images with no file are saved as a copy (Application Support **Imports**). Music files join the soundtrack. A `.memorystring` file **opens**.
-- Empty Library: quiet copy **Nothing in library yet** — the preview plate is the drop target (marching ants on that plate only). Hover pulse: **Let the story begin**; a `.memorystring` hover: **The plot thickens**
+- Empty Library: quiet copy **Nothing in library yet** — the preview plate is the drop target (marching ants on that plate only). Hover pulse: **Gather the thread**; a `.memorystring` hover: **Bring back memories**
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
@@ -32,7 +32,7 @@ Videos show a play badge and a duration stamp (clock + clip seconds). Multi-sele
 **Essential:** after import, if the Library was empty or already **Oldest First**, MemoryString auto-sorts new stills **Oldest First (Story Order)**. Studio does not. **⌘Z** undoes it.
 
 {% hint style="info" %}
-**Keep Best Shots** may ask after import when similar photo groups appear. The sheet asks **Keep the best shot only?** — **Keep Best** (default) or **Keep All**. *The other shots move to Outtakes. Undo with ⌘Z.* Videos are never Keep Best targets. The prompt waits until import fog has cleared. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
+**Keep Best Shots** may ask after import when similar photo groups appear. The sheet asks **Keep the best shot only?** — **Keep Best** (default) or **Keep All**. *The other shots move to Outtakes. Undo with ⌘Z.* Videos are never Keep Best targets. The prompt waits until the import loader has cleared. Videos are not auto-trimmed on import — use **Auto Trim** from the context menu or Library **⋯**. Full story: [Auto detection](auto-detection.md#keep-best-shots).
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
@@ -84,11 +84,11 @@ macOS may also ask **Allow “MemoryString” to find devices on local networks?
 
 If you already denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
 
-Those stills and videos are **copied** into Application Support **Imports** — Photos does not allow stable links into its database. A Finder folder drop stays linked instead. Keep Best may ask after the fog lifts; extras go to Outtakes.
+Those stills and videos are **copied** into Application Support **Imports** — Photos does not allow stable links into its database. A Finder folder drop stays linked instead. Keep Best may ask after the import loader lifts; extras go to Outtakes.
 
 Same ingest on every path: **Add / +**, Finder drop (files or a folder), **Photos.app** drag (stills often arrive one remux at a time), and paste. Keep Best, park, and skip count the **whole drop**, not one Photos hop.
 
-While **The story begins…** (first import — percent, then **Cancel** if it is still going) or **The story continues…** (opening a `.memorystring` — no percent) is on the stage, Finder / Photos / project-file **drops are ignored**. Toolbar **+** and File menus still work.
+While the stage loader is up — **Stringing it together...** on first import (percent, then **Cancel** if it is still going) or **It's coming back now...** when opening a `.memorystring` (no percent) — Finder / Photos / project-file **drops are ignored**. Toolbar **+** and File menus still work. The loader is a spinner with a smoke/fog animation behind the title.
 
 ## Cover and show name
 

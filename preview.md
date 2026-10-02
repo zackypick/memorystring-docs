@@ -21,11 +21,11 @@ The clock is `current / total`. Beside it, **1 of N** counts every photo card (i
 
 Soft color from the edges of the slide at the playhead spills into the workbench chrome — title bar, Timeline header and bed, Inspector seam. It crossfades as slides change and tracks scrubbing; multi-photo groups follow the stage background. Display only — never on the photo plate, never in export.
 
-## Empty stage and opening fog
+## Empty stage and opening loader
 
-A blank Untitled project is quiet: Library **Nothing in library yet**, Timeline **Nothing on the timeline yet**, preview **Add photos & videos** plus *Drop photos and videos to start a memory*. Hover a media drop and the plate pulse reads **Let the story begin** (ants on the preview plate only). Hover a `.memorystring` and it reads **The plot thickens**.
+A blank Untitled project is quiet: Library **Nothing in library yet**, Timeline **Nothing on the timeline yet**, preview **Add photos & videos** plus *Drop photos and videos to start a memory*. Hover a media drop and the plate pulse reads **Gather the thread** (ants on the preview plate only). Hover a `.memorystring` and it reads **Bring back memories**.
 
-First import fogs **The story begins…** with a percent — **Cancel** appears under it after a couple of seconds if the import is still going. Opening an existing `.memorystring` uses the same brew with **The story continues…** and no percent. Copy sits centered on the **visible preview stage**, not under the title bar. Drops are ignored until that fog lifts. **Keep Best Shots** waits until after the fog. Once the show has clips, a media drop overlay reads **Add to story**.
+First import shows a **loader** on the stage — spinner with a smoke/fog animation — titled **Stringing it together...**, with a percent. **Cancel** appears under it after a couple of seconds if the import is still going. Opening an existing `.memorystring` uses the same loader with **It's coming back now...** and no percent. Copy sits centered on the **visible preview stage**, not under the title bar. Drops are ignored until that loader lifts. **Keep Best Shots** waits until after it clears. Once the show has clips, a media drop overlay reads **Add to story**.
 
 ## Live, baked, and export
 

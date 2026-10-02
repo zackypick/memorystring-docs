@@ -14,7 +14,7 @@ Your library, finally inside the app. Albums, People, trips, media types, smart 
 
 ### **Outtakes**
 
-The photos the app chose not to use, one tap away from the show. Keep Best may ask after import fog lifts — extras land here, not in the movie. Pull any of them back when you disagree with the cut. This is the app's taste, made visible.
+The photos the app chose not to use, one tap away from the show. Keep Best may ask after the import loader lifts — extras land here, not in the movie. Pull any of them back when you disagree with the cut. This is the app's taste, made visible.
 
 ### **Auto Trim**
 
