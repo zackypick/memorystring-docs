@@ -21,7 +21,7 @@ Weighing FotoMagico or iMovie? [MemoryString vs FotoMagico vs iMovie](getting-st
 
 ## Get it
 
-[**Mac App Store**](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) or [**download MemoryString 0.9.23 for Mac**](https://github.com/zackypick/memorystring-downloads/releases/download/v0.9.23/MemoryString-0.9.23.dmg) — free, always the latest build. macOS 14 (Sonoma) or later, Apple Silicon and Intel. The App Store build is sandboxed; the direct download is the same app without that sandbox.
+[**Mac App Store**](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) or [**download MemoryString 0.9.24 for Mac**](https://github.com/zackypick/memorystring-downloads/releases/download/v0.9.24/MemoryString-0.9.24.dmg) — free, always the latest build. macOS 14 (Sonoma) or later, Apple Silicon and Intel. The App Store build is sandboxed; the direct download is the same app without that sandbox.
 
 ## What's in the box
 
