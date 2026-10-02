@@ -39,3 +39,4 @@
 * [MCP Server](mcp.md)
 * [Credits](credits.md)
 * [In-app Help](help.md)
+* [Support me](support-me.md)
