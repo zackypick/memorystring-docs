@@ -1,5 +1,5 @@
 ---
-description: "Thanks — GitBook, John Deere, Adam Angst (ridbits.com), and Daniel Hertrich (hertrich.photo)."
+description: "Thanks — GitBook, John Deere, Adam Angst (ridbits.com), Daniel Hertrich (hertrich.photo), and Gil Levy."
 ---
 
 # Credits
@@ -20,6 +20,10 @@ Both live in the app today. [Library](library.md#import-from-photos) and [Format
 ## Daniel Hertrich
 
 **Daniel Hertrich** ([hertrich.photo](https://www.hertrich.photo/fototraining)) gave valuable feedback that changed export behavior: MemoryString no longer opens the exported video in a player — it opens the exported file’s location in Finder instead.
+
+## Gil Levy
+
+**Gil Levy** suggested MemoryString should not automatically reopen the last slideshow on launch. That reopen could loop when a show was crashing the app. The app now starts empty instead of restoring the last show.
 
 ## MemoryString
 
