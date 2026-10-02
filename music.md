@@ -1,6 +1,6 @@
 # Music
 
-Pictures move people; music finishes the job. Soundtrack: Inspector → **Audio** and the Timeline music lane — not the Library.
+Pictures move people; music finishes the job. Soundtrack: Inspector → **Audio** and the **Audioline** (the music lane under the Timeline) — not the Library.
 
 ![Audio tab: Match Look Soundtrack, Royalty-Free Library, Add Music, Pick New / Extend / Surprise](../.gitbook/assets/inspector-audio-music.png)
 
@@ -59,22 +59,55 @@ Under the playlist, after **Royalty-Free Library…** / **Add Music…**:
 - **Extend to Fill** — keeps your tracks and appends free music after them so the bed covers the show.
 - **Surprise me** — random pick from the **whole** royalty-free catalog, not the current Look’s pool. The app **remembers that pick immediately**, so a second tap does not land on the same bed while the first is still loading. After Surprise, Look clicks do not overwrite it.
 
-## Audition
+## Audition the Audioline
 
-Listen without moving the show — shop while the slideshow stays paused.
+The job: **hear the song at the playhead so you can trim start and end**. Shop a catalog track with the royalty-free play button or the Audio tab’s local play/pause (those do **not** move the movie). Use the Audioline when you need a *place in the song* for **Set Start Here** / **Set End Here**.
 
-- **Royalty-free sheet** — play on a row (does **not** move the show playhead). The slideshow bed stays paused while you preview
-- **Audio tab** — local play/pause + position on each playlist row (gold fill is already heard; does **not** move the show playhead)
-- **Timeline** — select a soundtrack clip on the music lane, then **scrub** the playhead (or nudge **←** / **→**). You hear that track at the playhead; the mixed bed and video buses stay silent while you scrub. Audition stops shortly after the head sits still. Clicking without dragging does not start it
-- **Trim grips** on a music clip audition the cut edge in the source song
+{% stepper %}
+{% step %}
+## Select the track
+
+Click a soundtrack clip on the **Audioline** (the waveform lane under the photos). It highlights. You must have a clip selected — otherwise scrub is silent.
+
+When the playhead crosses from one song to the next, the highlight and the sound switch to the clip **under the needle** at that join. You hear the new song, not leftover fade from the previous one.
+{% endstep %}
+
+{% step %}
+## Scrub until you hear the moment
+
+Drag the playhead (or hold **←** / **→**). You hear **that selected song** at the needle. Pictures stay paused; the mixed bed and video sound stay quiet while you scrub. Audition stops when the head sits still. A click without dragging does not play.
+
+Hovering along the Audioline after a track is selected does the same — you hear the song under the pointer.
+
+Dragging a clip’s **edge grip** also plays that cut in the source song, so you can hear the in or out while you trim by hand.
+{% endstep %}
+
+{% step %}
+## Mark start or end
+
+When the needle is on the bar or lyric you want:
+
+![Audioline clip menu: Set Start Here, Set End Here, Reset Length](../.gitbook/assets/audioline-set-start-end-menu.png)
+
+- Right-click the clip → **Set Start Here** / **Set End Here**
+- Inspector clip footer → **Set Start** / **Set End** (soundtrack selected)
+- **⌘1** / **⌘2**
+
+**Reset Length** returns to the auto-skipped quiet edges (or the full file if none were found). Undo with **⌘Z**.
+{% endstep %}
+{% endstepper %}
+
+{% hint style="info" %}
+Royalty-free sheet play, and play/pause on an Audio tab playlist row, preview the file **without** moving the show playhead (gold fill is already heard). Use those to pick a track. Use Audioline scrub to pick a **trim**.
+{% endhint %}
 
 ## Arrange on the Timeline
 
-Line up tracks on the **music lane** (drag clips). Audio tab also has up / down arrows per row.
+Line up tracks on the **Audioline** (drag clips). Audio tab also has up / down arrows per row.
 
-On import, MemoryString **auto-skips silent lead-in and run-out**. Trim with edge grips or **Set Start Here** / **Set End Here** / **Reset Length** (returns to that auto window, or the full file if no quiet edges).
+On import, MemoryString **auto-skips silent lead-in and run-out**. To cut by ear, [audition on the Audioline](#audition-the-audioline) then **Set Start Here** / **Set End Here**, or drag the edge grips. **Reset Length** returns to that auto window, or the full file if no quiet edges.
 
-**Mute Track** / **Unmute Track** — music-lane context menu, Audio tab (click the time readout for mute and track volume 0…100%), or the Inspector clip footer when a soundtrack is selected.
+**Mute Track** / **Unmute Track** — Audioline context menu, Audio tab (click the time readout for mute and track volume 0…100%), or the Inspector clip footer when a soundtrack is selected.
 
 **Remove from Project** — royalty-free catalog tracks remove immediately (file stays in the app). Your imports ask **Remove from project?** first. **⌘Z** either way.
 
@@ -92,7 +125,7 @@ While a soundtrack decodes, the stage may show **Loading music…**. Photos stay
 
 Only import tracks you have the rights to use. MemoryString does not claim ownership of imported audio. Rights notice on the import panel and royalty-free sheet. Bundled tracks suit personal movies without attribution.
 
-## Video sound (not the music lane)
+## Video sound (not the Audioline)
 
 Clip audio ≠ soundtrack. On import, MemoryString listens to each **video**: **speech keeps clip audio**; **silence or noise is muted**. Same in Essential and Studio. Decline speech detection and mute still runs from **loudness only**. How it decides: [Auto detection](auto-detection.md#video-sound-auto-mute).
 

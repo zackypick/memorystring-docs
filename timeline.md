@@ -14,7 +14,7 @@ Time, pictures, music:
 
 1. **Time ruler** — click or drag to seek
 2. **Photo lane** — slides, intro, and group cells. Hover a cell to peek at that beat; lift off the strip and that moment **sticks** (the playhead does not snap back the way a typical NLE would). Sliding off the top or bottom does not yank you to a random time. Hover is ignored while playing
-3. **Music lane** — soundtrack clips
+3. **Audioline** — soundtrack clips (the music lane under the photos)
 
 Chrome above shows **Timeline**, the selected clip **name**, and zoom. Readout is **fit-relative**: **1.0×** = whole project in the window; **3.0×** = three windows wide. An empty strip is quiet: **Nothing on the timeline yet**.
 
@@ -47,24 +47,24 @@ Dragging the playhead, a blue time chip shows tenths, then hundredths / frames a
 
 Move the awkward photo. Shorten what overstays. Leave the good ones alone.
 
-Drag clips on the photo lane. Drag from the **Library** into a **gap** to insert or move; drop on a **single** or **group seat** to **Replace**. Music clips reorder on the music lane.
+Drag clips on the photo lane. Drag from the **Library** into a **gap** to insert or move; drop on a **single** or **group seat** to **Replace**. Music clips reorder on the **Audioline**.
 
 First click on a group selects the whole window — drag then moves every seat as one cell, including dropping it **between two other groups**. Second click on a thumb drills into that seat; drag that seat alone into a gap to pull it out. After a seat change the strip may show **Preparing preview…** while the group rebuilds. See [Organizing](organizing.md#in-group-photos-and-videos).
 
 Select a clip, then drag **edge grips** on either end:
 
 - **Videos** — frame feedback in the trim; **2 second** minimum. **Reset Video Duration** restores the full file
-- **Music** — the edge **auditions** that moment in the source song (the mixed bed stays paused). **Reset Length** returns to the auto-skipped quiet-edge window, or the full file if none was found
+- **Music** — the edge **auditions** that moment in the source song (the mixed bed stays paused). To pick a start or end by ear: select the clip on the **Audioline**, scrub until you hear the moment, then **Set Start Here** / **Set End Here**. When the needle crosses a song join, highlight and sound follow the clip under the needle. Full steps: [Music → Audition the Audioline](music.md#audition-the-audioline). **Reset Length** returns to the auto-skipped quiet-edge window, or the full file if none was found
 - **Stills** — edge drag changes how long the slide holds
 
 Right-click a photo or video on the **photo lane**:
 
-![Grouped seat menu: Entire group sits under Group Transition](../.gitbook/assets/library-context-ungroup.png)
+![Timeline grouped-seat menu: Photo 4 of 5 · Carousel, Entire group collapsed](../.gitbook/assets/timeline-grouped-seat-menu.png)
 
 - **Slide Transition** — pick a cut, or **Random** (groups: **Group Transition** / **Ungroup**)
 - **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**
 - **Set Duration…** (**⌘D**). Timeline videos nest duration + **Set Start Here** / **Set End Here** under **Timing**
-- **Set Caption** — focuses the Inspector clip-bar field
+- **Set Caption** (**⇧⌘C**) — focuses the Inspector clip-bar field
 - **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
 - **Move to Outtakes**
 - **Remove from Project** (**⌘⌫**)
@@ -101,7 +101,7 @@ Inspector → **Motion** → **Timeline**:
 - **Shuffle Slides** — pauses playback, randomizes photo order, seeks to the start
 - **Shuffle Transitions** — keeps photo order; starts a fresh deal of single-slide cuts, group kinds, and window positions. Cadence, which group types are on, and card counts stay. Hand-picked Slide Transitions: asks before clearing. Also Library **⋯**:
 
-![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](../.gitbook/assets/library-menu-options.png)
+![Motion → Timeline: Sort by Date Taken, Shuffle Slides, Shuffle Transitions, Reset Slide Durations](../.gitbook/assets/inspector-motion-timeline.png)
 
 - **Reset Slide Durations**
 
