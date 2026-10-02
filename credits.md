@@ -4,8 +4,6 @@ description: "Thanks — GitBook, John Deere, and Adam Angst (ridbits.com)."
 
 # Credits
 
-MemoryString is free because people keep showing up for it.
-
 ## GitBook
 
 These docs run on [GitBook](https://www.gitbook.com). GitBook gave MemoryString a Community plan so the help site can stay public. Thank you — and thanks to **John Deere** there for making it happen.
