@@ -4,9 +4,9 @@
 
 * [MemoryString — free cinematic slideshow for Mac](welcome.md "Welcome")
 * [Quick start](getting-started/quick-start.md)
-* [MemoryString vs FotoMagico vs iMovie](getting-started/memorystring-vs-fotomagico-vs-imovie.md "Compare")
 * [The Studio](workspace/the-studio.md)
 * [Essential and Studio](workspace/essential-studio.md)
+* [MemoryString vs FotoMagico vs iMovie](getting-started/memorystring-vs-fotomagico-vs-imovie.md "Compare")
 
 ## Build your movie
 
