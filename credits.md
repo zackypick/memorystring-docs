@@ -23,7 +23,7 @@ Both live in the app today. [Library](library.md#import-from-photos) and [Format
 
 ## Gil Levy
 
-**Gil Levy** suggested MemoryString should not automatically reopen the last slideshow on launch. That reopen could loop when a show was crashing the app. The app now starts empty instead of restoring the last show.
+**Gil Levy** gave early feedback on how people use MemoryString and what they expect from slideshow size. He also asked that the app not automatically reopen the last slideshow on launch — that reopen could loop when a show was crashing the app. MemoryString now starts empty instead of restoring the last show.
 
 ## MemoryString
 
