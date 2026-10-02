@@ -25,12 +25,13 @@ What Essential hides, and what Studio unlocks.
 | | Essential | Studio |
 | --- | --- | --- |
 | Inspector tabs | Style, Intro, Audio, Format | those plus **Motion** |
-| Style → **Customize…** | Hidden | Plate, Ambience, Lens Effects, Film, Atmosphere & Decals |
+| Style → **Stage Intensity** | Hidden | Slider under Dark / Light |
+| Style → **Customize** | Hidden | Plate, Ambience, Lens Effects, Film, Atmosphere & Decals |
 | Captions | Type in the clip bar; bulk Auto Caption / Clear | plus **Type & Placement** (font, color, size, align, motion, placement, shade) |
 | Intro background | Choose / remove a still | plus Dim, Start zoom, Slow Zoom, Soften, Color / Grayscale |
 | Intro **Text** (font, color, size, align, outline, shadow) | Hidden — type in the title field | Shown |
 | Intro Card & Motion | — | Frame, Motion, Lens, Decoration |
-| Smooth play | Warms automatically on **Play**; **Stop** while warming | **Auto-warm on Play**, **Warm Now**, **Stop** |
+| Smooth play | Auto-warms on **Play**; centered **Preparing smooth playback** card until the first five photo slides are ready; **Stop** while warming | Auto-warms on **Play** without blocking; **Warm Now** and **Stop** on the transport row |
 | Per-slide **Lens Effect** (right-click) | Hidden | Timeline / Library / intro |
 | Export **Quality** | Compact / Share / High / Best (slider; default **Share**) | same slider, plus target Mbps |
 

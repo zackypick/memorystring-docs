@@ -32,6 +32,10 @@
 
 ## More
 
+* [Roadmap](roadmap.md)
+* [Known Issues](known-issues.md)
+* [Fixed](fixed.md)
 * [Keyboard shortcuts](shortcuts.md)
 * [MCP Server](mcp.md)
+* [Credits](credits.md)
 * [In-app Help](help.md)

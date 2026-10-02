@@ -2,7 +2,7 @@
 
 You step into the Studio.
 
-This wasn’t built just to produce the best slideshows you’ve ever made. It was built so that working on them feels like something. The oak, the gold, the ambient light spilling from the preview panel onto the chrome around it — none of that is decoration. It’s the room you live in while you create.
+This wasn’t built just to produce the best slideshows you’ve ever made. It was built so that working on them feels like something. The oak and the gold are the room you live in while you create.
 
 Most apps treat the workspace like a factory floor. We treated it like a place you’d want to spend an evening. Because you will.
 
@@ -14,10 +14,10 @@ The Studio is built around four panes: Library, Preview, Inspector, and Timeline
 
 | Pane | Where | What it is |
 | --- | --- | --- |
-| **Library** | Left | Photos and videos in this project |
-| **Preview** | Center | The movie, plus Play / scrub |
+| **Library** | Left | **Takes** (the show) on top, **Outtakes** in the bottom half. Empty: **Nothing in library yet**. |
+| **Preview** | Center | The movie, plus Play / scrub. Empty: **Add photos & videos** plus *Drop photos and videos to start a memory*. Opening a project fogs **The story continues…**. |
 | **Inspector** | Right | Style, Intro, Motion, Audio, Format |
-| **Timeline** | Bottom | Photo lane + music lane |
+| **Timeline** | Bottom | Photo lane + music lane. Empty: **Nothing on the timeline yet**. |
 
 ## Toolbar
 
@@ -25,20 +25,22 @@ The useful stuff sits on the right — mode, export, help, and the Inspector tog
 
 ![The toolbar — project, Add, Essential / Studio, Export, Help, Inspector](../.gitbook/assets/toolbar-right.png)
 
-- **Essential** / **Studio** — how many controls you see ([next page](essential-studio.md))
+- **Essential** / **Studio** — how many controls you see ([next page](essential-studio.md)). First-run walkthrough marks sit on this control, **+**, and **Export**.
 - **Export** — Export Movie dialog
 - **?** — MemoryString Help (**⌘/**)
 - Inspector toggle — show or hide the right column (**⌥⌘I**)
 
-Toolbar **+** (near the project name) is **Photos & Videos…**, **Music…**, and **Royalty-Free Library…**.
+Toolbar **+** (near the project name) is **Photos & Videos…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…**.
+
+![Toolbar + menu: Photos & Videos, Import from Photos, Music, Royalty-Free Library](../.gitbook/assets/toolbar-plus-menu.png)
 
 ## Library
 
-Photos and videos for this show. Calendar sort, captions bubble, **⋯** (**Keep Best Shots…**, **Auto Trim Videos…**, and more), and **+** sit on the header.
+Photos and videos for this show. The column splits into **Takes** (the show grid) and **Outtakes** (in the project, off the show). Calendar sort, captions bubble, **⋯** (**Keep Best Shots…**, **Auto Trim Videos…**, and more), and **+** sit on the header. **File → Import from Photos…** is on **+** too.
 
-![Library — scroll thumbs, select a slide](../.gitbook/assets/window-library.gif)
+![Library — Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
 
-**View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it; the width is remembered.
+**View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it — it snaps to whole columns of cards. The width is remembered.
 
 More: [Library](../library.md).
 
@@ -82,6 +84,6 @@ Chrome, not captions. **View → Increase / Decrease / Default Text Size** (**�
 
 ## Walkthrough
 
-Forgot the first-run tour? **Help → Show Walkthrough** plays it again: Bring in moments → Your Library → Shape the story → Watch it come alive → Make it yours → Share your memory → Essential or Studio.
+Forgot the first-run tour? **Help → Show Walkthrough** plays it again. Marks sit on the live title-bar **+**, Essential/Studio, and **Export**. Seven stops: **Bring in moments** → **Your Library** → **Shape the story** → **Watch it come alive** → **Make it yours** → **Share your memory** → **Essential or Studio**. Full lines: [In-app Help](../help.md).
 
 **MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow — your photos stay put; only the chrome forgets your habits.

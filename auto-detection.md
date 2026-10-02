@@ -10,8 +10,8 @@ Everything stays on your Mac. Original files are never rewritten.
 
 ## The helpers
 
-- **Keep Best Shots** — Similar burst photos? Keep the sharp, open-eyed, well-exposed one; extras leave the Library and timeline. Import may ask; Library **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
-- **Auto Trim** — Videos: keep the interesting moment (the blow, the kick, the laugh); drop the wait and the leftover. Right-click or Library **⋯** — not on import. No extra confirm after you pick it. Undo **⌘Z**.
+- **Keep Best Shots** — Similar burst photos? Keep the sharp, open-eyed, well-exposed one; extras move to **Outtakes** (still in the project, off the show). Import may ask; Library **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
+- **Auto Trim** — Best-effort: try to keep a good moment and drop the wait and leftover. Not guaranteed — trim by hand if it misses. Right-click or Library **⋯** — not on import. After it runs, the menu disables until **Reset Video Duration**. Undo **⌘Z**.
 - **Video mute** — Hush fridge hum and boring room tone on import so the soundtrack can lead.
 - **Center of interest** — Finds faces and subjects so motion frames the right thing — you don’t chase focus yourself.
 - **Auto Caption** — Titles from the photo, only when you choose **Auto Caption** — never written by itself.
@@ -29,24 +29,24 @@ Burst of nearly the same smile? MemoryString finds the similar groups and can ke
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
 
 {% hint style="info" %}
-The other shots leave the Library and timeline. Undo with **⌘Z**.
+The other shots move to **Outtakes**. Undo with **⌘Z**.
 {% endhint %}
 
 One undo restores the whole pass. See [Library](library.md#import) and [Library ⋯](library.md#-options).
 
 ## Auto Trim
 
-Long phone clip — wait, then the moment, then leftover? **Auto Trim** keeps the interesting climax and drops the wait and the leftover, so the film hits the blow, the kick, the laugh instead of the setup.
+Long phone clip — wait, then the moment, then leftover? **Auto Trim** is a **best-effort** try at a highlight window: it keeps about four seconds from the middle of the clip (and may nudge toward a face) and drops the wait and leftover. It is **not guaranteed** to frame the best moment. Expect to trim by hand when it misses.
 
-**When:** **not** on import. Right-click a video → **Auto Trim** (runs immediately — no confirm). Or Library **⋯** → **Auto Trim Videos…** (asks when more than one video is in play).
+Clips that Auto Trim has cut show a small scissors mark just below the mute icon, on timeline tiles, Library cards, and Outtakes cards. The mark is solid when Auto Trim did the cut, and outlined when you trimmed the clip yourself. It appears on hover or selection, and disappears if you reset the clip to its original length. Stills have no mark.
+
+**When:** **not** on import. Right-click a video → **Auto Trim** (runs immediately — no confirm). Or Library **⋯** → **Auto Trim Videos…** (asks when more than one video is in play; the dialog says the same honesty). Works on a Library group tile and on a timeline group video seat — the clip under the pointer.
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
-**Undo:** **⌘Z**. **Reset Length** restores the full source anytime.
+It does not mute, caption, or remove clips.
 
-{% hint style="info" %}
-Auto Trim finds the highlight in the full source, then trims to that window. It does not mute, caption, or remove clips.
-{% endhint %}
+**Undo:** **⌘Z**. **Reset Video Duration** restores the full source anytime. After Auto Trim applies, the menu item is disabled until you Reset Video Duration. Library **⋯** has **Reset Video Durations** for every video.
 
 See [Library → Videos](library.md#videos) and [Timeline](timeline.md#reorder-and-trim).
 
@@ -87,7 +87,7 @@ Eyes, not shoulder — so motion frames the person (or subject) that matters wit
 
 **Videos:** several frames across the used trim window (not one opening frame). Strongest face / subject wins — a title card or wrong person at the start does not lock focus.
 
-**Override:** pause and click (*Tap photo to set focus*). Ring moves; status shows **Focus · x%, y%**. Drag pans; leaves focus alone. **Reset Center of Interest** (right-click) drops the override and re-runs detection.
+**Override:** pause and click the photo. Ring moves; status shows **Focus · x%, y%**. Drag pans; leaves focus alone. **Reset Center of Interest** (right-click) drops the override and re-runs detection.
 
 ![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
 
@@ -95,7 +95,7 @@ Ken Burns and punch-in end here; backdrop follows; group cards use it too. Some 
 
 ## Auto Caption
 
-Place and date — not camera codes — so the film reads like a story instead of `IMG_4821`. Run it yourself: Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, Timeline **Generate**, or a slide’s **Auto Caption**. Not on import — never written by itself.
+Place and date — not camera codes — so the film reads like a story instead of `IMG_4821`. Run it yourself: Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, or Inspector clip-bar **Generate**. Not on a slide’s right-click menu, and not on import — never written by itself.
 
 Untitled-only entry points **never overwrite** what you typed. **Auto Caption All Slides…** overwrites after confirmation.
 

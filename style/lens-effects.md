@@ -93,7 +93,7 @@ A photo plays **at most one** pooled lens effect. Choice is stable from the phot
 
 Randomize on with **no other lens boxes** checked: one stable draw per photo from the full pool. Atmosphere and film grain / fringe / scratches are never in that pool.
 
-**Studio:** right-click Timeline or Library → **Lens Effect** (under Slide Transition) to pin on that slide or the whole multi-photo group. Current effects are checked. **Refract Bubbles** is scenery: consecutive slides (or seats) with Bubbles share one field; other pins stack. Uncheck Bubbles on one slide → only that slide drops. Pins survive Look re-deals. Essential hides this menu — Studio’s quiet privilege.
+**Studio:** right-click Timeline or Library → **Lens Effect** to pin **this photo**. On a group, that row is the clicked seat; **Entire group ▸ Lens** copies the same pick onto every seat (mixed seats show mixed, not a fake full check). Current effects are checked. **Refract Bubbles** is scenery: consecutive slides (or seats) with Bubbles share one field; other pins stack. Uncheck Bubbles on one slide → only that slide drops. Pins survive Look re-deals. **Anamorphic Streaks** and **Bokeh** never auto-assign on group seats — pin them by hand if you want them. Essential hides this menu — Studio’s quiet privilege.
 
 On a group window, vignette and light leak ride the whole open once. Atmosphere and Decals also paint on Photo Stack / Carousel / Ribbon / Filmstrip windows. Grain and scratches stop once the closing fade owns the frame.
 
