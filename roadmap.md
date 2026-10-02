@@ -18,7 +18,7 @@ The photos the app chose not to use, one tap away from the show. Keep Best may a
 
 ### **Auto Trim**
 
-Middle four seconds of a phone clip, nudged toward a face when it can tell. Not on import, not guaranteed — trim by hand if it misses. Undo with ⌘Z.
+Middle ~4 seconds of a phone clip, nudged up to ~1s toward a face when it can tell. Right about 70% of the time — trim by hand if it misses. Not on import. Undo with ⌘Z.
 
 **Also in this version:** a compact export dialog with a post-export thank-you and rate card, screensaver export that fades on the Stage color (no audio, no intro, no end card), timeline multi-select and group drag, rebuilt Timing and Rotate & Flip menus, video duration stamps on library thumbs, and an update available notice in the footer and app menu.
 

@@ -4,14 +4,14 @@ description: "Keep Best Shots and Auto Trim for a messy camera roll, on your Mac
 
 # Auto detection
 
-Messy camera roll helpers, on your Mac: Keep Best Shots keeps the open-eyed one from a near-duplicate burst. Auto Trim jumps to the moment in a phone clip. Video mute hushes fridge hum so the soundtrack can lead. Motion aims at faces.
+Messy camera roll helpers, on your Mac: Keep Best Shots keeps the open-eyed one from a near-duplicate burst. Auto Trim takes the middle four seconds of a phone clip (and may nudge toward a face) — right about 70% of the time. Video mute hushes fridge hum so the soundtrack can lead. Motion aims at faces.
 
 Everything stays on your Mac. Original files are never rewritten.
 
 ## The helpers
 
 - **Keep Best Shots** — Similar burst photos? Keep the sharp, open-eyed, well-exposed one; extras move to **Outtakes** (still in the project, off the show). Import may ask; Library **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
-- **Auto Trim** — Best-effort: try to keep a good moment and drop the wait and leftover. Not guaranteed — trim by hand if it misses. Right-click or Library **⋯** — not on import. After it runs, the menu disables until **Reset Video Duration**. Undo **⌘Z**.
+- **Auto Trim** — Middle ~4 seconds of the clip, plus up to ~1s toward a face. Right about 70% of the time — trim by hand if it misses. Right-click or Library **⋯** — not on import. After it runs, the menu disables until **Reset Video Duration**. Undo **⌘Z**.
 - **Video mute** — Hush fridge hum and boring room tone on import so the soundtrack can lead.
 - **Center of interest** — Finds faces and subjects so motion frames the right thing — you don’t chase focus yourself.
 - **Auto Caption** — Titles from the photo, only when you choose **Auto Caption** — never written by itself.
@@ -36,7 +36,7 @@ One undo restores the whole pass. See [Library](library.md#import) and [Library 
 
 ## Auto Trim
 
-Long phone clip — wait, then the moment, then leftover? **Auto Trim** is a **best-effort** try at a highlight window: it keeps about four seconds from the middle of the clip (and may nudge toward a face) and drops the wait and leftover. It is **not guaranteed** to frame the best moment. Expect to trim by hand when it misses.
+Long phone clip — wait, then the moment, then leftover? **Auto Trim** keeps the **middle ~4 seconds** of the file (from two seconds before the midpoint to two seconds after, clamped to the clip). If a face sits just outside that window, it may nudge the window by up to **~1 second** toward it. A file shorter than 4 seconds keeps the whole clip. That cut is right about **70%** of the time — trim by hand when it misses. There is no “find the best moment” search beyond that middle seat and the small face nudge.
 
 Clips that Auto Trim has cut show a small scissors mark just below the mute icon, on timeline tiles, Library cards, and Outtakes cards. The mark is solid when Auto Trim did the cut, and outlined when you trimmed the clip yourself. It appears on hover or selection, and disappears if you reset the clip to its original length. Stills have no mark.
 

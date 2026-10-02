@@ -35,7 +35,7 @@ iMovie will let you cut a film: tracks, precision edits, the long sit. MemoryStr
 
 ## MemoryString is helpers, then export
 
-[Keep Best Shots](../auto-detection.md#keep-best-shots) keeps the open-eyed frame from a near-duplicate burst — import may ask when similar stills show up. Extras stay in the project as [Outtakes](../library.md#outtakes). [Auto Trim](../auto-detection.md#auto-trim) is a best-effort try at a highlight window when you choose it (right-click or Library **⋯**), not on import — not guaranteed; trim by hand if it misses. Neither iMovie nor FotoMagico offers that helper.
+[Keep Best Shots](../auto-detection.md#keep-best-shots) keeps the open-eyed frame from a near-duplicate burst — import may ask when similar stills show up. Extras stay in the project as [Outtakes](../library.md#outtakes). [Auto Trim](../auto-detection.md#auto-trim) takes the middle ~4 seconds of a clip (plus a small face nudge) when you choose it (right-click or Library **⋯**), not on import — right about 70% of the time; trim by hand if it misses. Neither iMovie nor FotoMagico offers that helper.
 
 [Import from Photos…](../library.md#import-from-photos) is a dedicated sheet: albums (the path Adam Angst asked for), people, trips, media types, and a date filter. iMovie can also import from Photos; MemoryString’s picker is built for a camera-roll night, not an NLE bin.
 

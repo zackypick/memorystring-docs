@@ -146,7 +146,7 @@ Same photos, different cuts — when motion feels stuck:
 - **Shuffle Transitions** — keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Card counts stay with the Look / Inspector. If you hand-picked **Slide Transition**s, it asks before clearing them.
 - **Reset Slide Durations** — restores default slide timing
 - **Keep Best Shots…** — find similar photo groups and keep the best shot in each (videos are never targets; [Auto detection](auto-detection.md#keep-best-shots))
-- **Auto Trim Videos…** — best-effort highlight window (not guaranteed; trim by hand if it misses) ([Auto detection](auto-detection.md#auto-trim))
+- **Auto Trim Videos…** — middle ~4 seconds, plus up to ~1s toward a face; right about 70% of the time — trim by hand if it misses ([Auto detection](auto-detection.md#auto-trim))
 - **Reset Video Durations** — restores every video to its original full-source length
 - **Show Transition Names** — badges on Library thumbs
 
@@ -207,7 +207,7 @@ On import, MemoryString listens to each clip (Essential and Studio): **speech st
 
 **Mute Video Sound** / **Unmute Video Sound** — right-click, the speaker badge, or the Inspector footer. Manual mute is yours.
 
-**Auto Trim** — right-click a video (no confirm) or Library **⋯** → **Auto Trim Videos…**. Best-effort highlight window — not guaranteed; trim by hand if it misses. Not on import. Undo with **⌘Z**. Details: [Auto detection](auto-detection.md#auto-trim).
+**Auto Trim** — right-click a video (no confirm) or Library **⋯** → **Auto Trim Videos…**. Middle ~4 seconds, plus up to ~1s toward a face; right about 70% of the time — trim by hand if it misses. Not on import. Undo with **⌘Z**. Details: [Auto detection](auto-detection.md#auto-trim).
 
 Videos have a **2 second** minimum trim. **Reset Video Duration** restores the full clip (photos and music still say **Reset Length**).
 

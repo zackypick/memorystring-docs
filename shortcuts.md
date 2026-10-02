@@ -33,7 +33,7 @@ Undo, clipboard, then the selected slide.
 | **⌘]** / **⌘[** | Rotate Clockwise / Rotate Counter Clockwise |
 | **⇧⌘]** / **⇧⌘[** | Flip Horizontal / Flip Vertical |
 
-**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. Library calendar and empty-Library right-click add **Shuffle**. Library **⋯** has **Keep Best Shots…** and **Auto Trim Videos…**; right-click a video for **Auto Trim** (middle 4s plus a face nudge; about 70% right). Undo those with **⌘Z** — see [Auto detection](auto-detection.md#auto-trim).
+**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. Library calendar and empty-Library right-click add **Shuffle**. Library **⋯** has **Keep Best Shots…** and **Auto Trim Videos…**; right-click a video for **Auto Trim** (middle ~4s plus up to ~1s toward a face; right about 70% of the time). Undo those with **⌘Z** — see [Auto detection](auto-detection.md#auto-trim).
 
 ## View
 

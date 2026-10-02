@@ -32,7 +32,7 @@ Empty Library says **Nothing in library yet**; the preview plate takes the drop 
 
 Other types are skipped.
 
-After import, MemoryString may offer **Keep Best Shots** when similar photo groups show up — extras move to **Outtakes**. Videos are **not** auto-trimmed — right-click a clip → **Auto Trim**, or Library **⋯**. See [Auto detection](../auto-detection.md#keep-best-shots).
+After import, MemoryString may offer **Keep Best Shots** when similar photo groups show up — extras move to **Outtakes**. Videos are **not** auto-trimmed on import — right-click a clip → **Auto Trim** (middle ~4 seconds plus a small face nudge; right about 70% of the time), or Library **⋯**. See [Auto detection](../auto-detection.md#auto-trim).
 
 ## 3. Order the story
 

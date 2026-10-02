@@ -74,7 +74,7 @@ On a **grouped seat** the same menu is for **that photo**. A header names it (**
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
-**Auto Trim** (videos) is a best-effort highlight window — not guaranteed; trim by hand if it misses. Context-menu choose runs immediately; undo with **⌘Z**. Not on import. See [Auto detection](auto-detection.md#auto-trim).
+**Auto Trim** (videos) takes the middle ~4 seconds, plus up to ~1s toward a face — right about 70% of the time; trim by hand if it misses. Context-menu choose runs immediately; undo with **⌘Z**. Not on import. See [Auto detection](auto-detection.md#auto-trim).
 
 Right-click a video or music clip for trim:
 
