@@ -55,9 +55,7 @@ Every movie ends with a small **Created with MemoryString** credit (name + logo)
 
 ## Get it
 
-Get it on the [**Mac App Store**](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12). Free, no account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
-
-Prefer to skip the Store? [Download MemoryString 0.9.23 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v0.9.23/MemoryString-0.9.23.dmg). Same app, without the sandbox.
+[**Mac App Store**](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) or [**download MemoryString 1.0.0 for Mac**](https://github.com/zackypick/memorystring-downloads/releases/download/v1.0.0/MemoryString-1.0.0.dmg) — free, no account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel. The App Store build is sandboxed; the direct download is the same app without that sandbox.
 
 New here? [Quick start](quick-start.md) gets you to a finished movie.
 
