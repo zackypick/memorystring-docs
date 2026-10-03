@@ -1,5 +1,5 @@
 ---
-description: "MemoryString 1.0 shipped Photos, Outtakes, and Auto Trim. What's next: Flashback, Auto Enhance, Audio Sync, beat-sync, Long story short."
+description: "MemoryString 1.0 shipped Photos, Outtakes, and Auto Trim. What's next: Flashback (with a one-tap Long story short), Audio Sync, Auto Enhance, beat-sync."
 ---
 
 # Roadmap
@@ -24,24 +24,22 @@ Middle ~4 seconds of a phone clip, nudged up to ~1s toward a face when it can te
 
 ## Coming next
 
-Rough order — each step builds on the last.
+In this order.
 
 ### **Flashback**
 
-Auto-select the best shots from a huge dump. The rest wait in Outtakes. Review everything; nothing is deleted. One flow to a minute-long show when the library is overwhelming.
+Auto-select the best shots from a huge dump. The rest wait in Outtakes. Review everything; nothing is deleted.
 
-### **Auto Enhance**
-
-Optional gentle exposure and clarity before Looks — not a second Look system. Off by default. Turn it on when you want flat phone photos lifted a little; your Look still defines the movie.
+**Long story short** is the one-tap door on the same picker: about a minute, Balanced, Look and music included, straight to a playable cut. Open **Make a Flashback** when you want a length, People or Places, and a chance to swap shots before you accept.
 
 ### **Audio Sync**
 
-Match the show length to the soundtrack. Clip holds stretch or compress so the movie ends with the music — toggle in Audio. Does not drop shots; beat-sync handles overflow when the song cannot fit every cut.
+Match the show length to the soundtrack. Clip holds stretch or compress so the movie ends with the music — toggle in Audio. Shots stay; beat-sync is what handles a song that cannot fit every cut.
+
+### **Auto Enhance**
+
+Optional gentle exposure and clarity on the shots that already made the cut — not a second Look system. Off by default. Your Look still defines the movie.
 
 ### **Beat-sync**
 
-The movie learns the song. Cuts and transitions land on the beat — strength follows your Energy slider. Not a music video. A cut that breathes with the track. Studio mode.
-
-### **Long story short**
-
-One tap, and the pile becomes a movie. The app keeps the best, trims the pockets, orders the years, picks the look and the music. Sixty to ninety seconds, ready to play. The rest sit in Outtakes, waiting for you to argue with the cut.
+The movie learns the song. Cuts and transitions land on the beat — strength follows your Energy slider. Not a music video. A cut that breathes with the track. Studio mode. Comes after Audio Sync, which sets the length first.
