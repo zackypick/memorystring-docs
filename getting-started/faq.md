@@ -40,6 +40,30 @@ Then I thought: why not let everyone use it?
 
 <details>
 
+<summary>Who is it for?</summary>
+
+Two people.
+
+One wants a cinematic slideshow tonight, on their Mac, with the photos staying on the Mac. No account. No one else looking through the pictures.
+
+The other wants more control. A trip, or a photo shoot shown to the people in it, cut to music. That person is still the target. Use Studio. It opens the choices the simple path makes for you.
+
+What it is not: a replacement for DaVinci or After Effects. If the job is a full edit, use those. MemoryString is for the slideshow you would otherwise skip, because those tools take too long and are too complicated.
+
+</details>
+
+<details>
+
+<summary>The movie looks too busy. Can I calm it down?</summary>
+
+Yes. Start from **Clean**, set **Energy** to **Calm**, and drop **Stage Intensity** to 0. That leaves one picture on a plain background.
+
+In **Studio**, open **Motion** and turn off the transitions you don't want. The default Look is busier on purpose.
+
+</details>
+
+<details>
+
 <summary>Do my photos get uploaded?</summary>
 
 No. Files you add from a folder stay where they are. The show remembers their location.
