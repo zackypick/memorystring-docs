@@ -33,4 +33,4 @@ That’s it. A film you’d actually send. Minutes, not an evening. Free, on you
 
 Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved. Thanks — [Credits](credits.md).
 
-New here? [Quick start](getting-started/quick-start.md). [Common questions](getting-started/faq.md). In-app: **Help → MemoryString Help…** (**⌘/**).
+New here? [Quick start](getting-started/quick-start.md). [Common questions](getting-started/faq.md). In the app, **Help → MemoryString Help…** (**⌘/**) opens this site.

@@ -34,7 +34,7 @@
 ## More
 
 * [Keyboard shortcuts](shortcuts.md)
-* [In-app Help](help.md)
+* [Help](help.md)
 * [Known Issues](known-issues.md)
 * [Fixed](fixed.md)
 * [Roadmap](roadmap.md)

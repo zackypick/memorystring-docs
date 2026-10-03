@@ -55,10 +55,10 @@ The window close button closes the window only. Reopen from the Dock.
 
 | Key | Action |
 | --- | --- |
-| **⌘/** | MemoryString Help… |
+| **⌘/** | MemoryString Help… (opens this site) |
 | **⌘,** | Settings… (Enable MCP Server lives here) |
 
-**Help → Full Documentation Online** opens this site ([memorystring.codebyz.com](https://memorystring.codebyz.com)). **Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
+**Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
 
 ## Tips
 
