@@ -17,7 +17,7 @@ That’s it. A film you’d actually send. Minutes, not an evening. Free, on you
 
 ## Get it
 
-[**Mac App Store**](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) — free. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+[**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-welcome) — free. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
 ## Watch a demo
 
