@@ -30,11 +30,11 @@ macOS 14 (Sonoma) or later. Apple Silicon or Intel.
 
 There is no Windows app and no iPhone app.
 
-## App Store or the download on the site?
+## What if I can't use the App Store?
 
-Same app. Use the [Mac App Store](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) if you can. That is also where you can rate it.
+Get it on the [Mac App Store](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12). That is also where you can rate it.
 
-The [download on the site](https://github.com/zackypick/memorystring-downloads/releases/download/v1.0.2/MemoryString-1.0.2.dmg) is the same app, if you prefer a direct download.
+If the Store is not an option, the Mac installer is [here](https://github.com/zackypick/memorystring-downloads/releases/download/v1.0.2/MemoryString-1.0.2.dmg).
 
 ## Why doesn't it reopen my last show?
 
