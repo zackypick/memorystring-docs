@@ -1,120 +1,118 @@
 # Lens effects
 
-Sun flare, soft vignette, glassy orbs — optical light on the frame. Studio → **Style → Customize → Lens Effects**. Atmosphere is weather; Decals are motifs. Checkboxes A–Z (same column-major order as Motion):
+Lens effects add optical light on the frame. **Studio** → **Style** → **Customize** → **Lens Effects**.
+
+Checkboxes (A–Z order in the app):
 
 **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prime, Pulse, Refract Bubbles, Sparkle, Starburst, Sweep, Veiling Glare, Vignette**
 
-Plus **Randomize Selected** and **How often**. Clips: 1080p real exports with that effect pinned; player opens on the cover frame.
+Plus **Randomize Selected** and **How often**. Clips below are real exports with that effect pinned.
 
 ### Anamorphic Streaks
 
-Horizontal blue/amber light bars across stage and card, steered off the subject.
+Horizontal light bars across stage and card.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-anamorphic-streaks.mp4" %}
 
 ### Bokeh
 
-Soft bokeh circles in the optical depth of field.
+Soft out-of-focus circles.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-bokeh.mp4" %}
 
 ### Flare
 
-A hexagonal flare beam across the frame.
+Hexagonal flare beam.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-flare.mp4" %}
 
 ### Ghosting
 
-A chain of chromatic aperture ghosts running from the flare through the frame.
+Chromatic ghost copies along the flare.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-ghosting.mp4" %}
 
 ### Orbs
 
-Warm and cool discs drifting slowly across the plate.
+Warm and cool discs drifting.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-orbs.mp4" %}
 
 ### 50mm Prime
 
-Bright central glow plus a line of soft orbs down the flare’s diagonal — card-safe, through the centre.
+Central glow with soft orbs along the flare line.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-50mm-prime.mp4" %}
 
 ### Pulse
 
-Tiny discs pulsing near the focus point.
+Small discs pulsing near the focus point.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-pulse.mp4" %}
 
 ### Refract Bubbles
 
-Glassy spheres that magnify and bend the photo at the sides and backdrop.
+Glass spheres that bend the image at the sides.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-refract-bubbles.mp4" %}
 
 ### Sparkle
 
-Soft amber dust motes drifting through the frame.
+Soft dust motes.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-sparkle.mp4" %}
 
 ### Starburst
 
-Diffraction spikes from a bright point in the glass.
+Diffraction spikes from a bright point.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-starburst.mp4" %}
 
 ### Sweep
 
-A flock of soft discs sweeping across the frame.
+Soft discs sweeping across the frame.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-sweep.mp4" %}
 
 ### Veiling Glare
 
-Soft highlight bloom veiling the plate.
+Soft highlight bloom.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-veiling-glare.mp4" %}
 
 ### Vignette
 
-Edges fall into shadow around the print.
+Darker edges around the print.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-vignette.mp4" %}
 
-A photo plays **at most one** pooled lens effect. Choice is stable from the photo’s seed.
+Each photo plays **at most one** pooled lens effect. The choice is stable for that photo.
 
-- **Randomize Selected on** (every Look’s default): equal odds per checked box; **How often** (default **70%**) = how many photos get one at all. Groups a bit more often. **Refract Bubbles** wins as a 2–3 slide take, fewer anchors, fair screen time.
-- **Randomize Selected off**: Vignette and optical accents (Bokeh, 50mm Prime, Ghosting, Veiling Glare, Starburst, Anamorphic Streaks) can paint on **every** photo instead of taking the slot. Checking **Refract Bubbles** puts them all back into one draw (bubbles never stack). **How often** stays on when Refract Bubbles is on.
+- **Randomize Selected on** (default for Looks): equal odds among checked boxes. **How often** (default **70%**) sets how many photos get an effect. Groups may get effects slightly more often.
+- **Randomize Selected off**: some effects like Vignette can apply on every photo instead of taking the single slot.
 
-**Bokeh / Sweep / Pulse** = three styles of the same bokeh-circle effect (each a pool slot). Anything you check joins on equal odds — no cap of three.
+**Studio:** right-click **Timeline** or **Library** → **Lens Effect** to pin **this photo**. **Entire group ▸ Lens** copies to all seats. Pins survive Look changes. **Anamorphic Streaks** and **Bokeh** do not auto-assign on group seats.
 
-Randomize on with **no other lens boxes** checked: one stable draw per photo from the full pool. Atmosphere and film grain / fringe / scratches are never in that pool.
+On a group, vignette and light leak apply once for the whole window.
 
-**Studio:** right-click Timeline or Library → **Lens Effect** to pin **this photo**. On a group, that row is the clicked seat; **Entire group ▸ Lens** copies the same pick onto every seat (mixed seats show mixed, not a fake full check). Current effects are checked. **Refract Bubbles** is scenery: consecutive slides (or seats) with Bubbles share one field; other pins stack. Uncheck Bubbles on one slide → only that slide drops. Pins survive Look re-deals. **Anamorphic Streaks** and **Bokeh** never auto-assign on group seats — pin them by hand if you want them. Essential hides this menu — Studio’s quiet privilege.
-
-On a group window, vignette and light leak ride the whole open once. Atmosphere and Decals also paint on Photo Stack / Carousel / Ribbon / Filmstrip windows. Grain and scratches stop once the closing fade owns the frame.
-
-Plate, Ambience, Film, Atmosphere & Decals: [Customize](customize.md).
+Plate, Ambience, Film, Atmosphere: [Customize](customize.md).
 
 ## Anamorphic Streaks (when checked)
 
-Horizontal blue/amber light bars across the stage (backdrop and card), steered off the subject ([center of interest](../preview.md#center-of-interest)).
+Horizontal light bars, steered off the subject ([center of interest](../preview.md#center-of-interest)).
 
 Presets: **Subtle Cinema** (default) · **Strong Anamorphic** · **Vintage Film** · **Blue Heavy**
 
 Knobs: **Streak Length**, **Intensity**, **Color Split**, **Softness**
 
-On **Noir** / **B&W**, streaks keep their shape as **plain light bars** (not blue/amber).
+On **Noir** / **B&W**, streaks appear as plain light bars without blue/amber color.
 
 ## Refract Bubbles (when checked)
 
-Glassy spheres that magnify and bend the photo, kept to the backdrop and sides so they stay off the subject.
+Glass spheres at the sides and backdrop, away from the main subject.
 
-**Look** menu: **Subtle Bubbles** · **Dreamy** · **Strong Refraction** (default) · **Vintage Soap**
+Presets: **Subtle Bubbles** · **Dreamy** · **Strong Refraction** (default) · **Vintage Soap**
 
-Knobs: **Count**, **Size**, **Speed**, **Refraction**, **Rainbow**. Count, size, speed, and rainbow stay editable after a preset.
+Knobs: **Count**, **Size**, **Speed**, **Refraction**, **Rainbow**
 
-On **Noir** / **B&W**, bubbles lose the rainbow rim and read as **clear glass**.
+On **Noir** / **B&W**, bubbles read as clear glass without rainbow rim.

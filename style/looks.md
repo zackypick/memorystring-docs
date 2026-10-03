@@ -1,6 +1,6 @@
 # Looks
 
-One chip, whole personality. Inspector → **Style**: a Look sets grade, border, stage, backdrop, lens deal, Photo Size, Stage Intensity, transition mix bias, Match Look music, and which multi-photo groups run.
+A **Look** sets the whole movie style from one chip in Inspector → **Style**: grade, border, stage, backdrop, lens effects, Photo Size, transitions, music mood, and which multi-photo groups run.
 
 ![Style tab: Look chips, Energy, Stage](../.gitbook/assets/inspector-style.png)
 
@@ -8,100 +8,100 @@ One chip, whole personality. Inspector → **Style**: a Look sets grade, border,
 
 ![Energy (Calm → Intense, band word on the right) and Stage Dark / Light](../.gitbook/assets/inspector-masters.png)
 
-**⌘Z** undoes Style changes. **Reset Style to Defaults** restores this tab (and caption *style*, not caption *text*). Once captions exist, that control becomes a menu: **Reset Styles Only** or **Reset Styles and Clear [N] Captions…**.
+**⌘Z** undoes Style changes. **Reset Style to Defaults** restores this tab (caption style, not caption text). With captions present, choose **Reset Styles Only** or **Reset Styles and Clear [N] Captions…**.
 
 ## The eight chips
 
-Same photo under each chip — grade, mat, wash, and grain change; the kids don’t.
+Click a chip. MemoryString updates **Motion → Transitions Mix**, picks transitions from that mix, and applies group settings for that Look. Hand-picked Motion checkboxes are replaced.
 
-Click a chip and MemoryString commits: it re-populates **Motion → Transitions Mix**, **re-deals** single-slide cuts from that mix’s bias, and applies that Look’s group settings. Hand-picked Motion checkboxes are discarded.
-
-**Click the same Look again** to roll a new deal — same wardrobe, different shuffle: three lens effects (every Look except **Clean**), a new mix of single-slide cuts, and a new Match Look bed if that playlist is still the untouched auto soundtrack. Pins under Studio **Lens Effect** survive. Atmosphere and Decals stay **None** unless you picked them.
+**Click the same Look again** for a new random deal: lens effects (every Look except **Clean**), transitions, and Match Look music if the playlist is still auto-seeded. Pinned **Lens Effect** on slides survive.
 
 Editing **Customize**, **Stage**, **Photo Size**, or **Motion** switches the chip to **Custom**.
 
-Energy, output format, intro on/off, intro text, a background still you already chose, and per-photo overrides are not reset. A Look **does** skin the intro card.
+Energy, export format, intro on/off, intro text, chosen intro background, and per-photo overrides are not reset. A Look **does** change intro card styling.
 
-Looks never turn **Atmosphere** or **Decals** on. That’s your call — the chip won’t surprise you with floating maple leaves.
+Looks do not turn on **Atmosphere** or **Decals** by themselves.
 
-A Look that enables several light effects does not play them all on every photo — see [Customize](customize.md#lens-effects).
+A Look with many lens boxes still plays **at most one** lens effect per photo. See [Customize](customize.md#lens-effects).
 
 ### Clean
 
-*Nothing between you and the photo.* Chalk white matte, soft contact shadow outside the mat (not a dark rim), **Large** Photo Size, **colored backdrop**, **Gentle** cuts, no film damage, no light effects. Stacks + carousel at Motion defaults; **Perspective Pair** every 6; ribbon rare.
+Minimal style. White matte, soft shadow, **Large** Photo Size, colored backdrop, **Gentle** transitions. Stacks + carousel at defaults; **Perspective Pair** every 6.
 
 ![](../.gitbook/assets/look-clean.jpg)
 
 ### Polaroid
 
-*Instant prints on a table.* Fat white paper matte with a heavier bottom margin, subtle curl, soft settle glow, gentle wind, plastic vignette, whisper grain. **Large** Photo Size, **Playful** bias. Dense stacks every 3 (size 5); carousel every 6; **Perspective Pair** every 8.
+Instant-print feel. White matte with thick bottom margin, curl, gentle wind, **Playful** transitions. Dense stacks; carousel; **Perspective Pair** every 8.
 
 ![](../.gitbook/assets/look-polaroid.jpg)
 
 ### Vintage
 
-*Aged album page.* Heavy black mat, rough torn edge, light curl, warm leak, **grayscale backdrop**, heavy grain / fringe / scratches, **Large** Photo Size, **Gentle** cuts. Sparse stacks + ribbon; **Perspective Pair** every 7; Filmstrip on. (Leaves stay an opt-in Atmosphere pack — not auto-enabled.)
+Aged album. Black mat, torn edge, warm leak, grayscale backdrop, grain and scratches, **Gentle** transitions. Sparse stacks and ribbon; Filmstrip on.
 
 ![](../.gitbook/assets/look-vintage.jpg)
 
 ### Cinematic
 
-*Anamorphic and locked off.* Hairline black frame, strong shadow, soft floor reflection, fine grain, coloured leak, **random backdrop**, the widest lens deal of any Look (~3 from Flare / Ghosting / Orbs / 50mm Prime / Pulse / Starburst / Sweep / Veiling Glare / Anamorphic Streaks / Vignette / Bokeh; **How often** default 70%), **Dramatic** cuts, **Large** Photo Size. Carousel + ribbon lead; **Perspective Pair** every 8; Filmstrip every 8; **Scatter & Settle** every 8, thrown full and wide.
+Wide cinematic grade. Thin black frame, strong shadow, fine grain, **Dramatic** transitions, **Large** Photo Size. Carousel and ribbon; Filmstrip and **Scatter & Settle** on some cadences.
 
 ![](../.gitbook/assets/look-cinematic.jpg)
 
 ### Noir
 
-*Moody photographic black-and-white.* Softened true-mono plate grade (open midtones — not crushed poster blacks), black frame, strong shadow, vignette + light grain, sharp corners, **Large** Photo Size, **Gentle** cuts. Plate **and** backdrop wash stay mono so the stage matches the print; mats and card backs stay **white or black** paper only (**Customize → Plate → Photo Border**), never cream stock. **Perspective Pair** every 7. A step punchier than neighbouring **B&W**. Optical Bokeh stays off (mono Looks never ship it). **Anamorphic Streaks** keep their shape as plain light bars instead of blue/amber; **Refract Bubbles** lose their rainbow rim and read as clear glass.
+Moody black-and-white. Soft mono grade, black frame, vignette, **Gentle** transitions. **Perspective Pair** every 7. Mats stay white or black paper.
 
 ![](../.gitbook/assets/look-noir.jpg)
 
 ### B&W
 
-*Soft documentary grayscale.* Gentler true-mono plate grade with open midtones — cleaner and softer than **Noir**, no colour cast. White mat, soft shadow, rounded corners, whisper grain, **Large** Photo Size, **Gentle** cuts. Optical Bokeh stays off; colour accents go neutral as they do on Noir. Same mono rule: wash follows the grayscale look; mats / card backs are **White** or **Black** paper only. **Perspective Pair** every 8.
+Soft documentary grayscale. White mat, rounded corners, **Gentle** transitions. **Perspective Pair** every 8. Gentler than **Noir**.
 
 ![](../.gitbook/assets/look-bw.jpg)
 
 ### Golden Hour
 
-*Warm late-day colour.* Warm plate lift with soft highlight roll-off (colour stays — not sepia Vintage), white mat, subtle curl, soft reflection + settle glow, gentle wind, warm leak, stage sun wash, **Large** Photo Size, **Gentle** cuts. Deals ~3 from Flare / Veiling Glare / Orbs / Sweep / Vignette / Refract Bubbles / Bokeh. **Perspective Pair** every 8.
+Warm late-day color. White mat, warm leak, stage sun wash, **Gentle** transitions. **Perspective Pair** every 8.
 
 ![](../.gitbook/assets/look-golden-hour.jpg)
 
 ### Crisp
 
-*Cool editorial snap.* Cool-neutral plate grade with open midtones, thin white frame, strong shadow, sharp corners, vignette, **Large** Photo Size, **Dramatic** cuts. **Perspective Pair** every 8; Filmstrip every 8.
+Cool editorial look. Thin white frame, strong shadow, **Dramatic** transitions. **Perspective Pair** and Filmstrip every 8.
 
 ![](../.gitbook/assets/look-crisp.jpg)
 
 ## Energy
 
-How fast the room breathes. Header band: **Calm · Steady · Lively · Energetic · Intense**. Slider from **Calm** to **Intense**. Photo stills scale with Energy — about **7.6s** at Calm, **3.4s** at the default (Energetic), **2.0s** at Intense. The **intro card** uses a separate curve so its fade-in still fits: about **7s / 6s / 4s**. Energy never clears hand-picked Motion checkboxes.
+Slider from **Calm** to **Intense**. Labels: **Calm · Steady · Lively · Energetic · Intense**.
 
-Above roughly **93% Energy**, **Spiral-in** and **Reveal from depth** cannot play (boxes dim). If they were the only kinds checked, the movie falls back to Ken Burns while Energy stays that high.
+Photo still duration scales with Energy — about **7.6s** at Calm, **3.4s** at default, **2.0s** at Intense. **Intro** uses separate timing: about **7s / 6s / 4s**. Energy does not clear hand-picked Motion checkboxes.
+
+Above about **93% Energy**, **Spiral-in** and **Reveal from depth** cannot play. If they were the only kinds checked, the movie uses Ken Burns instead while Energy stays high.
 
 ## Photo Size
 
-How big the hero card sits on stage. Inspector → **Style**, under Energy. Word labels only: **Smallest · Small · Medium · Large · Largest** (not a percentage readout). Five stops from **60%** at Smallest through **98%** at Largest — the resting card matches the stop. Default for every Look is **Large**. A still can still grow a little past rest as slow zoom plays out.
+How large the hero photo sits on stage. Inspector → **Style**, under Energy. Labels: **Smallest · Small · Medium · Large · Largest**. Default for every Look: **Large**.
 
-Sets hero / single-slide short-edge fill. Every single-slide cut keeps that full size. Group heroes take Photo Size into account; a group may soft-fit under the label so it stays on stage — **single-slide heroes are never flattened to spare a group.** [Social Safe](../export.md#social-safe) clamps Photo Size to about **85–98%**.
+Sets size for single slides. Groups may fit slightly smaller to stay on stage. [Social Safe](../export.md#social-safe) clamps Photo Size to about **85–98%** on tall exports.
 
 ## Stage
 
-The room the prints live in — **Dark** (black void) or **Light** (cream gallery). Inspector → **Style**, under Photo Size. Host colour behind every plate, wash, seam, the end fade, and the intro card’s plate / Matte frame chrome so Light never leaves a black scrap on cream. The eight Looks pick **Dark** by default. Changing Stage yourself also marks Style as Custom.
+**Dark** (black) or **Light** (cream gallery). Inspector → **Style**, under Photo Size. Looks default to **Dark**. Changing Stage marks Style as **Custom**.
 
-In **Studio**, **Stage Intensity** (under the Dark / Light control) sets how loud the stage reads behind your photos — **50%** on **Dark** and **100%** on **Light** when a Look lands its factory value. Lower it and cards stand forward; the blurred stage, accordion bellows, and contact-sheet ghosts stay as context, just quieter. The photo in front is never dimmed. Live preview, Play, and export match.
+**Studio:** **Stage Intensity** slider under Dark / Light controls how strong the stage background reads. Photos in front are not dimmed. Preview and export match.
 
 ![Stage Dark / Light](../.gitbook/assets/inspector-stage.png)
 
-**Dark** — black void (classic MemoryString).
+**Dark**
 
 <figure><img src="../.gitbook/assets/stage-dark.jpg" alt="Dark stage"><figcaption>Dark stage</figcaption></figure>
 
-**Light** — cream gallery.
+**Light**
 
 <figure><img src="../.gitbook/assets/stage-light.jpg" alt="Light stage"><figcaption>Light stage</figcaption></figure>
 
 ## Captions on this tab
 
-Bulk Auto Caption / Clear, and (Studio) **Type & Placement**. See [Intro and captions](../intro-captions.md#set-a-caption-in-the-inspector).
+Bulk **Auto Caption** / **Clear**, and (**Studio**) **Type & Placement**. See [Intro and captions](../intro-captions.md#set-a-caption-in-the-inspector).

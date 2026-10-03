@@ -1,88 +1,96 @@
 # Preview
 
-The big stage is where you watch what you’re making — the movie someone opens on a phone after dinner. Import lives in the Library; order and trim also use the Timeline.
+The large area in the center is where you watch your movie while you edit. Photos and videos live in the **Library**. Order and trim also use the **Timeline**.
 
 ![Preview transport: time, slide counter, Warm Now, Stop, and Warming k/n — no Auto-warm checkbox](../.gitbook/assets/transport.png)
 
 ## Playback
 
-Hit **Space**. Scrub. Nudge. Does the toast land before the song swells?
+Use **Space** or the toolbar **Play/Pause** button to play and pause.
 
-- **Space** or the Play/Pause control
-- Immediately right of Play/Pause, the **speaker** button **toggles mute and unmute** for **in-app preview audio only** — soundtrack plus any unmuted video clips. **Export audio is unchanged.** Per-clip mute (Library badges, Inspector, Audio tab) is separate. The icon is **white** in both states (not champagne or tan); the muted slash goes **through** the speaker, and the cone stays in the **same position**. The choice is remembered for the session; tooltip: *Mute preview audio (export unchanged)* / *Unmute preview audio (export unchanged).*
-- Click or drag the playhead / time ruler to scrub
-- Hover the Timeline **photo lane** to peek at that beat; lift off the strip and that moment sticks. Sliding off the top or bottom does not jump the playhead. Hover is ignored while playing
-- **←** / **→** nudge; **⇧** for larger steps
-- **⌘→** / **⌘←** next / previous slide; **⌥⌘←** go to start
+The **speaker** button sits just to the right of **Play/Pause**. It mutes sound in the preview only. The exported movie still has sound.
 
-The clock is `current / total`. Beside it, **1 of N** counts every photo card (including each seat in a group). Both modes auto-warm on **Play**. Studio adds **Warm Now** and **Stop** on that row — there is no Auto-warm checkbox.
+Muting one clip is separate. Do that on the clip in the **Library**, the **Inspector**, or the **Audio** tab.
+
+The mute choice lasts until you quit the app.
+
+Other playback controls:
+
+- Click or drag the playhead or time ruler to scrub
+- Hover the **Timeline** photo lane to peek at that moment. When you move the pointer off the strip, the preview stays on that moment. Hover does not work while the movie is playing
+- **←** / **→** nudge the playhead. **⇧** with arrow keys takes larger steps
+- **⌘→** / **⌘←** go to the next or previous slide
+- **⌥⌘←** goes to the start
+
+The clock shows `current / total`. **1 of N** counts every photo card, including each seat in a group.
+
+Both **Essential** and **Studio** warm up smooth playback when you press **Play**. **Studio** adds **Warm Now** and **Stop** on the transport row.
 
 ## Workbench ambilight
 
-Soft color from the edges of the slide at the playhead spills into the workbench chrome — title bar, Timeline header and bed, Inspector seam. It crossfades as slides change and tracks scrubbing; multi-photo groups follow the stage background. Display only — never on the photo plate, never in export.
+Soft color from the edges of the current slide can tint the window chrome around the preview. This is display only. It does not appear on the photo or in the export.
 
 ## Empty stage and opening loader
 
-A blank Untitled project is quiet: Library **Nothing in library yet**, Timeline **Nothing on the timeline yet**, preview **Add photos & videos** plus *Drop photos and videos to start a memory*. Hover a media drop and the plate pulse reads **Gather the thread** (ants on the preview plate only). Hover a `.memorystring` and it reads **Bring back memories**.
+A new empty project shows **Nothing in library yet** in the **Library**, **Nothing on the timeline yet** on the **Timeline**, and **Add photos & videos** on the preview.
 
-First import shows a **loader** on the stage — spinner with a smoke/fog animation — titled **Stringing it together...**, with a percent. **Cancel** appears under it after a couple of seconds if the import is still going. Opening an existing `.memorystring` uses the same loader with **It's coming back now...** and no percent. Copy sits centered on the **visible preview stage**, not under the title bar. Drops are ignored until that loader lifts. **Keep Best Shots** waits until after it clears. Once the show has clips, a media drop overlay reads **Add to story**.
+When you hover over the preview to drop media, the hint reads **Gather the thread**. When you hover a `.memorystring` file, the hint reads **Bring back memories**.
 
-## Live, baked, and export
+The first import shows a loader on the stage. It is a spinner with a smoke animation. The title is **Stringing it together...**. You may see a percent and **Cancel** if the import takes a while.
 
-Edit wants instant. Share wants smooth. Export wants the file.
+Opening an existing `.memorystring` uses the same loader with **It's coming back now...** and no percent.
+
+You cannot drop files while the loader is visible. **Keep Best Shots** waits until the loader finishes.
+
+After the show has clips, a media drop overlay reads **Add to story**.
+
+## Live preview, smooth playback, and export
 
 | | What it is |
 | --- | --- |
-| **Live preview** | The stage while you edit. Motion, Looks, and captions update immediately. Can hitch on a heavy show. |
-| **Scrub** | Drag the playhead or ruler. Hover the **photo lane** to peek; lift off and that moment sticks. After a bake, scrub uses that smooth pass; moving the playhead drops any paused cover so the head stays honest. |
-| **Baked (smooth play)** | A pre-encoded pass so **Space** and scrub stay fluid. Finished segments stay on disk; reopen restores them if nothing changed. Play switches to this pass as soon as the first slides (or the whole show) are ready — it should not stay on the live, laggy preview. |
-| **Export** | The H.264 MP4. Same choreography, framing, and audio as the baked show (preview seed matches export). Format in the Export dialog can differ from the live preview swatch. |
+| **Live preview** | What you see while you edit. Changes appear right away. A heavy show may stutter. |
+| **Scrub** | Move the playhead or hover the photo lane. After smooth playback is ready, scrub uses that smoother pass. |
+| **Smooth playback (baked)** | A prepared pass so **Space** and scrub stay fluid. **Play** switches to it when enough slides are ready. |
+| **Export** | The H.264 MP4 you share. Same look and timing as smooth playback. Export format can differ from the preview swatch in **Format**. |
 
-MemoryString does **not** bake in the background while you edit. Edits appear live; style and framing keep updating the live stage while a bake catches up.
+MemoryString does not prepare smooth playback in the background while you edit. Edits show on the live preview first.
 
-## Smooth play (warming)
+## Smooth playback (warming)
 
-A heavy anniversary album should not stutter for the person who matters.
+Both modes start warming when you press **Play**.
 
-**Essential** and **Studio** both auto-warm when you press **Play** (there is no Auto-warm checkbox). **Essential** also shows **Stop** while a warm is running. On a cold Essential show, Play blocks with a **Preparing smooth playback** card **centered on the preview stage** until the next five *photo* slides from the playhead are ready (intro title and the closing MemoryString card do not hold the gate). The card counts the lead — *Warming 1/5* through *Warming 5/5* — then starts on the baked pass. The dialog never lifts early: playback begins only after it reads 5/5 (or you **Stop** / **Esc**).
+**Essential** shows a **Preparing smooth playback** card on the preview until the next five photo slides from the playhead are ready. The card counts *Warming 1/5* through *Warming 5/5*. **Stop** or **Esc** cancels. Playback starts only after 5/5 or when you cancel.
 
-**Studio** Play does not block the workbench — the movie can start live and switch to the baked pass as the first slides land. Studio adds controls on the transport row beside the slide counter:
+**Studio** does not block the whole window. The movie can start live and switch to the smooth pass as slides finish. **Warm Now** prepares only segments that are not ready yet. **Stop** cancels warming.
 
-- **Warm Now** — bake only segments that are not ready yet (already-warm slides are skipped). Blocks the workbench with the same centered **Preparing smooth playback** card until those dirty segments finish, or until **Stop** / **Esc**. Disabled when everything is already warm
-- **Stop** — cancel an in-flight warm (Play warm or Warm Now)
-
-A champagne **working-status pill** under the preview covers, in this order:
+Status under the preview can show:
 
 1. Export — *Edits paused while creating memory*
-2. Bake — *Warming k/n* (Play / Warm Now) or *Updating k/n* (a look/edit refresh of a finished bake)
-3. Asset / **Loading music…**
-
-**k/n** matches the slide counter (every photo seat). Quiet stage means ready — no idle “Smooth play ready” message. Silence is the compliment.
+2. Warming or updating — *Warming k/n* or *Updating k/n*
+3. **Loading music…**
 
 See [Essential and Studio](workspace/essential-studio.md#what-changes).
 
 ## Center of interest
 
-The small round ring on a **paused** photo is **center of interest** — where motion aims so faces stay framed, not cropped at the ear. Originals never modified.
+When a photo is paused, you may see a small round ring. That is **center of interest**. Motion uses it so faces stay in frame.
 
-**Auto (on import):** every photo and video gets one — **largest face** (near the eyes), else **main subject**, else **middle** of the frame. Videos sample several frames in the trim window. Full order: [Auto detection](auto-detection.md#center-of-interest).
+**On import:** every photo and video gets a point. MemoryString picks the largest face, else the main subject, else the center. Videos use several frames in the trim window.
 
-**Manual override:** pause and click the photo. Ring jumps; status shows **Focus · 62%, 38%** (example). Drag pans and leaves focus alone. Each change its own **⌘Z**.
+**Manual:** pause and click the photo. Drag to pan. Each change undoes with **⌘Z**.
 
-**Reset Center of Interest** (right-click the paused photo) drops the override, re-runs detection, restores the import pick.
+**Reset Center of Interest** (right-click the paused photo) removes your override and runs detection again.
 
 ![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
 
-**What it aims:** Ken Burns and punch-in end here; blurred backdrop follows; Photo Stack, Carousel, 3D Ribbon, Perspective Pair, Filmstrip cards use it too. Depth dissolve, card flip, slide rotate, spiral-in, and reveal from depth show the whole photo — they ignore it.
+Ken Burns and similar motion use center of interest. Some transitions show the whole photo and ignore it.
 
-On the **intro**, a single click on the still (or title) sets the same aim; **double-click** the title to edit text. Framing aim, not caption position.
+On the **intro**, a single click on the still sets the same aim. **Double-click** the title to edit text.
 
 ## Rotate while paused
 
-Sideways phone photos happen. Fix here; originals stay untouched.
+Right-click the paused photo or video → **Rotate & Flip** → **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**. These options are hidden while playing.
 
-Right-click the paused photo or video → **Rotate & Flip** → **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**. Hidden while playing.
+On the intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**. With a background still, **Rotate & Flip** turns the cover photo.
 
-Paused on the intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**. With a background still set, the same **Rotate & Flip** submenu appears — it turns the cover photo, not the title type.
-
-While paused, **double-click** intro text to edit inline. Captions: single click selects; **double-click** hands off to the caption field. Captioned slides get a small blue speech-bubble badge on the Timeline.
+**Double-click** intro text to edit. **Double-click** a caption to edit it. Captioned slides show a small speech-bubble badge on the **Timeline**.

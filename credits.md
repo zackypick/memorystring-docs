@@ -10,20 +10,20 @@ These docs run on [GitBook](https://www.gitbook.com). GitBook gave MemoryString 
 
 ## Adam Angst
 
-**Adam Angst** ([ridbits.com](https://ridbits.com)) asked for two things that shipped:
+**Adam Angst** ([ridbits.com](https://ridbits.com)) asked for two features that shipped:
 
-- **Import from Photos…** — browse Recent, Albums, People, By Month, Trips & Events, and Media Type without leaving MemoryString
-- **Screensaver** — export a silent looping movie you drop into System Settings → Wallpaper
+- **Import from Photos…** — browse Recent, Albums, People, By Month, Trips & Events, and Media Type inside MemoryString
+- **Screensaver** — export a silent looping movie for System Settings → Wallpaper
 
-Both live in the app today. [Library](library.md#import-from-photos) and [Format and export](export.md#screensaver).
+Both are in the app today. See [Library](library.md#import-from-photos) and [Format and export](export.md#screensaver).
 
 ## Daniel Hertrich
 
-**Daniel Hertrich** ([hertrich.photo](https://www.hertrich.photo/fototraining)) gave valuable feedback that changed export behavior: MemoryString no longer opens the exported video in a player — it opens the exported file’s location in Finder instead.
+**Daniel Hertrich** ([hertrich.photo](https://www.hertrich.photo/fototraining)) gave feedback that changed export behavior. MemoryString no longer opens the exported video in a player. It opens the folder in Finder instead.
 
 ## Gil Levy
 
-**Gil Levy** gave early feedback on how people use MemoryString and what they expect from slideshow size. He also asked that the app not automatically reopen the last slideshow on launch — that reopen could loop when a show was crashing the app. MemoryString now starts empty instead of restoring the last show.
+**Gil Levy** gave early feedback on slideshow size and launch behavior. MemoryString no longer automatically reopens the last slideshow on launch. It starts with an empty project instead.
 
 ## MemoryString
 

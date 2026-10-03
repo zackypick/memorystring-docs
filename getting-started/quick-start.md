@@ -1,20 +1,22 @@
 # Quick start
 
-Photos in, Play, Export — a finished movie in a few minutes. Prefer a guided tour? **Help → Show Walkthrough** (marks sit on the live **+**, Essential/Studio, and **Export** controls in the title bar), or [watch the demos](../welcome.md#watch-a-demo).
+This guide gets you from empty project to exported movie in a few steps. For a guided tour, use **Help → Show Walkthrough**, or [watch the demos](../welcome.md#watch-a-demo).
 
 ![Empty project — drop media or use Add photos & videos](../.gitbook/assets/empty-start.png)
 
 ## 1. Start a project
 
-Blank stage or an old `.memorystring` — either way you’re editing a real project file.
+You always edit a `.memorystring` project file.
 
-- **File → New** (**⌘N**), or **⌘W** to clear the current document (the traffic-light close does **not** quit — reopen from the Dock).
-- **File → Open…** (**⌘O**), **Open Recent**, or drop a `.memorystring` file onto the window.
-- Autosave runs once a file exists. **⌘S** / **⇧⌘S** anytime. **⌘Q** prompts to save untitled work.
+- **File → New** (**⌘N**), or **⌘W** to close the current document. The red close button does not quit the app. Reopen from the Dock.
+- **File → Open…** (**⌘O**), **Open Recent**, or drop a `.memorystring` file on the window.
+- The app autosaves after you save once. Use **⌘S** / **⇧⌘S** anytime. **⌘Q** asks to save untitled work.
 
 ## 2. Import media
 
-Fill the **Library** on the left — the cast of the movie. Folder and Finder imports stay **linked**; media from **Photos.app** is **copied** into Application Support **Imports** because there is no way to create stable links into the Photos library (see [Library](../library.md#import)). A screenshot or other paste with no file behind it is also stored as a copy.
+Imported photos and videos appear in the **Library** on the left.
+
+Folder and Finder imports stay **linked** to the original files. Media from **Photos.app** is **copied** into Application Support **Imports** because Photos does not allow stable links. Pasted screenshots with no file are copied the same way. See [Library](../library.md#import).
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
 2. Or **File → Import from Photos…** (also on **+**) — **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**
@@ -22,41 +24,47 @@ Fill the **Library** on the left — the cast of the movie. Folder and Finder im
 ![Toolbar + : Photos & Videos, Import from Photos, Music, Royalty-Free Library](../.gitbook/assets/toolbar-plus-menu.png)
 
 ![Import from Photos sheet](../.gitbook/assets/photos-import-hub.png)
-3. Or drop folders, photos, or videos onto the window (or a Photos.app drag).
-4. Or drop a folder / paste (**⌘V**).
+3. Or drop folders, photos, or videos on the window (including from Photos.app).
+4. Or drop a folder, or paste (**⌘V**).
 
-Empty Library says **Nothing in library yet**; the preview plate takes the drop (hover pulse **Gather the thread**; a `.memorystring` hover reads **Bring back memories**). While the stage loader is up — **Stringing it together...** on first import (may show a percent and **Cancel**) or **It's coming back now...** when opening a project (no percent) — drops are ignored. That loader is a spinner with a smoke/fog animation. After a populated show, a media drop reads **Add to story**. **Keep Best Shots** waits until the loader has cleared.
+An empty **Library** shows **Nothing in library yet**. The preview area accepts drops. Hover hint for media: **Gather the thread**. Hover hint for a project file: **Bring back memories**.
+
+While the stage loader runs, drops are ignored. First import title: **Stringing it together...** (may show percent and **Cancel**). Opening a project: **It's coming back now...** (no percent). The loader is a spinner with a smoke animation.
+
+After the show has clips, a media drop reads **Add to story**. **Keep Best Shots** waits until the loader clears.
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
 
 Other types are skipped.
 
-After import, MemoryString may offer **Keep Best Shots** when similar photo groups show up — extras move to **Outtakes**. Videos are **not** auto-trimmed on import — right-click a clip → **Auto Trim** (middle ~4 seconds plus a small face nudge; right about 70% of the time), or Library **⋯**. See [Auto detection](../auto-detection.md#auto-trim).
+After import, **Keep Best Shots** may appear when similar photo groups are found. Extras move to **Outtakes**. Videos are **not** auto-trimmed on import. Right-click a clip → **Auto Trim**, or use Library **⋯**. See [Auto detection](../auto-detection.md#auto-trim).
 
 ## 3. Order the story
 
-Drag Library thumbnails or Timeline clips until the order feels like the day you lived. The **Intro** slide stays first when it is on. The Library’s right edge snaps to whole columns of cards.
+Drag **Library** thumbnails or **Timeline** clips until the order feels right. The **Intro** slide stays first when it is on. The **Library** divider snaps to whole columns of cards.
 
-Library calendar menu: **Oldest First (Story Order)**, **Newest First**, **Import Order**, or **Shuffle**. **Edit → Sort by Date Taken** is the three date/import choices only. In Essential, a first import auto-sorts **Oldest First** when the Library was empty.
+**Library** calendar menu: **Oldest First (Story Order)**, **Newest First**, **Import Order**, or **Shuffle**. **Edit → Sort by Date Taken** offers the three date/import choices only. In **Essential**, a first import auto-sorts **Oldest First** when the **Library** was empty.
 
 ![Library calendar: Oldest First, Newest First, Import Order, Shuffle](../.gitbook/assets/library-menu-sort.png)
 
-Full detail — including Shuffle Transitions, replacing a seat, and reordering **inside** a group: [Organizing](../organizing.md).
+More detail: [Organizing](../organizing.md).
 
 ## 4. Preview
 
-**Space** (or the toolbar Play/Pause). Click or drag the playhead to scrub. Hover the Timeline **photo lane** to peek; lift off and that moment sticks. See [Preview](../preview.md#playback).
+Press **Space** or use toolbar **Play/Pause**. Click or drag the playhead to scrub. Hover the **Timeline** photo lane to peek. See [Preview](../preview.md#playback).
 
 ## 5. Music
 
-Soundtrack lives in Inspector → **Audio** and on the **Audioline**, not the Library.
+Soundtrack lives in Inspector → **Audio** and on the **Audioline**, not in the **Library**.
 
-After the first photos land, **Match Look Soundtrack** (on by default) soft-seeds bundled tracks from that Look’s mood pool. **Pick New Music**, **Extend to Fill**, and **Surprise me** sit under the playlist. Toolbar **+** → **Music…** or **Royalty-Free Library…**. To trim a song, select it on the Audioline, scrub until you hear the spot, then **Set Start Here** / **Set End Here**. See [Music](../music.md#audition-the-audioline).
+After the first photos land, **Match Look Soundtrack** (on by default) adds bundled tracks from the current **Look** mood pool. Use **Pick New Music**, **Extend to Fill**, and **Surprise me** under the playlist. Toolbar **+** → **Music…** or **Royalty-Free Library…**.
+
+To trim a song, select it on the **Audioline**, scrub to the moment you want, then **Set Start Here** / **Set End Here**. See [Music](../music.md#audition-the-audioline).
 
 ## 6. Polish (optional)
 
-Inspector (**⌥⌘I**) when you want more than the defaults:
+Open the Inspector (**⌥⌘I**) for more control:
 
 - **Style** — Look, Energy, Stage, Photo Size, Captions, Customize (Studio)
 - **Intro** — opening card
@@ -66,6 +74,6 @@ Inspector (**⌥⌘I**) when you want more than the defaults:
 
 ## 7. Export
 
-Toolbar **Export** or **File → Export Movie…** (**⌘E**). Confirm format, resolution, quality (Compact / Share / High / Best — both modes; Studio also shows Mbps), and frame rate, then **Export**. Check **Screensaver** if the file is a looping display movie (no audio, skips intro). Wait for **Creating memory…**.
+Toolbar **Export** or **File → Export Movie…** (**⌘E**). Choose format, resolution, quality (Compact / Share / High / Best), and frame rate. Click **Export**. Check **Screensaver** for a looping display movie (no audio, skips intro). Wait for **Creating memory…**.
 
-You get an H.264 MP4. Every share movie ends with a **Created with MemoryString** credit — the app is free, and that mark is how it reaches more families.
+You get an H.264 MP4. Share movies end with a **Created with MemoryString** credit. The app is free, and the credit helps more people find it.

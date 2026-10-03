@@ -4,109 +4,109 @@ description: "Keep Best Shots and Auto Trim for a messy camera roll, on your Mac
 
 # Auto detection
 
-Messy camera roll helpers, on your Mac: Keep Best Shots keeps the open-eyed one from a near-duplicate burst. Auto Trim takes the middle four seconds of a phone clip (and may nudge toward a face) — right about 70% of the time. Video mute hushes fridge hum so the soundtrack can lead. Motion aims at faces.
-
-Everything stays on your Mac. Original files are never rewritten.
+These tools help with a messy camera roll. Everything runs on your Mac. Original files are never changed.
 
 ## The helpers
 
-- **Keep Best Shots** — Similar burst photos? Keep the sharp, open-eyed, well-exposed one; extras move to **Outtakes** (still in the project, off the show). Import may ask; Library **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
-- **Auto Trim** — Middle ~4 seconds of the clip, plus up to ~1s toward a face. Right about 70% of the time — trim by hand if it misses. Right-click or Library **⋯** — not on import. After it runs, the menu disables until **Reset Video Duration**. Undo **⌘Z**.
-- **Video mute** — Hush fridge hum and boring room tone on import so the soundtrack can lead.
-- **Center of interest** — Finds faces and subjects so motion frames the right thing — you don’t chase focus yourself.
-- **Auto Caption** — Titles from the photo, only when you choose **Auto Caption** — never written by itself.
+- **Keep Best Shots** — From similar burst photos, keep one strong shot. Extras move to **Outtakes** (still in the project, not in the show). Import may ask; **Library** **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
+- **Auto Trim** — About four seconds from the middle of a video clip, with up to about one second nudge toward a face. Works about 70% of the time. Right-click or **Library** **⋯** — not on import. After it runs, use **Reset Video Duration** to restore full length. Undo **⌘Z**.
+- **Video mute** — On import, quiet clips with only room noise so music can lead.
+- **Center of interest** — Finds faces and subjects so motion frames the right area.
+- **Auto Caption** — Fills captions only when you choose **Auto Caption** — never on import by itself.
 
 ![Paused photo with the center-of-interest ring](../.gitbook/assets/preview-coi.png)
 
 ## Keep Best Shots
 
-Burst of nearly the same smile? MemoryString finds the similar groups and can keep the one that looks best — open eyes, smile, sharpness, exposure. The movie stays lean: one great shot instead of five near-duplicates.
+When several photos look almost the same, MemoryString can keep the one with open eyes, a smile, sharpness, and good exposure.
 
-**When:** after **import** when new stills join a similar group, or anytime from Library **⋯** → **Keep Best Shots…**. Videos are left alone.
+**When:** after **import** when new stills join a similar group, or anytime from **Library** **⋯** → **Keep Best Shots…**. Videos are not included.
 
-**The ask:** how many similar groups, how many extra shots, and **Keep the best shot only?** Default button is **Keep Best** (blue, right). **Keep All** leaves every photo.
+**The dialog** shows how many groups and extra shots. **Keep the best shot only?** Default button: **Keep Best**. **Keep All** leaves every photo.
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
 
 {% hint style="info" %}
-The other shots move to **Outtakes**. Undo with **⌘Z**.
+Other shots move to **Outtakes**. Undo with **⌘Z**.
 {% endhint %}
 
 One undo restores the whole pass. See [Library](library.md#import) and [Library ⋯](library.md#-options).
 
 ## Auto Trim
 
-Long phone clip — wait, then the moment, then leftover? **Auto Trim** keeps the **middle ~4 seconds** of the file (from two seconds before the midpoint to two seconds after, clamped to the clip). If a face sits just outside that window, it may nudge the window by up to **~1 second** toward it. A file shorter than 4 seconds keeps the whole clip. That cut is right about **70%** of the time — trim by hand when it misses. There is no “find the best moment” search beyond that middle seat and the small face nudge.
+For a long phone clip, **Auto Trim** keeps about **four seconds** around the middle (two seconds before and after the midpoint, clamped to the clip). If a face is just outside that window, it may shift up to **~1 second** toward it. Clips shorter than four seconds keep the whole file.
 
-Clips that Auto Trim has cut show a small scissors mark just below the mute icon, on timeline tiles, Library cards, and Outtakes cards. The mark is solid when Auto Trim did the cut, and outlined when you trimmed the clip yourself. It appears on hover or selection, and disappears if you reset the clip to its original length. Stills have no mark.
+The cut works about **70%** of the time. Trim by hand when you need to.
 
-**When:** **not** on import. Right-click a video → **Auto Trim** (runs immediately — no confirm). Or Library **⋯** → **Auto Trim Videos…** (asks when more than one video is in play; the dialog says the same honesty). Works on a Library group tile and on a timeline group video seat — the clip under the pointer.
+Clips trimmed by **Auto Trim** show a small scissors mark below the mute icon on **Timeline**, **Library**, and **Outtakes** cards. Solid scissors = **Auto Trim**. Outline = you trimmed by hand. The mark shows on hover or selection and goes away after **Reset Video Duration**.
+
+**When:** **not** on import. Right-click a video → **Auto Trim** (runs immediately). Or **Library** **⋯** → **Auto Trim Videos…** (confirms when several videos are selected). Works on group videos too.
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
-It does not mute, caption, or remove clips.
+It does not mute, caption, or delete clips.
 
-**Undo:** **⌘Z**. **Reset Video Duration** restores the full source anytime. After Auto Trim applies, the menu item is disabled until you Reset Video Duration. Library **⋯** has **Reset Video Durations** for every video.
+**Undo:** **⌘Z**. **Reset Video Duration** restores the full source. **Library** **⋯** → **Reset Video Durations** resets all videos.
 
 See [Library → Videos](library.md#videos) and [Timeline](timeline.md#reorder-and-trim).
 
 ## Video sound (auto-mute)
 
-Speech on camera? Keep it. Fridge hum and empty hallway? Quiet them so the soundtrack can lead.
+Speech on camera stays audible. Quiet room tone or hum may mute on import so the soundtrack can lead.
 
-**When:** as each **video** is imported (Essential and Studio). Stills have no clip audio. Soundtrack tracks are not auto-muted.
+**When:** as each **video** is imported (**Essential** and **Studio**). Stills have no clip audio. Soundtrack tracks are not auto-muted.
 
 **First import:** MemoryString may ask **Allow On-Device Speech Detection?**
 
-- **Continue** — then macOS’s Speech prompt. Detection is **on-device**; it does **not** transcribe or save what was said. The system prompt may mention Apple; MemoryString has no cloud speech path.
-- **Use Loudness Only** — skip speech. Mute still runs from loudness / tonality.
+- **Continue** — then macOS’s Speech prompt. Detection is **on-device**. It does not save a transcript.
+- **Use Loudness Only** — skip speech. Mute still uses loudness.
 
-If you skip or deny speech, later imports keep loudness only (until you reset that preference).
+If you deny speech, later imports use loudness only until you reset that choice.
 
-**How it decides** (whole file, not just the start):
+**Rules** (whole file):
 
 1. **No audio track** → muted
 2. **Very quiet** throughout → muted
-3. If speech is allowed and **speech is found anywhere** in the clip → **stays audible**
-4. Else if the energy looks like **music, singing, or cries** (tonal / periodic) → **stays audible**
-5. Else **steady non-speech ambience / noise** → muted
+3. If speech is allowed and **speech is found** → **audible**
+4. Else if energy looks like **music, singing, or cries** → **audible**
+5. Else steady noise or ambience → muted
 
-There is no toast. A muted clip shows a speaker-off badge in the Library and Timeline.
+Muted clips show a speaker-off badge in **Library** and **Timeline**.
 
-**Override:** right-click **Mute Video Sound** / **Unmute Video Sound**, the speaker badge, or the Inspector clip footer. Manual mute is yours. See [Library](library.md#videos) and [Music](music.md#video-sound-not-the-music-lane).
+**Override:** right-click **Mute Video Sound** / **Unmute Video Sound**, the speaker badge, or the Inspector clip footer. See [Library](library.md#videos) and [Music](music.md#video-sound-not-the-music-lane).
 
 ## Center of interest
 
-Eyes, not shoulder — so motion frames the person (or subject) that matters without you chasing focus. **When:** on **import**, every photo and every video gets a focus point. Cached with the file so reopen keeps the same pick.
+Motion aims at the person or subject that matters. **When:** on **import**, every photo and video gets a focus point.
 
-**How it picks** (on-device Vision):
+**How it picks** (on-device):
 
-1. **Largest usable face** in the frame — aim near the **eyes**, not the chest
-2. Else the **main subject** (attention saliency)
-3. Else the **middle** of the frame
+1. **Largest usable face** — near the **eyes**
+2. Else **main subject**
+3. Else **center** of the frame
 
-**Videos:** several frames across the used trim window (not one opening frame). Strongest face / subject wins — a title card or wrong person at the start does not lock focus.
+**Videos:** several frames in the trim window. The strongest face or subject wins.
 
-**Override:** pause and click the photo. Ring moves; status shows **Focus · x%, y%**. Drag pans; leaves focus alone. **Reset Center of Interest** (right-click) drops the override and re-runs detection.
+**Override:** pause and click the photo. **Reset Center of Interest** (right-click) removes override and runs detection again.
 
 ![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
 
-Ken Burns and punch-in end here; backdrop follows; group cards use it too. Some whole-photo cuts ignore it. Details: [Preview](preview.md#center-of-interest).
+Ken Burns and punch-in use center of interest. Some whole-photo transitions ignore it. Details: [Preview](preview.md#center-of-interest).
 
 ## Auto Caption
 
-Place and date — not camera codes — so the film reads like a story instead of `IMG_4821`. Run it yourself: Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, or Inspector clip-bar **Generate**. Not on a slide’s right-click menu, and not on import — never written by itself.
+**Auto Caption** can fill **place · date** — not camera codes like `IMG_4821`. You run it yourself from the **Library** captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, or Inspector **Generate**. Not on import.
 
-Untitled-only entry points **never overwrite** what you typed. **Auto Caption All Slides…** overwrites after confirmation.
+Untitled-only commands **never overwrite** text you typed. **Auto Caption All Slides…** overwrites after confirmation.
 
-**How it fills an empty caption**, in order:
+**Fill order** for an empty caption:
 
-1. **Place · date** — GPS on the file (stills: EXIF; videos: QuickTime) reverse-geocoded with Apple’s geocoder, or IPTC city/country if GPS is missing. Format like `place · date`. **Country** only when the show has photos from **more than one country**.
-2. Else **capture date** — EXIF DateTimeOriginal / video creation date (not the import copy date). Same long-date style.
-3. Else a **readable filename** with real words (`dan_and_mom-beach` → `Dan and Mom Beach`). Embedded calendar dates rewritten as dates; clock times dropped.
+1. **Place · date** — GPS (EXIF / QuickTime) or IPTC city/country. **Country** only when the show has more than one country.
+2. Else **capture date** from EXIF or video creation date.
+3. Else a **readable filename** with real words.
 
-**Never copied:** UUID / hash names, camera codes (`IMG_1234`, `DSC…`, `Screenshot …`), WhatsApp export titles. Stay blank — better empty than `IMG_4821` as poetry.
+**Never used:** UUID names, `IMG_1234`, `DSC…`, WhatsApp export titles. Those stay blank.
 
-Geocoding uses coordinates **already in the media** — not your Mac’s location. Offline still writes date / IPTC captions. One **⌘Z** undoes the whole Auto Caption pass.
+Geocoding uses coordinates **in the media**, not your Mac’s location. Offline still gets date / IPTC when available. One **⌘Z** undoes a full Auto Caption pass.
 
 See [Intro and captions](intro-captions.md#auto-caption).

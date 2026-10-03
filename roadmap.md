@@ -4,23 +4,23 @@ description: "MemoryString 1.0 shipped Photos, Outtakes, and Auto Trim. What's n
 
 # Roadmap
 
-MemoryString **1.0** shipped **Photos import**, **Outtakes**, and **Auto Trim** — plus export polish, screensaver, timeline multi-select, and more in that release. Below is what comes next.
+MemoryString **1.0** shipped **Photos import**, **Outtakes**, and **Auto Trim**. It also added export polish, screensaver export, timeline multi-select, and more.
 
 ## This release
 
 ### **Photos Import**
 
-Your library, finally inside the app. Albums, People, trips, media types, smart albums, date ranges. Drag a folder or pick from Photos. No gigabytes moved, no accounts, no cloud. The photos stay yours.
+Import from Photos inside the app. Browse albums, people, trips, media types, smart albums, and date ranges. You can also drag a folder or pick from Photos. Photos stay on your Mac. No account or cloud upload.
 
 ### **Outtakes**
 
-The photos the app chose not to use, one tap away from the show. Keep Best may ask after the import loader lifts — extras land here, not in the movie. Pull any of them back when you disagree with the cut. This is the app's taste, made visible.
+Photos the app did not put in the show live here. **Keep Best Shots** may ask after import. Extra similar photos go to **Outtakes**, not the movie. You can move any of them back. Nothing is deleted from your Mac.
 
 ### **Auto Trim**
 
-Middle ~4 seconds of a phone clip, nudged up to ~1s toward a face when it can tell. Right about 70% of the time — trim by hand if it misses. Not on import. Undo with ⌘Z.
+For video clips, **Auto Trim** keeps about four seconds from the middle of the clip. It may nudge up to about one second toward a face. It works about 70% of the time. Trim by hand if you need to. It does not run on import. Undo with **⌘Z**.
 
-**Also in this version:** a compact export dialog with a post-export thank-you and rate card, screensaver export that fades on the Stage color (no audio, no intro, no end card), timeline multi-select and group drag, rebuilt Timing and Rotate & Flip menus, video duration stamps on library thumbs, and an update available notice in the footer and app menu.
+**Also in this version:** a compact export dialog, screensaver export (no audio, no intro, fades on stage color), timeline multi-select, rebuilt Timing and Rotate & Flip menus, video duration on library thumbs, and an update notice in the footer and app menu.
 
 ## Coming next
 
@@ -28,18 +28,18 @@ In this order.
 
 ### **Flashback**
 
-Auto-select the best shots from a huge dump. The rest wait in Outtakes. Review everything; nothing is deleted.
+Pick the best shots from a very large import. The rest wait in **Outtakes**. You review everything before you accept. Nothing is deleted.
 
-**Long story short** is the one-tap door on the same picker: about a minute, Balanced, Look and music included, straight to a playable cut. Open **Make a Flashback** when you want a length, People or Places, and a chance to swap shots before you accept.
+**Long story short** is a one-tap option on the same screen. It makes about a one-minute movie with a balanced pace, a Look, and music, then opens a playable cut. Use **Make a Flashback** when you want to choose length, people or places, and swap shots first.
 
 ### **Audio Sync**
 
-Match the show length to the soundtrack. Clip holds stretch or compress so the movie ends with the music — toggle in Audio. Shots stay; beat-sync is what handles a song that cannot fit every cut.
+Match show length to the soundtrack. Clip timing adjusts so the movie ends with the music. Toggle in **Audio**. Your shots stay. **Beat-sync** is separate and handles songs that do not fit every cut.
 
 ### **Auto Enhance**
 
-Optional gentle exposure and clarity on the shots that already made the cut — not a second Look system. Off by default. Your Look still defines the movie.
+Optional gentle exposure and clarity on photos already in the show. It is not a second Look system. Off by default. Your **Look** still defines the movie.
 
 ### **Beat-sync**
 
-The movie learns the song. Cuts and transitions land on the beat — strength follows your Energy slider. Not a music video. A cut that breathes with the track. Studio mode. Comes after Audio Sync, which sets the length first.
+Cuts and transitions follow the beat of the song. Strength follows your **Energy** slider. **Studio** mode. Comes after **Audio Sync**, which sets length first.

@@ -1,6 +1,6 @@
 # Organizing the slideshow
 
-A slideshow is a story — Tuesday’s cake after Saturday’s drive, not before. The **Intro** stays first when it is on; sorts, shuffles, and drags never mix it into the media thumbs.
+Slide order is your story. The **Intro** stays first when it is on. Sort, shuffle, and drag never move the intro among normal slides.
 
 <figure><img src="../.gitbook/assets/library-drag-singles-groups.gif" alt="Library — drag thumbs to reorder; drop on a slide or group seat to Replace"><figcaption>Library — drag thumbs to reorder; drop on a slide or group seat to Replace</figcaption></figure>
 
@@ -8,81 +8,79 @@ A slideshow is a story — Tuesday’s cake after Saturday’s drive, not before
 
 ## Sort and shuffle slides
 
-Trip diary, night-just-ended reverse, or a deliberate surprise — Library **calendar** (or right-click empty Library space) for date/import **and Shuffle**. **Edit → Sort by Date Taken** and Studio **Motion → Timeline → Sort by Date Taken** are the three date/import choices only. Studio **Motion** also has a separate **Shuffle Slides** button:
+Use the **Library** **calendar** menu (or right-click empty **Library** space) for sort and **Shuffle**. **Edit → Sort by Date Taken** and **Studio** **Motion → Timeline → Sort by Date Taken** offer the three date/import choices only. **Studio** **Motion** also has **Shuffle Slides**:
 
 ![Library calendar: Oldest First, Newest First, Import Order, Shuffle](.gitbook/assets/library-menu-sort.png)
 
 | Command | What it does |
 | --- | --- |
 | **Oldest First (Story Order)** | Capture date, oldest → newest |
-| **Newest First** | Reverse chronological |
-| **Import Order** | The sequence you brought the files in |
-| **Shuffle** / **Shuffle Slides** | Random photo order (Motion names it Shuffle Slides). Pauses playback and seeks to the start |
+| **Newest First** | Newest → oldest |
+| **Import Order** | The order files were imported |
+| **Shuffle** / **Shuffle Slides** | Random photo order. Pauses playback and seeks to the start |
 
-Date sorts use camera capture date (EXIF / recording date); file date only if neither exists. Undated files at the **end**. Filenames never used. Captions, trims, rotations stay; groups **planned fresh**. **⌘Z** undoes.
+Date sorts use camera capture date (EXIF / recording date). If missing, file date is used. Undated files go at the **end**. Filenames are not used. Captions, trims, and rotations stay. Groups are planned again. **⌘Z** undoes.
 
-**Essential:** after import, if the Library was empty or already **Oldest First**, new stills auto-sort **Oldest First**. Studio does not.
+**Essential:** after import, if the **Library** was empty or already **Oldest First**, new stills auto-sort **Oldest First**. **Studio** does not.
 
 ## Captions (Library bubble)
 
-Bulk fill or clear — fifty captions by hand is a long evening. Full settings: [Intro and captions](intro-captions.md#slide-captions).
+Use the captions bubble for bulk fill or clear. Settings: [Intro and captions](intro-captions.md#slide-captions).
 
 ![Library captions: Auto Caption untitled, Auto Caption All, Clear All](.gitbook/assets/library-menu-captions.png)
 
 ## Shuffle Transitions
 
-Happy with photo order, bored with the cuts? Keeps photo order; re-rolls single-slide cuts, group kinds, and where group windows sit. Cadence, which group types are on, and card counts stay.
+**Shuffle Transitions** keeps photo order. It picks new single-slide transitions, group types, and group positions. Cadence and group settings stay.
 
-Library **⋯**, Inspector → **Motion → Timeline**, or right-click empty Library space. If you hand-picked **Slide Transition**s, it asks before clearing them.
+Find it in **Library** **⋯**, Inspector → **Motion → Timeline**, or right-click empty **Library** space. If you set **Slide Transition** by hand, MemoryString asks before clearing those picks.
 
 ![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-menu-options.png)
 
 ![Motion → Timeline: Sort by Date Taken, Shuffle Slides, Shuffle Transitions, Reset Slide Durations](../.gitbook/assets/inspector-motion-timeline.png)
 
-**Reset Slide Durations** (same ⋯ and Motion → Timeline) restores default still timing.
+**Reset Slide Durations** (same menus) restores default still timing.
 
-Clicking a **Look** chip also re-deals transitions (and related Style). See [Looks](style/looks.md#the-eight-chips).
+Clicking a **Look** chip also changes transitions. See [Looks](style/looks.md#the-eight-chips).
 
 ## Drag to reorder
 
-When “Grandma next to the kids” beats auto-sort, drag.
+**Library** — drag thumbnails in the grid. A group shows as one plate. Drop on the group’s first seat to **join** the group.
 
-**Library** — drag thumbs in the grid. A grouped set keeps one champagne plate, even when it wraps. Drop onto the group’s first seat to **join** — not to park beside it.
+**Timeline** photo lane — drag clips. The strip auto-scrolls near the edges. Hover a cell to peek; move off the strip and that moment stays on the preview.
 
-**Timeline** photo lane — drag clips; near either edge the strip auto-scrolls past what’s on screen. Hover a cell to peek; lift off and that time sticks.
-
-Drag from the Library onto the Timeline:
+Drag from the **Library** to the **Timeline**:
 
 - Drop in a **gap** — insert or move
-- Drop on a **single** slide or a **group seat** until **Replace**
+- Drop on a **single** slide or **group seat** until **Replace**
 - Drop on the **intro** tile — sets the intro background
 
-Music reorders on the **music lane**, not here. See [Music](music.md#arrange-on-the-timeline).
+Music reorders on the **music lane**. See [Music](music.md#arrange-on-the-timeline).
 
-Hand-dragging **pins** group windows to those photos. Sorting, shuffling, resetting, or changing cadence / count returns placement to the planner. See [Multi-photo groups](motion/groups.md).
+Hand-dragging **pins** group windows to those photos. Sort, shuffle, reset, or cadence changes let the planner place groups again. See [Multi-photo groups](motion/groups.md).
 
 ### Singles vs whole groups
 
-First click on a group selects the **whole window** (champagne outline in the Library; one cell on the Timeline). Drag then moves every seat together — on the Timeline you can drop that whole cell between two other groups.
+First click on a group selects the **whole window**. Drag moves every seat together.
 
-Right-click a grouped photo for **that seat**. Whole-window actions live under **Entire group ▸**. Right-click two or more selected singles → **Group Transition**. **Ungroup** on an existing group. See [Library](library.md#right-click-a-slide).
+Right-click a grouped photo for **that seat**. **Entire group ▸** holds actions for all seats. Right-click two or more singles → **Group Transition**. **Ungroup** splits a group. See [Library](library.md#right-click-a-slide).
 
 ![Entire group ▸: Rotate & Flip, Set Duration…, Move N to Outtakes, Remove N](../.gitbook/assets/library-entire-group-menu.png)
 
 ### In-group photos and videos
 
-Blinker out, grin in: click the group again on a **member** (Library) or a **thumb** on the Timeline cell (second click) to **drill in**. Accent ring on one photo — drag that seat alone.
+Click a group again on a **member** (Library) or a **thumb** on the **Timeline** cell to select one seat. Drag that seat alone.
 
-- Drop on another **seat** in the same window to swap / replace that place in the group
-- Drop in a **gap** between two groups (or next to a single) to pull it out and park it there
-- After any seat change — add, rearrange, extract, or send one photo to Outtakes — the strip may show **Preparing preview…** while MemoryString rebuilds that group’s scrub
+- Drop on another **seat** in the same group to swap
+- Drop in a **gap** to pull the photo out of the group
+- After seat changes, the strip may show **Preparing preview…** while the group rebuilds
 
-The group **badge** on a Library thumb re-selects the whole window.
+The group **badge** on a **Library** thumb selects the whole window again.
 
 ## Undo
 
-Mistakes are cheap. **⌘Z** undoes sort, shuffle, Shuffle Transitions, drag reorder, **Keep Best Shots**, and **Auto Trim**. Named in the Edit menu (for example Undo Sort by Date Taken, Undo Keep Best Shots).
+**⌘Z** undoes sort, shuffle, **Shuffle Transitions**, drag reorder, **Keep Best Shots**, and **Auto Trim**. The **Edit** menu names the action.
 
-Keep Best and Auto Trim live under Library **⋯** (and Auto Trim on a video’s right-click). Keep Best extras move to [Outtakes](library.md#outtakes). Auto Trim is the middle ~4 seconds (plus a small face nudge) — right about 70% of the time; trim by hand if it misses. Story: [Auto detection](auto-detection.md#auto-trim).
+**Keep Best Shots** and **Auto Trim** are under **Library** **⋯**. **Auto Trim** is also on a video’s right-click menu. Keep Best extras go to [Outtakes](library.md#outtakes). See [Auto detection](auto-detection.md#auto-trim).
 
-Right-click a Take → **Move to Outtakes**; an Outtake → **Move to Takes**. Drag between the two panes is the same move.
+Right-click a Take → **Move to Outtakes**. Right-click an Outtake → **Move to Takes**. Drag between panes does the same.

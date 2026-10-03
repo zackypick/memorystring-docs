@@ -1,29 +1,29 @@
 # Multi-photo groups
 
-When one photo isn’t the whole beat — stacks, rings, ribbons, tossed prints. On/off: **Motion → Transitions Mix → Multi-photo**. Sections below hold cadence, count, and direction.
+Sometimes several photos share one moment — stacks, carousels, ribbons, and similar layouts. Turn types on under **Motion → Transitions Mix → Multi-photo**.
 
 ![3D Ribbon and Carousel cadence](../.gitbook/assets/inspector-motion-groups.png)
 
-New projects: **Photo Stacks, Carousel, and 3D Ribbon on**; **Filmstrip**, **Perspective Pair**, and **Scatter & Settle** off until you enable them or pick a Look that opts in. Looks set their own cadence (every Look enables Perspective Pair; every Look except **Clean** opts in Scatter & Settle; **Vintage**, **Cinematic**, **Noir**, **B&W**, and **Crisp** opt in Filmstrip).
+New projects: **Photo Stacks, Carousel, and 3D Ribbon on**; **Filmstrip**, **Perspective Pair**, and **Scatter & Settle** off until you enable them or pick a Look that turns them on.
 
-Each featured beat inside a group is **72.5%** of a single slide’s hero time. Groups keep at least **two** normal slides between windows. Carousel, 3D Ribbon, and Filmstrip also keep at least **four** normal slides between consecutive *travel* windows.
+Each hero moment inside a group uses about **72.5%** of a normal slide’s time. Groups need at least **two** normal slides between windows. **Carousel**, **3D Ribbon**, and **Filmstrip** also keep at least **four** normal slides between travel-style windows.
 
-With two or more kinds on, one planner lays out every window: kinds take turns (widest first), a non-travel kind lands between travel kinds when it can, and windows spread evenly. Each kind’s “every N” votes on **one shared rhythm**. **Shuffle Transitions** keeps count/cadence but scatters gaps.
+With several kinds on, one planner places windows evenly. **Shuffle Transitions** keeps counts but changes positions.
 
-Rearrange slides by hand and windows **pin** to those photos — the planner steps aside until you sort, shuffle, reset, or change cadence / count.
+If you drag slides by hand, group windows **pin** to those photos until you sort, shuffle, reset, or change cadence.
 
-Right-click a grouped photo for **that seat**. **Entire group ▸** (under **Group Transition**, next to **Ungroup**) rotates, lenses, sets duration, or moves / removes every seat. Right-click two or more selected singles → **Group Transition**. See [Library](../library.md#right-click-a-slide).
+Right-click a grouped photo for **that seat**. **Entire group ▸** (near **Ungroup**) applies rotate, lens, duration, or move/remove to all seats. Right-click two or more singles → **Group Transition**. See [Library](../library.md#right-click-a-slide).
 
 ![Grouped seat menu: Photo 1 of 5 · Ribbon, Entire group, Ungroup](../.gitbook/assets/library-context-ungroup.png)
 
-Videos that fit a window play through it; shorter clips hold the first frame until that seat’s hero approach, then play. Unmuted clip audio is audible only while that card is the hero.
+Videos in a group play in their seat. Unmuted video audio plays only while that card is the hero.
 
 ## Photo Stacks
 
 - **Stack Every** — 3…8 (default 4)
 - **Stack Size** — 3, 4, or 5 cards (default 4)
 
-Fanned cards in a loose pile; faded Ken Burns washes behind soft-crossfade every couple of presents, coloured by Style **Backdrop**.
+Fanned pile with backdrop washes behind.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-photo-stack.mp4" %}
 
@@ -32,9 +32,9 @@ Fanned cards in a loose pile; faded Ken Burns washes behind soft-crossfade every
 
 - **Carousel Every** — 3…8 (default 4)
 - **Photos** — 3, 4, or 5 seats (default 5)
-- **Direction** — Left to Right / Right to Left / Random (default)
+- **Direction** — Left to Right / Right to Left / Random
 
-Cards join a turning ring from the incoming side, ride one revolution, then peel off. Beat length follows seat count and Energy. Front card matches single-slide size; sides foreshorten.
+Cards join a ring, rotate, then leave.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-carousel.mp4" %}
 
@@ -43,9 +43,9 @@ Cards join a turning ring from the incoming side, ride one revolution, then peel
 
 - **Ribbon Every** — 3…8 (default 5)
 - **Photos** — 4 / 5 / 6 (default 5)
-- **Direction** — Left to Right / Right to Left / Random (default)
+- **Direction** — Left to Right / Right to Left / Random
 
-An open depth belt — one hero at a time, flanks beside it. Spacing breathes with Photo Size.
+Depth belt with one hero at a time.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-ribbon.mp4" %}
 
@@ -55,7 +55,7 @@ An open depth belt — one hero at a time, flanks beside it. Spacing breathes wi
 - **Pair Every** — 3…8 (default 6)
 - Always **two** photos
 
-Cover-flow for two: front advances to Photo Size, then flies aside as the back becomes the hero.
+Two-card cover flow: front becomes hero, then moves aside.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-perspective-pair.mp4" %}
 
@@ -64,11 +64,9 @@ Cover-flow for two: front advances to Photo Size, then flies aside as the back b
 
 - **Filmstrip Every** — 3…8 (default **6**)
 - **Photos** — 4 / 5 / 6 (default **5**)
-- **Direction** — Horizontal / Vertical / Random (seeded per window; default Random)
+- **Direction** — Horizontal / Vertical / Random
 
-Off for new projects until you enable it or pick a Look that opts in (**Vintage**, **Cinematic**, **Noir**, **B&W**, **Crisp**).
-
-Flat perforated strip; centre hero at Photo Size — not Ribbon’s depth belt, not Carousel’s orbit.
+Flat strip with center hero at Photo Size.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-filmstrip.mp4" %}
 
@@ -82,29 +80,27 @@ Flat perforated strip; centre hero at Photo Size — not Ribbon’s depth belt, 
 - **Throw** — Mild / Medium / Full
 - **Speed** — Gentle / Normal / Snappy
 
-Cards throw in, land scattered, step forward in timeline order, then throw off the other side. Waiting cards stay opaque (dimmed, softly blurred). Next slide waits until the last card has left.
+Cards throw in, land, step forward in order, then throw off.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-scatter-settle.mp4" %}
 
 
-Look feel (Help): Polaroid tosses often into a tight pile; Vintage and B&W lay prints out mildly; Noir stays restrained; Golden Hour a soft warm toss; Cinematic throws full and wide; Crisp snaps.
-
 ## When to use it
 
-- **Stacks** — lively, album-style fanned cards
-- **Carousel** — a cinematic tilted orbit
-- **3D Ribbon** — an open waving belt, one hero at a time
-- **Perspective Pair** — a two-card cover-flow deck
-- **Filmstrip** — flat H/V frames along a strip
-- **Scatter & Settle** — Polaroids tossed onto the stage
-- **All off** — classic one-slide-at-a-time, cut with **Single slides**
+- **Stacks** — fanned album pile
+- **Carousel** — rotating ring of cards
+- **3D Ribbon** — depth belt, one hero
+- **Perspective Pair** — two-card deck
+- **Filmstrip** — horizontal or vertical strip
+- **Scatter & Settle** — tossed cards on stage
+- **All off** — one photo at a time with single-slide transitions
 
 ## Timeline / Library
 
 ![Timeline photo lane: stack of 4 and filmstrip of 4 cells](../.gitbook/assets/timeline-full.png)
 
-Follower slides collapse onto the lead cell. Library badges: **stack 1/5**, **carousel 2/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**, **scatter 2/5**. A caption speech-bubble sits on the **captioned seat** only — not on siblings or the collapsed plate. On stage the group still shows the lead caption.
+Follower slides collapse onto the lead cell. Badges: **stack 1/5**, **carousel 2/5**, **ribbon 5/5**, **pair 1/2**, **filmstrip 3/5**, **scatter 2/5**. Caption bubble on the **captioned seat** only.
 
-**This photo** Lens (top of the seat menu) pins that seat. **Entire group ▸ Lens** copies the effect onto every seat; mixed seats show mixed, not a fake full check. **Anamorphic Streaks** and **Bokeh** never auto-land on group seats (new show, Look, Shuffle, Randomize) — you can still pin them by hand.
+**This photo** **Lens Effect** pins one seat. **Entire group ▸ Lens** copies to every seat. **Anamorphic Streaks** and **Bokeh** do not auto-assign on group seats — pin by hand if you want them.
 
-After you add, rearrange, extract, or send a seat to Outtakes, the filmstrip may show **Preparing preview…** while MemoryString rebuilds that group’s scrub. Mix checkboxes and group knobs undo with **⌘Z**.
+After seat changes, the strip may show **Preparing preview…** while the group rebuilds. Mix and group settings undo with **⌘Z**.

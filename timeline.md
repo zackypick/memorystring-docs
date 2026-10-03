@@ -1,6 +1,6 @@
 # Timeline
 
-The strip under the stage is the movie’s pulse — hold times, music, and where a too-long toast gets trimmed.
+The strip under the preview shows time, slides, and music. Use it to reorder, trim, and scrub.
 
 ![Photo lane: stack and filmstrip group cells with duration chips](../.gitbook/assets/timeline-full.png)
 
@@ -10,107 +10,94 @@ The strip under the stage is the movie’s pulse — hold times, music, and wher
 
 ## Layout
 
-Time, pictures, music:
-
 1. **Time ruler** — click or drag to seek
-2. **Photo lane** — slides, intro, and group cells. Hover a cell to peek at that beat; lift off the strip and that moment **sticks** (the playhead does not snap back the way a typical NLE would). Sliding off the top or bottom does not yank you to a random time. Hover is ignored while playing
-3. **Audioline** — soundtrack clips (the music lane under the photos)
+2. **Photo lane** — slides, intro, and group cells. Hover a cell to peek; move off the strip and that moment stays on the preview. Hover is ignored while playing
+3. **Audioline** — soundtrack clips
 
-Chrome above shows **Timeline**, the selected clip **name**, and zoom. Readout is **fit-relative**: **1.0×** = whole project in the window; **3.0×** = three windows wide. An empty strip is quiet: **Nothing on the timeline yet**.
+The header shows **Timeline**, the selected clip **name**, and zoom. **1.0×** fits the whole project. Empty strip: **Nothing on the timeline yet**.
 
 ### Timeline height
 
-Need taller thumbs? Drag the **thin seam above the Timeline** (between the preview row and the filmstrip) **up** to grow the photo lane, **down** to shrink it. Extra height runs from **0** to about **160** points and is remembered across launches. **⌘+** / **⌘-** still scale Timeline strip height (and Library cards) with UI text size; this drag adds on top of that base.
+Drag the **thin seam** between the preview and **Timeline** **up** to grow the photo lane, **down** to shrink. Height is remembered. **⌘+** / **⌘-** scale strip height with UI text size.
 
 ![Drag the seam to grow the filmstrip; zoom slider scales the strip live](.gitbook/assets/timeline-expand-zoom.gif)
 
 ### Zoom and gestures
 
-Zoom out for the whole birthday; in when a half-second matters.
-
-- **Zoom slider** (minus / plus magnifying glass) — scale updates **live** as you drag; all the way **left** for an end-to-end overview
-- **Pinch** on a trackpad to zoom the strip
-- **Scroll-wheel** zoom (pointer over the Timeline) — scroll **up** zooms **in**, **down** zooms **out**
-- **⌥⌘+** / **⌥⌘-** zoom in / out
-- **Two-finger trackpad pan** or **horizontal scroll** to move along the strip
+- **Zoom slider** — live zoom; all the way left for full overview
+- **Pinch** on trackpad
+- **Scroll wheel** over **Timeline** — up zooms in, down out
+- **⌥⌘+** / **⌥⌘-**
+- **Two-finger pan** or horizontal scroll
 - **Middle-mouse drag** to pan
 
-**⌘+** / **⌘-** / **⌘0** are UI text size — they scale **Library cards** and Timeline *strip height* together, not Timeline zoom.
+**⌘+** / **⌘-** / **⌘0** change UI text size for **Library** cards and strip height — not zoom.
 
-Once slides exceed a readable fit, the timeline **scrolls** instead of squeezing. Cells keep a minimum width (thumbs, motion label, duration). Very long projects cap at about **8 windows** — zoom in from there. A very short hold still gets a clickable cell.
+Long projects scroll instead of squeezing cells. During playback the strip follows the playhead.
 
-During playback the strip **follows the playhead**. Hand-pan while paused is never yanked back. Drag near either edge to auto-scroll. Hover-scrub on the ruler stands down while the strip travels under the pointer (trackpad momentum), then re-syncs when it settles.
-
-Dragging the playhead, a blue time chip shows tenths, then hundredths / frames as you zoom in. **←** / **→** nudge (~0.1s, accelerates if held); **⇧** for larger steps.
+Dragging the playhead shows a blue time chip. **←** / **→** nudge (~0.1s); **⇧** for larger steps.
 
 ## Reorder and trim
 
-Move the awkward photo. Shorten what overstays. Leave the good ones alone.
+Drag clips on the photo lane. From **Library**: gap = insert/move; drop on slide or group seat = **Replace**; intro tile = intro background. Music reorders on the **Audioline**.
 
-Drag clips on the photo lane. Drag from the **Library** into a **gap** to insert or move; drop on a **single** or **group seat** to **Replace**. Music clips reorder on the **Audioline**.
+First click on a group selects the whole window. Second click on a thumb selects one seat. See [Organizing](organizing.md#in-group-photos-and-videos).
 
-First click on a group selects the whole window — drag then moves every seat as one cell, including dropping it **between two other groups**. Second click on a thumb drills into that seat; drag that seat alone into a gap to pull it out. After a seat change the strip may show **Preparing preview…** while the group rebuilds. See [Organizing](organizing.md#in-group-photos-and-videos).
+Select a clip and drag **edge grips**:
 
-Select a clip, then drag **edge grips** on either end:
+- **Videos** — trim with frame feedback; **2 second** minimum. **Reset Video Duration** restores full file
+- **Music** — edge drag auditions that point. **Set Start Here** / **Set End Here** at playhead. See [Music → Audition the Audioline](music.md#audition-the-audioline). **Reset Length** restores auto-skipped edges or full file
+- **Stills** — edge drag changes hold time
 
-- **Videos** — frame feedback in the trim; **2 second** minimum. **Reset Video Duration** restores the full file
-- **Music** — the edge **auditions** that moment in the source song (the mixed bed stays paused). To pick a start or end by ear: select the clip on the **Audioline**, scrub until you hear the moment, then **Set Start Here** / **Set End Here**. When the needle crosses a song join, highlight and sound follow the clip under the needle. Full steps: [Music → Audition the Audioline](music.md#audition-the-audioline). **Reset Length** returns to the auto-skipped quiet-edge window, or the full file if none was found
-- **Stills** — edge drag changes how long the slide holds
-
-Right-click a photo or video on the **photo lane**:
+Right-click a photo or video on the photo lane:
 
 ![Timeline grouped-seat menu: Photo 4 of 5 · Carousel, Entire group collapsed](../.gitbook/assets/timeline-grouped-seat-menu.png)
 
-- **Slide Transition** — pick a cut, or **Random** (groups: **Group Transition** / **Ungroup**)
-- **Rotate & Flip** — **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**
-- **Set Duration…** (**⌘D**). Timeline videos nest duration + **Set Start Here** / **Set End Here** under **Timing**
-- **Set Caption** (**⇧⌘C**) — focuses the Inspector clip-bar field
-- **Clear Caption** — when the slide already has text. **Auto Caption** is the Library captions bubble, **Edit**, Style → Captions, or **Generate** — not this menu
+- **Slide Transition** — pick a cut or **Random** (groups: **Group Transition** / **Ungroup**)
+- **Rotate & Flip**
+- **Set Duration…** (**⌘D**). Videos: **Timing** submenu with duration and **Set Start Here** / **Set End Here**
+- **Set Caption** (**⇧⌘C**)
+- **Clear Caption**
 - **Move to Outtakes**
 - **Remove from Project** (**⌘⌫**)
 
-On a **grouped seat** the same menu is for **that photo**. A header names it (**Photo 2 of 4 · Photo Stack**). **Entire group ▸** holds rotate / lens / **Set Duration…** / **Move N photos to Outtakes** / **Remove N** for the whole window. **Ungroup** sits next to it. Reveal in Finder and Relink are hidden for now.
-- Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
+On a **grouped seat**, the menu applies to **that photo**. Header shows **Photo 2 of 4 · Photo Stack**. **Entire group ▸** has rotate, lens, **Set Duration…**, **Move N photos to Outtakes**, **Remove N**. **Ungroup** is nearby.
+
+Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
-**Auto Trim** (videos) takes the middle ~4 seconds, plus up to ~1s toward a face — right about 70% of the time; trim by hand if it misses. Context-menu choose runs immediately; undo with **⌘Z**. Not on import. See [Auto detection](auto-detection.md#auto-trim).
+**Auto Trim** — about four seconds from the middle, face nudge ~70% success. Not on import. Undo **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
 
-Right-click a video or music clip for trim:
+Right-click video or music for **Set Start Here** / **Set End Here** and reset duration/length.
 
-- **Set Start Here** / **Set End Here** — trim in/out at the playhead
-- Videos: **Reset Video Duration**. Music: **Reset Length**
-
-The Inspector clip footer offers the same playhead trims for a selected **video** or **soundtrack**. Videos use **Reset Video Duration**; music uses **Reset Length**. **⌘1** / **⌘2** = Set Start / Set End; **⌘D** opens **Set Duration…** (value selected to type; applies to every selected *slide*). **Reset Slide Durations** (Motion → Timeline / Library ⋯) restores default still timing.
+Inspector clip footer has the same trims for selected video or soundtrack.
 
 ![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
 
-A slide with text also offers **Clear Caption** on this menu. To fill empty captions, use the Library captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, or **Generate**.
+**Auto Caption** is not on this menu — use **Library** captions bubble, **Edit**, Style → Captions, or **Generate**.
 
-Right-click always selects the clip under the pointer — including the **first slide after the intro** — and parks the playhead at that click on the strip.
+Right-click selects the clip under the pointer and seeks the playhead there.
 
-Intro cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Rotate & Flip** when a background still is set, and **Reset Center of Interest** when a background is set.
+Intro cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Rotate & Flip** with background, **Reset Center of Interest** with background.
 
 ## Motion → Timeline (Studio)
 
-Sort and shuffle from the Inspector when order still feels wrong.
-
 Inspector → **Motion** → **Timeline**:
 
-- **Sort by Date Taken** — Oldest First / Newest First / Import Order
-- **Shuffle Slides** — pauses playback, randomizes photo order, seeks to the start
-- **Shuffle Transitions** — keeps photo order; starts a fresh deal of single-slide cuts, group kinds, and window positions. Cadence, which group types are on, and card counts stay. Hand-picked Slide Transitions: asks before clearing. Also Library **⋯**:
+- **Sort by Date Taken**
+- **Shuffle Slides**
+- **Shuffle Transitions**
+- **Reset Slide Durations**
+
+Also on **Library** **⋯**. Intro stays first. **⌘Z** undoes.
 
 ![Motion → Timeline: Sort by Date Taken, Shuffle Slides, Shuffle Transitions, Reset Slide Durations](../.gitbook/assets/inspector-motion-timeline.png)
 
-- **Reset Slide Durations**
-
-The intro stays first. **⌘Z** undoes sort / shuffle.
-
 ## End card
 
-Every show closes on a short **MemoryString** credit. On the photo lane that hold is a trailing black **end** cell — click it to select the end card (same as scrubbing into the closing credit). It is not a media clip you can trim or reorder.
+Every show ends with a **MemoryString** credit. On the photo lane this is a trailing **end** cell. You can select it but not trim or reorder it like media.
 
 ## Groups on the strip
 
-Multi-photo windows collapse followers onto a **lead** cell (for example “stack of 4”, “carousel of 5”, “ribbon of N”, “pair of 2”, “filmstrip of N”, “Scatter & Settle”). The cell can show a multi-thumb strip and per-video mute badges. One cell, many faces. See [Multi-photo groups](motion/groups.md#timeline-library).
+Multi-photo windows collapse to one cell (stack, carousel, ribbon, pair, filmstrip, scatter). The cell may show multiple thumbs and video mute badges. See [Multi-photo groups](motion/groups.md#timeline-library).

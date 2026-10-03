@@ -1,6 +1,6 @@
 # Transitions
 
-How each photo arrives and leaves — the choreography of the cut. Inspector → **Motion** (Studio). **Transitions Mix** is everything this project may play.
+Transitions control how each photo enters and leaves. In **Studio**, open Inspector → **Motion**. **Transitions Mix** lists what this project can use.
 
 ![Mix dropdown and single-slide / multi-photo checkboxes](../.gitbook/assets/inspector-motion-mix.png)
 
@@ -8,141 +8,139 @@ How each photo arrives and leaves — the choreography of the cut. Inspector →
 
 ## Mix presets
 
-Four moods, one full vocabulary. **Varied · Gentle · Playful · Dramatic** — every mix owns the **full** single-slide set; the preset only **biases** which cuts show up more often.
+**Varied · Gentle · Playful · Dramatic** — each mix can use the full set of single-slide transitions. The preset changes how often each type appears.
 
-- **Varied** — even share
-- **Gentle** — leaning Ken Burns, depth dissolve, reveal from depth, same-photo fan
-- **Playful** — leaning flip, slide, spark slide, sparkle wipe, flying card, swirl-in
-- **Dramatic** — leaning punch-in, spiral-in, accordion, swirl-in
+- **Varied** — even mix
+- **Gentle** — more Ken Burns, depth dissolve, reveal from depth, same-photo fan
+- **Playful** — more flip, slide, spark slide, sparkle wipe, flying card, swirl-in
+- **Dramatic** — more punch-in, spiral-in, accordion, swirl-in
 
-Picking a mix (or a **Look** chip) hands choice back and clears hand-picked checkboxes, then re-deals cuts. Changing the mix re-cuts photos whose current kind the new mix does not use; photos already on a kind it keeps stay put. Energy never clears your picks. Any change here → **Custom**. Style then says *Set in Motion* if you tick boxes by hand.
+Changing mix or clicking a **Look** re-deals transitions. Photos already using a kind the new mix includes may keep that kind. Energy does not clear your checkbox picks. Manual checkbox edits show **Custom** in Style (*Set in Motion*).
 
 ## Single slides
 
-One photo at a time — at least **one** box stays on. The checklist in the app (currently **17 of 17** when all are on — yes, you can run the whole deck). Each clip is 1080p from a real export; the player opens on the cover frame.
+One photo at a time. At least **one** transition type stays on. The app lists **17** single-slide types when all are enabled.
 
 ### Ken Burns
 
-Slow, unbroken lean-in toward the focus point — the quiet classic.
+Slow zoom toward the focus point.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-ken-burns.mp4" %}
 
 
 ### Depth dissolve
 
-The print swims up out of blur and settles square — softens automatically on a light stage.
+Photo sharpens from blur.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-depth-dissolve.mp4" %}
 
 
 ### Layers
 
-Ghost layers overlap on the hand-off — the outgoing print still faintly there.
+Outgoing photo fades while the next appears.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-layers.mp4" %}
 
 
 ### Card flip
 
-Edge-on flip: fades in, turns face-front, exits in the mirror.
+Card flips in and out.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-card-flip.mp4" %}
 
 
 ### Slide rotate
 
-A Polaroid slides in from off-stage, glides, then slides out.
+Card slides in from off-screen and slides out.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-slide-rotate.mp4" %}
 
 
 ### Spark slide
 
-The Polaroid skates in and off with a spark trail through the flight.
+Card slides with a spark trail.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-spark-slide.mp4" %}
 
 
 ### Sparkle wipe
 
-A glitter trail leads while the next print skates into place.
+Glitter trail as the next photo arrives.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-sparkle-wipe.mp4" %}
 
 
 ### Flying card
 
-The card is tossed through 3D space.
+Card moves through 3D space.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-flying-card.mp4" %}
 
 
 ### Offset wash
 
-Split seat: sharp card at Photo Size on one side, wash opposite.
+Photo on one side, color wash on the other.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-offset-wash.mp4" %}
 
 
 ### Punch-in
 
-An oversized smear rushes in, then punches past the lens.
+Fast zoom through the frame.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-punch-in.mp4" %}
 
 
 ### Spiral-in
 
-The card coils in while the wash zooms in, then out.
+Card spirals in; wash zooms.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-spiral-in.mp4" %}
 
 
 ### Reveal from depth
 
-A slow push forward out of distant blur — the print finds you.
+Photo pushes forward out of blur.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-reveal-from-depth.mp4" %}
 
 
 ### Accordion fold
 
-Closed bellows unfold while fading in, then fold shut again.
+Fold animation in and out.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-accordion-fold.mp4" %}
 
 
 ### Contact sheet
 
-A bright Photo Size print sits on a dimmed grid of the same photo.
+One sharp photo on a dim grid of the same image.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-contact-sheet.mp4" %}
 
 
 ### Same-photo fan
 
-One photo fanned in depth — sharp centre, soft dim wings.
+One photo with soft side copies.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-same-photo-fan.mp4" %}
 
 
 ### Motion trail
 
-The print carries a diagonal motion-trail echo behind it.
+Photo moves with a motion echo.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-motion-trail.mp4" %}
 
 
 ### Swirl-in
 
-The card spirals in and out; the wash zooms (it does not swirl).
+Card spirals in and out.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-swirl-in.mp4" %}
 
 
-**Spiral-in** and **Reveal from depth** take about five seconds to seat. Captions wait until the photo has nearly landed. Only **Varied** carries both in its bias; **Gentle** leans Reveal, **Dramatic** leans Spiral, **Playful** leans neither — or tick them in Motion. By Look: Clean, Vintage, Noir, B&W, Golden Hour are Gentle; Cinematic and Crisp are Dramatic; Polaroid is Playful.
-
-Above roughly **93% Energy** they cannot play (boxes dim). If they were the only kinds checked, the movie falls back to Ken Burns while Energy stays that high. Once stills drop under about four seconds (~93% Energy), mixes drop both for quicker cuts.
+**Spiral-in** and **Reveal from depth** take about five seconds. Captions wait until the photo nearly lands. At high **Energy** (~93%+), they cannot play. Enable them in **Motion** if your mix allows.
 
 Per-slide pick: right-click → **Slide Transition** (includes **Random**). See [Library](../library.md#right-click-a-slide).
 
@@ -150,4 +148,4 @@ Per-slide pick: right-click → **Slide Transition** (includes **Random**). See 
 
 Several photos in one beat — **3D Ribbon, Carousel, Filmstrip, Perspective Pair, Photo Stack, Scatter & Settle**.
 
-On/off switches. All six may be off for classic one-at-a-time. Unchecking one keeps its cadence settings and shows *Off — check … under Transitions Mix…*. Details: [Multi-photo groups](groups.md).
+Toggle each type on or off. All six can be off for one-photo-at-a-time shows. Details: [Multi-photo groups](groups.md).
