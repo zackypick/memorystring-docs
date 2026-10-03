@@ -28,6 +28,18 @@ Yes, it is free. No account. No subscription.
 
 <details>
 
+<summary>Why did you make MemoryString?</summary>
+
+I built it for myself. I used DaVinci, After Effects, ProShow, iMovie, and more. That is how I learned what I like and what I don't.
+
+I was tired of apps that nag you to pay more after you already paid, and still give you a mediocre movie. Wondershare Filmora is one example.
+
+Then I thought: why not let everyone use it?
+
+</details>
+
+<details>
+
 <summary>Do my photos get uploaded?</summary>
 
 No. Files you add from a folder stay where they are. The show remembers their location.
