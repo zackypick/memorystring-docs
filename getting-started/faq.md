@@ -32,7 +32,9 @@ There is no Windows app and no iPhone app.
 
 ## App Store or the download on the site?
 
-Same app. The [download on the site](https://github.com/zackypick/memorystring-downloads/releases/download/v1.0.2/MemoryString-1.0.2.dmg) is the build most people should use. The [Mac App Store](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) build is sandboxed, so macOS limits what it can open.
+Same app. Use the [Mac App Store](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) if you can. That is also where you can rate it.
+
+The [download on the site](https://github.com/zackypick/memorystring-downloads/releases/download/v1.0.2/MemoryString-1.0.2.dmg) is the same movie-making app. The App Store version can only open files you choose (drop, Open, or Import from Photos). Day to day that is the same.
 
 ## Why doesn't it reopen my last show?
 
