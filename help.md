@@ -1,23 +1,27 @@
 # In-app Help
 
-Stuck mid-edit? The answers live in the app — **Help → MemoryString Help…** (**⌘/** or the **?** toolbar button). **Help → Full Documentation Online** opens this site ([memorystring.codebyz.com](https://memorystring.codebyz.com)) in a browser. In-app Help is the subset that ships in the app; this site is the full public set (The Studio, Essential and Studio, Organizing, [Auto detection](auto-detection.md) — including **Keep Best Shots** and **Auto Trim** — and split Style / Motion pages live here only).
+Open **Help → MemoryString Help…** (**⌘/** or the **?** button on the toolbar) for help inside the app.
+
+**Help → Full Documentation Online** opens this site ([memorystring.codebyz.com](https://memorystring.codebyz.com)) in a browser. In-app Help is a smaller set. This site has the full guides, including **The Studio**, **Essential and Studio**, **Organizing**, and **Auto detection**.
 
 ![MemoryString Help sidebar and Quick Start](../.gitbook/assets/help-window.png)
 
-Search the sidebar field to filter by title or body.
+Use the search field in the sidebar to filter topics by title or text.
 
-Topics: About MemoryString, Quick Start, Library, Preview, Timeline, Music, Effects, Multi-Photo Groups, Intro & Captions, Export, MCP Server, Keyboard Shortcuts.
+In-app topics include About MemoryString, Quick Start, Library, Preview, Timeline, Music, Effects, Multi-Photo Groups, Intro & Captions, Export, MCP Server, and Keyboard Shortcuts.
 
-**Help → Show Walkthrough** replays the first-run tour — seven stops, same as day one:
+**Help → Show Walkthrough** runs the first-run tour again. Seven stops:
 
-1. **Bring in moments** — Click + or drag in photos, videos, and music. Royalty-free tracks live here too.
-2. **Your Library** — Every photo and clip gathers here. Drag to reorder, or right-click for more.
-3. **Shape the story** — Scrub and fine-tune how the moments unfold. Right-click a slide for transitions, duration, and more.
-4. **Watch it come alive** — Your memory plays here — press play or Spacebar whenever you want a look.
-5. **Make it yours** — Looks, Energy (pace), Photo Size, and Captions live here, with per-clip controls.
-6. **Share your memory** — When you’re done, open Export and pick a format — including social.
-7. **Essential or Studio** — Stay simple in Essential, or open Studio when you want deeper controls.
+1. **Bring in moments** — Click **+** or drag in photos, videos, and music. Royalty-free tracks are here too.
+2. **Your Library** — Photos and clips appear here. Drag to reorder. Right-click for more options.
+3. **Shape the story** — Scrub the **Timeline**. Right-click a slide for transitions, duration, and more.
+4. **Watch it come alive** — Press **Space** or **Play** to preview.
+5. **Make it yours** — **Looks**, **Energy**, **Photo Size**, and **Captions** are in the Inspector.
+6. **Share your memory** — Open **Export** and pick a format.
+7. **Essential or Studio** — Use **Essential** for simplicity, or **Studio** for more controls.
 
-**Help → Report a Problem…** emails a sanitized crash package (stacks, Mac specs, breadcrumbs; no media filenames). Useful when something breaks — and polite about what it sends.
+**Help → Report a Problem…** sends a crash report by email. It includes stacks, Mac specs, and breadcrumbs. It does not include your media file names.
 
-**MemoryString → About MemoryString** is the About panel (creator, website, version). The same credit is in the window footer. Public how-to and export clips: [Welcome](welcome.md#watch-a-demo). Thanks — [Credits](credits.md).
+**MemoryString → About MemoryString** shows version and creator info.
+
+Demo videos: [Welcome](welcome.md#watch-a-demo). Thanks: [Credits](credits.md).

@@ -1,10 +1,8 @@
 # Keyboard shortcuts
 
-Hands on the keys — this page is the cheat sheet. Menu items also show their keys.
+Menu items show their shortcuts too. This page lists the main keys.
 
 ## Project
-
-File-level basics.
 
 | Key | Action |
 | --- | --- |
@@ -16,11 +14,9 @@ File-level basics.
 | **⌘Q** | Quit |
 | **⌘E** | Export Movie… |
 
-Traffic-light close closes the window only — reopen from the Dock.
+The window close button closes the window only. Reopen from the Dock.
 
 ## Edit
-
-Undo, clipboard, then the selected slide.
 
 | Key | Action |
 | --- | --- |
@@ -33,11 +29,9 @@ Undo, clipboard, then the selected slide.
 | **⌘]** / **⌘[** | Rotate Clockwise / Rotate Counter Clockwise |
 | **⇧⌘]** / **⇧⌘[** | Flip Horizontal / Flip Vertical |
 
-**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. Library calendar and empty-Library right-click add **Shuffle**. Library **⋯** has **Keep Best Shots…** and **Auto Trim Videos…**; right-click a video for **Auto Trim** (middle ~4s plus up to ~1s toward a face; right about 70% of the time). Undo those with **⌘Z** — see [Auto detection](auto-detection.md#auto-trim).
+**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. **Library** calendar and empty-Library right-click add **Shuffle**. **Library** **⋯** has **Keep Best Shots…** and **Auto Trim Videos…**. Right-click a video for **Auto Trim**. Undo with **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
 
 ## View
-
-Window chrome, then Timeline zoom, then UI text size.
 
 | Key | Action |
 | --- | --- |
@@ -45,11 +39,9 @@ Window chrome, then Timeline zoom, then UI text size.
 | **⌥⌘I** | Show / Hide Inspector |
 | **⌥⌘S** | Switch to Studio Mode / Switch to Essential Mode |
 | **⌥⌘+** / **⌥⌘-** | Timeline zoom in / out |
-| **⌘+** / **⌘-** / **⌘0** | Increase / Decrease / Default **UI** text size — app chrome, **Library cards**, and **Timeline** strip height (not Timeline zoom, not slide captions) |
+| **⌘+** / **⌘-** / **⌘0** | Increase / Decrease / Default **UI** text size — app chrome, **Library** cards, and **Timeline** strip height (not Timeline zoom, not slide captions) |
 
 ## Playback
-
-Watch without leaving the keyboard.
 
 | Key | Action |
 | --- | --- |
@@ -61,15 +53,13 @@ Watch without leaving the keyboard.
 
 ## Help
 
-Docs and diagnostics.
-
 | Key | Action |
 | --- | --- |
 | **⌘/** | MemoryString Help… |
 | **⌘,** | Settings… (Enable MCP Server lives here) |
 
-**Help → Full Documentation Online** opens this site ([memorystring.codebyz.com](https://memorystring.codebyz.com)) in a browser. In-app Help is the subset that ships in the app; this site is the full public set. **Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash package (stacks, Mac specs, breadcrumbs; no media filenames).
+**Help → Full Documentation Online** opens this site ([memorystring.codebyz.com](https://memorystring.codebyz.com)). **Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
 
 ## Tips
 
-Space and arrows pass through while you edit title text. **⌘V** / **⌘C** stay plain text while a caption or title field is focused. Undo/Redo cover most Inspector changes (Style, Motion, Intro, trims, shuffle). Prefer clicking? **Playback → Play** or **Pause** (the item toggles; Space is not bound on that menu item). **⌘D** applies to every selected slide. **⇧⌘C** focuses the caption field for one selected card. **⌘+** / **⌘-** / **⌘0** change UI text size — Library cards and Timeline strip height scale with the same factor; not slide captions.
+**Space** and arrow keys still work while you edit title text in some cases. **⌘V** / **⌘C** stay plain text while a caption or title field is focused. Undo and Redo cover most Inspector changes. **Playback → Play** or **Pause** also toggles playback. **⌘D** applies to every selected slide. **⌘+** / **⌘-** / **⌘0** change UI text size for **Library** cards and **Timeline** strip height. They do not change slide caption size.

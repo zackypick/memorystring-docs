@@ -4,7 +4,7 @@ description: "Format and export a MemoryString slideshow as H.264 MP4 on your Ma
 
 # Format and export
 
-This is where the movie leaves the desk and reaches family, friends, or a feed. Inspector → **Format** sets the aspect you edit in — and the default for Export. Frame rate, quality, and resolution live in the **Export Movie** dialog, not here.
+Inspector → **Format** sets the aspect you edit in. It is also the default for **Export**. Frame rate, quality, and resolution are in **Export Movie**, not on the **Format** tab alone.
 
 ![Inspector Format: Social order Instagram · TikTok · Pinterest · YouTube](../.gitbook/assets/inspector-format-swatches.png)
 
@@ -12,7 +12,7 @@ Same show, same moment, one photo on stage — each destination frame side by si
 
 ## Social
 
-Tall frames for phones and feeds. Swatch order: **Instagram · TikTok · Pinterest · YouTube**. Destination name is 12pt; the caption under it is 9pt.
+Tall frames for phones and feeds. Swatch order: **Instagram · TikTok · Pinterest · YouTube**.
 
 ### Instagram
 
@@ -68,19 +68,17 @@ Post · 1:1 (1080×1080)
 
 ## Social Safe
 
-An **export mode**, not a Look — same toggle in two places, on purpose. Built for tall frames that hate letterbox bars.
+**Social Safe** is an export mode for tall frames. It reduces empty bars by filling with soft stage color and keeping photos and captions inside the crop.
 
-**Format tab** (Inspector → **Format**) is the live one. Turn Social Safe on here so the **preview** shows the safe frame while you edit: photos, captions, and mats sit inside the crop *before* you encode.
+**Format** tab (Inspector → **Format**) controls the **live preview** when Social Safe is on.
 
 <figure><img src="../.gitbook/assets/inspector-format-social-safe.png" alt="Format tab: Social Safe checkbox so the preview matches the share crop"><figcaption>Social Safe — Format inspector (live preview)</figcaption></figure>
 
-**Export Movie** is for **this file**. The dialog’s Format swatches and Social Safe apply to that encode only — they do **not** change the live preview. Compose in YouTube 16:9 on the Format tab, then export a TikTok 9:16 with Social Safe without switching the whole workbench. Frame rate, quality, and resolution live only in Export.
+**Export Movie** applies Social Safe to **this file only**. It does not change the live preview swatch. You can compose in YouTube 16:9 on **Format**, then export TikTok 9:16 with Social Safe in the export dialog.
 
 <figure><img src="../.gitbook/assets/export-social-safe.png" alt="Export Movie: Social Safe keeps photos and captions inside the frame"><figcaption>Social Safe — Export Movie dialog (this encode)</figcaption></figure>
 
-Turn it on to fill tall frames with soft stage wash, keep mats and effects, and clamp Photo Size to about **85–98%**.
-
-It turns **on** automatically for **9:16**, **4:5**, and **2:3**. It stays **off** for Square, 16:9, and the other Classic frames. You can still toggle it by hand.
+Social Safe turns **on** automatically for **9:16**, **4:5**, and **2:3**. It stays **off** for Square, 16:9, and other Classic frames unless you turn it on.
 
 ## Export Movie
 
@@ -88,39 +86,37 @@ Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 
 ![Export Movie: Instagram-first Social swatches, folder chip, Compact→Best, Screensaver](../.gitbook/assets/export-dialog.png)
 
-- **Save As** — filename; folder chip (click to choose a folder). Default name prefers title text, then the project name, then **Untitled Memory**. The file is `.mp4`.
-- **Format** — destination swatches for **this encode** (does not change the live preview)
-- **Resolution** — **1080p** (default) or **4K**. 4K takes much longer — around three times the length of the show. **Cinema (21:9)** does not offer 4K — that format stays at 1080p because of the aspect, not the Mac. Rarely, when other apps leave too little free memory, 4K declines to start and asks you to close some apps or use 1080p. If memory tightens mid-export, the encode slows rather than failing.
-- **Social Safe** — same mode as the Format tab
-- **Quality** — slider stops **Compact**, **Share**, **High**, **Best** (**Share** is the default). Available in Essential and Studio; Studio also shows the target rate in Mbps.
-- **Frame Rate** — **30** (smaller/faster) or **60** (smoother motion)
+- **Save As** — filename; folder chip (click to choose). Default name uses title text, then project name, then **Untitled Memory**. File type: `.mp4`.
+- **Format** — swatches for **this encode** (does not change live preview)
+- **Resolution** — **1080p** (default) or **4K**. 4K takes much longer. **Cinema (21:9)** has no 4K option. If memory is low, 4K may ask you to close apps or use 1080p.
+- **Social Safe** — same as on **Format**
+- **Quality** — **Compact**, **Share**, **High**, **Best** (**Share** default). **Studio** also shows Mbps.
+- **Frame Rate** — **30** or **60**
 - **Screensaver** — see below
 
-Check the footer **projected size** (and duration) for the current choices. Click **Export** and wait. Toolbar shows **Creating memory…** and a percent. Editing pauses (*Edits paused while creating memory*). If music is still decoding, Export waits.
+The footer shows projected size and duration. Click **Export**. Toolbar shows **Creating memory…** and percent. Editing pauses (*Edits paused while creating memory*). Export waits if music is still loading.
 
-You get an H.264 MP4; the `.memorystring` project stays editable. Preview with **Space** (and Studio **Warm Now** if you want the baked pass) before you export — the file matches that show.
+You get an H.264 MP4. The `.memorystring` project stays editable. Preview with **Space** before export.
 
 ## Screensaver
 
-Check **Screensaver** at the bottom of Export Movie when the file is meant to loop on a Mac display — not a share movie.
+Check **Screensaver** when the file should loop on a Mac display — not for sharing with sound.
 
-- **No audio** — soundtrack and clip sound are omitted
-- **Skips intro** — the opening title card is not painted
-- **Fades to the stage** — first real slide fades in from Stage color; last slide fades out to Stage color (Dark or Light). No branded end hold
-- Needs at least one photo or video (*Add at least one slide before exporting a screensaver*)
-- Per-show — saved on this project. Turning it on seeds **1080p / 30 / Share**; you can still change those
+- **No audio**
+- **Skips intro**
+- **Fades to stage color** at start and end (Dark or Light). No branded end hold
+- Needs at least one photo or video
+- Per project. Turning it on sets **1080p / 30 / Share**; you can change those
 
-After export: *Drop the file into System Settings → Wallpaper → add folder to use as a screensaver.*
+After export: drop the file into **System Settings → Wallpaper** and add the folder as a screensaver.
 
 ## The MemoryString credit
 
-Every movie (except a Screensaver export) eases to the stage floor before the end hold (black on Dark, cream on Light). A subtle bottom-right **Created with MemoryString** mark — name + logo — fades in once during the tail of the last photo and stays through the end floor (about three seconds). On **Light** stage the credit uses the logo’s **bronze** brown.
-
-There is no toggle to turn it off. MemoryString is free — days, nights, weekends — and the credit is how the app reaches more families. If you want a loop with no end card, use **Screensaver**.
+Every normal movie ends with a short hold and a **Created with MemoryString** mark (name + logo). There is no toggle to turn it off. The app is free. For a loop with no end card, use **Screensaver**.
 
 ## Before you export
 
-- Preview with **Space** and scrub for timing issues.
+- Preview with **Space** and scrub for timing.
 - Confirm music rights for imported audio.
-- Check the Export dialog’s format matches where you will post.
-- **⌘S** so the project is saved alongside the MP4.
+- Check format matches where you will post.
+- **⌘S** to save the project.
