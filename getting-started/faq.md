@@ -98,7 +98,7 @@ There is no Windows app and no iPhone app.
 
 <summary>What if I can't use the App Store?</summary>
 
-Get it on the [Mac App Store](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12). That is also where you can rate it.
+Get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq). That is also where you can rate it.
 
 If the Store is not an option, the Mac installer is [here](https://github.com/zackypick/memorystring-downloads/releases/download/v1.0.2/MemoryString-1.0.2.dmg).
 

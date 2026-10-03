@@ -55,7 +55,7 @@ Every movie ends with a **Created with MemoryString** credit. There is no toggle
 
 ## Get it
 
-[**Mac App Store**](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) — free, no account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+[**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare) — free, no account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
 New here? [Quick start](quick-start.md) gets you to a finished movie.
 
