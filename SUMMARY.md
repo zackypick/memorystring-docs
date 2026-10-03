@@ -33,11 +33,11 @@
 
 ## More
 
-* [Roadmap](roadmap.md)
+* [Keyboard shortcuts](shortcuts.md)
+* [In-app Help](help.md)
 * [Known Issues](known-issues.md)
 * [Fixed](fixed.md)
-* [Keyboard shortcuts](shortcuts.md)
-* [MCP Server](mcp.md)
+* [Roadmap](roadmap.md)
 * [Credits](credits.md)
-* [In-app Help](help.md)
 * [Support me](support-me.md)
+* [MCP Server](mcp.md)
