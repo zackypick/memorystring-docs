@@ -74,6 +74,18 @@ Photos you import from the Photos app are copied onto your Mac, so the show can 
 
 <details>
 
+<summary>Is there a limit on how many photos? Can I import 1,000?</summary>
+
+There is no fixed limit, but a show of 1,000 photos does not make sense. That movie would run about an hour and 20 minutes. For most people, anything over about 10 minutes is already too long.
+
+A drop that large is also hard for the app. A few hundred photos, around 200 to 300, still runs, and the movie is still too long.
+
+If you have a whole trip and you do not want to pick the shots yourself, that is what **Flashback** is for. It is coming. It will choose a watchable movie from the pile and leave the rest in Outtakes. See the [roadmap](../roadmap.md).
+
+</details>
+
+<details>
+
 <summary>Which Mac do I need?</summary>
 
 macOS 14 (Sonoma) or later. Apple Silicon or Intel.
@@ -113,6 +125,16 @@ MemoryString shows the file in Finder. It does not open a video player.
 <summary>Can I remove "Created with MemoryString" at the end?</summary>
 
 The MemoryString signature stays at the end of the movie you share. The app is free, and that signature is how someone watching it hears about MemoryString and can download it too.
+
+</details>
+
+<details>
+
+<summary>Can I make a screensaver?</summary>
+
+Yes. In the Export Movie dialog, check **Screensaver**, then export. You get a silent movie that loops: no music, no intro, no signature at the end.
+
+To use it, open **System Settings → Wallpaper**, add the folder that holds the file, and pick that movie.
 
 </details>
 
