@@ -17,7 +17,7 @@ That’s it. A film you’d actually send. Minutes, not an evening. Free, on you
 
 ## Get it
 
-[**Mac App Store**](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) or [**download MemoryString 1.0.2 for Mac**](https://github.com/zackypick/memorystring-downloads/releases/download/v1.0.2/MemoryString-1.0.2.dmg) — free, always the latest build. macOS 14 (Sonoma) or later, Apple Silicon and Intel. The App Store build is sandboxed; the direct download is the same app without that sandbox.
+[**Mac App Store**](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) or [**download MemoryString 1.0.2 for Mac**](https://github.com/zackypick/memorystring-downloads/releases/download/v1.0.2/MemoryString-1.0.2.dmg) — free, always the latest build. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
 ## Watch a demo
 
