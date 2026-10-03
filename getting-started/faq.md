@@ -76,7 +76,7 @@ MemoryString shows the file in Finder. It does not open a video player.
 
 <summary>Can I remove "Created with MemoryString" at the end?</summary>
 
-No. The app is free, and that end card stays on every movie you share. **Screensaver** export has no end card.
+The MemoryString signature stays at the end of the movie you share. The app is free, and that signature is how someone watching it hears about MemoryString and can download it too.
 
 </details>
 
