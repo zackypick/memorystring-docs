@@ -29,7 +29,7 @@ The useful stuff sits on the right — mode, export, help, and the Inspector tog
 
 - **Essential** / **Studio** — how many controls you see ([next page](essential-studio.md)). First-run walkthrough marks sit on this control, **+**, and **Export**.
 - **Export** — Export Movie dialog
-- **?** — MemoryString Help (**⌘/**)
+- **?** — MemoryString Help (**⌘/**). Opens this site.
 - Inspector toggle — show or hide the right column (**⌥⌘I**)
 
 Toolbar **+** (near the project name) is **Photos & Videos…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…**.
@@ -106,6 +106,6 @@ Chrome, not captions. **View → Increase / Decrease / Default Text Size** (**�
 
 ## Walkthrough
 
-Forgot the first-run tour? **Help → Show Walkthrough** plays it again. Marks sit on the live title-bar **+**, Essential/Studio, and **Export**. Seven stops: **Bring in moments** → **Your Library** → **Shape the story** → **Watch it come alive** → **Make it yours** → **Share your memory** → **Essential or Studio**. Full lines: [In-app Help](../help.md).
+Forgot the first-run tour? **Help → Show Walkthrough** plays it again. Marks sit on the live title-bar **+**, Essential/Studio, and **Export**. Seven stops: **Bring in moments** → **Your Library** → **Shape the story** → **Watch it come alive** → **Make it yours** → **Share your memory** → **Essential or Studio**. Full lines: [Help](../help.md).
 
 **MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow — your photos stay put; only the chrome forgets your habits.
