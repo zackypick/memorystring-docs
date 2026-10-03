@@ -1,10 +1,10 @@
 ---
-description: "Five steps. Three ship in this release. Two follow."
+description: "MemoryString 1.0 shipped Photos, Outtakes, and Auto Trim. What's next: Flashback, Auto Enhance, Audio Sync, beat-sync, Long story short."
 ---
 
 # Roadmap
 
-Five steps. Three ship in this release. Two follow.
+MemoryString **1.0** shipped **Photos import**, **Outtakes**, and **Auto Trim** — plus export polish, screensaver, timeline multi-select, and more in that release. Below is what comes next.
 
 ## This release
 
@@ -24,10 +24,24 @@ Middle ~4 seconds of a phone clip, nudged up to ~1s toward a face when it can te
 
 ## Coming next
 
-### **Long story short**
+Rough order — each step builds on the last.
 
-One tap, and the pile becomes a movie. The app keeps the best, trims the pockets, orders the years, picks the look and the music. Sixty to ninety seconds, ready to play. The rest sit in Outtakes, waiting for you to argue with the cut.
+### **Flashback**
+
+Auto-select the best shots from a huge dump. The rest wait in Outtakes. Review everything; nothing is deleted. One flow to a minute-long show when the library is overwhelming.
+
+### **Auto Enhance**
+
+Optional gentle exposure and clarity before Looks — not a second Look system. Off by default. Turn it on when you want flat phone photos lifted a little; your Look still defines the movie.
+
+### **Audio Sync**
+
+Match the show to the soundtrack. Clip timing adjusts so the movie ends with the music — toggle in Audio. When the cut has to shrink, extras move to Outtakes so you can pull them back.
 
 ### **Beat-sync**
 
-The movie learns the song. Transitions land on beats, faces hold across bars, the minute feels played instead of pasted. Not a music video. A cut that breathes with the track.
+The movie learns the song. Cuts and transitions land on the beat — strength follows your Energy slider. Not a music video. A cut that breathes with the track. Studio mode.
+
+### **Long story short**
+
+One tap, and the pile becomes a movie. The app keeps the best, trims the pockets, orders the years, picks the look and the music. Sixty to ninety seconds, ready to play. The rest sit in Outtakes, waiting for you to argue with the cut.
