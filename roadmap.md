@@ -36,7 +36,7 @@ Optional gentle exposure and clarity before Looks — not a second Look system. 
 
 ### **Audio Sync**
 
-Match the show to the soundtrack. Clip timing adjusts so the movie ends with the music — toggle in Audio. When the cut has to shrink, extras move to Outtakes so you can pull them back.
+Match the show length to the soundtrack. Clip holds stretch or compress so the movie ends with the music — toggle in Audio. Does not drop shots; beat-sync handles overflow when the song cannot fit every cut.
 
 ### **Beat-sync**
 
