@@ -20,12 +20,12 @@ Folder and Finder imports stay **linked** to the original files. Media from **Ph
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
 2. Or **File → Import from Photos…** (also on **+**) — **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**
+3. Or drop folders, photos, or videos on the window (including from Photos.app).
+4. Or drop a folder, or paste (**⌘V**).
 
 ![Toolbar + : Photos & Videos, Import from Photos, Music, Royalty-Free Library](../.gitbook/assets/toolbar-plus-menu.png)
 
 ![Import from Photos sheet](../.gitbook/assets/photos-import-hub.png)
-3. Or drop folders, photos, or videos on the window (including from Photos.app).
-4. Or drop a folder, or paste (**⌘V**).
 
 An empty **Library** shows **Nothing in library yet**. The preview area accepts drops. Hover hint for media: **Gather the thread**. Hover hint for a project file: **Bring back memories**.
 
