@@ -1,5 +1,5 @@
 ---
-description: "MemoryString 1.0 shipped Photos, Outtakes, and Auto Trim. What's next: Flashback (with Long story short), Audio Sync, Auto Enhance, Motion pins, beat-sync, Motion presets."
+description: "MemoryString 1.0 shipped Photos, Outtakes, and Auto Trim. What's next: Long story short, Audio Sync, Auto Enhance, Motion pins, beat-sync, Motion presets."
 ---
 
 # Roadmap
@@ -26,11 +26,11 @@ For video clips, **Auto Trim** keeps about four seconds from the middle of the c
 
 In this order.
 
-### **Flashback**
+### **Long story short**
 
-Pick the best shots from a very large import. The rest wait in **Outtakes**. You review everything before you accept. Nothing is deleted.
+Auto-build a watchable show from a large dump of photos and videos. The best shots go on the timeline. The rest stay in **Outtakes**. Nothing is deleted.
 
-**Long story short** is a one-tap option on the same screen. It makes about a one-minute movie with a balanced pace, a Look, and music, then opens a playable cut. Use **Make a Flashback** when you want to choose length, people or places, and swap shots first.
+The default is about 3 minutes, short enough to share. You can choose the length. It works from Photos, folders, drops, and the other ways you bring media in.
 
 ### **Audio Sync**
 
