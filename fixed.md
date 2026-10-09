@@ -21,6 +21,9 @@ What we fixed, by version.
 * By Month Photos imports bring in every photo in the month.
 * Photos library ids no longer show up in captions.
 * Open and Save panels no longer swallow shortcuts.
+* Spiral-in and Reveal from depth play at every Energy.
+* Right-click on a slide no longer scrolls the timeline.
+* Essential can play the show while an export runs.
 
 ## Version 1.0: Photos Import
 
