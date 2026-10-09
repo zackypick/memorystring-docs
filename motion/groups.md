@@ -14,7 +14,7 @@ If you drag slides by hand, group windows **pin** to those photos until you sort
 
 Right-click a grouped photo for **that seat**. **Entire group ▸** (near **Ungroup**) applies rotate, lens, duration, or move/remove to all seats. Right-click two or more singles → **Group Transition**. See [Library](../library.md#right-click-a-slide).
 
-![Grouped seat menu: Photo 1 of 5 · Ribbon, Entire group, Ungroup](../.gitbook/assets/library-context-ungroup.png)
+![Grouped seat menu: Photo 2 of 5 · Ribbon, Group Transition, Entire group, Ungroup](../.gitbook/assets/library-context-ungroup.png)
 
 Videos in a group play in their seat. Unmuted video audio plays only while that card is the hero.
 

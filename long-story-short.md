@@ -25,6 +25,8 @@ If the show already has slides, it asks first: **Rebuild the show?** **Continue*
 
 When an import would put more than **150** photos and videos on the show, MemoryString asks first: **That would make a N-photo show**.
 
+![That would make a 2359-photo show: Long story short, Import all, Cancel](../.gitbook/assets/long-story-short-large-import.png)
+
 - **Long story short** — pick the best ones for a shareable movie
 - **Import all** — put everything on the show
 - **Cancel** — import nothing

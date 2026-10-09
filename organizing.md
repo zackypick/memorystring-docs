@@ -65,7 +65,7 @@ First click on a group selects the **whole window**. Drag moves every seat toget
 
 Right-click a grouped photo for **that seat**. **Entire group ▸** holds actions for all seats. Right-click two or more singles → **Group Transition**. **Ungroup** splits a group. See [Library](library.md#right-click-a-slide).
 
-![Entire group ▸: Rotate & Flip, Set Duration…, Move N to Outtakes, Remove N](../.gitbook/assets/library-entire-group-menu.png)
+![Entire group ▸: Rotate & Flip, Lens Effect, Set Duration…, Move 5 photos to Outtakes, Remove 5 photos](../.gitbook/assets/library-entire-group-menu.png)
 
 ### In-group photos and videos
 
