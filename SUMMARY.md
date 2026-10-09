@@ -12,6 +12,7 @@
 ## Build your movie
 
 * [Library](library.md)
+* [Long story short](long-story-short.md)
 * [Organizing](organizing.md)
 * [Preview](preview.md)
 * [Timeline](timeline.md)

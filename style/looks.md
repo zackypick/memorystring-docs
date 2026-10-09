@@ -76,7 +76,7 @@ Cool editorial look. Thin white frame, strong shadow, **Dramatic** transitions. 
 
 Slider from **Calm** to **Intense**. Labels: **Calm · Steady · Lively · Energetic · Intense**.
 
-Photo still duration scales with Energy — about **7.6s** at Calm, **3.4s** at default, **2.0s** at Intense. **Intro** uses separate timing: about **7s / 6s / 4s**. Energy does not clear hand-picked Motion checkboxes.
+Photo still duration scales with Energy — about **7.6s** at Calm, **4.0s** at default, **2.0s** at Intense. **Intro** uses separate timing: about **7s / 6s / 4s**. Energy does not clear hand-picked Motion checkboxes.
 
 Above about **93% Energy**, **Spiral-in** and **Reveal from depth** cannot play. If they were the only kinds checked, the movie uses Ken Burns instead while Energy stays high.
 

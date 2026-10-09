@@ -63,6 +63,10 @@ Right-click a photo or video on the photo lane:
 
 On a **grouped seat**, the menu applies to **that photo**. Header shows **Photo 2 of 4 · Photo Stack**. **Entire group ▸** has rotate, lens, **Set Duration…**, **Move N photos to Outtakes**, **Remove N**. **Ungroup** is nearby.
 
+**Set Duration…** on a group opens **Group Length**. It sets the whole group, the same as dragging the group's edge. A video seat inside does not cap it. Typing a length in the Inspector does the same.
+
+![Group Length: the whole group, same as dragging its edge](../.gitbook/assets/group-length.png)
+
 Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
@@ -77,7 +81,7 @@ Inspector clip footer has the same trims for selected video or soundtrack.
 
 **Auto Caption** is not on this menu — use **Library** captions bubble, **Edit**, Style → Captions, or **Generate**.
 
-Right-click selects the clip under the pointer and seeks the playhead there.
+Right-click selects the clip under the pointer and seeks the playhead there. **Esc** deselects clips and music tracks.
 
 Intro cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Rotate & Flip** with background, **Reset Center of Interest** with background.
 

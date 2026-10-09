@@ -23,7 +23,7 @@ The Studio is built around Library, Outtakes, Preview, Inspector, Timeline, and 
 
 ## Toolbar
 
-The useful stuff sits on the right — mode, export, help, and the Inspector toggle.
+The project name sits on the left with the show's length next to it. The length updates as you edit. The useful stuff sits on the right — mode, export, help, and the Inspector toggle.
 
 ![The toolbar — project, Add, Essential / Studio, Export, Help, Inspector](../.gitbook/assets/toolbar-right.png)
 

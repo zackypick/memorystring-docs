@@ -6,7 +6,23 @@ description: "What we fixed, by version."
 
 What we fixed, by version.
 
-## Version 1.x: Photos Import
+## Version 1.1: Long story short
+
+* Set Duration on a group is no longer capped by a video seat inside it.
+* Ungrouped photos play their own length instead of keeping the old group length.
+* Video lengths no longer change on their own after reopen.
+* Reset Video Duration restores the full clip in one press.
+* Captions no longer jump when a filmstrip enters.
+* Delete is faster and keeps the playhead and timeline zoom where they were.
+* Undo of a delete no longer shows the importing pill.
+* Intro keeps its length when you drag the next slide's start.
+* Dropping a song always lands it on the Audioline.
+* Library video thumbs no longer stay grey after reopen.
+* By Month Photos imports bring in every photo in the month.
+* Photos library ids no longer show up in captions.
+* Open and Save panels no longer swallow shortcuts.
+
+## Version 1.0: Photos Import
 
 * Auto COI and Reset COI no longer crash on open.
 * AttributeGraph crash on open resolved.

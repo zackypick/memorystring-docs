@@ -1,36 +1,32 @@
 ---
-description: "MemoryString 1.0 shipped Photos, Outtakes, and Auto Trim. What's next: Long story short, Audio Sync, Auto Enhance, Motion pins, beat-sync, Motion presets."
+description: "MemoryString 1.1 shipped Long story short and richer captions. What's next: Audio Sync, Auto Enhance, Motion pins, beat-sync, Motion presets."
 ---
 
 # Roadmap
 
-MemoryString **1.0** shipped **Photos import**, **Outtakes**, and **Auto Trim**. It also added export polish, screensaver export, timeline multi-select, and more.
+MemoryString **1.1** shipped **Long story short** and richer **captions**. It also made group lengths easier to set and moved Help to this site.
 
 ## This release
 
-### **Photos Import**
+### **Long story short**
 
-Import from Photos inside the app. Browse albums, people, trips, media types, smart albums, and date ranges. You can also drag a folder or pick from Photos. Photos stay on your Mac. No account or cloud upload.
+Build a shareable movie from a big pile of photos and videos. Pick a length from 1 to 20 minutes (default 3). The best shots go on the show, spread across the whole trip. Videos are trimmed. The rest stay in **Outtakes**. Nothing is deleted. An import of more than 150 photos and videos offers it first. See [Long story short](long-story-short.md).
 
-### **Outtakes**
+### **Caption Details**
 
-Photos the app did not put in the show live here. **Keep Best Shots** may ask after import. Extra similar photos go to **Outtakes**, not the movie. You can move any of them back. Nothing is deleted from your Mac.
+Choose what automatic captions say: landmark, city, country, and date. Dates come short, long, or as numbers, with or without the weekday. Captions can be written in another language. One **Size** for every slide, and captions rise in by default. See [Intro and captions](intro-captions.md#caption-details-studio).
 
-### **Auto Trim**
+**Also in this version:** **Set Duration** on a group sets the whole group, the same as dragging its edge. **Esc** deselects. A live show clock in the title bar. **Help** opens this site. Lens effects show on fewer photos by default (**How often** 50%). A calmer default pace.
 
-For video clips, **Auto Trim** keeps about four seconds from the middle of the clip. It may nudge up to about one second toward a face. It works about 70% of the time. Trim by hand if you need to. It does not run on import. Undo with **⌘Z**.
+## Earlier releases
 
-**Also in this version:** a compact export dialog, screensaver export (no audio, no intro, fades on stage color), timeline multi-select, rebuilt Timing and Rotate & Flip menus, video duration on library thumbs, and an update notice in the footer and app menu.
+### **1.0**
+
+**Photos import**, **Outtakes**, and **Auto Trim**. Also a compact export dialog, screensaver export, timeline multi-select, rebuilt Timing and Rotate & Flip menus, video duration on library thumbs, and an update notice in the footer and app menu.
 
 ## Coming next
 
 In this order.
-
-### **Long story short**
-
-Auto-build a watchable show from a large dump of photos and videos. The best shots go on the timeline. The rest stay in **Outtakes**. Nothing is deleted.
-
-The default is about 3 minutes, short enough to share. You can choose the length. It works from Photos, folders, drops, and the other ways you bring media in.
 
 ### **Audio Sync**
 

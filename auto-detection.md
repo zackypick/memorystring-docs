@@ -8,6 +8,7 @@ These tools help with a messy camera roll. Everything runs on your Mac. Original
 
 ## The helpers
 
+- **[Long story short](long-story-short.md)** — Builds a movie of the length you pick from your best shots. Uses Keep Best and Auto Trim. The rest go to **Outtakes**.
 - **Keep Best Shots** — From similar burst photos, keep one strong shot. Extras move to **Outtakes** (still in the project, not in the show). Import may ask; **Library** **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
 - **Auto Trim** — About four seconds from the middle of a video clip, with up to about one second nudge toward a face. Works about 70% of the time. Right-click or **Library** **⋯** — not on import. After it runs, use **Reset Video Duration** to restore full length. Undo **⌘Z**.
 - **Video mute** — On import, quiet clips with only room noise so music can lead.

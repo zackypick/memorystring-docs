@@ -38,6 +38,8 @@ After the show has clips, a media drop reads **Add to story**. **Keep Best Shots
 
 Other types are skipped.
 
+Got a whole trip? Use [Long story short](../long-story-short.md) (**File → Long story short**). Pick a length and it builds the movie from your best shots. An import that would put more than **150** photos and videos on the show offers it first.
+
 After import, **Keep Best Shots** may appear when similar photo groups are found. Extras move to **Outtakes**. Videos are **not** auto-trimmed on import. Right-click a clip → **Auto Trim**, or use Library **⋯**. See [Auto detection](../auto-detection.md#auto-trim).
 
 ## 3. Order the story

@@ -35,7 +35,7 @@ Use the captions bubble for bulk fill or clear. Settings: [Intro and captions](i
 
 Find it in **Library** **⋯**, Inspector → **Motion → Timeline**, or right-click empty **Library** space. If you set **Slide Transition** by hand, MemoryString asks before clearing those picks.
 
-![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-menu-options.png)
+![Library ⋯: Long story short, Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-options-menu.png)
 
 ![Motion → Timeline: Sort by Date Taken, Shuffle Slides, Shuffle Transitions, Reset Slide Durations](../.gitbook/assets/inspector-motion-timeline.png)
 

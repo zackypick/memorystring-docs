@@ -80,7 +80,7 @@ There is no fixed limit, but a show of 1,000 photos does not make sense. That mo
 
 A drop that large is also hard for the app. A few hundred photos, around 200 to 300, still runs, and the movie is still too long.
 
-If you have a whole trip and you do not want to pick the shots yourself, that is what **Flashback** is for. It is coming. It will choose a watchable movie from the pile and leave the rest in Outtakes. See the [roadmap](../roadmap.md).
+If you have a whole trip and you do not want to pick the shots yourself, that is what [Long story short](../long-story-short.md) is for. It chooses a watchable movie from the pile and leaves the rest in Outtakes. When an import would put more than 150 photos and videos on the show, MemoryString offers it first.
 
 </details>
 
@@ -100,7 +100,7 @@ There is no Windows app and no iPhone app.
 
 Get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq). That is also where you can rate it.
 
-If the Store is not an option, the Mac installer is [here](https://github.com/zackypick/memorystring-downloads/releases/download/v1.0.2/MemoryString-1.0.2.dmg).
+If the Store is not an option, the Mac installer is [here](https://github.com/zackypick/memorystring-downloads/releases/download/v1.1.0/MemoryString-1.1.0.dmg).
 
 </details>
 
