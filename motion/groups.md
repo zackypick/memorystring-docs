@@ -1,6 +1,6 @@
 # Multi-photo groups
 
-Sometimes several photos share one moment — stacks, carousels, ribbons, and similar layouts. Turn types on under **Motion → Transitions Mix → Multi-photo**.
+Sometimes several photos share one moment — stacks, carousels, ribbons, and similar layouts. Turn types on under **Motion → Transitions → Multi-photo**.
 
 ![3D Ribbon and Carousel cadence](../.gitbook/assets/inspector-motion-groups.png)
 
@@ -103,4 +103,4 @@ Follower slides collapse onto the lead cell. Badges: **stack 1/5**, **carousel 2
 
 **This photo** **Lens Effect** pins one seat. **Entire group ▸ Lens** copies to every seat. **Anamorphic Streaks** and **Bokeh** do not auto-assign on group seats — pin by hand if you want them.
 
-After seat changes, the strip may show **Preparing preview…** while the group rebuilds. Mix and group settings undo with **⌘Z**.
+After seat changes, the strip may show **Preparing preview…** while the group rebuilds. Transition and group settings undo with **⌘Z**.

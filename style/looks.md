@@ -12,7 +12,7 @@ A **Look** sets the whole movie style from one chip in Inspector → **Style**: 
 
 ## The eight chips
 
-Click a chip. MemoryString updates **Motion → Transitions Mix**, picks transitions from that mix, and applies group settings for that Look. Hand-picked Motion checkboxes are replaced.
+Click a chip. MemoryString deals transitions from that Look's set and applies group settings for that Look. Hand-picked Motion checkboxes are replaced.
 
 **Click the same Look again** for a new random deal: lens effects (every Look except **Clean**), transitions, and Match Look music if the playlist is still auto-seeded. Pinned **Lens Effect** on slides survive.
 
@@ -26,49 +26,49 @@ A Look with many lens boxes still plays **at most one** lens effect per photo. S
 
 ### Clean
 
-Minimal style. White matte, soft shadow, **Large** Photo Size, colored backdrop, **Gentle** transitions. Stacks + carousel at defaults; **Perspective Pair** every 6.
+Minimal style. White matte, soft shadow, **Large** Photo Size, colored backdrop, soft transitions (Ken Burns, depth dissolve, reveal from depth). Stacks + carousel at defaults; **Perspective Pair** every 6.
 
 ![](../.gitbook/assets/look-clean.jpg)
 
 ### Polaroid
 
-Instant-print feel. White matte with thick bottom margin, curl, gentle wind, **Playful** transitions. Dense stacks; carousel; **Perspective Pair** every 8.
+Instant-print feel. White matte with thick bottom margin, curl, gentle wind, playful transitions (card flip, slide, sparks, contact sheet). Dense stacks; carousel; **Perspective Pair** every 8.
 
 ![](../.gitbook/assets/look-polaroid.jpg)
 
 ### Vintage
 
-Aged album. Black mat, torn edge, warm leak, grayscale backdrop, grain and scratches, **Gentle** transitions. Sparse stacks and ribbon; Filmstrip on.
+Aged album. Black mat, torn edge, warm leak, grayscale backdrop, grain and scratches, soft transitions (layers, same-photo fan, card flip). Sparse stacks and ribbon; Filmstrip on.
 
 ![](../.gitbook/assets/look-vintage.jpg)
 
 ### Cinematic
 
-Wide cinematic grade. Thin black frame, strong shadow, fine grain, **Dramatic** transitions, **Large** Photo Size. Carousel and ribbon; Filmstrip and **Scatter & Settle** on some cadences.
+Wide cinematic grade. Thin black frame, strong shadow, fine grain, dramatic transitions (spiral-in, punch-in, accordion), **Large** Photo Size. Carousel and ribbon; Filmstrip and **Scatter & Settle** on some cadences.
 
 ![](../.gitbook/assets/look-cinematic.jpg)
 
 ### Noir
 
-Moody black-and-white. Soft mono grade, black frame, vignette, **Gentle** transitions. **Perspective Pair** every 7. Mats stay white or black paper.
+Moody black-and-white. Soft mono grade, black frame, vignette, soft transitions; no spark trails. **Perspective Pair** every 7. Mats stay white or black paper.
 
 ![](../.gitbook/assets/look-noir.jpg)
 
 ### B&W
 
-Soft documentary grayscale. White mat, rounded corners, **Gentle** transitions. **Perspective Pair** every 8. Gentler than **Noir**.
+Soft documentary grayscale. White mat, rounded corners, soft transitions; no spark trails. **Perspective Pair** every 8. Gentler than **Noir**.
 
 ![](../.gitbook/assets/look-bw.jpg)
 
 ### Golden Hour
 
-Warm late-day color. White mat, warm leak, stage sun wash, **Gentle** transitions. **Perspective Pair** every 8.
+Warm late-day color. White mat, warm leak, stage sun wash, soft transitions. **Perspective Pair** every 8.
 
 ![](../.gitbook/assets/look-golden-hour.jpg)
 
 ### Crisp
 
-Cool editorial look. Thin white frame, strong shadow, **Dramatic** transitions. **Perspective Pair** and Filmstrip every 8.
+Cool editorial look. Thin white frame, strong shadow, dramatic transitions (punch-in, flying card, spiral-in). **Perspective Pair** and Filmstrip every 8.
 
 ![](../.gitbook/assets/look-crisp.jpg)
 
@@ -78,7 +78,7 @@ Slider from **Calm** to **Intense**. Labels: **Calm · Steady · Lively · Energ
 
 Photo still duration scales with Energy — about **7.6s** at Calm, **4.0s** at default, **2.0s** at Intense. **Intro** uses separate timing: about **7s / 6s / 4s**. Energy does not clear hand-picked Motion checkboxes.
 
-Above about **93% Energy**, **Spiral-in** and **Reveal from depth** cannot play. If they were the only kinds checked, the movie uses Ken Burns instead while Energy stays high.
+**Spiral-in** and **Reveal from depth** play at every Energy. Their slides run a little longer so the slow wind-in still lands.
 
 ## Photo Size
 

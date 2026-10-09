@@ -70,7 +70,7 @@ Open the Inspector (**⌥⌘I**) for more control:
 
 - **Style** — Look, Energy, Stage, Photo Size, Captions, Customize (Studio)
 - **Intro** — opening card
-- **Motion** — Studio only: Transitions Mix, multi-photo groups
+- **Motion** — Studio only: Transitions, multi-photo groups
 - **Audio** — playlist, **Pick New Music** / **Extend to Fill** / **Surprise me**
 - **Format** — aspect / Social Safe (Instagram first among Social swatches)
 
