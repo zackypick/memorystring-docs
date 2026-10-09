@@ -70,6 +70,8 @@ Font, color, **Auto Size** / **Size**, **Align**, **Outline**, **Shadow**.
 
 Optional. Not added unless you type or run **Auto Caption**. Not the intro title — usually place · date under a photo.
 
+![Auto caption on a slide: Golden Gate Park, San Francisco · 6 July 2024](../.gitbook/assets/caption-stage.jpg)
+
 ## Set a caption in the Inspector
 
 **Studio:** **Style** → **Captions** → **Type & Placement** for font, color, size, align, motion, placement, shade. Bulk **Auto Caption** / **Clear** here too.
