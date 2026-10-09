@@ -70,7 +70,7 @@ On a **grouped seat**, the top of the menu applies to **that photo**, plus **Aut
 
 Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
 
-![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
+![Timeline video menu: Auto Trim, Mute Video Sound, Timing](../.gitbook/assets/timeline-video-context-menu.png)
 
 **Auto Trim** — about four seconds from the middle, face nudge ~70% success. Not on import. Undo **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
 
