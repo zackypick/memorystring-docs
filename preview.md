@@ -89,7 +89,7 @@ On the **intro**, a single click on the still sets the same aim. **Double-click*
 
 ## Rotate while paused
 
-Right-click the paused photo or video → **Rotate & Flip** → **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**. These options are hidden while playing.
+Right-click the paused photo or video → **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**. These options are hidden while playing.
 
 On the intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**. With a background still, **Rotate & Flip** turns the cover photo.
 

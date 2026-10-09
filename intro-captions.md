@@ -70,9 +70,13 @@ Font, color, **Auto Size** / **Size**, **Align**, **Outline**, **Shadow**.
 
 Optional. Not added unless you type or run **Auto Caption**. Not the intro title — usually place · date under a photo.
 
+![Auto caption on a slide: Golden Gate Park, San Francisco · 6 July 2024](../.gitbook/assets/caption-stage.jpg)
+
 ## Set a caption in the Inspector
 
 **Studio:** **Style** → **Captions** → **Type & Placement** for font, color, size, align, motion, placement, shade. Bulk **Auto Caption** / **Clear** here too.
+
+**Size** sets one text size for every slide. Long captions wrap. Turn off **Auto Size** to set it by hand. Captions rise in by default (**Rise**). A group shows its caption once, with one entrance and one exit for the whole group.
 
 Select a clip. Type in Inspector clip bar (**Add a caption…**), **⇧⌘C**, or right-click **Set Caption**. **Generate** for one slide. **Aa** opens caption style.
 
@@ -86,7 +90,22 @@ Bulk: **Auto Caption N Untitled Slides**, **Auto Caption All Slides…**, **Clea
 
 ### Auto Caption
 
-Does **not** run on import. Fills empty captions on-device: place · date → capture date → readable filename. Never camera codes. See [Auto detection](auto-detection.md#auto-caption).
+Does **not** run on import. Fills empty captions on-device: place · date → capture date → readable filename. Never camera codes. Places lead with the landmark or neighborhood when Apple Maps knows one. See [Auto detection](auto-detection.md#auto-caption).
+
+### Caption Details (Studio)
+
+**Style** → **Captions** → **Caption Details** chooses what automatic captions say. The top line is a live example from the selected slide.
+
+![Caption Details: Landmark, City, Country, Date, Day, Weekday, Language](../.gitbook/assets/caption-details.png)
+
+- **Landmark** — for example **Golden Gate Park**
+- **City**
+- **Country** — with **Only When the Show Visits Several Countries** on, a one-country show leaves it out
+- **Date** — **Off**, **Short**, **Long**, or **Numbers**. **Numbers** adds **Date Order** (Day/Month/Year, Month/Day/Year, Year-Month-Day) and **Two-Digit Year**
+- **Day** — off shows month and year only. **Weekday** adds the day name
+- **Language** — for place names and dates. **Same as Mac** by default
+
+Changes apply to automatic captions. Captions you typed or edited stay as they are.
 
 ![Library captions: Auto Caption untitled, Auto Caption All, Clear All](../.gitbook/assets/library-menu-captions.png)
 

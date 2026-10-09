@@ -88,7 +88,7 @@ Darker edges around the print.
 
 Each photo plays **at most one** pooled lens effect. The choice is stable for that photo.
 
-- **Randomize Selected on** (default for Looks): equal odds among checked boxes. **How often** (default **70%**) sets how many photos get an effect. Groups may get effects slightly more often.
+- **Randomize Selected on** (default for Looks): equal odds among checked boxes. **How often** (default **50%**) sets how many photos get an effect. Groups may get effects slightly more often.
 - **Randomize Selected off**: some effects like Vignette can apply on every photo instead of taking the single slot.
 
 **Studio:** right-click **Timeline** or **Library** → **Lens Effect** to pin **this photo**. **Entire group ▸ Lens** copies to all seats. Pins survive Look changes. **Anamorphic Streaks** and **Bokeh** do not auto-assign on group seats.

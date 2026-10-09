@@ -23,13 +23,14 @@ The window close button closes the window only. Reopen from the Dock.
 | **⌘Z** / **⇧⌘Z** | Undo / Redo (**⌘Y** also Redo when not typing) |
 | **⌘V** / **⌘C** | Paste / copy media (plain text while a caption or title field is focused) |
 | **⌘⌫** | Delete selected media or music |
-| **⌘D** | Set Duration… |
+| **⌘D** | Set Duration… (on a group: the whole group's length) |
+| **Esc** | Deselect slides, Library cards, and music tracks |
 | **⇧⌘C** | Set Caption (one selected Library or Timeline card; off when more than one card is selected) |
 | **⌘1** / **⌘2** | Set Start Here / Set End Here (selected video or soundtrack, at the playhead — [audition the Audioline](music.md#audition-the-audioline) first for music) |
 | **⌘]** / **⌘[** | Rotate Clockwise / Rotate Counter Clockwise |
 | **⇧⌘]** / **⇧⌘[** | Flip Horizontal / Flip Vertical |
 
-**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. **Library** calendar and empty-Library right-click add **Shuffle**. **Library** **⋯** has **Keep Best Shots…** and **Auto Trim Videos…**. Right-click a video for **Auto Trim**. Undo with **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
+**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. **Library** calendar and empty-Library right-click add **Shuffle**. **Library** **⋯** has **Long story short**, **Keep Best Shots…**, and **Auto Trim Videos…**. Right-click a video for **Auto Trim**. Undo with **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
 
 ## View
 
@@ -55,10 +56,10 @@ The window close button closes the window only. Reopen from the Dock.
 
 | Key | Action |
 | --- | --- |
-| **⌘/** | MemoryString Help… |
+| **⌘/** | MemoryString Help… (opens this site) |
 | **⌘,** | Settings… (Enable MCP Server lives here) |
 
-**Help → Full Documentation Online** opens this site ([memorystring.codebyz.com](https://memorystring.codebyz.com)). **Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
+**Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
 
 ## Tips
 
