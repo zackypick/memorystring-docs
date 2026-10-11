@@ -42,7 +42,7 @@ Same on every import path: **+**, Finder drop, **Import from Photos…**, Photos
 
 The show plays in date order. The length lands close to the slider, usually within a few seconds.
 
-While it works, the stage shows **Stringing it together...** with **Importing N of M...**, then **Scoring N of M...**, then **Reviewing N of M...**, then **Straightening N of M...**. Kept shots are upright before the movie is laid out. **Cancel** puts the previous show back. See [Orientation](auto-detection.md#orientation).
+While it works, the stage shows **Stringing it together...** with **Importing N of M...**, then **Scoring N of M...**, then **Reviewing N of M...**, then **Straightening N of M...**, then **Building the show...**. Kept shots are upright before the movie is laid out. **Cancel** puts the previous show back. See [Orientation](auto-detection.md#orientation).
 
 ## After it runs
 
