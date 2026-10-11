@@ -83,7 +83,7 @@ Sideways and upside-down photos and videos are turned upright on their own. The 
 
 **When:** during import, while the loader is up — **+**, Finder drop, paste, folders, and **Import from Photos…**. The line under the title reads **Straightening N of M...**. The show lands already upright.
 
-**Long story short** turns the shots it keeps, after **Selecting best shots**, before the movie is laid out. Extras added to reach the length are turned the same way.
+**Long story short** turns the shots it keeps, after **Reviewing**, before the movie is laid out. Extras added to reach the length are turned the same way.
 
 **Opening a show:** turns this Mac already knows are applied before the timeline appears, so the length does not change a moment later. Photos this Mac has never checked are turned shortly after the show opens.
 
