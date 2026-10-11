@@ -22,7 +22,7 @@ These tools help with a messy camera roll. Everything runs on your Mac. Original
 
 When several photos look almost the same, MemoryString can keep the one with open eyes, a smile, sharpness, and good exposure.
 
-**When:** after **import** when new stills join a similar group, or anytime from **Library** **⋯** → **Keep Best Shots…**. Videos are not included.
+**When:** during **import**, before the show is built — the fog (or the loading pill on an existing show) says **Comparing similar shots N of M...**, then asks. Anytime later from **Library** **⋯** → **Keep Best Shots…**. Videos are not included.
 
 **The dialog** shows how many groups and extra shots. **Keep the best shot only?** Default button: **Keep Best**. **Keep All** leaves every photo.
 
