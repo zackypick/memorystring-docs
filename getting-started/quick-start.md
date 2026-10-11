@@ -29,7 +29,7 @@ Folder and Finder imports stay **linked** to the original files. Media from **Ph
 
 An empty **Library** shows **Nothing in library yet**. The preview area accepts drops. Hover hint for media: **Gather the thread**. Hover hint for a project file: **Bring back memories**.
 
-While the stage loader runs, drops are ignored. First import title: **Stringing it together...** (may show percent and **Cancel**). Opening a project: **It's coming back now...** (no percent). The loader is a spinner with a smoke animation.
+While the stage loader runs, drops are ignored. First import title: **Stringing it together...** with **Importing N of M...** and **Cancel**. Opening a project: **It's coming back now...** (no count). The loader is a spinner with a smoke animation.
 
 After the show has clips, a media drop reads **Add to story**. **Keep Best Shots** waits until the loader clears.
 
