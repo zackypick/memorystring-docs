@@ -41,7 +41,7 @@ iMovie lets you cut on a timeline with tracks and precise edits. MemoryString do
 
 ![Import from Photos — browse albums, people, months, and media types](../.gitbook/assets/photos-import-hub.png)
 
-[Mute](../auto-detection.md#video-sound-auto-mute) can quiet empty room tone so music leads. Speech on camera stays. [Center of interest](../auto-detection.md#center-of-interest) aims motion at faces. **Auto Caption** can fill place · date when you run it — not on import.
+[Mute](../auto-detection.md#video-sound-auto-mute) can quiet empty room tone so music leads. Speech on camera stays. Sideways and upside-down photos and videos are [turned upright on import](../auto-detection.md#orientation). Original files stay as shot. [Center of interest](../auto-detection.md#center-of-interest) aims motion at faces. **Auto Caption** can fill place · date when you run it — not on import.
 
 [Looks](../style/looks.md) restyle the whole film from one chip. [Export](../export.md) is H.264 MP4 on your Mac. [Social Safe](../export.md#social-safe) lets you compose in 16:9 and export a tall frame. **Screensaver** makes a silent looping file for System Settings → Wallpaper.
 

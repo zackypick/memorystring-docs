@@ -24,6 +24,7 @@ What we fixed, by version.
 * Spiral-in and Reveal from depth play at every Energy.
 * Right-click on a slide no longer scrolls the timeline.
 * Essential can play the show while an export runs.
+* Sideways photos are upright when the show lands. Opening a show no longer changes its length a moment later.
 
 ## Version 1.0: Photos Import
 

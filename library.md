@@ -32,7 +32,7 @@ Videos show a play badge and duration. Multi-select shows a count.
 **Essential:** after import, if the **Library** was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. **Studio** does not. **⌘Z** undoes.
 
 {% hint style="info" %}
-**Keep Best Shots** may ask after import when similar groups appear. **Keep Best** (default) or **Keep All**. Extras go to **Outtakes**. Undo **⌘Z**. Videos are not Keep Best targets. Prompt waits until import loader clears. Videos are not auto-trimmed on import — use **Auto Trim** from menu or **Library** **⋯**. See [Auto detection](auto-detection.md#keep-best-shots).
+**Keep Best Shots** may ask after import when similar groups appear. **Keep Best** (default) or **Keep All**. Extras go to **Outtakes**. Undo **⌘Z**. Videos are not Keep Best targets. Prompt waits until import loader clears. Videos are not auto-trimmed on import — use **Auto Trim** from menu or **Library** **⋯**. Sideways and upside-down photos and videos are turned upright during import, before they land. See [Auto detection](auto-detection.md#keep-best-shots) and [Orientation](auto-detection.md#orientation).
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
