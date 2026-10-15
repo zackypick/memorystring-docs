@@ -29,7 +29,7 @@ Folder and Finder imports stay **linked** to the original files. Media from **Ph
 
 An empty **Library** shows **Nothing in library yet**. The preview area accepts drops. Hover hint for media: **Gather the thread**. Hover hint for a project file: **Bring back memories**.
 
-While the stage loader runs, drops are ignored. First import title: **Stringing it together...** (may show percent and **Cancel**). Opening a project: **It's coming back now...** (no percent). The loader is a spinner with a smoke animation.
+While the stage loader runs, drops are ignored. First import title: **Stringing it together...** with **Importing N of M...** and **Cancel**. Opening a project: **It's coming back now...** (no count). The loader is a spinner with a smoke animation.
 
 After the show has clips, a media drop reads **Add to story**. **Keep Best Shots** waits until the loader clears.
 
@@ -38,7 +38,9 @@ After the show has clips, a media drop reads **Add to story**. **Keep Best Shots
 
 Other types are skipped.
 
-After import, **Keep Best Shots** may appear when similar photo groups are found. Extras move to **Outtakes**. Videos are **not** auto-trimmed on import. Right-click a clip → **Auto Trim**, or use Library **⋯**. See [Auto detection](../auto-detection.md#auto-trim).
+Got a whole trip? Use [Long story short](../long-story-short.md) (**File → Long story short**). Pick a length and it builds the movie from your best shots. An import that would put more than **150** photos and videos on the show offers it first.
+
+After import, **Keep Best Shots** may appear when similar photo groups are found. Extras move to **Outtakes**. Videos are **not** auto-trimmed on import. Right-click a clip → **Auto Trim**, or use Library **⋯**. Sideways photos and videos are already upright. See [Auto Trim](../auto-detection.md#auto-trim) and [Orientation](../auto-detection.md#orientation).
 
 ## 3. Order the story
 
@@ -68,7 +70,7 @@ Open the Inspector (**⌥⌘I**) for more control:
 
 - **Style** — Look, Energy, Stage, Photo Size, Captions, Customize (Studio)
 - **Intro** — opening card
-- **Motion** — Studio only: Transitions Mix, multi-photo groups
+- **Motion** — Studio only: Transitions, multi-photo groups
 - **Audio** — playlist, **Pick New Music** / **Extend to Fill** / **Surprise me**
 - **Format** — aspect / Social Safe (Instagram first among Social swatches)
 

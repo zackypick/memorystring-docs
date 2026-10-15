@@ -1,14 +1,6 @@
-# In-app Help
+# Help
 
-Open **Help → MemoryString Help…** (**⌘/** or the **?** button on the toolbar) for help inside the app.
-
-**Help → Full Documentation Online** opens this site ([memorystring.codebyz.com](https://memorystring.codebyz.com)) in a browser. In-app Help is a smaller set. This site has the full guides, including **The Studio**, **Essential and Studio**, **Organizing**, and **Auto detection**.
-
-![MemoryString Help sidebar and Quick Start](../.gitbook/assets/help-window.png)
-
-Use the search field in the sidebar to filter topics by title or text.
-
-In-app topics include About MemoryString, Quick Start, Library, Preview, Timeline, Music, Effects, Multi-Photo Groups, Intro & Captions, Export, MCP Server, and Keyboard Shortcuts.
+**Help → MemoryString Help…** (**⌘/** or the **?** button on the toolbar) opens this site.
 
 **Help → Show Walkthrough** runs the first-run tour again. Seven stops:
 

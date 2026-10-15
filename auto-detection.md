@@ -1,5 +1,5 @@
 ---
-description: "Keep Best Shots and Auto Trim for a messy camera roll, on your Mac. MemoryString’s helpers stay on-device; Auto Trim is not on import, and original files are never rewritten."
+description: "Keep Best Shots, upright photos, and Auto Trim for a messy camera roll, on your Mac. MemoryString’s helpers stay on-device; Auto Trim is not on import, and original files are never rewritten."
 ---
 
 # Auto detection
@@ -8,9 +8,11 @@ These tools help with a messy camera roll. Everything runs on your Mac. Original
 
 ## The helpers
 
+- **[Long story short](long-story-short.md)** — Builds a movie of the length you pick from your best shots. Uses Keep Best and Auto Trim. The rest go to **Outtakes**.
 - **Keep Best Shots** — From similar burst photos, keep one strong shot. Extras move to **Outtakes** (still in the project, not in the show). Import may ask; **Library** **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
 - **Auto Trim** — About four seconds from the middle of a video clip, with up to about one second nudge toward a face. Works about 70% of the time. Right-click or **Library** **⋯** — not on import. After it runs, use **Reset Video Duration** to restore full length. Undo **⌘Z**.
 - **Video mute** — On import, quiet clips with only room noise so music can lead.
+- **Orientation** — Turns sideways and upside-down photos and videos upright while they import, before they land on the timeline. Original files stay as shot.
 - **Center of interest** — Finds faces and subjects so motion frames the right area.
 - **Auto Caption** — Fills captions only when you choose **Auto Caption** — never on import by itself.
 
@@ -20,7 +22,7 @@ These tools help with a messy camera roll. Everything runs on your Mac. Original
 
 When several photos look almost the same, MemoryString can keep the one with open eyes, a smile, sharpness, and good exposure.
 
-**When:** after **import** when new stills join a similar group, or anytime from **Library** **⋯** → **Keep Best Shots…**. Videos are not included.
+**When:** during **import**, before the show is built — the fog (or the loading pill on an existing show) says **Comparing similar shots N of M...**, then asks. Anytime later from **Library** **⋯** → **Keep Best Shots…**. Videos are not included.
 
 **The dialog** shows how many groups and extra shots. **Keep the best shot only?** Default button: **Keep Best**. **Keep All** leaves every photo.
 
@@ -74,6 +76,18 @@ If you deny speech, later imports use loudness only until you reset that choice.
 Muted clips show a speaker-off badge in **Library** and **Timeline**.
 
 **Override:** right-click **Mute Video Sound** / **Unmute Video Sound**, the speaker badge, or the Inspector clip footer. See [Library](library.md#videos) and [Music](music.md#video-sound-not-the-music-lane).
+
+## Orientation
+
+Sideways and upside-down photos and videos are turned upright on their own. The turn lives in the show. Original files are never rewritten.
+
+**When:** during import, while the loader is up — **+**, Finder drop, paste, folders, and **Import from Photos…**. The line under the title reads **Straightening N of M...**. The show lands already upright.
+
+**Long story short** turns the shots it keeps, after **Reviewing**, before the movie is laid out. Extras added to reach the length are turned the same way.
+
+**Opening a show:** turns this Mac already knows are applied before the timeline appears, so the length does not change a moment later. Photos this Mac has never checked are turned shortly after the show opens.
+
+**Override:** right-click **Rotate & Flip**, or **⌘]** / **⌘[**. Turning a photo back to as-shot sticks — MemoryString will not turn it again. See [Preview](preview.md#rotate-while-paused).
 
 ## Center of interest
 

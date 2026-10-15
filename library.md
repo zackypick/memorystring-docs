@@ -32,10 +32,14 @@ Videos show a play badge and duration. Multi-select shows a count.
 **Essential:** after import, if the **Library** was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. **Studio** does not. **⌘Z** undoes.
 
 {% hint style="info" %}
-**Keep Best Shots** may ask after import when similar groups appear. **Keep Best** (default) or **Keep All**. Extras go to **Outtakes**. Undo **⌘Z**. Videos are not Keep Best targets. Prompt waits until import loader clears. Videos are not auto-trimmed on import — use **Auto Trim** from menu or **Library** **⋯**. See [Auto detection](auto-detection.md#keep-best-shots).
+**Keep Best Shots** may ask after import when similar groups appear. **Keep Best** (default) or **Keep All**. Extras go to **Outtakes**. Undo **⌘Z**. Videos are not Keep Best targets. Prompt waits until import loader clears. Videos are not auto-trimmed on import — use **Auto Trim** from menu or **Library** **⋯**. Sideways and upside-down photos and videos are turned upright during import, before they land. See [Auto detection](auto-detection.md#keep-best-shots) and [Orientation](auto-detection.md#orientation).
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
+
+{% hint style="info" %}
+An import that would put more than **150** photos and videos on the show asks first: **Long story short**, **Import all**, or **Cancel**. See [Long story short](long-story-short.md#large-imports).
+{% endhint %}
 
 ## Import from Photos
 
@@ -104,7 +108,7 @@ First import into a new show (intro title **Memories**) can set project name and
 
 ![Outtakes bin with three photos](../.gitbook/assets/library-outtakes.png)
 
-Header shows count when not empty. **Outtakes** holds shots in the project but not on the show — from **Keep Best** or **Move to Outtakes**. On a group, **Move to Outtakes** moves one seat; **Entire group ▸** moves all. Empty: **Nothing discarded.**
+Header shows count when not empty. **Outtakes** holds shots in the project but not on the show — from **Keep Best**, [Long story short](long-story-short.md), or **Move to Outtakes**. On a group, **Move to Outtakes** moves one seat; **Entire group ▸** moves all. Empty: **Nothing discarded.**
 
 Click selects; preview stays on current slide. Drag up to return to show. Drop on intro sets intro background. Right-click **Move to Takes** or **Remove from Project**. Calendar sort sorts **Outtakes** too. **Shuffle** is show-only.
 
@@ -135,13 +139,12 @@ See [Intro and captions](intro-captions.md#auto-caption).
 
 ## ⋯ options
 
-![Library ⋯: Keep Best Shots… and Auto Trim Videos…](../.gitbook/assets/library-keep-best-auto-trim-menu.png)
+![Library ⋯: Long story short, Show, Videos, Import](../.gitbook/assets/library-options-menu.png)
 
-- **Shuffle Transitions**
-- **Reset Slide Durations**
-- **Keep Best Shots…**
-- **Auto Trim Videos…**
-- **Reset Video Durations**
+- **Long story short** — see [Long story short](long-story-short.md)
+- **Show** — **Shuffle Transitions**, **Reset Slide Durations**, **Keep Best Shots…**
+- **Videos** — **Auto Trim Videos…**, **Reset Video Durations**
+- **Import** — **Import from Photos…**
 - **Show Transition Names**
 
 ## Reorder and replace
@@ -154,25 +157,26 @@ Whole groups move together until you select one seat. See [Organizing](organizin
 
 On a photo or video (not empty space):
 
-![Grouped seat menu: Photo 1 of 5 · Ribbon, Entire group, Ungroup](../.gitbook/assets/library-context-ungroup.png)
-
 - **Slide Transition** or **Random**
 - **Group Transition** — two or more singles, or change group type
-- **Ungroup**
 - **Lens Effect** — Studio only
-- **Rotate & Flip**
+- Videos: **Auto Trim**, **Reset Video Duration**, **Mute Video Sound**
 - **Set Duration…** (**⌘D**)
 
-![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
+![Slide Length for the selected slide](../.gitbook/assets/set-duration.png)
 
-- Videos: mute, **Auto Trim**, **Reset Video Duration**
+- **Rotate & Flip**
 - **Set Caption** (**⇧⌘C**), **Clear Caption**
 - **Move to Outtakes** / **Move to Takes**
 - **Remove from Project** (**⌘⌫**)
 
-Grouped seat: menu for **that photo** first. **Entire group ▸** for all seats. **Ungroup** nearby.
+Grouped seat: the header shows **Photo 2 of 5 · Ribbon**. The top of the menu is for **that photo**, plus **Auto Trim videos in this group** and **Reset Video Durations in this group**. Below it: **Group Transition**, **Entire group ▸** for all seats, and **Ungroup**.
 
-![Entire group ▸: Rotate & Flip, Set Duration…, Move N to Outtakes, Remove N](../.gitbook/assets/library-entire-group-menu.png)
+![Grouped seat menu: Photo 2 of 5 · Ribbon, Group Transition, Entire group, Ungroup](../.gitbook/assets/library-context-ungroup.png)
+
+On a group, **Set Duration…** sets the length of the **whole group**, the same as dragging its edge on the **Timeline**. It works from any seat, and from the Inspector length field.
+
+![Entire group ▸: Rotate & Flip, Lens Effect, Set Duration…, Move 5 photos to Outtakes, Remove 5 photos](../.gitbook/assets/library-entire-group-menu.png)
 
 Intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, [Reset Center of Interest](preview.md#center-of-interest).
 
@@ -180,7 +184,7 @@ Right-click **empty** **Library**: same sort / shuffle / captions / **Shuffle Tr
 
 ## Select
 
-Click selects and seeks. Right-click opens menu and stages clip on preview. **⌘**-click toggles; **⇧**-click range. **Library** and **Timeline** selection stay in sync.
+Click selects and seeks. Right-click opens menu and stages clip on preview. **⌘**-click toggles; **⇧**-click range. **Esc** deselects. **Library** and **Timeline** selection stay in sync.
 
 ### Videos
 

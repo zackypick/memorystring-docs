@@ -35,7 +35,7 @@ Use the captions bubble for bulk fill or clear. Settings: [Intro and captions](i
 
 Find it in **Library** **⋯**, Inspector → **Motion → Timeline**, or right-click empty **Library** space. If you set **Slide Transition** by hand, MemoryString asks before clearing those picks.
 
-![Library ⋯: Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-menu-options.png)
+![Library ⋯: Long story short, Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-options-menu.png)
 
 ![Motion → Timeline: Sort by Date Taken, Shuffle Slides, Shuffle Transitions, Reset Slide Durations](../.gitbook/assets/inspector-motion-timeline.png)
 
@@ -65,7 +65,7 @@ First click on a group selects the **whole window**. Drag moves every seat toget
 
 Right-click a grouped photo for **that seat**. **Entire group ▸** holds actions for all seats. Right-click two or more singles → **Group Transition**. **Ungroup** splits a group. See [Library](library.md#right-click-a-slide).
 
-![Entire group ▸: Rotate & Flip, Set Duration…, Move N to Outtakes, Remove N](../.gitbook/assets/library-entire-group-menu.png)
+![Entire group ▸: Rotate & Flip, Lens Effect, Set Duration…, Move 5 photos to Outtakes, Remove 5 photos](../.gitbook/assets/library-entire-group-menu.png)
 
 ### In-group photos and videos
 

@@ -51,9 +51,8 @@ Select a clip and drag **edge grips**:
 
 Right-click a photo or video on the photo lane:
 
-![Timeline grouped-seat menu: Photo 4 of 5 · Carousel, Entire group collapsed](../.gitbook/assets/timeline-grouped-seat-menu.png)
-
 - **Slide Transition** — pick a cut or **Random** (groups: **Group Transition** / **Ungroup**)
+- **Lens Effect** — Studio only
 - **Rotate & Flip**
 - **Set Duration…** (**⌘D**). Videos: **Timing** submenu with duration and **Set Start Here** / **Set End Here**
 - **Set Caption** (**⇧⌘C**)
@@ -61,11 +60,17 @@ Right-click a photo or video on the photo lane:
 - **Move to Outtakes**
 - **Remove from Project** (**⌘⌫**)
 
-On a **grouped seat**, the menu applies to **that photo**. Header shows **Photo 2 of 4 · Photo Stack**. **Entire group ▸** has rotate, lens, **Set Duration…**, **Move N photos to Outtakes**, **Remove N**. **Ungroup** is nearby.
+On a **grouped seat**, the top of the menu applies to **that photo**, plus **Auto Trim videos in this group** and **Reset Video Durations in this group**. Header shows **Photo 2 of 5 · Ribbon**. Below: **Group Transition**, **Entire group ▸** (rotate, lens, **Set Duration…**, **Move N photos to Outtakes**, **Remove N**), and **Ungroup**.
+
+![Timeline grouped-seat menu: Photo 2 of 5 · Ribbon](../.gitbook/assets/timeline-grouped-seat-menu.png)
+
+**Set Duration…** on a group opens **Group Length**. It sets the whole group, the same as dragging the group's edge. A video seat inside does not cap it. Typing a length in the Inspector does the same.
+
+![Group Length: the whole group, same as dragging its edge](../.gitbook/assets/group-length.png)
 
 Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Reset Video Duration**
 
-![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
+![Timeline video menu: Auto Trim, Mute Video Sound, Timing](../.gitbook/assets/timeline-video-context-menu.png)
 
 **Auto Trim** — about four seconds from the middle, face nudge ~70% success. Not on import. Undo **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
 
@@ -73,11 +78,11 @@ Right-click video or music for **Set Start Here** / **Set End Here** and reset d
 
 Inspector clip footer has the same trims for selected video or soundtrack.
 
-![Set Duration… for selected slides](../.gitbook/assets/set-duration.png)
+![Slide Length for the selected slide](../.gitbook/assets/set-duration.png)
 
 **Auto Caption** is not on this menu — use **Library** captions bubble, **Edit**, Style → Captions, or **Generate**.
 
-Right-click selects the clip under the pointer and seeks the playhead there.
+Right-click selects the clip under the pointer and seeks the playhead there. **Esc** deselects clips and music tracks.
 
 Intro cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Rotate & Flip** with background, **Reset Center of Interest** with background.
 

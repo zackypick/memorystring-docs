@@ -25,7 +25,7 @@
 | Inspector tabs | Style, Intro, Audio, Format | those plus **Motion** |
 | Style → **Stage Intensity** | Hidden | Slider under Dark / Light |
 | Style → **Customize** | Hidden | Plate, Ambience, Lens Effects, Film, Atmosphere & Decals |
-| Captions | Type in the clip bar; bulk Auto Caption / Clear | plus **Type & Placement** (font, color, size, align, motion, placement, shade) |
+| Captions | Type in the clip bar; bulk Auto Caption / Clear | plus **Type & Placement** (font, color, size, align, motion, placement, shade) and **Caption Details** (what auto captions say, and in which language) |
 | Intro background | Choose / remove a still | plus Dim, Start zoom, Slow Zoom, Soften, Color / Grayscale |
 | Intro **Text** (font, color, size, align, outline, shadow) | Hidden — type in the title field | Shown |
 | Intro Card & Motion | — | Frame, Motion, Lens, Decoration |

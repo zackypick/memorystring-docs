@@ -1,6 +1,6 @@
 # Multi-photo groups
 
-Sometimes several photos share one moment — stacks, carousels, ribbons, and similar layouts. Turn types on under **Motion → Transitions Mix → Multi-photo**.
+Sometimes several photos share one moment — stacks, carousels, ribbons, and similar layouts. Turn types on under **Motion → Transitions → Multi-photo**.
 
 ![3D Ribbon and Carousel cadence](../.gitbook/assets/inspector-motion-groups.png)
 
@@ -14,7 +14,7 @@ If you drag slides by hand, group windows **pin** to those photos until you sort
 
 Right-click a grouped photo for **that seat**. **Entire group ▸** (near **Ungroup**) applies rotate, lens, duration, or move/remove to all seats. Right-click two or more singles → **Group Transition**. See [Library](../library.md#right-click-a-slide).
 
-![Grouped seat menu: Photo 1 of 5 · Ribbon, Entire group, Ungroup](../.gitbook/assets/library-context-ungroup.png)
+![Grouped seat menu: Photo 2 of 5 · Ribbon, Group Transition, Entire group, Ungroup](../.gitbook/assets/library-context-ungroup.png)
 
 Videos in a group play in their seat. Unmuted video audio plays only while that card is the hero.
 
@@ -103,4 +103,4 @@ Follower slides collapse onto the lead cell. Badges: **stack 1/5**, **carousel 2
 
 **This photo** **Lens Effect** pins one seat. **Entire group ▸ Lens** copies to every seat. **Anamorphic Streaks** and **Bokeh** do not auto-assign on group seats — pin by hand if you want them.
 
-After seat changes, the strip may show **Preparing preview…** while the group rebuilds. Mix and group settings undo with **⌘Z**.
+After seat changes, the strip may show **Preparing preview…** while the group rebuilds. Transition and group settings undo with **⌘Z**.

@@ -1,21 +1,16 @@
 # Transitions
 
-Transitions control how each photo enters and leaves. In **Studio**, open Inspector → **Motion**. **Transitions Mix** lists what this project can use.
+Transitions control how each photo enters and leaves. In **Studio**, open Inspector → **Motion**. **Transitions** lists the types this project can use.
 
-![Mix dropdown and single-slide / multi-photo checkboxes](../.gitbook/assets/inspector-motion-mix.png)
+![Motion → Transitions: single-slide and multi-photo checkboxes](../.gitbook/assets/inspector-motion-transitions.png)
 
-**Reset Motion to Defaults** restores mix, checkboxes, and group settings. Slide order and durations stay.
+**Reset Motion to Defaults** turns every transition type back on and restores group settings. Slide order and durations stay.
 
-## Mix presets
+## Who picks the cuts
 
-**Varied · Gentle · Playful · Dramatic** — each mix can use the full set of single-slide transitions. The preset changes how often each type appears.
+Your **Look** decides how often each type appears. Every Look can use the full set and favors a few. See [Looks](../style/looks.md#the-eight-chips). Clicking a **Look** re-deals transitions. Photos already using a type the Look still uses may keep it.
 
-- **Varied** — even mix
-- **Gentle** — more Ken Burns, depth dissolve, reveal from depth, same-photo fan
-- **Playful** — more flip, slide, spark slide, sparkle wipe, flying card, swirl-in
-- **Dramatic** — more punch-in, spiral-in, accordion, swirl-in
-
-Changing mix or clicking a **Look** re-deals transitions. Photos already using a kind the new mix includes may keep that kind. Energy does not clear your checkbox picks. Manual checkbox edits show **Custom** in Style (*Set in Motion*).
+Uncheck a type and this project plays your list instead of the Look's. Style shows **Custom** (*Set in Motion*). Click a Look again to hand the choice back. Energy never turns a checked type off.
 
 ## Single slides
 
@@ -140,7 +135,7 @@ Card spirals in and out.
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-swirl-in.mp4" %}
 
 
-**Spiral-in** and **Reveal from depth** take about five seconds. Captions wait until the photo nearly lands. At high **Energy** (~93%+), they cannot play. Enable them in **Motion** if your mix allows.
+**Spiral-in** and **Reveal from depth** wind in slowly, so their slides run a little longer than the rest. They play at every **Energy**. Captions wait until the photo nearly lands.
 
 Per-slide pick: right-click → **Slide Transition** (includes **Random**). See [Library](../library.md#right-click-a-slide).
 

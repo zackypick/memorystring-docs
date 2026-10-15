@@ -17,7 +17,7 @@ That’s it. A film you’d actually send. Minutes, not an evening. Free, on you
 
 ## Get it
 
-[**Mac App Store**](https://apps.apple.com/us/app/memorystring/id6806579257?mt=12) — free. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+[**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-welcome) — free. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
 ## Watch a demo
 
@@ -33,4 +33,4 @@ That’s it. A film you’d actually send. Minutes, not an evening. Free, on you
 
 Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved. Thanks — [Credits](credits.md).
 
-New here? [Quick start](getting-started/quick-start.md). [Common questions](getting-started/faq.md). In-app: **Help → MemoryString Help…** (**⌘/**).
+New here? [Quick start](getting-started/quick-start.md). [Common questions](getting-started/faq.md). In the app, **Help → MemoryString Help…** (**⌘/**) opens this site.
