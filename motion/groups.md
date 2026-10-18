@@ -4,7 +4,11 @@ Sometimes several photos share one moment — stacks, carousels, ribbons, and si
 
 ![3D Ribbon and Carousel cadence](../.gitbook/assets/inspector-motion-groups.png)
 
-On a new show, photos from the same shoot stay together. A group does not mix two shoots. Two shots from one moment can land as a **Perspective Pair**. If a window would still mix two shoots, those photos stay single slides.
+On a new show, photos from the same shoot stay together. A group does not mix two shoots. A two-shot series does not have to be a **Perspective Pair**. **Auto** may still pick Pair as one of the kinds. If a window would still mix two shoots, those photos stay single slides.
+
+Uncheck **Perspective Pair** and those pairs become single slides. When there is room, another slide sits between the two shots. Pair stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again. Check it to bring the pairs back. **⌘Z** restores them.
+
+After **Long story short**, groups are spread along the timeline with the usual gap between them, not back to back.
 
 Each hero moment inside a group uses about **72.5%** of a normal slide’s time. Groups need at least **two** normal slides between windows. **Carousel**, **3D Ribbon**, and **Filmstrip** also keep at least **four** normal slides between travel-style windows.
 

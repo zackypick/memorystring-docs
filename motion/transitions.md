@@ -4,6 +4,8 @@ Transitions control how each photo enters and leaves. In **Studio**, open Inspec
 
 The checked boxes are the kinds this show uses. They match the timeline, including groups you pinned. A new show starts with a short list that grows with the number of photos. A show you already saved keeps the list it had.
 
+![Motion → Transitions: How many, Auto, and the kinds this show uses](../.gitbook/assets/inspector-motion-transitions.png)
+
 ## How many
 
 **Single slides** and **Multi-photo groups** each have a **How many** slider and an **Auto** switch.
@@ -29,7 +31,7 @@ At least one single-slide transition stays on. Option-click a single-slide row t
 
 **Reset Motion to Defaults** puts both **How many** controls back on **Auto** and restores this Look's motion settings. Slide order and durations stay.
 
-Clicking a **Look** deals a fresh short list for that Look and replaces checks you made by hand. See [Looks](../style/looks.md#the-eight-chips). Energy does not turn a checked kind off.
+Clicking a **Look** deals a fresh short list for that Look. A group kind you turned off, such as **Perspective Pair**, stays off. Check it again to bring it back. See [Looks](../style/looks.md#the-eight-chips). Energy does not turn a checked kind off.
 
 ## Single slides
 
@@ -162,4 +164,8 @@ Per-slide pick: right-click → **Slide Transition** (includes **Random**). See 
 
 Several photos in one beat — **3D Ribbon, Carousel, Filmstrip, Perspective Pair, Photo Stack, Scatter & Settle**.
 
-Checked kinds are the ones this show groups with. **How many** at **0** leaves one photo at a time. Details: [Multi-photo groups](groups.md).
+Checked kinds are the ones this show groups with. **How many** at **0** leaves one photo at a time.
+
+**Perspective Pair** is not forced. **Auto** may still pick it as one of the kinds. Uncheck it and those pairs become single slides. When there is room, another slide sits between the two shots. It stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again. Check it to bring the pairs back. **⌘Z** restores them.
+
+Details: [Multi-photo groups](groups.md).

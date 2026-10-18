@@ -6,9 +6,9 @@ description: "What we fixed, by version."
 
 What we fixed, by version.
 
-## Since the App Store version
+## Version 1.1.3
 
-Since **1.1.2**.
+Since the **1.1.2** App Store build.
 
 * Film scratches no longer crash an export.
 * Photo stacks land once, without a second bounce.

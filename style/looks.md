@@ -12,7 +12,7 @@ A **Look** sets the whole movie style from one chip in Inspector → **Style**: 
 
 ## The eight chips
 
-Click a chip. MemoryString deals a short list of transitions for that Look, more kinds as the show gets longer, and applies group settings for that Look. Hand-picked Motion checkboxes are replaced.
+Click a chip. MemoryString deals a short list of transitions for that Look, more kinds as the show gets longer, and applies group settings for that Look. A group kind you turned off, such as **Perspective Pair**, stays off. Check it again under **Motion → Transitions** to bring it back.
 
 **Click the same Look again** for a new random deal: lens effects (every Look except **Clean**), transitions, and Match Look music if the playlist is still auto-seeded. Pinned **Lens Effect** on slides survive.
 

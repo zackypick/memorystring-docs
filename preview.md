@@ -85,7 +85,7 @@ When a photo is paused, you may see a small round ring. That is **center of inte
 
 Ken Burns and similar motion use center of interest. Some transitions show the whole photo and ignore it.
 
-On a backdrop wash, the face sits whole beside the photo card. It is not hidden behind the card, and the empty side stays a smooth blur. Play and export match what you see while you scrub. When the show ends on a group, that wash fades into the dark ending.
+When the show ends on a group, Play fades that backdrop into the dark ending.
 
 On the **intro**, a single click on the still sets the same aim. **Double-click** the title to edit text.
 

@@ -14,7 +14,11 @@ The strip under the preview shows time, slides, and music. Use it to reorder, tr
 2. **Photo lane** — slides, intro, and group cells. Hover a cell to peek; move off the strip and that moment stays on the preview. Hover is ignored while playing
 3. **Audioline** — soundtrack clips
 
-The header shows **Timeline**, the selected clip **name**, and zoom. **1.0×** fits the whole project. Empty strip: **Nothing on the timeline yet**.
+The header shows **Timeline**, then **|◀** (**Go to Start**). Click it and the playhead jumps to **0:00**. If the filmstrip is zoomed or scrolled, it scrolls back to the start. The same key is **⌥⌘←**. The button is dimmed only when the timeline is empty, and it highlights when you hover it.
+
+![Timeline header: Go to Start beside Timeline](../.gitbook/assets/timeline-rewind-button.png)
+
+The header also shows the selected clip **name**, and zoom. **1.0×** fits the whole project. Empty strip: **Nothing on the timeline yet**.
 
 ### Timeline height
 
@@ -35,7 +39,7 @@ Drag the **thin seam** between the preview and **Timeline** **up** to grow the p
 
 Long projects scroll instead of squeezing cells. During playback the strip follows the playhead.
 
-Dragging the playhead shows a blue time chip. **←** / **→** nudge (~0.1s); **⇧** for larger steps. After you edit, scrub still follows. The slide you stop on comes up first. A slide with no backdrop fills in while you drag.
+Dragging the playhead shows a blue time chip. **←** / **→** nudge (~0.1s); **⇧** for larger steps. **|◀** beside **Timeline**, or **⌥⌘←**, jumps to the start. After you edit, scrub still follows. The slide you stop on comes up first. A slide with no backdrop fills in while you drag.
 
 ## Reorder and trim
 

@@ -37,7 +37,7 @@ Same on every import path: **+**, Finder drop, **Import from Photos…**, Photos
 
 - **Sharp, well-exposed** photos. Blurry, very dark, and tiny files are skipped
 - **Near-duplicates** stay out. A different pose stays in. At most two shots from one pose, and those are not placed side by side
-- **One group per shoot.** Photos from the same moment stay together. Two shots from one moment become a **Perspective Pair**
+- **One group per shoot.** Photos from the same moment stay together. A two-shot series does not have to be a **Perspective Pair**. **Auto** may still pick Pair as one of the kinds. Uncheck Pair and those shots become single slides, with another slide between them when there is room. Pair stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again
 - **The whole trip**, not just the best day. Shots are spread across your dates
 - **Videos** too. Each one is cut with [Auto Trim](auto-detection.md#auto-trim)
 
@@ -49,6 +49,7 @@ While it works you may see **Making a long story short...**, **Checking M of N p
 
 ![After Long story short: a one-minute show, extras in Outtakes](../.gitbook/assets/long-story-short-result.png)
 
+- Groups are spread along the timeline with the usual gap between them, not back to back
 - The title bar shows the new length
 - Shots that did not make it are in [Outtakes](library.md#outtakes). Drag any of them up to put them back
 - A show you already styled keeps its **Look** and soundtrack. If the new cut runs longer than your music, bundled songs fill the rest. Your own tracks are never replaced
