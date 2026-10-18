@@ -20,7 +20,7 @@ These tools help with a messy camera roll. Everything runs on your Mac. Original
 
 ## Keep Best Shots
 
-When several photos look almost the same, MemoryString can keep the one with open eyes, a smile, sharpness, and good exposure.
+When several photos are the same moment in the same framing, MemoryString can keep the one with open eyes, a smile, sharpness, and good exposure. A different pose stays in the show. On a large import it can also keep a second, wider shot from that moment.
 
 **When:** during **import**, before the show is built — the fog (or the loading pill on an existing show) says **Comparing similar shots N of M...**, then asks. Anytime later from **Library** **⋯** → **Keep Best Shots…**. Videos are not included.
 

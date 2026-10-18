@@ -32,9 +32,8 @@ Effects around the plate.
 - **Wind Direction** — when Wind is on
 - **Light Leak**
 - **Backdrop** — Grayscale / Colored / Random
-- **Backdrop Seat** — Centered / Offset
 
-Backdrop is a blurred enlarged photo. Groups crossfade washes every few cards.
+Backdrop is a blurred enlarged photo behind the card. It covers the stage and is never mirrored. When a face would sit behind the card, the wash zooms in so that face sits in the open side. Groups crossfade washes every few cards. An older show that saved **Offset** opens **Centered**.
 
 | Backdrop | What it does |
 | --- | --- |

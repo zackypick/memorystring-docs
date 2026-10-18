@@ -32,7 +32,7 @@ Videos show a play badge and duration. Multi-select shows a count.
 **Essential:** after import, if the **Library** was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. **Studio** does not. **⌘Z** undoes.
 
 {% hint style="info" %}
-**Keep Best Shots** may ask after import when similar groups appear. **Keep Best** (default) or **Keep All**. Extras go to **Outtakes**. Undo **⌘Z**. Videos are not Keep Best targets. Prompt waits until import loader clears. Videos are not auto-trimmed on import — use **Auto Trim** from menu or **Library** **⋯**. Sideways and upside-down photos and videos are turned upright during import, before they land. See [Auto detection](auto-detection.md#keep-best-shots) and [Orientation](auto-detection.md#orientation).
+**Keep Best Shots** may ask after import when photos of the same moment appear. A different pose is not flagged. **Keep Best** (default) or **Keep All**. Extras go to **Outtakes**. Undo **⌘Z**. Videos are not Keep Best targets. Prompt waits until import loader clears. Videos are not auto-trimmed on import — use **Auto Trim** from menu or **Library** **⋯**. Sideways and upside-down photos and videos are turned upright during import, before they land. See [Auto detection](auto-detection.md#keep-best-shots) and [Orientation](auto-detection.md#orientation).
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
@@ -86,9 +86,9 @@ If **Allow “MemoryString” to find devices on local networks?** appears, **Al
 
 ![Local Network — Allow if it appears](../.gitbook/assets/photos-permission-local-network.png)
 
-If denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
+If Photos access is missing, the sheet says **Access Your Photos** or **Photos Access Required**. **Allow Access** asks again, or opens System Settings → Privacy & Security → Photos when macOS already has an answer. There is no second settings button.
 
-Photos imports are **copied** to Application Support **Imports**. Finder folder drops stay linked.
+Photos imports are **copied** to Application Support **Imports**. Finder folder drops stay linked. A Photos import moves through **Importing M of N** several photos at a time.
 
 Same rules on every path: **+**, Finder drop, Photos.app drag (often one file at a time), paste. **Keep Best** counts the **whole drop**.
 
@@ -110,7 +110,7 @@ First import into a new show (intro title **Memories**) can set project name and
 
 Header shows count when not empty. **Outtakes** holds shots in the project but not on the show — from **Keep Best**, [Long story short](long-story-short.md), or **Move to Outtakes**. On a group, **Move to Outtakes** moves one seat; **Entire group ▸** moves all. Empty: **Nothing discarded.**
 
-Click selects; preview stays on current slide. Drag up to return to show. Drop on intro sets intro background. Right-click **Move to Takes** or **Remove from Project**. Calendar sort sorts **Outtakes** too. **Shuffle** is show-only.
+Click selects; preview stays on current slide. Drag up to return to show. That photo’s focus is found on the way back, so a face does not stay in the middle of the frame. A large drop does not freeze the window. Drop on intro sets intro background. Right-click **Move to Takes** or **Remove from Project**. Calendar sort sorts **Outtakes** too. **Shuffle** is show-only.
 
 ![Outtake menu: Move to Takes, Remove from Project](../.gitbook/assets/library-outtakes-menu.png)
 

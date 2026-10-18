@@ -6,6 +6,28 @@ description: "What we fixed, by version."
 
 What we fixed, by version.
 
+## Version 1.2.0
+
+* Long story short deals groups on the finished show. A short clock adds photos as single slides instead of dealing again.
+* Moving a lot of photos between Takes and Outtakes no longer freezes the app on the drop.
+* The intro wash eases into the first slide, and the intro uses the show’s stage.
+* A backdrop face sits beside the card. The wash covers the stage and is never mirrored.
+* A portrait backdrop keeps its crop when the photo size changes.
+* You can check every group kind. Auto still picks a short list from the length of the show.
+
+## Version 1.1.3
+
+Since the **1.1.2** App Store build.
+
+* Film scratches no longer crash an export.
+* Photo stacks land once, without a second bounce.
+* A gentle turn on a photo no longer rocks back and forth.
+* Scrub still follows after an edit. The slide you stop on appears first. A slide with no backdrop fills in while you drag.
+* The timeline keeps responding after you change a group's transition.
+* A new show gets its music.
+* Importing the same photos again does not double the count.
+* Play fades the last group's backdrop into the dark ending.
+
 ## Version 1.1: Long story short
 
 * Set Duration on a group is no longer capped by a video seat inside it.

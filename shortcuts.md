@@ -50,7 +50,7 @@ The window close button closes the window only. Reopen from the Dock.
 | **←** / **→** | Nudge playhead |
 | **⇧←** / **⇧→** | Larger steps |
 | **⌘→** / **⌘←** | Next / Previous Slide |
-| **⌥⌘←** | Go to Start |
+| **⌥⌘←** | Go to Start, or click **|◀** beside **Timeline** |
 
 ## Help
 

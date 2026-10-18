@@ -1,20 +1,41 @@
 # Transitions
 
-Transitions control how each photo enters and leaves. In **Studio**, open Inspector → **Motion**. **Transitions** lists the types this project can use.
+Transitions control how each photo enters and leaves. In **Studio**, open Inspector → **Motion** → **Transitions**.
 
-![Motion → Transitions: single-slide and multi-photo checkboxes](../.gitbook/assets/inspector-motion-transitions.png)
+The checked boxes are the kinds this show uses. They match the timeline, including groups you pinned. A new show starts with a short list that grows with the number of photos. A show you already saved keeps the list it had.
 
-**Reset Motion to Defaults** turns every transition type back on and restores group settings. Slide order and durations stay.
+![Motion → Transitions: How many, Auto, and the kinds this show uses](../.gitbook/assets/inspector-motion-transitions.png)
 
-## Who picks the cuts
+## How many
 
-Your **Look** decides how often each type appears. Every Look can use the full set and favors a few. See [Looks](../style/looks.md#the-eight-chips). Clicking a **Look** re-deals transitions. Photos already using a type the Look still uses may keep it.
+**Single slides** and **Multi-photo groups** each have a **How many** slider and an **Auto** switch.
 
-Uncheck a type and this project plays your list instead of the Look's. Style shows **Custom** (*Set in Motion*). Click a Look again to hand the choice back. Energy never turns a checked type off.
+**Auto** follows how many photos are in the show:
+
+| Photos | Single-slide transitions | Group kinds |
+| --- | --- | --- |
+| Up to about 12 | 2 | 1 |
+| About 13 to 30 | 3 | 2 |
+| About 31 to 60 | 4 | 3 |
+| Longer | 5 | 3 |
+
+Drag **How many** and **Auto** turns off. The line under the slider reads **Auto · 2** or **Custom · 3**, and the show re-cuts to that many kinds. Check or uncheck a kind and the show re-cuts the same way. The line says **Custom**.
+
+**Shuffle** keeps the kinds you checked by hand and redraws the rest, then cuts the show again.
+
+Set group **How many** to **0** for a show with no multi-photo groups.
+
+Each of these is one undo (**⌘Z**).
+
+At least one single-slide transition stays on. Option-click a single-slide row to use only that one.
+
+**Reset Motion to Defaults** puts both **How many** controls back on **Auto** and restores this Look's motion settings. Slide order and durations stay.
+
+Clicking a **Look** deals a fresh short list for that Look. A group kind you turned off, such as **Perspective Pair**, stays off. Check it again to bring it back. See [Looks](../style/looks.md#the-eight-chips). Energy does not turn a checked kind off.
 
 ## Single slides
 
-One photo at a time. At least **one** transition type stays on. The app lists **17** single-slide types when all are enabled.
+One photo at a time. At least **one** transition type stays on. MemoryString has **17** single-slide types. A show uses the ones that are checked.
 
 ### Ken Burns
 
@@ -143,4 +164,8 @@ Per-slide pick: right-click → **Slide Transition** (includes **Random**). See 
 
 Several photos in one beat — **3D Ribbon, Carousel, Filmstrip, Perspective Pair, Photo Stack, Scatter & Settle**.
 
-Toggle each type on or off. All six can be off for one-photo-at-a-time shows. Details: [Multi-photo groups](groups.md).
+Checked kinds are the ones this show groups with. You can check every kind. A short show does not turn a box back off. **Auto** still picks a short list from the length of the show, and never more than four kinds. **How many** at **0** leaves one photo at a time.
+
+**Perspective Pair** is not forced. **Auto** may still pick it as one of the kinds. Uncheck it and those pairs become single slides. When there is room, another slide sits between the two shots. It stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again. Check it to bring the pairs back. **⌘Z** restores them.
+
+Details: [Multi-photo groups](groups.md).

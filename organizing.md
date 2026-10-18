@@ -31,7 +31,7 @@ Use the captions bubble for bulk fill or clear. Settings: [Intro and captions](i
 
 ## Shuffle Transitions
 
-**Shuffle Transitions** keeps photo order. It picks new single-slide transitions, group types, and group positions. Cadence and group settings stay.
+**Shuffle Transitions** keeps photo order. It picks new transitions and new places for groups. The kinds you checked under **Motion → Transitions** stay when you use **Shuffle** there. A per-slide **Slide Transition** stays unless you confirm clearing those picks.
 
 Find it in **Library** **⋯**, Inspector → **Motion → Timeline**, or right-click empty **Library** space. If you set **Slide Transition** by hand, MemoryString asks before clearing those picks.
 
@@ -57,13 +57,13 @@ Drag from the **Library** to the **Timeline**:
 
 Music reorders on the **music lane**. See [Music](music.md#arrange-on-the-timeline).
 
-Hand-dragging **pins** group windows to those photos. Sort, shuffle, reset, or cadence changes let the planner place groups again. See [Multi-photo groups](motion/groups.md).
+Hand-dragging **pins** group windows to those photos. Deleting a slide, moving a slide, or changing a group's transition leaves the groups in place. Sort, shuffle slides, or **Reset Motion to Defaults** lets the planner place groups again. See [Multi-photo groups](motion/groups.md).
 
 ### Singles vs whole groups
 
 First click on a group selects the **whole window**. Drag moves every seat together.
 
-Right-click a grouped photo for **that seat**. **Entire group ▸** holds actions for all seats. Right-click two or more singles → **Group Transition**. **Ungroup** splits a group. See [Library](library.md#right-click-a-slide).
+Right-click a grouped photo for **that seat**. **Entire group ▸** holds actions for all seats. Right-click two or more singles → **Group Transition**. **Ungroup** splits that group. The other slides keep their transitions. The photos that leave take a mix, not all the same kind. See [Library](library.md#right-click-a-slide).
 
 ![Entire group ▸: Rotate & Flip, Lens Effect, Set Duration…, Move 5 photos to Outtakes, Remove 5 photos](../.gitbook/assets/library-entire-group-menu.png)
 
