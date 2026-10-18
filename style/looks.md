@@ -2,17 +2,17 @@
 
 A **Look** sets the whole movie style from one chip in Inspector → **Style**: grade, border, stage, backdrop, lens effects, Photo Size, transitions, music mood, and which multi-photo groups run.
 
-![Style tab: Look chips, Energy, Stage](../.gitbook/assets/inspector-style.png)
+![Style tab: Look chips, Energy, Photo Size, and Stage Intensity at 35%](../.gitbook/assets/inspector-style.png)
 
 ![Eight Look chips](../.gitbook/assets/inspector-looks.png)
 
-![Energy (Calm → Intense, band word on the right) and Stage Dark / Light](../.gitbook/assets/inspector-masters.png)
+![Energy, Photo Size, and Stage Intensity at 35% on Dark](../.gitbook/assets/inspector-masters.png)
 
 **⌘Z** undoes Style changes. **Reset Style to Defaults** restores this tab (caption style, not caption text). With captions present, choose **Reset Styles Only** or **Reset Styles and Clear [N] Captions…**.
 
 ## The eight chips
 
-Click a chip. MemoryString deals transitions from that Look's set and applies group settings for that Look. Hand-picked Motion checkboxes are replaced.
+Click a chip. MemoryString deals a short list of transitions for that Look, more kinds as the show gets longer, and applies group settings for that Look. Hand-picked Motion checkboxes are replaced.
 
 **Click the same Look again** for a new random deal: lens effects (every Look except **Clean**), transitions, and Match Look music if the playlist is still auto-seeded. Pinned **Lens Effect** on slides survive.
 
@@ -90,9 +90,11 @@ Sets size for single slides. Groups may fit slightly smaller to stay on stage. [
 
 **Dark** (black) or **Light** (cream gallery). Inspector → **Style**, under Photo Size. Looks default to **Dark**. Changing Stage marks Style as **Custom**.
 
-**Studio:** **Stage Intensity** slider under Dark / Light controls how strong the stage background reads. Photos in front are not dimmed. Preview and export match.
+**Studio:** **Stage Intensity** under Dark / Light controls how strong the stage background reads. Photos in front are not dimmed. Preview and export match.
 
-![Stage Dark / Light](../.gitbook/assets/inspector-stage.png)
+A new show starts at **35%** on **Dark** and **70%** on **Light**. If you already moved the slider, that show keeps your setting.
+
+![Stage: Dark selected, Stage Intensity 35%](../.gitbook/assets/inspector-stage.png)
 
 **Dark**
 

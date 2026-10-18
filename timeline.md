@@ -35,7 +35,7 @@ Drag the **thin seam** between the preview and **Timeline** **up** to grow the p
 
 Long projects scroll instead of squeezing cells. During playback the strip follows the playhead.
 
-Dragging the playhead shows a blue time chip. **←** / **→** nudge (~0.1s); **⇧** for larger steps.
+Dragging the playhead shows a blue time chip. **←** / **→** nudge (~0.1s); **⇧** for larger steps. After you edit, scrub still follows. The slide you stop on comes up first. A slide with no backdrop fills in while you drag.
 
 ## Reorder and trim
 

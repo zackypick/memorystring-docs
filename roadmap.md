@@ -1,10 +1,24 @@
 ---
-description: "MemoryString 1.1 shipped Long story short and richer captions. What's next: Audio Sync, Auto Enhance, Motion pins, beat-sync, Motion presets."
+description: "What's new since the 1.1.2 App Store build, plus what 1.1 shipped and what comes next."
 ---
 
 # Roadmap
 
 MemoryString **1.1** shipped **Long story short** and richer **captions**. It also made group lengths easier to set and moved Help to this site.
+
+## What's new
+
+Since the **1.1.2** App Store build. The download on this site is unchanged until that update is public.
+
+- **Motion → Transitions.** Checked boxes are the kinds this show uses. **How many** and **Auto** set how many single-slide transitions and group kinds, and the list grows with the show. **Shuffle** keeps kinds you checked. Each change re-cuts the show.
+- **Photo series.** Photos from the same shoot stay in one group. A group does not mix two shoots.
+- **Long story short.** The Duration sheet leaves the show alone until **Create**. The offer is the nearest minute that show can fill. While it looks, it says **Checking M of N photos…**. A series stays one group. Near-duplicates are not side by side.
+- **Keep Best** flags the same moment in the same framing. A different pose stays.
+- **Photos import** moves through **Importing M of N** faster.
+- **Pinned groups** stay when you delete, move, or change a transition. **Ungroup** keeps the mix on the other slides.
+- A show that ends on a group fades into the dark ending.
+- New shows start **Stage Intensity** at **35%** on Dark and **70%** on Light.
+- Backdrop faces sit beside the card. Scrub still follows after an edit.
 
 ## This release
 

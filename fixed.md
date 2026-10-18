@@ -6,6 +6,19 @@ description: "What we fixed, by version."
 
 What we fixed, by version.
 
+## Since the App Store version
+
+Since **1.1.2**.
+
+* Film scratches no longer crash an export.
+* Photo stacks land once, without a second bounce.
+* A gentle turn on a photo no longer rocks back and forth.
+* Scrub still follows after an edit. The slide you stop on appears first. A slide with no backdrop fills in while you drag.
+* The timeline keeps responding after you change a group's transition.
+* A new show gets its music.
+* Importing the same photos again does not double the count.
+* Play fades the last group's backdrop into the dark ending.
+
 ## Version 1.1: Long story short
 
 * Set Duration on a group is no longer capped by a video seat inside it.

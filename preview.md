@@ -16,7 +16,7 @@ The mute choice lasts until you quit the app.
 
 Other playback controls:
 
-- Click or drag the playhead or time ruler to scrub
+- Click or drag the playhead or time ruler to scrub. After you edit, dragging still follows. The slide you stop on comes up first. A slide with no backdrop fills in while you drag, and the stage stays light. **Scatter & Settle** shows the same readable moment while you scrub as a filmstrip does
 - Hover the **Timeline** photo lane to peek at that moment. When you move the pointer off the strip, the preview stays on that moment. Hover does not work while the movie is playing
 - **←** / **→** nudge the playhead. **⇧** with arrow keys takes larger steps
 - **⌘→** / **⌘←** go to the next or previous slide
@@ -84,6 +84,8 @@ When a photo is paused, you may see a small round ring. That is **center of inte
 ![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
 
 Ken Burns and similar motion use center of interest. Some transitions show the whole photo and ignore it.
+
+On a backdrop wash, the face sits whole beside the photo card. It is not hidden behind the card, and the empty side stays a smooth blur. Play and export match what you see while you scrub. When the show ends on a group, that wash fades into the dark ending.
 
 On the **intro**, a single click on the still sets the same aim. **Double-click** the title to edit text.
 

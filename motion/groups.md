@@ -1,16 +1,20 @@
 # Multi-photo groups
 
-Sometimes several photos share one moment — stacks, carousels, ribbons, and similar layouts. Turn types on under **Motion → Transitions → Multi-photo**.
+Sometimes several photos share one moment — stacks, carousels, ribbons, and similar layouts. Turn kinds on under **Motion → Transitions → Multi-photo groups**. **How many** on **Auto** uses a few kinds and adds more as the show gets longer. A show you already saved keeps its kinds.
 
 ![3D Ribbon and Carousel cadence](../.gitbook/assets/inspector-motion-groups.png)
 
-New projects: **Photo Stacks, Carousel, and 3D Ribbon on**; **Filmstrip**, **Perspective Pair**, and **Scatter & Settle** off until you enable them or pick a Look that turns them on.
+On a new show, photos from the same shoot stay together. A group does not mix two shoots. Two shots from one moment can land as a **Perspective Pair**. If a window would still mix two shoots, those photos stay single slides.
 
 Each hero moment inside a group uses about **72.5%** of a normal slide’s time. Groups need at least **two** normal slides between windows. **Carousel**, **3D Ribbon**, and **Filmstrip** also keep at least **four** normal slides between travel-style windows.
 
-With several kinds on, one planner places windows evenly. **Shuffle Transitions** keeps counts but changes positions.
+With several kinds on, one planner places windows evenly. **Shuffle** on the Transitions panel keeps the kinds you checked and redraws the rest.
 
-If you drag slides by hand, group windows **pin** to those photos until you sort, shuffle, reset, or change cadence.
+If you drag slides by hand, those groups **pin** to those photos. Deleting a slide, moving a slide, or changing a group's transition leaves the other groups where they are. None appear or vanish. Sort, shuffle slides, or **Reset Motion to Defaults** lets the planner place groups again.
+
+**Ungroup** splits that group. The other slides keep their transitions. The photos that leave the group take a mix, not all the same kind.
+
+When the show ends on a group, Play fades that backdrop into the dark ending, the same way scrubbing does. Photo stacks land once and stay.
 
 Right-click a grouped photo for **that seat**. **Entire group ▸** (near **Ungroup**) applies rotate, lens, duration, or move/remove to all seats. Right-click two or more singles → **Group Transition**. See [Library](../library.md#right-click-a-slide).
 
@@ -93,7 +97,7 @@ Cards throw in, land, step forward in order, then throw off.
 - **Perspective Pair** — two-card deck
 - **Filmstrip** — horizontal or vertical strip
 - **Scatter & Settle** — tossed cards on stage
-- **All off** — one photo at a time with single-slide transitions
+- **How many at 0** — one photo at a time with single-slide transitions
 
 ## Timeline / Library
 
