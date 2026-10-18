@@ -13,13 +13,15 @@ description: "Long story short turns a big pile of photos and videos into a shar
 
 ![Library ⋯: Long story short at the top](../.gitbook/assets/library-options-menu.png)
 
-Choose a **Duration** from **1** to **20** minutes, then **Create**. The default is **3 min**, short enough to share. Next time the slider starts where you left it.
+The sheet is titled **Long story short**. Under that: **Pick the best shots for a shareable movie.** Choose a **Duration** from **1** to **20** minutes, then **Create**. **Cancel** closes the sheet. The default is **3 min**, short enough to share. Next time the slider starts where you left it.
 
 If the show already has slides, it asks first: **Rebuild the show?** **Continue** opens the Duration sheet. The show stays as it is behind the sheet. **Cancel** changes nothing. Only **Create** rebuilds.
 
 ![Rebuild the show? Continue or Cancel](../.gitbook/assets/long-story-short-rebuild.png)
 
-While the sheet looks through the photos it says **Checking M of N photos…**. When that count is ready, the note under the slider says how many distinct shots can fill the movie. The offer is the nearest minute that show can actually reach. The finished movie lands close to the minute you pick.
+While the sheet looks through the photos it says **Checking M of N photos…**. When that count is ready, the line under the slider reads **Up to about N min from M distinct shots**. The offer is the nearest minute that show can actually reach. The finished movie lands close to the minute you pick.
+
+![Long story short — Duration sheet](.gitbook/assets/long-story-short-duration.png)
 
 ## Large imports
 
