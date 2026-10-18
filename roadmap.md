@@ -17,7 +17,7 @@ MemoryString **1.1** shipped **Long story short** and richer **captions**. It al
 - **Photos import** moves through **Importing M of N** faster.
 - **Pinned groups** stay when you delete, move, or change a transition. **Ungroup** keeps the mix on the other slides.
 - A show that ends on a group fades into the dark ending.
-- New shows start **Stage Intensity** at **35%** on Dark and **70%** on Light.
+- New shows start **Stage Intensity** at **50%** on Dark and **80%** on Light.
 - Scrub still follows after an edit.
 - **Go to Start** (|◀) sits beside **Timeline**. It jumps the playhead to **0:00** and scrolls a zoomed filmstrip back to the start. Same as **⌥⌘←**. It lights up when you hover it.
 - After **Long story short**, groups sit with the usual gap between them, not back to back. **Perspective Pair** can be turned off like any other group kind. A two-shot series does not have to be a pair. **Auto** may still pick Pair as one of the kinds.

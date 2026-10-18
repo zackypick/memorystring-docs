@@ -2,11 +2,11 @@
 
 A **Look** sets the whole movie style from one chip in Inspector → **Style**: grade, border, stage, backdrop, lens effects, Photo Size, transitions, music mood, and which multi-photo groups run.
 
-![Style tab: Look chips, Energy, Photo Size, and Stage Intensity at 35%](../.gitbook/assets/inspector-style.png)
+![Style tab: Look chips, Energy, Photo Size, and Stage Intensity at 50%](../.gitbook/assets/inspector-style.png)
 
 ![Eight Look chips](../.gitbook/assets/inspector-looks.png)
 
-![Energy, Photo Size, and Stage Intensity at 35% on Dark](../.gitbook/assets/inspector-masters.png)
+![Energy, Photo Size, and Stage Intensity at 50% on Dark](../.gitbook/assets/inspector-masters.png)
 
 **⌘Z** undoes Style changes. **Reset Style to Defaults** restores this tab (caption style, not caption text). With captions present, choose **Reset Styles Only** or **Reset Styles and Clear [N] Captions…**.
 
@@ -92,9 +92,9 @@ Sets size for single slides. Groups may fit slightly smaller to stay on stage. [
 
 **Studio:** **Stage Intensity** under Dark / Light controls how strong the stage background reads. Photos in front are not dimmed. Preview and export match.
 
-A new show starts at **35%** on **Dark** and **70%** on **Light**. If you already moved the slider, that show keeps your setting.
+A new show starts at **50%** on **Dark** and **80%** on **Light**. If you already moved the slider, that show keeps your setting.
 
-![Stage: Dark selected, Stage Intensity 35%](../.gitbook/assets/inspector-stage.png)
+![Stage: Dark selected, Stage Intensity 50%](../.gitbook/assets/inspector-stage.png)
 
 **Dark**
 
