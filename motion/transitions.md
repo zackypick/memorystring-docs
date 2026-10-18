@@ -164,7 +164,7 @@ Per-slide pick: right-click → **Slide Transition** (includes **Random**). See 
 
 Several photos in one beat — **3D Ribbon, Carousel, Filmstrip, Perspective Pair, Photo Stack, Scatter & Settle**.
 
-Checked kinds are the ones this show groups with. **How many** at **0** leaves one photo at a time.
+Checked kinds are the ones this show groups with. You can check every kind. A short show does not turn a box back off. **Auto** still picks a short list from the length of the show, and never more than four kinds. **How many** at **0** leaves one photo at a time.
 
 **Perspective Pair** is not forced. **Auto** may still pick it as one of the kinds. Uncheck it and those pairs become single slides. When there is room, another slide sits between the two shots. It stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again. Check it to bring the pairs back. **⌘Z** restores them.
 

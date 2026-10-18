@@ -2,11 +2,11 @@
 
 A **Look** sets the whole movie style from one chip in Inspector → **Style**: grade, border, stage, backdrop, lens effects, Photo Size, transitions, music mood, and which multi-photo groups run.
 
-![Style tab: Look chips, Energy, Photo Size, and Stage Intensity at 50%](../.gitbook/assets/inspector-style.png)
+![Style tab: Look chips, Energy, Photo Size, and Stage](../.gitbook/assets/inspector-style.png)
 
 ![Eight Look chips](../.gitbook/assets/inspector-looks.png)
 
-![Energy, Photo Size, and Stage Intensity at 50% on Dark](../.gitbook/assets/inspector-masters.png)
+![Energy, Photo Size, and Stage Intensity](../.gitbook/assets/inspector-masters.png)
 
 **⌘Z** undoes Style changes. **Reset Style to Defaults** restores this tab (caption style, not caption text). With captions present, choose **Reset Styles Only** or **Reset Styles and Clear [N] Captions…**.
 
@@ -26,7 +26,7 @@ A Look with many lens boxes still plays **at most one** lens effect per photo. S
 
 ### Clean
 
-Minimal style. White matte, soft shadow, **Large** Photo Size, colored backdrop, soft transitions (Ken Burns, depth dissolve, reveal from depth). Stacks + carousel at defaults; **Perspective Pair** every 6.
+Minimal style. White matte, soft shadow, **Large** Photo Size, grayscale backdrop, **Light** stage, soft transitions (Ken Burns, depth dissolve, reveal from depth). Stacks + carousel at defaults; **Perspective Pair** every 6. A new show starts here.
 
 ![](../.gitbook/assets/look-clean.jpg)
 
@@ -44,7 +44,7 @@ Aged album. Black mat, torn edge, warm leak, grayscale backdrop, grain and scrat
 
 ### Cinematic
 
-Wide cinematic grade. Thin black frame, strong shadow, fine grain, dramatic transitions (spiral-in, punch-in, accordion), **Large** Photo Size. Carousel and ribbon; Filmstrip and **Scatter & Settle** on some cadences.
+Wide cinematic grade. Thin black frame, strong shadow, fine grain, grayscale backdrop, **Dark** stage, dramatic transitions (spiral-in, punch-in, accordion), **Large** Photo Size. Carousel and ribbon; Filmstrip and **Scatter & Settle** on some cadences.
 
 ![](../.gitbook/assets/look-cinematic.jpg)
 
@@ -68,7 +68,7 @@ Warm late-day color. White mat, warm leak, stage sun wash, soft transitions. **P
 
 ### Crisp
 
-Cool editorial look. Thin white frame, strong shadow, dramatic transitions (punch-in, flying card, spiral-in). **Perspective Pair** and Filmstrip every 8.
+Cool editorial look. Thin white frame, strong shadow, grayscale backdrop, dramatic transitions (punch-in, flying card, spiral-in). **Perspective Pair** and Filmstrip every 8.
 
 ![](../.gitbook/assets/look-crisp.jpg)
 
@@ -88,13 +88,13 @@ Sets size for single slides. Groups may fit slightly smaller to stay on stage. [
 
 ## Stage
 
-**Dark** (black) or **Light** (cream gallery). Inspector → **Style**, under Photo Size. Looks default to **Dark**. Changing Stage marks Style as **Custom**.
+**Dark** (black) or **Light** (cream gallery). Inspector → **Style**, under Photo Size. A new show is **Clean** on **Light**. **Cinematic** is the Look that starts on **Dark**. **Polaroid** and **Golden Hour** keep a colored backdrop. The other Looks use grayscale. Changing Stage marks Style as **Custom**.
 
 **Studio:** **Stage Intensity** under Dark / Light controls how strong the stage background reads. Photos in front are not dimmed. Preview and export match.
 
 A new show starts at **50%** on **Dark** and **80%** on **Light**. If you already moved the slider, that show keeps your setting.
 
-![Stage: Dark selected, Stage Intensity 50%](../.gitbook/assets/inspector-stage.png)
+![Stage: Dark or Light, and Stage Intensity](../.gitbook/assets/inspector-stage.png)
 
 **Dark**
 

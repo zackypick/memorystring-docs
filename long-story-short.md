@@ -45,17 +45,17 @@ Same on every import path: **+**, Finder drop, **Import from Photos…**, Photos
 
 The show plays in date order. The length lands close to the minute you picked.
 
-While it works you may see **Making a long story short...**, **Checking M of N photos…**, **Picking the best shots...**, **Reviewing M of N...**, **Straightening M of N...**, and **Arranging N shots…**. While it fits the length, the line shows the clock so far, such as **2:23 of 10:00**. Kept shots are upright before the movie is laid out. **Cancel** on the Duration sheet changes nothing. **Cancel** while it is building puts the previous show back. See [Orientation](auto-detection.md#orientation).
+While it works you may see **Making a long story short...**, **Checking M of N photos…**, **Picking the best shots...**, **Reviewing M of N...**, **Straightening M of N...**, **Arranging N shots…**, and **Finding focus M of N…**. While it fits the length, the line shows the clock so far, such as **2:23 of 10:00**. Kept shots are upright before the movie is laid out. Focus lands on a face, not the middle of the frame. **Cancel** on the Duration sheet changes nothing. **Cancel** while it is building puts the previous show back. See [Orientation](auto-detection.md#orientation).
 
 ## After it runs
 
 ![After Long story short: a one-minute show, extras in Outtakes](../.gitbook/assets/long-story-short-result.png)
 
-- Groups are spread along the timeline with the usual gap between them, not back to back
+- Groups are dealt on the finished cut, with the usual gap between them, not back to back. If the clock is still short, extra photos are added as single slides
 - The title bar shows the new length
 - Shots that did not make it are in [Outtakes](library.md#outtakes). Drag any of them up to put them back
 - A show you already styled keeps its **Look** and soundtrack. If the new cut runs longer than your music, bundled songs fill the rest. Your own tracks are never replaced
-- A brand-new project starts on **Cinematic** with bundled music
+- A brand-new project starts on **Clean**, on the **Light** stage, with bundled music
 - Undo with **⌘Z**
 
 Run it again anytime with a different length. It chooses from everything in the project, **Outtakes** included.

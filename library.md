@@ -86,7 +86,7 @@ If **Allow “MemoryString” to find devices on local networks?** appears, **Al
 
 ![Local Network — Allow if it appears](../.gitbook/assets/photos-permission-local-network.png)
 
-If denied: **Photos Access Required**, then System Settings → Privacy & Security → Photos.
+If Photos access is missing, the sheet says **Access Your Photos** or **Photos Access Required**. **Allow Access** asks again, or opens System Settings → Privacy & Security → Photos when macOS already has an answer. There is no second settings button.
 
 Photos imports are **copied** to Application Support **Imports**. Finder folder drops stay linked. A Photos import moves through **Importing M of N** several photos at a time.
 
@@ -110,7 +110,7 @@ First import into a new show (intro title **Memories**) can set project name and
 
 Header shows count when not empty. **Outtakes** holds shots in the project but not on the show — from **Keep Best**, [Long story short](long-story-short.md), or **Move to Outtakes**. On a group, **Move to Outtakes** moves one seat; **Entire group ▸** moves all. Empty: **Nothing discarded.**
 
-Click selects; preview stays on current slide. Drag up to return to show. Drop on intro sets intro background. Right-click **Move to Takes** or **Remove from Project**. Calendar sort sorts **Outtakes** too. **Shuffle** is show-only.
+Click selects; preview stays on current slide. Drag up to return to show. That photo’s focus is found on the way back, so a face does not stay in the middle of the frame. A large drop does not freeze the window. Drop on intro sets intro background. Right-click **Move to Takes** or **Remove from Project**. Calendar sort sorts **Outtakes** too. **Shuffle** is show-only.
 
 ![Outtake menu: Move to Takes, Remove from Project](../.gitbook/assets/library-outtakes-menu.png)
 

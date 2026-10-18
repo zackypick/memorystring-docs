@@ -6,7 +6,11 @@ The **intro** is the opening title card. **Captions** are optional text on indiv
 
 ![Intro Slide, Background, Text, Card & Motion](../.gitbook/assets/inspector-intro-top.png)
 
-The intro is full-screen. It is not a floating photo card. Intro stays **first** in order. Intro fonts are separate from slide caption fonts.
+The intro is full bleed. It fills the stage. It is not a floating photo card. Intro stays **first** in order. Intro fonts are separate from slide caption fonts.
+
+**Stage** is **Match**, **Dark**, or **Light**. **Match** follows Style → Stage. Title ink follows that stage (light ink on Dark, dark ink on Light) until you pick a color.
+
+**Studio → Intensity** is how loud the photo behind the title is. It follows Style → Stage Intensity until you move it. **Match Show** puts it back. The wash eases into the first slide.
 
 Intro length follows **Energy** on its own timing: about **7s** at Calm, **6s** at default, **4s** at Intense. Photo stills use shorter holds at high Energy. See [Looks → Energy](style/looks.md#energy).
 
@@ -50,9 +54,9 @@ Right-click intro → **Disable Intro Slide**, **Set Intro Title**, **Set Backgr
 
 Add a still behind the title: click well, **Choose…** / **Change…**, drop on well, **Choose from Library** / **Choose File…**, **Remove**. Missing file shows **Missing**. See [Show cover](#show-cover-and-project-name).
 
-**Studio** with background: **Dim**, **Start zoom** (100–140%), **Slow Zoom**, **Soften**, **Color** / **Grayscale**.
+**Studio** with a background: **Start zoom** (100–140%), **Slow Zoom**, **Soften**, **Color** / **Grayscale**. How loud that photo is lives under **Stage → Intensity**, not a separate Dim slider.
 
-Background still fades up from stage color. **Slow Zoom** can run when Card Motion is **None**.
+The background fades up from the stage color and eases into the first slide. **Slow Zoom** eases in. It can run when Card Motion is **None**.
 
 ## Text (Studio)
 

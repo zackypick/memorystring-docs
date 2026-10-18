@@ -8,6 +8,15 @@ MemoryString **1.1** shipped **Long story short** and richer **captions**. It al
 
 ## What's new
 
+**1.2.0**
+
+- The intro is full bleed and follows the show’s stage. **Intensity** follows Stage Intensity until you pin it. The wash eases into the first slide. **Allow Access** is the one Photos button.
+- A new show is **Clean** on the **Light** stage. **Cinematic** stays on **Dark**. **Clean** and **Crisp** use a grayscale backdrop. **Polaroid** and **Golden Hour** stay in color.
+- The backdrop covers the stage and is never mirrored. A face that would hide behind the card zooms into the open side. **Backdrop Seat** is gone.
+- **Long story short** finds each face (**Finding focus M of N…**) and deals groups on the finished cut.
+- Dragging photos from **Outtakes** back to **Takes** finds that focus without freezing the window.
+- You can check every group kind. **Auto** still picks a short list from the length of the show, and never more than four.
+
 **1.1.3**, since the **1.1.2** App Store build.
 
 - **Motion → Transitions.** Checked boxes are the kinds this show uses. **How many** and **Auto** set how many single-slide transitions and group kinds, and the list grows with the show. **Shuffle** keeps kinds you checked. Each change re-cuts the show.
