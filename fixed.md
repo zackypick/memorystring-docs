@@ -6,6 +6,12 @@ description: "What we fixed, by version."
 
 What we fixed, by version.
 
+## Version 1.2.1
+
+* Long story short goes up to 30 minutes, still capped at what the photos can fill.
+* The finished movie lands within about 10 seconds of the length you pick.
+* Closing and opening the project keeps that order and that length.
+
 ## Version 1.2.0
 
 * Long story short deals groups across the finished show, the same way Shuffle does.
