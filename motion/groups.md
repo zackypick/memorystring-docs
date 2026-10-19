@@ -8,7 +8,7 @@ On a new show, photos from the same shoot stay together. A group does not mix tw
 
 Uncheck **Perspective Pair** and those pairs become single slides. When there is room, another slide sits between the two shots. Pair stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again. Check it to bring the pairs back. **⌘Z** restores them.
 
-After **Long story short**, groups are dealt on the finished cut, with the usual gap between them, not back to back. If the clock is still short, extra photos are added as single slides.
+After **Long story short**, groups are dealt across the finished show, the same way **Shuffle** does, with the usual gap between them, not back to back.
 
 Each hero moment inside a group uses about **72.5%** of a normal slide’s time. Groups need at least **two** normal slides between windows. **Carousel**, **3D Ribbon**, and **Filmstrip** also keep at least **four** normal slides between travel-style windows.
 

@@ -8,7 +8,7 @@ What we fixed, by version.
 
 ## Version 1.2.0
 
-* Long story short deals groups on the finished show. A short clock adds photos as single slides instead of dealing again.
+* Long story short deals groups across the finished show, the same way Shuffle does.
 * Moving a lot of photos between Takes and Outtakes no longer freezes the app on the drop.
 * The intro wash eases into the first slide, and the intro uses the show’s stage.
 * A backdrop face sits beside the card. The wash covers the stage and is never mirrored.

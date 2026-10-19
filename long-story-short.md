@@ -51,7 +51,7 @@ While it works you may see **Making a long story short...**, **Checking M of N p
 
 ![After Long story short: a one-minute show, extras in Outtakes](../.gitbook/assets/long-story-short-result.png)
 
-- Groups are dealt on the finished cut, with the usual gap between them, not back to back. If the clock is still short, extra photos are added as single slides
+- Groups are dealt across the finished show, the same way **Shuffle** does, with the usual gap between them, not back to back
 - The title bar shows the new length
 - Shots that did not make it are in [Outtakes](library.md#outtakes). Drag any of them up to put them back
 - A show you already styled keeps its **Look** and soundtrack. If the new cut runs longer than your music, bundled songs fill the rest. Your own tracks are never replaced
