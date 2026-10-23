@@ -1,5 +1,5 @@
 ---
-description: "What's new in MemoryString 1.1.3, since the 1.1.2 App Store build, plus what comes next."
+description: "What's new in MemoryString 1.2.1, plus what comes next."
 ---
 
 # Roadmap

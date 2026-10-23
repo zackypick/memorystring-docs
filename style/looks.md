@@ -98,11 +98,11 @@ A new show starts at **50%** on **Dark** and **80%** on **Light**. If you alread
 
 **Dark**
 
-<figure><img src="../.gitbook/assets/stage-dark.jpg" alt="Dark stage"><figcaption>Dark stage</figcaption></figure>
+![Dark stage](../.gitbook/assets/stage-dark.jpg)
 
 **Light**
 
-<figure><img src="../.gitbook/assets/stage-light.jpg" alt="Light stage"><figcaption>Light stage</figcaption></figure>
+![Light stage](../.gitbook/assets/stage-light.jpg)
 
 ## Captions on this tab
 

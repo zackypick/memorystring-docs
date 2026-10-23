@@ -46,25 +46,25 @@ Wider stages — TV, photo print, square post, cinema ribbon.
 
 4:3 (1440×1080)
 
-<figure><img src="../.gitbook/assets/format-classic.jpg" alt="Same show exported as Classic 4:3 (1440×1080)"><figcaption>Classic · 1440×1080</figcaption></figure>
+![Same show exported as Classic 4:3 (1440×1080)](../.gitbook/assets/format-classic.jpg)
 
 ### Photo
 
 3:2 (1620×1080)
 
-<figure><img src="../.gitbook/assets/format-photo.jpg" alt="Same show exported as Photo 3:2 (1620×1080)"><figcaption>Photo · 1620×1080</figcaption></figure>
+![Same show exported as Photo 3:2 (1620×1080)](../.gitbook/assets/format-photo.jpg)
 
 ### Square
 
 Post · 1:1 (1080×1080)
 
-<figure><img src="../.gitbook/assets/format-square.jpg" alt="Same show exported as Square 1:1 (1080×1080)"><figcaption>Square · 1080×1080</figcaption></figure>
+![Same show exported as Square 1:1 (1080×1080)](../.gitbook/assets/format-square.jpg)
 
 ### Cinema
 
 21:9 (2560×1080)
 
-<figure><img src="../.gitbook/assets/format-cinema.jpg" alt="Same show exported as Cinema 21:9 (2560×1080)"><figcaption>Cinema · 2560×1080</figcaption></figure>
+![Same show exported as Cinema 21:9 (2560×1080)](../.gitbook/assets/format-cinema.jpg)
 
 ## Social Safe
 
@@ -72,11 +72,11 @@ Post · 1:1 (1080×1080)
 
 **Format** tab (Inspector → **Format**) controls the **live preview** when Social Safe is on.
 
-<figure><img src="../.gitbook/assets/inspector-format-social-safe.png" alt="Format tab: Social Safe checkbox so the preview matches the share crop"><figcaption>Social Safe — Format inspector (live preview)</figcaption></figure>
+![Format tab: Social Safe checkbox so the preview matches the share crop](../.gitbook/assets/inspector-format-social-safe.png)
 
 **Export Movie** applies Social Safe to **this file only**. It does not change the live preview swatch. You can compose in YouTube 16:9 on **Format**, then export TikTok 9:16 with Social Safe in the export dialog.
 
-<figure><img src="../.gitbook/assets/export-social-safe.png" alt="Export Movie: Social Safe keeps photos and captions inside the frame"><figcaption>Social Safe — Export Movie dialog (this encode)</figcaption></figure>
+![Export Movie: Social Safe keeps photos and captions inside the frame](../.gitbook/assets/export-social-safe.png)
 
 Social Safe turns **on** automatically for **9:16**, **4:5**, and **2:3**. It stays **off** for Square, 16:9, and other Classic frames unless you turn it on.
 
