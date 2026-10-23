@@ -76,9 +76,9 @@ Photos you import from the Photos app are copied onto your Mac, so the show can 
 
 <summary>Is there a limit on how many photos? Can I import 1,000?</summary>
 
-There is no fixed limit, but a show of 1,000 photos does not make sense. That movie would run about an hour and 20 minutes. For most people, anything over about 10 minutes is already too long to watch.
+There is no fixed limit. You can import 25,000 photos or more, even on an 8 GB Mac. The app can handle it.
 
-A drop that large is also hard for the app. A few hundred photos, around 200 to 300, still runs, and the movie is still too long.
+A show that long does not make sense. A thousand photos would run about an hour and 20 minutes. For most people, anything over about 10 minutes is already too long to watch.
 
 If you have a whole trip and you do not want to pick the shots yourself, that is what [Long story short](../long-story-short.md) is for. It chooses a watchable movie from the pile — up to 30 minutes, still capped at what the photos can fill — and leaves the rest in Outtakes. When an import would put more than 150 photos and videos on the show, MemoryString offers it first.
 
