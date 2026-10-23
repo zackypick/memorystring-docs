@@ -8,6 +8,6 @@ Video and image assets in `.gitbook/assets/` stay here so GitBook embeds keep wo
 
 ## Get it
 
-[Download MemoryString 1.2.0 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.0/MemoryString-1.2.0.dmg)
+[Download MemoryString 1.2.1 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.1/MemoryString-1.2.1.dmg)
 
 Free, always the latest build. macOS 14 (Sonoma) or later, Apple Silicon and Intel.

@@ -8,6 +8,10 @@ MemoryString **1.1** shipped **Long story short** and richer **captions**. It al
 
 ## What's new
 
+**1.2.1**
+
+- **Long story short** goes up to **30** minutes, still capped at what the photos can fill. The finished movie lands within about 10 seconds of the minute you pick. Closing and opening the project keeps that order and that length.
+
 **1.2.0**
 
 - The intro is full bleed and follows the show’s stage. **Intensity** follows Stage Intensity until you pin it. The wash eases into the first slide. **Allow Access** is the one Photos button.
@@ -35,7 +39,7 @@ MemoryString **1.1** shipped **Long story short** and richer **captions**. It al
 
 ### **Long story short**
 
-Build a shareable movie from a big pile of photos and videos. Pick a length from 1 to 20 minutes (default 3). The best shots go on the show, spread across the whole trip. Videos are trimmed. The rest stay in **Outtakes**. Nothing is deleted. An import of more than 150 photos and videos offers it first. See [Long story short](long-story-short.md).
+Build a shareable movie from a big pile of photos and videos. Pick a length from 1 to 30 minutes (default 3), capped at what the photos can fill. The best shots go on the show, spread across the whole trip. Videos are trimmed. The rest stay in **Outtakes**. Nothing is deleted. An import of more than 150 photos and videos offers it first. See [Long story short](long-story-short.md).
 
 ### **Caption Details**
 
