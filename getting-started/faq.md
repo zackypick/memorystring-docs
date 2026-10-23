@@ -58,7 +58,7 @@ What it is not: a replacement for DaVinci or After Effects. If the job is a full
 
 Yes. Start from **Clean**, set **Energy** to **Calm**, and drop **Stage Intensity** to 0. That leaves one picture on a plain background.
 
-In **Studio**, open **Motion** and turn off the transitions you don't want. The default Look is busier on purpose.
+A new show already starts on **Clean**. Other Looks are busier. In **Studio**, open **Motion** and turn off the transitions you don't want.
 
 </details>
 
@@ -76,11 +76,11 @@ Photos you import from the Photos app are copied onto your Mac, so the show can 
 
 <summary>Is there a limit on how many photos? Can I import 1,000?</summary>
 
-There is no fixed limit, but a show of 1,000 photos does not make sense. That movie would run about an hour and 20 minutes. For most people, anything over about 10 minutes is already too long.
+There is no fixed limit, but a show of 1,000 photos does not make sense. That movie would run about an hour and 20 minutes. For most people, anything over about 10 minutes is already too long to watch.
 
 A drop that large is also hard for the app. A few hundred photos, around 200 to 300, still runs, and the movie is still too long.
 
-If you have a whole trip and you do not want to pick the shots yourself, that is what [Long story short](../long-story-short.md) is for. It chooses a watchable movie from the pile and leaves the rest in Outtakes. When an import would put more than 150 photos and videos on the show, MemoryString offers it first.
+If you have a whole trip and you do not want to pick the shots yourself, that is what [Long story short](../long-story-short.md) is for. It chooses a watchable movie from the pile — up to 30 minutes, still capped at what the photos can fill — and leaves the rest in Outtakes. When an import would put more than 150 photos and videos on the show, MemoryString offers it first.
 
 </details>
 
@@ -96,11 +96,11 @@ There is no Windows app and no iPhone app.
 
 <details>
 
-<summary>What if I can't use the App Store?</summary>
+<summary>Is there a download that isn't the App Store?</summary>
 
-Get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq). That is also where you can rate it.
+The usual way is the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq). Updates come from there, and you can rate the app.
 
-If the Store is not an option, [download the Mac installer](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.0/MemoryString-1.2.0.dmg).
+If the Store is not an option, [download the Mac installer](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.1/MemoryString-1.2.1.dmg).
 
 </details>
 
