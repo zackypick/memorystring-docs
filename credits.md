@@ -1,8 +1,21 @@
 ---
-description: "Thanks — GitBook, John Deere, Adam Engst (ridbits.com), Daniel Hertrich (hertrich.photo), and Gil Levy."
+description: "Special thanks to Daniel Hertrich (hertrich.photo). Also GitBook, John Deere, Adam Engst (ridbits.com), and Gil Levy."
 ---
 
 # Credits
+
+## Special thanks — Daniel Hertrich
+
+**Daniel Hertrich** ([hertrich.photo](https://www.hertrich.photo/fototraining)) is a photographer, and in practice MemoryString’s tester. He reports bugs with care. He also suggests improvements — some already in the app, the rest likely in coming versions.
+
+Because of his notes:
+
+- After export, MemoryString opens the folder in Finder instead of launching a player
+- **Go to Start** sits beside Timeline, so you can jump to **0:00** without dragging the playhead
+- A new show starts **Clean** and quieter: slower pacing, a calmer still on each photo, and **Stage Intensity** so the background is a mood, not a second sharp copy of the picture
+- You can keep only a few kinds of move, instead of a busy mix
+
+The choreography and pacing of the shows are more mellow and fine-tuned because of his comments. Thank you, Daniel.
 
 ## GitBook
 
@@ -16,10 +29,6 @@ These docs run on [GitBook](https://www.gitbook.com). GitBook gave MemoryString 
 - **Screensaver** — export a silent looping movie for System Settings → Wallpaper
 
 Both are in the app today. See [Library](library.md#import-from-photos) and [Format and export](export.md#screensaver).
-
-## Daniel Hertrich
-
-**Daniel Hertrich** ([hertrich.photo](https://www.hertrich.photo/fototraining)) gave feedback that changed export behavior. MemoryString no longer opens the exported video in a player. It opens the folder in Finder instead.
 
 ## Gil Levy
 
