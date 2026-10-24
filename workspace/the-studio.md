@@ -38,7 +38,7 @@ Toolbar **+** (near the project name) is **Photos & Videos…**, **Import from P
 
 ## Library
 
-Photos and videos for this show. The column splits into **Takes** (the show grid) and **Outtakes** (in the project, off the show). Calendar sort, captions bubble, **⋯** (**Keep Best Shots…**, **Auto Trim Videos…**, and more), and **+** sit on the header. **File → Import from Photos…** is on **+** too.
+Photos and videos for this show. The column splits into **Takes** (the show grid) and **Outtakes** (in the project, off the show). Calendar sort, captions bubble, **⋯** (**Keep Best Shots…**, **Auto Trim Videos…**, **Mute Noisy Videos**, and more), and **+** sit on the header. **File → Import from Photos…** is on **+** too.
 
 ![Library — Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
 

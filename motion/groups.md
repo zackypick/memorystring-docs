@@ -31,7 +31,7 @@ Videos in a group play in their seat. Unmuted video audio plays only while that 
 - **Stack Every** — 3…8 (default 4)
 - **Stack Size** — 3, 4, or 5 cards (default 4)
 
-Fanned pile with backdrop washes behind.
+Fanned pile with backdrop washes behind. The gray shows the people in the photo, not the empty room.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/group-photo-stack.mp4" %}
 
