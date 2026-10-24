@@ -6,6 +6,14 @@ description: "What we fixed, by version."
 
 What we fixed, by version.
 
+## Version 1.2.2
+
+* A big Long story short import no longer sits stuck after Importing M of N or Finding focus M of N.
+* Library ⋯ Mute Noisy Videos, Mute All Videos, and Unmute All Videos. The show stays clickable.
+* Wind and hiss on videos mute; talking, music, and sharp hits stay. Opening a show re-checks.
+* The gray behind a group photo shows people, not the empty room.
+* Bundled songs are smaller. Same 63 tracks and lengths.
+
 ## Version 1.2.1
 
 * Long story short goes up to 30 minutes, still capped at what the photos can fill.

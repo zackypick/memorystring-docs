@@ -30,7 +30,7 @@ The window close button closes the window only. Reopen from the Dock.
 | **⌘]** / **⌘[** | Rotate Clockwise / Rotate Counter Clockwise |
 | **⇧⌘]** / **⇧⌘[** | Flip Horizontal / Flip Vertical |
 
-**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. **Library** calendar and empty-Library right-click add **Shuffle**. **Library** **⋯** has **Long story short**, **Keep Best Shots…**, and **Auto Trim Videos…**. Right-click a video for **Auto Trim**. Undo with **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
+**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. **Library** calendar and empty-Library right-click add **Shuffle**. **Library** **⋯** has **Long story short**, **Keep Best Shots…**, **Auto Trim Videos…**, **Mute Noisy Videos**, **Mute All Videos**, and **Unmute All Videos**. Right-click a video for **Auto Trim**. Undo with **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
 
 ## View
 

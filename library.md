@@ -143,7 +143,7 @@ See [Intro and captions](intro-captions.md#auto-caption).
 
 - **Long story short** — see [Long story short](long-story-short.md)
 - **Show** — **Shuffle Transitions**, **Reset Slide Durations**, **Keep Best Shots…**
-- **Videos** — **Auto Trim Videos…**, **Reset Video Durations**
+- **Videos** — **Auto Trim Videos…**, **Reset Video Durations**, **Mute Noisy Videos**, **Mute All Videos**, **Unmute All Videos**
 - **Import** — **Import from Photos…**
 - **Show Transition Names**
 
@@ -188,9 +188,11 @@ Click selects and seeks. Right-click opens menu and stages clip on preview. **�
 
 ### Videos
 
-On import: speech stays; silence or noise may mute. On-device. Skip speech prompt → loudness only. [Auto detection](auto-detection.md#video-sound-auto-mute).
+On import: speech stays; silence, wind, hiss, or quiet room noise may mute. Talking, music, and sharp hits stay. On-device. Skip speech prompt → loudness only. Opening a show re-checks clips you have not already unmuted. [Auto detection](auto-detection.md#video-sound-auto-mute).
 
 **Mute Video Sound** / **Unmute Video Sound** — right-click, badge, or Inspector.
+
+**Library** **⋯** **Videos**: **Mute Noisy Videos** (show stays clickable), **Mute All Videos**, **Unmute All Videos**. Mute all and unmute all stick when you reopen. **Mute Noisy Videos** decides again from the file.
 
 **Auto Trim** — right-click or **Library** **⋯**. Not on import. ~4s middle, ~70% success. **2 second** minimum trim. **Reset Video Duration** restores full clip.
 
