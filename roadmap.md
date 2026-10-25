@@ -1,5 +1,5 @@
 ---
-description: "What's new in MemoryString 1.2.1, plus what comes next."
+description: "What's new in MemoryString 1.2.2, plus what comes next."
 ---
 
 # Roadmap
@@ -7,6 +7,13 @@ description: "What's new in MemoryString 1.2.1, plus what comes next."
 MemoryString **1.1** shipped **Long story short** and richer **captions**. It also made group lengths easier to set and moved Help to this site.
 
 ## What's new
+
+**1.2.2**
+
+- A big **Long story short** import no longer sits stuck after **Importing M of N** or **Finding focus M of N**.
+- **Library** **⋯** **Videos** can **Mute Noisy Videos**, **Mute All Videos**, and **Unmute All Videos**. Wind and hiss go quiet; talking, music, and sharp hits stay. Opening a show re-checks.
+- On a group photo, the gray behind the card shows people, not the empty room.
+- Same 63 bundled songs, about 36 MB smaller.
 
 **1.2.1**
 

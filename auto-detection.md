@@ -54,9 +54,9 @@ See [Library → Videos](library.md#videos) and [Timeline](timeline.md#reorder-a
 
 ## Video sound (auto-mute)
 
-Speech on camera stays audible. Quiet room tone or hum may mute on import so the soundtrack can lead.
+Speech on camera stays audible. Wind, hiss, and quiet room tone may mute so the soundtrack can lead. Talking, music, and sharp hits (a bounce, a clap) stay on.
 
-**When:** as each **video** is imported (**Essential** and **Studio**). Stills have no clip audio. Soundtrack tracks are not auto-muted.
+**When:** as each **video** is imported (**Essential** and **Studio**), and again when you open a show, for clips you have not already unmuted. Stills have no clip audio. Soundtrack tracks are not auto-muted. **Library** **⋯** → **Mute Noisy Videos** runs the same pass on every show video while you keep working.
 
 **First import:** MemoryString may ask **Allow On-Device Speech Detection?**
 
@@ -71,11 +71,11 @@ If you deny speech, later imports use loudness only until you reset that choice.
 2. **Very quiet** throughout → muted
 3. If speech is allowed and **speech is found** → **audible**
 4. Else if energy looks like **music, singing, or cries** → **audible**
-5. Else steady noise or ambience → muted
+5. Else steady noise, wind, hiss, or ambience → muted
 
 Muted clips show a speaker-off badge in **Library** and **Timeline**.
 
-**Override:** right-click **Mute Video Sound** / **Unmute Video Sound**, the speaker badge, or the Inspector clip footer. See [Library](library.md#videos) and [Music](music.md#video-sound-not-the-music-lane).
+**Override:** right-click **Mute Video Sound** / **Unmute Video Sound**, the speaker badge, or the Inspector clip footer. **Library** **⋯** → **Mute All Videos** / **Unmute All Videos** flips every show video at once and remembers that choice. See [Library](library.md#videos) and [Music](music.md#video-sound-not-the-music-lane).
 
 ## Orientation
 

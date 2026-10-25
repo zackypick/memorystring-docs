@@ -123,6 +123,6 @@ Only import tracks you have rights to use.
 
 ## Video sound (not the Audioline)
 
-Clip audio is separate from the soundtrack. On import, **speech stays**; **silence or noise may mute**. Same in **Essential** and **Studio**. Details: [Auto detection](auto-detection.md#video-sound-auto-mute).
+Clip audio is separate from the soundtrack. On import, **speech stays**; **silence, wind, hiss, or quiet room noise may mute**. Talking, music, and sharp hits stay. Same in **Essential** and **Studio**. Opening a show re-checks. Details: [Auto detection](auto-detection.md#video-sound-auto-mute).
 
-Unmute or mute anytime: right-click **Mute Video Sound** / **Unmute Video Sound**, speaker badge, or Inspector footer. See [Library](library.md#videos).
+Unmute or mute anytime: right-click **Mute Video Sound** / **Unmute Video Sound**, speaker badge, or Inspector footer. **Library** **⋯** can **Mute Noisy Videos**, **Mute All Videos**, or **Unmute All Videos**. See [Library](library.md#videos).
