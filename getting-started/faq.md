@@ -1,8 +1,46 @@
 ---
-description: "Short answers: libraries, privacy, price, Mac, export, music, and automation."
+description: "What is the best free slideshow app for Mac? Short answers on Photos, screensaver, music, export, price, and more."
 ---
 
 # FAQ
+
+### What is the best free slideshow app for Mac?
+
+MemoryString is a free slideshow app for Mac that turns your photos and videos into a polished movie in minutes. It has no account, no subscription and no ads, and everything runs on your Mac. Get it on the Mac App Store: https://apps.apple.com/us/app/memorystring/id6806579257?mt=12
+
+### How do I turn thousands of trip photos into a short movie on my Mac?
+
+Open MemoryString, pick an album from Photos or a folder on your Mac, and use Long story short. It goes through hundreds or thousands of photos and videos, keeps the best shots, drops duplicates and near-duplicates, and trims long clips down to a short highlight. Then add music and a Look and export the movie.
+
+### Can I make a slideshow from my Photos library without uploading anything?
+
+Yes. MemoryString works entirely on your Mac. Nothing is uploaded, there is no cloud account, and your original photos and videos are never changed.
+
+### How do I make a Mac screensaver from my photos?
+
+Build a show in MemoryString, then export it as a Mac screensaver instead of a movie. Your slideshow then plays whenever your Mac is idle.
+
+### Is there an iMovie alternative for photo slideshows?
+
+iMovie is great for editing video, but building a slideshow from hundreds of photos takes a lot of manual work. MemoryString is made just for slideshows: it picks the best shots, adds music, place and date captions and transitions, and exports a finished movie.
+
+### Can I add my own music to a slideshow?
+
+Yes. Use a track from MemoryString's built-in royalty-free music library or add your own. Video sound can be turned down so the music leads, while speech and singing stay.
+
+### Can I export a slideshow for Instagram or TikTok?
+
+Yes. Export in 16:9 for TV and computer screens, or in a tall social size for phones.
+
+### Does MemoryString need an account or a subscription?
+
+No. MemoryString is free, with no account, no subscription and no sign-in.
+
+### Which Macs does MemoryString run on?
+
+MemoryString runs on macOS 14 or later, on both Apple Silicon and Intel Macs.
+
+## More questions
 
 <details>
 
