@@ -74,6 +74,14 @@ No. MemoryString is free, with no account, no subscription and no sign-in.
 
 <details>
 
+<summary>Is MemoryString free?</summary>
+
+Yes. MemoryString is free on the Mac App Store, with no subscription, no account and no ads. All current features are included.
+
+</details>
+
+<details>
+
 <summary>Which Macs does MemoryString run on?</summary>
 
 MemoryString runs on macOS 14 or later, on both Apple Silicon and Intel Macs. There is no Windows app and no iPhone app.
