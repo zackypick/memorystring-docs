@@ -4,41 +4,81 @@ description: "What is the best free slideshow app for Mac? Short answers on Phot
 
 # FAQ
 
-### What is the best free slideshow app for Mac?
+<details>
+
+<summary>What is the best free slideshow app for Mac?</summary>
 
 MemoryString is a free slideshow app for Mac that turns your photos and videos into a polished movie in minutes. It has no account, no subscription and no ads, and everything runs on your Mac. Get it on the Mac App Store: https://apps.apple.com/us/app/memorystring/id6806579257?mt=12
 
-### How do I turn thousands of trip photos into a short movie on my Mac?
+</details>
+
+<details>
+
+<summary>How do I turn thousands of trip photos into a short movie on my Mac?</summary>
 
 Open MemoryString, pick an album from Photos or a folder on your Mac, and use Long story short. It goes through hundreds or thousands of photos and videos, keeps the best shots, drops duplicates and near-duplicates, and trims long clips down to a short highlight. Then add music and a Look and export the movie.
 
-### Can I make a slideshow from my Photos library without uploading anything?
+</details>
+
+<details>
+
+<summary>Can I make a slideshow from my Photos library without uploading anything?</summary>
 
 Yes. MemoryString works entirely on your Mac. Nothing is uploaded, there is no cloud account, and your original photos and videos are never changed.
 
-### How do I make a Mac screensaver from my photos?
+</details>
+
+<details>
+
+<summary>How do I make a Mac screensaver from my photos?</summary>
 
 Build a show in MemoryString, then export it as a Mac screensaver instead of a movie. Your slideshow then plays whenever your Mac is idle.
 
-### Is there an iMovie alternative for photo slideshows?
+In the Export Movie dialog, check **Screensaver**, then export. You get a silent movie that loops: no music, no intro, no signature at the end.
+
+To use it, open **System Settings → Wallpaper**, add the folder that holds the file, and pick that movie.
+
+</details>
+
+<details>
+
+<summary>Is there an iMovie alternative for photo slideshows?</summary>
 
 iMovie is great for editing video, but building a slideshow from hundreds of photos takes a lot of manual work. MemoryString is made just for slideshows: it picks the best shots, adds music, place and date captions and transitions, and exports a finished movie.
 
-### Can I add my own music to a slideshow?
+</details>
 
-Yes. Use a track from MemoryString's built-in royalty-free music library or add your own. Video sound can be turned down so the music leads, while speech and singing stay.
+<details>
 
-### Can I export a slideshow for Instagram or TikTok?
+<summary>Can I add my own music to a slideshow?</summary>
+
+Yes. Use a track from MemoryString's built-in royalty-free music library or add your own. Video sound can be turned down so the music leads, while speech and singing stay. Only add music you have the rights to use.
+
+</details>
+
+<details>
+
+<summary>Can I export a slideshow for Instagram or TikTok?</summary>
 
 Yes. Export in 16:9 for TV and computer screens, or in a tall social size for phones.
 
-### Does MemoryString need an account or a subscription?
+</details>
+
+<details>
+
+<summary>Does MemoryString need an account or a subscription?</summary>
 
 No. MemoryString is free, with no account, no subscription and no sign-in.
 
-### Which Macs does MemoryString run on?
+</details>
 
-MemoryString runs on macOS 14 or later, on both Apple Silicon and Intel Macs.
+<details>
+
+<summary>Which Macs does MemoryString run on?</summary>
+
+MemoryString runs on macOS 14 or later, on both Apple Silicon and Intel Macs. There is no Windows app and no iPhone app.
+
+</details>
 
 ## More questions
 
@@ -53,14 +93,6 @@ No. Export or download the photos to a folder on your Mac, then drop that folder
 This stays on your Mac. A live Google Photos or Lightroom connection would send your pictures through someone else's account. That does not fit a private, local app.
 
 [MCP](../mcp.md) can automate the steps on your Mac. It is not a connection to those libraries.
-
-</details>
-
-<details>
-
-<summary>Is it free? Do I need an account?</summary>
-
-Yes, it is free. No account. No subscription.
 
 </details>
 
@@ -116,19 +148,9 @@ Photos you import from the Photos app are copied onto your Mac, so the show can 
 
 There is no fixed limit. You can import 25,000 photos or more, even on an 8 GB Mac. The app can handle it.
 
-A show that long does not make sense. A thousand photos would run about an hour and 20 minutes. For most people, anything over about 10 minutes is already too long to watch.
+A show that long does not make sense. For most people, anything over about 10 minutes is already too long to watch.
 
-If you have a whole trip and you do not want to pick the shots yourself, that is what [Long story short](../long-story-short.md) is for. It chooses a watchable movie from the pile — up to 30 minutes, still capped at what the photos can fill — and leaves the rest in Outtakes. When an import would put more than 150 photos and videos on the show, MemoryString offers it first.
-
-</details>
-
-<details>
-
-<summary>Which Mac do I need?</summary>
-
-macOS 14 (Sonoma) or later. Apple Silicon or Intel.
-
-There is no Windows app and no iPhone app.
+If you have a whole trip and you do not want to pick the shots yourself, that is what [Long story short](../long-story-short.md) is for. It builds a watchable movie from the best of the pile, limited by how much the photos can fill, and leaves the rest in Outtakes. When an import would put more than 150 photos and videos on the show, MemoryString offers it first.
 
 </details>
 
@@ -170,16 +192,6 @@ There is no plan to let you change it or take it off. That signature is how some
 
 <details>
 
-<summary>Can I make a screensaver?</summary>
-
-Yes. In the Export Movie dialog, check **Screensaver**, then export. You get a silent movie that loops: no music, no intro, no signature at the end.
-
-To use it, open **System Settings → Wallpaper**, add the folder that holds the file, and pick that movie.
-
-</details>
-
-<details>
-
 <summary>Is this a photo editor?</summary>
 
 No. It makes the movie. Looks change the feel of the show. They are not a catalog where you retouch each photo.
@@ -191,14 +203,6 @@ No. It makes the movie. Looks change the feel of the show. They are not a catalo
 <summary>What happens to photos that are not in the movie?</summary>
 
 They can sit in **Outtakes**. Nothing is deleted. Drag a photo back when you want it in the show.
-
-</details>
-
-<details>
-
-<summary>Can I use my own music?</summary>
-
-Yes. Add your own audio files, or pick tracks from the built-in royalty-free library. Only add music you have the rights to use.
 
 </details>
 
