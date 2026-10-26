@@ -1,5 +1,5 @@
 ---
-description: "What is the best free slideshow app for Mac? Short answers on Photos, screensaver, music, export, price, and more."
+description: "Common questions about MemoryString, the free slideshow app for Mac: importing from Photos, music, export, the screensaver, and more."
 ---
 
 # FAQ
