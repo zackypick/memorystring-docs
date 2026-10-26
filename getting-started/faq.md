@@ -184,9 +184,7 @@ MemoryString shows the file in Finder. It does not open a video player.
 
 <summary>Can I remove "Created with MemoryString" at the end?</summary>
 
-The MemoryString signature stays at the end of the movie you share. The app is free, and that signature is how someone watching it hears about MemoryString and can download it too.
-
-There is no plan to let you change it or take it off. That signature is how someone watching your movie finds MemoryString.
+The MemoryString signature stays at the end of the movie you share. The app is free, and that signature is how someone watching it finds MemoryString and can download it too. There is no plan to let you change it or take it off.
 
 </details>
 
