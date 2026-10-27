@@ -9,9 +9,9 @@ description: "Long story short turns a big pile of photos and videos into a shar
 ## Start it
 
 - **File → Long story short**
-- **Library** **⋯** → **Long story short**
+- **Library** Show menu → **Make Long story short**
 
-![Library ⋯: Long story short at the top](../.gitbook/assets/library-options-menu.png)
+![Library Show menu: Make Long story short at the top](../.gitbook/assets/library-options-menu.png)
 
 The sheet is titled **Long story short**. Under that: **Pick the best shots for a shareable movie.** Choose a **Duration** from **1** to **30** minutes, then **Create**. The top stops at what the photos can actually fill. **Cancel** closes the sheet. The default is **3 min**, short enough to share. Next time the slider starts where you left it.
 
@@ -46,6 +46,8 @@ Same on every import path: **+**, Finder drop, **Import from Photos…**, Photos
 The show plays in date order. The length lands within about 10 seconds of the minute you picked.
 
 While it works you may see **Making a long story short...**, **Checking M of N photos…**, **Picking the best shots...**, **Reviewing M of N...**, **Straightening M of N...**, **Arranging N shots…**, and **Finding focus M of N…**. While it fits the length, the line shows the clock so far, such as **2:23 of 10:00**. Kept shots are upright before the movie is laid out. Focus lands on a face, not the middle of the frame. After **Importing** and **Finding focus** finish, the show comes up — it does not sit on that last count. **Cancel** on the Duration sheet changes nothing. **Cancel** while it is building puts the previous show back. See [Orientation](auto-detection.md#orientation).
+
+**Add**, **+**, Import Media, Import from Photos, Music, and drops stay grey until Long story short finishes — including Close, Open, and Cancel. Hover: **Wait until Long story short finishes**.
 
 ## After it runs
 

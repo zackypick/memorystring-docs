@@ -4,7 +4,7 @@ Photos and videos for your movie appear in the **Library** on the left. Music is
 
 ![Library with photos, transition names, mute badges](../.gitbook/assets/library-photos.png)
 
-When the **Library** has items, the header has **calendar** (sort / shuffle), **captions** bubble, **⋯**, and **+**. When empty, only **⋯** and **+** show.
+When the **Library** has items, the header has **calendar** (sort / shuffle), **captions** bubble, the stacked-slides **Show** menu, and **+**. When empty, only **Show** and **+** appear.
 
 Drag the right **divider** to resize. It snaps to whole columns. **View → Toggle Sidebar** (**⌃⌘S**) hides the sidebar. **⌘+** / **⌘-** / **⌘0** change UI text size for **Library** cards (same as **Timeline** strip height).
 
@@ -22,6 +22,8 @@ Folder and Finder imports stay **linked** to originals. If you move or delete an
 - **Edit → Paste** (**⌘V**) — files, folders, images from other apps, or screenshots. A `.memorystring` file **opens** when pasted.
 - Empty **Library**: **Nothing in library yet**. Preview accepts drops. Hover: **Gather the thread** for media; **Bring back memories** for a project file.
 
+**+**, **Add photos & videos**, **File → Import Media…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…** grey out while **Long story short** is running, and while a saved show is opening (**It's coming back now…**). Hover: **Wait until Long story short finishes**, or **Wait until the project finishes opening**. Drops and paste wait too. A normal import loader (**Stringing it together...**) still leaves **Add** clickable.
+
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
 
@@ -32,7 +34,7 @@ Videos show a play badge and duration. Multi-select shows a count.
 **Essential:** after import, if the **Library** was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. **Studio** does not. **⌘Z** undoes.
 
 {% hint style="info" %}
-**Keep Best Shots** may ask after import when photos of the same moment appear. A different pose is not flagged. **Keep Best** (default) or **Keep All**. Extras go to **Outtakes**. Undo **⌘Z**. Videos are not Keep Best targets. Prompt waits until import loader clears. Videos are not auto-trimmed on import — use **Auto Trim** from menu or **Library** **⋯**. Sideways and upside-down photos and videos are turned upright during import, before they land. See [Auto detection](auto-detection.md#keep-best-shots) and [Orientation](auto-detection.md#orientation).
+**Keep Best Shots** may ask after import when photos of the same moment appear. A different pose is not flagged. **Keep Best** (default) or **Keep All**. Extras go to **Outtakes**. Undo **⌘Z**. Videos are not Keep Best targets. Prompt waits until import loader clears. Videos are not auto-trimmed on import — use **Auto Trim** from a clip menu or the **Library** Show menu. Sideways and upside-down photos and videos are turned upright during import, before they land. See [Auto detection](auto-detection.md#keep-best-shots) and [Orientation](auto-detection.md#orientation).
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
@@ -96,7 +98,7 @@ While loader runs — **Stringing it together...** (percent, **Cancel**) or **It
 
 ## Cover and show name
 
-First import into a new show (intro title **Memories**) can set project name and cover poster. Rules: [Intro and captions → Show cover and project name](intro-captions.md#show-cover-and-project-name).
+First import into a new show (opening title **Memories**) can set project name and cover poster. Rules: [Titles and captions → Show cover and project name](intro-captions.md#show-cover-and-project-name).
 
 - **Photos albums:** Apple key photo may become cover unless it is already first or second on the show.
 - **Name:** single album, person, or trip import; or folder name from **Add Folder** / Finder folder drop. Title Case applied. Generic names skipped.
@@ -110,9 +112,11 @@ First import into a new show (intro title **Memories**) can set project name and
 
 Header shows count when not empty. **Outtakes** holds shots in the project but not on the show — from **Keep Best**, [Long story short](long-story-short.md), or **Move to Outtakes**. On a group, **Move to Outtakes** moves one seat; **Entire group ▸** moves all. Empty: **Nothing discarded.**
 
-Click selects; preview stays on current slide. Drag up to return to show. That photo’s focus is found on the way back, so a face does not stay in the middle of the frame. A large drop does not freeze the window. Drop on intro sets intro background. Right-click **Move to Takes** or **Remove from Project**. Calendar sort sorts **Outtakes** too. **Shuffle** is show-only.
+Click selects; preview stays on the current slide. Drag up to return to the show. That photo’s focus is found on the way back, so a face does not stay in the middle of the frame. A large drop does not freeze the window. Drop on the opening card sets its background. Right-click **Peek**, **Move to Takes**, or **Remove from Project**. Calendar sort sorts **Outtakes** too. **Shuffle** is show-only.
 
-![Outtake menu: Move to Takes, Remove from Project](../.gitbook/assets/library-outtakes-menu.png)
+**Peek** inspects a parked shot over the preview without putting it in the show or moving the playhead. Double-click an outtake, or right-click → **Peek**. Click other outtakes to switch. Leave with **Close** (bottom-right), **Esc**, **Play**, or a Take click. Space on a peeked video plays that clip only.
+
+![Outtake menu: Peek, Move to Takes, Remove from Project](../.gitbook/assets/library-outtakes-menu.png)
 
 ## Sort (calendar)
 
@@ -125,7 +129,7 @@ Click selects; preview stays on current slide. Drag up to return to show. That p
 
 **Edit → Sort by Date Taken** and **Motion → Timeline → Sort by Date Taken** offer three date/import choices (no Shuffle). **Studio** **Motion → Timeline** has **Shuffle Slides**.
 
-Capture date from EXIF; file date if missing. Undated at end. Intro stays first. **⌘Z** undoes.
+Capture date from EXIF; file date if missing. Undated at end. Opening card stays first. **⌘Z** undoes.
 
 ## Captions (bubble)
 
@@ -135,21 +139,23 @@ Capture date from EXIF; file date if missing. Undated at end. Intro stays first.
 - **Auto Caption All Slides…**
 - **Clear All Captions…**
 
-See [Intro and captions](intro-captions.md#auto-caption).
+See [Titles and captions](intro-captions.md#auto-caption).
 
-## ⋯ options
+## Show menu
 
-![Library ⋯: Long story short, Show, Videos, Import](../.gitbook/assets/library-options-menu.png)
+The stacked-slides icon (not ⋯) opens **Show**. Cut names under thumbs are always on — there is no checkbox to hide them.
 
-- **Long story short** — see [Long story short](long-story-short.md)
-- **Show** — **Shuffle Transitions**, **Reset Slide Durations**, **Keep Best Shots…**
+![Library Show menu: Make Long story short, Videos, Audio](../.gitbook/assets/library-options-menu.png)
+
+- **Show** — **Make Long story short**, **Shuffle Transitions**, **Reset Slide Durations**, **Keep Best Shots…**
 - **Videos** — **Auto Trim Videos…**, **Reset Video Durations**, **Mute Noisy Videos**, **Mute All Videos**, **Unmute All Videos**
-- **Import** — **Import from Photos…**
-- **Show Transition Names**
+- **Audio** — **Fit Show to Music**, **Extend to Fill** — see [Music](music.md#length)
+
+**Import from Photos…** is on toolbar **+** and **File**, not this menu.
 
 ## Reorder and replace
 
-Drag thumbs. Drop on a group’s **first seat** to **join**. On **Timeline**: gap = insert; slide or group seat = **Replace**; intro = background.
+Drag thumbs. Drop on a group’s **first seat** to **join**. On **Timeline**: gap = insert; slide or group seat = **Replace**; opening card = background.
 
 Whole groups move together until you select one seat. See [Organizing](organizing.md#drag-to-reorder).
 
@@ -178,7 +184,7 @@ On a group, **Set Duration…** sets the length of the **whole group**, the same
 
 ![Entire group ▸: Rotate & Flip, Lens Effect, Set Duration…, Move 5 photos to Outtakes, Remove 5 photos](../.gitbook/assets/library-entire-group-menu.png)
 
-Intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, [Reset Center of Interest](preview.md#center-of-interest).
+Opening card: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, [Reset Center of Interest](preview.md#center-of-interest).
 
 Right-click **empty** **Library**: same sort / shuffle / captions / **Shuffle Transitions** as header menus.
 
@@ -192,9 +198,9 @@ On import: speech stays; silence, wind, hiss, or quiet room noise may mute. Talk
 
 **Mute Video Sound** / **Unmute Video Sound** — right-click, badge, or Inspector.
 
-**Library** **⋯** **Videos**: **Mute Noisy Videos** (show stays clickable), **Mute All Videos**, **Unmute All Videos**. Mute all and unmute all stick when you reopen. **Mute Noisy Videos** decides again from the file.
+**Library** Show menu **Videos**: **Mute Noisy Videos** (show stays clickable), **Mute All Videos**, **Unmute All Videos**. Mute all and unmute all stick when you reopen. **Mute Noisy Videos** decides again from the file.
 
-**Auto Trim** — right-click or **Library** **⋯**. Not on import. ~4s middle, ~70% success. **2 second** minimum trim. **Reset Video Duration** restores full clip.
+**Auto Trim** — right-click or the **Library** Show menu. Not on import. ~4s middle, ~70% success. **2 second** minimum trim. **Reset Video Duration** restores full clip.
 
 ## Multi-photo badges
 

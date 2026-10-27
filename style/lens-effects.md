@@ -22,7 +22,7 @@ Soft out-of-focus circles.
 
 ### Flare
 
-Hexagonal flare beam.
+Hexagonal flare beam. It sits on the photo with the grain, including while you scrub — not only after you click a clip.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-flare.mp4" %}
 

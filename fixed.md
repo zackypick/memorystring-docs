@@ -6,6 +6,18 @@ description: "What we fixed, by version."
 
 What we fixed, by version.
 
+## Version 1.2.3
+
+* **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey while Long story short is running, and while a saved show is opening. A normal import loader still leaves Add clickable.
+* Paste no longer leaves the loading screen stuck. Dragging from Photos.app no longer aborts.
+* Import into a show that already has photos shows **Loading photos** without fogging the living show.
+* Skip of a duplicate import no longer leaves a phantom undo.
+* Print / Vintage grain and hex flare sit on the photo, including while you scrub. Offset Wash’s faded copies stay clean.
+* Speech permission waits until the show is on screen.
+* Library cut names stay visible under thumbs (the old checkbox is gone).
+* Clicking the Auto focus spot on a photo no longer jumps the background.
+* Long shows stream music instead of mixing the whole soundtrack at once. Export waits until songs are loaded.
+
 ## Version 1.2.2
 
 * A big Long story short import no longer sits stuck after Importing M of N or Finding focus M of N.

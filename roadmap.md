@@ -50,7 +50,7 @@ Build a shareable movie from a big pile of photos and videos. Pick a length from
 
 ### **Caption Details**
 
-Choose what automatic captions say: landmark, city, country, and date. Dates come short, long, or as numbers, with or without the weekday. Captions can be written in another language. One **Size** for every slide, and captions rise in by default. See [Intro and captions](intro-captions.md#caption-details-studio).
+Choose what automatic captions say: landmark, city, country, and date. Dates come short, long, or as numbers, with or without the weekday. Captions can be written in another language. One **Size** for every slide, and captions rise in by default. See [Titles and captions](intro-captions.md#caption-details-studio).
 
 **Also in this version:** **Set Duration** on a group sets the whole group, the same as dragging its edge. **Esc** deselects. A live show clock in the title bar. **Help** opens this site. Lens effects show on fewer photos by default (**How often** 50%). A calmer default pace.
 
