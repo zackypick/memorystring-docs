@@ -24,13 +24,13 @@ The window close button closes the window only. Reopen from the Dock.
 | **⌘V** / **⌘C** | Paste / copy media (plain text while a caption or title field is focused) |
 | **⌘⌫** | Delete selected media or music |
 | **⌘D** | Set Duration… (on a group: the whole group's length) |
-| **Esc** | Deselect slides, Library cards, and music tracks |
+| **Esc** | Deselect slides, Library cards, and music tracks. Also leaves Outtakes **Peek** |
 | **⇧⌘C** | Set Caption (one selected Library or Timeline card; off when more than one card is selected) |
 | **⌘1** / **⌘2** | Set Start Here / Set End Here (selected video or soundtrack, at the playhead — [audition the Audioline](music.md#audition-the-audioline) first for music) |
 | **⌘]** / **⌘[** | Rotate Clockwise / Rotate Counter Clockwise |
 | **⇧⌘]** / **⇧⌘[** | Flip Horizontal / Flip Vertical |
 
-**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. **Library** calendar and empty-Library right-click add **Shuffle**. **Library** **⋯** has **Long story short**, **Keep Best Shots…**, **Auto Trim Videos…**, **Mute Noisy Videos**, **Mute All Videos**, and **Unmute All Videos**. Right-click a video for **Auto Trim**. Undo with **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
+**Edit → Auto Caption N Untitled Slides** and **Edit → Sort by Date Taken** (Oldest First / Newest First / Import Order — no Shuffle) are in the menu. **Library** calendar and empty-Library right-click add **Shuffle**. The **Library** Show menu (stacked-slides icon) has **Make Long story short**, **Keep Best Shots…**, **Auto Trim Videos…**, **Mute Noisy Videos**, **Mute All Videos**, **Unmute All Videos**, **Fit Show to Music**, and **Extend to Fill**. Right-click a video for **Auto Trim**. Undo with **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
 
 ## View
 
@@ -59,7 +59,9 @@ The window close button closes the window only. Reopen from the Dock.
 | **⌘/** | MemoryString Help… (opens this site) |
 | **⌘,** | Settings… (Enable MCP Server lives here) |
 
-**Help → Show Walkthrough** replays the first-run tour. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
+**Help → Show Walkthrough** replays the first-run tour. After a couple of successful exports, Apple’s own in-app star sheet may appear. **Help → Rate MemoryString…** opens the App Store review page anytime. **Help → Send Feedback…** opens Mail. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
+
+While typing an opening or closing title, **Shift+Enter** starts a new line. Long lines wrap on their own.
 
 ## Tips
 

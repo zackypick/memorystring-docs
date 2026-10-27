@@ -9,8 +9,8 @@ These tools help with a messy camera roll. Everything runs on your Mac. Original
 ## The helpers
 
 - **[Long story short](long-story-short.md)** — Builds a movie of the length you pick from your best shots. Uses Keep Best and Auto Trim. The rest go to **Outtakes**.
-- **Keep Best Shots** — From similar burst photos, keep one strong shot. Extras move to **Outtakes** (still in the project, not in the show). Import may ask; **Library** **⋯** anytime. Default: **Keep Best**. Undo **⌘Z**.
-- **Auto Trim** — About four seconds from the middle of a video clip, with up to about one second nudge toward a face. Works about 70% of the time. Right-click or **Library** **⋯** — not on import. After it runs, use **Reset Video Duration** to restore full length. Undo **⌘Z**.
+- **Keep Best Shots** — From similar burst photos, keep one strong shot. Extras move to **Outtakes** (still in the project, not in the show). Import may ask; **Library** Show menu anytime. Default: **Keep Best**. Undo **⌘Z**.
+- **Auto Trim** — About four seconds from the middle of a video clip, with up to about one second nudge toward a face. Works about 70% of the time. Right-click or **Library** Show menu — not on import. After it runs, use **Reset Video Duration** to restore full length. Undo **⌘Z**.
 - **Video mute** — On import, quiet clips with only room noise so music can lead.
 - **Orientation** — Turns sideways and upside-down photos and videos upright while they import, before they land on the timeline. Original files stay as shot.
 - **Center of interest** — Finds faces and subjects so motion frames the right area.
@@ -22,7 +22,7 @@ These tools help with a messy camera roll. Everything runs on your Mac. Original
 
 When several photos are the same moment in the same framing, MemoryString can keep the one with open eyes, a smile, sharpness, and good exposure. A different pose stays in the show. On a large import it can also keep a second, wider shot from that moment.
 
-**When:** during **import**, before the show is built — the fog (or the loading pill on an existing show) says **Comparing similar shots N of M...**, then asks. Anytime later from **Library** **⋯** → **Keep Best Shots…**. Videos are not included.
+**When:** during **import**, before the show is built — the fog (or the loading pill on an existing show) says **Comparing similar shots N of M...**, then asks. Anytime later from **Library** Show menu → **Keep Best Shots…**. Videos are not included.
 
 **The dialog** shows how many groups and extra shots. **Keep the best shot only?** Default button: **Keep Best**. **Keep All** leaves every photo.
 
@@ -32,7 +32,7 @@ When several photos are the same moment in the same framing, MemoryString can ke
 Other shots move to **Outtakes**. Undo with **⌘Z**.
 {% endhint %}
 
-One undo restores the whole pass. See [Library](library.md#import) and [Library ⋯](library.md#-options).
+One undo restores the whole pass. See [Library](library.md#import) and [Library Show menu](library.md#show-menu).
 
 ## Auto Trim
 
@@ -42,13 +42,13 @@ The cut works about **70%** of the time. Trim by hand when you need to.
 
 Clips trimmed by **Auto Trim** show a small scissors mark below the mute icon on **Timeline**, **Library**, and **Outtakes** cards. Solid scissors = **Auto Trim**. Outline = you trimmed by hand. The mark shows on hover or selection and goes away after **Reset Video Duration**.
 
-**When:** **not** on import. Right-click a video → **Auto Trim** (runs immediately). Or **Library** **⋯** → **Auto Trim Videos…** (confirms when several videos are selected). Works on group videos too.
+**When:** **not** on import. Right-click a video → **Auto Trim** (runs immediately). Or **Library** Show menu → **Auto Trim Videos…** (confirms when several videos are selected). Works on group videos too.
 
 ![Clip context menu with Auto Trim](../.gitbook/assets/auto-trim-context-menu.png)
 
 It does not mute, caption, or delete clips.
 
-**Undo:** **⌘Z**. **Reset Video Duration** restores the full source. **Library** **⋯** → **Reset Video Durations** resets all videos.
+**Undo:** **⌘Z**. **Reset Video Duration** restores the full source. **Library** Show menu → **Reset Video Durations** resets all videos.
 
 See [Library → Videos](library.md#videos) and [Timeline](timeline.md#reorder-and-trim).
 
@@ -56,9 +56,9 @@ See [Library → Videos](library.md#videos) and [Timeline](timeline.md#reorder-a
 
 Speech on camera stays audible. Wind, hiss, and quiet room tone may mute so the soundtrack can lead. Talking, music, and sharp hits (a bounce, a clap) stay on.
 
-**When:** as each **video** is imported (**Essential** and **Studio**), and again when you open a show, for clips you have not already unmuted. Stills have no clip audio. Soundtrack tracks are not auto-muted. **Library** **⋯** → **Mute Noisy Videos** runs the same pass on every show video while you keep working.
+**When:** as each **video** is imported (**Essential** and **Studio**), and again when you open a show, for clips you have not already unmuted. Stills have no clip audio. Soundtrack tracks are not auto-muted. **Library** Show menu → **Mute Noisy Videos** runs the same pass on every show video while you keep working.
 
-**First import:** MemoryString may ask **Allow On-Device Speech Detection?**
+**First import with video:** MemoryString may ask **Allow On-Device Speech Detection?** The sheet waits until the show is on screen — it does not pop during the loading fog.
 
 - **Continue** — then macOS’s Speech prompt. Detection is **on-device**. It does not save a transcript.
 - **Use Loudness Only** — skip speech. Mute still uses loudness.
@@ -123,4 +123,4 @@ Untitled-only commands **never overwrite** text you typed. **Auto Caption All Sl
 
 Geocoding uses coordinates **in the media**, not your Mac’s location. Offline still gets date / IPTC when available. One **⌘Z** undoes a full Auto Caption pass.
 
-See [Intro and captions](intro-captions.md#auto-caption).
+See [Titles and captions](intro-captions.md#auto-caption).
