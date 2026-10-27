@@ -8,7 +8,8 @@ What we fixed, by version.
 
 ## Version 1.2.3
 
-* **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey while Long story short is running, and while a saved show is opening. A normal import loader still leaves Add clickable.
+* **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey while Long story short is running, and while a saved show is opening (**It's coming back now…**). Add comes back after Close, Open, or Cancel. A normal import loader still leaves Add clickable.
+* While Export or Warm Now has edits paused, clicking the preview no longer moves the focus spot.
 * Paste no longer leaves the loading screen stuck. Dragging from Photos.app no longer aborts.
 * Import into a show that already has photos shows **Loading photos** without fogging the living show.
 * Skip of a duplicate import no longer leaves a phantom undo.

@@ -77,7 +77,7 @@ When a photo is paused, you may see a small round ring. That is **center of inte
 
 **On import:** every photo and video gets a point. MemoryString picks the largest face, else the main subject, else the center. Videos use several frames in the trim window.
 
-**Manual:** pause and click the photo. Drag to pan. Each change undoes with **⌘Z**.
+**Manual:** pause and click the photo. Drag to pan. Each change undoes with **⌘Z**. While **Export** or **Warm Now** has edits paused, a click on the preview does **not** move the focus spot.
 
 **Reset Center of Interest** (right-click the paused photo) removes your override and runs detection again.
 

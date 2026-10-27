@@ -94,7 +94,7 @@ Photos imports are **copied** to Application Support **Imports**. Finder folder 
 
 Same rules on every path: **+**, Finder drop, Photos.app drag (often one file at a time), paste. **Keep Best** counts the **whole drop**.
 
-While loader runs — **Stringing it together...** (percent, **Cancel**) or **It's coming back now...** (open project, no percent) — drops are ignored. Toolbar **+** and File menus still work. Loader is a spinner with smoke animation.
+While a first-import loader runs — **Stringing it together...** (percent, **Cancel**) — drops are ignored; **Add** and **+** stay clickable. While a saved show is opening — **It's coming back now...** (no percent) — drops, paste, **Add**, **+**, Import Media, Import from Photos, and Music stay grey until the fog lifts. Same grey lock during **Long story short**; Add comes back after Close, Open, or Cancel. Loader is a spinner with smoke animation.
 
 ## Cover and show name
 

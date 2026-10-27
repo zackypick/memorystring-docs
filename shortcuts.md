@@ -59,7 +59,7 @@ The window close button closes the window only. Reopen from the Dock.
 | **⌘/** | MemoryString Help… (opens this site) |
 | **⌘,** | Settings… (Enable MCP Server lives here) |
 
-**Help → Show Walkthrough** replays the first-run tour. **Help → Rate MemoryString…** opens the App Store review page. **Help → Send Feedback…** opens Mail. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
+**Help → Show Walkthrough** replays the first-run tour. After a couple of successful exports, Apple’s own in-app star sheet may appear. **Help → Rate MemoryString…** opens the App Store review page anytime. **Help → Send Feedback…** opens Mail. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
 
 While typing an opening or closing title, **Shift+Enter** starts a new line. Long lines wrap on their own.
 

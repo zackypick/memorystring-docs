@@ -12,7 +12,7 @@
 6. **Share your memory** — Open **Export** and pick a format.
 7. **Essential or Studio** — Use **Essential** for simplicity, or **Studio** for more controls.
 
-**Help → Rate MemoryString…** opens the App Store page to write a review. After a couple of successful exports, Apple’s own star sheet may appear when you come back to MemoryString — not a homemade rate card.
+After a couple of successful exports, MemoryString asks Apple to show its own in-app star sheet when you come back to the app — not a homemade rate card. Apple decides whether the sheet appears. **Help → Rate MemoryString…** (and About) opens the App Store review page anytime you want to rate without waiting for that ask.
 
 **Help → Send Feedback…** always opens Mail (to msfeedback@codebyz.com). It never hands the address to the browser.
 
