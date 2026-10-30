@@ -91,6 +91,8 @@ Each photo plays **at most one** pooled lens effect. The choice is stable for th
 - **Randomize Selected on** (default for Looks): equal odds among checked boxes. **How often** (default **50%**) sets how many photos get an effect. Groups may get effects slightly more often.
 - **Randomize Selected off**: some effects like Vignette can apply on every photo instead of taking the single slot.
 
+Checking a box when none are checked keeps that effect on the slide you are on. **How often** stays off until **Randomize Selected** is on, or **Refract Bubbles** is checked.
+
 **Studio:** right-click **Timeline** or **Library** → **Lens Effect** to pin **this photo**. **Entire group ▸ Lens** copies to all seats. Pins survive Look changes. **Anamorphic Streaks** and **Bokeh** do not auto-assign on group seats.
 
 On a group, vignette and light leak apply once for the whole window.
@@ -100,6 +102,8 @@ Plate, Ambience, Film, Atmosphere: [Customize](customize.md).
 ## Anamorphic Streaks (when checked)
 
 Horizontal light bars, steered off the subject ([center of interest](../preview.md#center-of-interest)).
+
+On a **Light** opening card, with that card's own Lens set to **Anamorphic Streaks**, the bar is a colored line behind the title words. **Match** follows the show stage. A **Dark** opening card, and every other slide, keep the usual light bars.
 
 Presets: **Subtle Cinema** (default) · **Strong Anamorphic** · **Vintage Film** · **Blue Heavy**
 

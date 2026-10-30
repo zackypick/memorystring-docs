@@ -22,7 +22,7 @@ Folder and Finder imports stay **linked** to originals. If you move or delete an
 - **Edit → Paste** (**⌘V**) — files, folders, images from other apps, or screenshots. A `.memorystring` file **opens** when pasted.
 - Empty **Library**: **Nothing in library yet**. Preview accepts drops. Hover: **Gather the thread** for media; **Bring back memories** for a project file.
 
-**+**, **Add photos & videos**, **File → Import Media…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…** grey out while **Long story short** is running, and while a saved show is opening (**It's coming back now…**). Hover: **Wait until Long story short finishes**, or **Wait until the project finishes opening**. Drops and paste wait too. A normal import loader (**Stringing it together...**) still leaves **Add** clickable.
+**+**, **Add photos & videos**, **File → Import Media…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…** grey out while **Stringing it together...** is up, while **Long story short** is running, and while a saved show is opening (**It's coming back now…**). Hover: **Wait until this import finishes**, **Wait until Long story short finishes**, or **Wait until the project finishes opening**. Drops and paste wait too.
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
@@ -94,7 +94,7 @@ Photos imports are **copied** to Application Support **Imports**. Finder folder 
 
 Same rules on every path: **+**, Finder drop, Photos.app drag (often one file at a time), paste. **Keep Best** counts the **whole drop**.
 
-While a first-import loader runs — **Stringing it together...** (percent, **Cancel**) — drops are ignored; **Add** and **+** stay clickable. While a saved show is opening — **It's coming back now...** (no percent) — drops, paste, **Add**, **+**, Import Media, Import from Photos, and Music stay grey until the fog lifts. Same grey lock during **Long story short**; Add comes back after Close, Open, or Cancel. Loader is a spinner with smoke animation.
+While a first-import loader runs — **Stringing it together...** (percent, **Cancel**, and finding focus) — drops, paste, **Add**, **+**, Import Media, and Import from Photos stay grey. Hover: **Wait until this import finishes**. While a saved show is opening — **It's coming back now...** (no percent) — drops, paste, **Add**, **+**, Import Media, Import from Photos, and Music stay grey until the fog lifts. Same grey lock during **Long story short**; Add comes back after Close, Open, or Cancel. Loader is a spinner with smoke animation.
 
 ## Cover and show name
 

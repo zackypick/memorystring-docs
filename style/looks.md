@@ -78,7 +78,7 @@ Slider from **Calm** to **Intense**. Labels: **Calm · Steady · Lively · Energ
 
 Photo still duration scales with Energy — about **7.6s** at Calm, **4.0s** at default, **2.0s** at Intense. The **opening card** uses separate timing: about **7s / 6s / 4s**. Energy does not clear hand-picked Motion checkboxes.
 
-**Fit Show to Music** on the Audio tab moves this same Energy slider so the last photo ends with the song. See [Music → Length](../music.md#length).
+**Fit Show to Music** on the Audio tab moves this same Energy slider so the song covers the whole film, including the end card. See [Music → Length](../music.md#length).
 
 **Spiral-in** and **Reveal from depth** play at every Energy. Their slides run a little longer so the slow wind-in still lands.
 

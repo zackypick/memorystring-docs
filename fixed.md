@@ -6,9 +6,16 @@ description: "What we fixed, by version."
 
 What we fixed, by version.
 
+## Version 1.2.4
+
+* During **Stringing it together...**, **Add**, **+**, Import, and the Add menu stay grey until that screen is gone. Hover: **Wait until this import finishes**.
+* **Fit Show to Music** covers the whole film, including the end card, and fades across the credit.
+* Checking a lens box when none were checked keeps that effect on the slide. **How often** stays off until **Randomize Selected** or **Refract Bubbles** is on.
+* On a light opening card, **Anamorphic Streaks** draws a colored line behind the title words.
+
 ## Version 1.2.3
 
-* **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey while Long story short is running, and while a saved show is opening (**It's coming back now…**). Add comes back after Close, Open, or Cancel. A normal import loader still leaves Add clickable.
+* **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey while Long story short is running, and while a saved show is opening (**It's coming back now…**). Add comes back after Close, Open, or Cancel.
 * While Export or Warm Now has edits paused, clicking the preview no longer moves the focus spot.
 * Paste no longer leaves the loading screen stuck. Dragging from Photos.app no longer aborts.
 * Import into a show that already has photos shows **Loading photos** without fogging the living show.

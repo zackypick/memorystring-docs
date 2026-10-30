@@ -82,7 +82,7 @@ Font (see [Fonts](#fonts-studio)), color, **Auto Size** / **Size**, **Align**, *
 
 ## Card & Motion (Studio)
 
-**Frame**, **Motion**, **Lens**, **Decoration** for the opening card.
+**Frame**, **Motion**, **Lens**, **Decoration** for the opening card. On a **Light** stage, **Anamorphic Streaks** draws a colored line behind the title words. A **Dark** opening card keeps the usual bright bars.
 
 **Look** chips also skin the opening card (font, colors, frame, motion, lens). They do not change on/off, title text, or a background you chose.
 

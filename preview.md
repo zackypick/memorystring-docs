@@ -40,7 +40,7 @@ The first import shows a loader on the stage. It is a spinner with a smoke anima
 
 Opening an existing `.memorystring` uses the same loader with **It's coming back now...** and no percent. **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey until that fog lifts. Hover: **Wait until the project finishes opening**.
 
-You cannot drop files while either loader is visible. A first-import loader (**Stringing it together...**) still leaves **Add** clickable. **Keep Best Shots** waits until the loader finishes.
+You cannot drop files while either loader is visible. During **Stringing it together...**, **Add**, **+**, Import Media, and Import from Photos stay grey too. Hover: **Wait until this import finishes**. **Keep Best Shots** waits until the loader finishes.
 
 After the show has clips, a media drop overlay reads **Add to story**.
 

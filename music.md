@@ -53,7 +53,7 @@ Audio files are never imported as photos.
 
 Under **Tracks**, Inspector → **Audio** has a **Length** section: show clock vs song clock, then **Fit Show to Music** and **Extend to Fill**.
 
-**Fit Show to Music** moves **Energy** (Calm through Intense) so the last photo ends with the song. Videos and the opening card keep their own length. If even Calm is too short or Intense is too long, Fit does nothing and the Audio tab says why. Also on **Motion → Timeline**, **Library** Show menu → **Audio**, and **Timing**.
+**Fit Show to Music** moves **Energy** (Calm through Intense) so the song covers the whole film, including the end card, and fades across the credit. Videos and the opening card keep their own length. Fit turns **Music Follows Show** off. If even Calm is too short or Intense is too long, Fit does nothing and the Audio tab says why. Also on **Motion → Timeline**, **Library** Show menu → **Audio**, and **Timing**.
 
 **Extend to Fill** keeps your tracks and adds music after them to cover the show.
 
