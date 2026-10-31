@@ -19,6 +19,7 @@ Since the **1.2.2** App Store build (no separate 1.2.3 drop).
 * On a light opening card, **Anamorphic Streaks** draws a colored line behind the title words.
 * Someone lying down is left as shot — auto-straighten no longer stands them up and tips the room.
 * After you rotate a photo, the blurred backdrop turns the same way as the card.
+* After **Long story short** finishes, **Stringing it together...** leaves the preview and the status bar.
 * While Export or Warm Now has edits paused, clicking the preview no longer moves the focus spot.
 * Paste no longer leaves the loading screen stuck. Dragging from Photos.app no longer aborts.
 * Import into a show that already has photos shows **Loading photos** without fogging the living show.
