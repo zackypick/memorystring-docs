@@ -1,5 +1,5 @@
 ---
-description: "What's new in MemoryString 1.2.2, plus what comes next."
+description: "What's new in MemoryString 1.2.4, plus what comes next."
 ---
 
 # Roadmap
@@ -7,6 +7,13 @@ description: "What's new in MemoryString 1.2.2, plus what comes next."
 MemoryString **1.1** shipped **Long story short** and richer **captions**. It also made group lengths easier to set and moved Help to this site.
 
 ## What's new
+
+**1.2.4** (since the **1.2.2** App Store build)
+
+- Scenic and person+pet backdrops keep the place and both subjects in the blur.
+- **Add** / Import stay grey during Long story short, Stringing it together, and while a saved show opens.
+- **Fit Show to Music** covers the end card. Someone lying down stays as shot. Rotate turns the backdrop with the card.
+- Paste and Photos drag no longer stick the loader. Grain and hex flare sit on the photo while you scrub. Long shows stream music.
 
 **1.2.2**
 

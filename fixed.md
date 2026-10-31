@@ -8,18 +8,17 @@ What we fixed, by version.
 
 ## Version 1.2.4
 
+Since the **1.2.2** App Store build (no separate 1.2.3 drop).
+
 * On a tall photo of people in a place, the blur keeps the place. Two small faces sit to one side so the rest of the frame stays the scene, not a close-up of their shirts. One small face stays in the middle of that cover.
 * A person and a pet that sit together both stay in the blurred background, including a sleeping face. Clicking the spot Auto already chose keeps that same blur.
 * During **Stringing it together...**, **Add**, **+**, Import, and the Add menu stay grey until that screen is gone. Hover: **Wait until this import finishes**.
+* **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey while Long story short is running, and while a saved show is opening (**It's coming back now…**). Add comes back after Close, Open, or Cancel.
 * **Fit Show to Music** covers the whole film, including the end card, and fades across the credit.
 * Checking a lens box when none were checked keeps that effect on the slide. **How often** stays off until **Randomize Selected** or **Refract Bubbles** is on.
 * On a light opening card, **Anamorphic Streaks** draws a colored line behind the title words.
 * Someone lying down is left as shot — auto-straighten no longer stands them up and tips the room.
 * After you rotate a photo, the blurred backdrop turns the same way as the card.
-
-## Version 1.2.3
-
-* **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey while Long story short is running, and while a saved show is opening (**It's coming back now…**). Add comes back after Close, Open, or Cancel.
 * While Export or Warm Now has edits paused, clicking the preview no longer moves the focus spot.
 * Paste no longer leaves the loading screen stuck. Dragging from Photos.app no longer aborts.
 * Import into a show that already has photos shows **Loading photos** without fogging the living show.
