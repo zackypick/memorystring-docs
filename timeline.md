@@ -88,7 +88,7 @@ Inspector clip footer has the same trims for selected video or soundtrack.
 
 Right-click selects the clip under the pointer and seeks the playhead there. **Esc** deselects clips and music tracks.
 
-Intro cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Rotate & Flip** with background, **Reset Center of Interest** with background.
+Opening-card cell: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, (Studio) **Lens Effect**, **Rotate & Flip** with background, **Reset Center of Interest** with background.
 
 ## Motion → Timeline (Studio)
 
@@ -99,13 +99,13 @@ Inspector → **Motion** → **Timeline**:
 - **Shuffle Transitions**
 - **Reset Slide Durations**
 
-Also on **Library** **⋯**. Intro stays first. **⌘Z** undoes.
+Also on the **Library** Show menu. The opening card stays first. **⌘Z** undoes.
 
 ![Motion → Timeline: Sort by Date Taken, Shuffle Slides, Shuffle Transitions, Reset Slide Durations](../.gitbook/assets/inspector-motion-timeline.png)
 
 ## End card
 
-Every show ends with a **MemoryString** credit. On the photo lane this is a trailing **end** cell. You can select it but not trim or reorder it like media.
+Every show ends with a **Created with MemoryString** credit. On the photo lane this is a trailing **end** cell. You can select it but not trim or reorder it like media. Optional **closing words** (the box starts with **The End**) sit on that same card — see [Titles and captions](intro-captions.md#closing-words). Double-click the card to edit.
 
 ## Groups on the strip
 

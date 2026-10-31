@@ -1,24 +1,38 @@
-# Intro and captions
+# Titles and captions
 
-The **intro** is the opening title card. **Captions** are optional text on individual slides. New projects start with **Show Intro Slide** on and title **Memories**.
+Inspector → **Titles** holds the **opening card** and optional **closing words**. **Captions** are optional text on individual slides. New projects start with **Show opening card** on and title **Memories**. Closing words are off until you turn them on.
 
-![Intro card on the stage](../.gitbook/assets/preview-stage.png)
+![Opening card on the stage](../.gitbook/assets/preview-stage.png)
 
-![Intro Slide, Background, Text, Card & Motion](../.gitbook/assets/inspector-intro-top.png)
+![Titles: Opening and Closing](../.gitbook/assets/inspector-intro-top.png)
 
-The intro is full bleed. It fills the stage. It is not a floating photo card. Intro stays **first** in order. Intro fonts are separate from slide caption fonts.
+The opening card is full bleed. It fills the stage. It is not a floating photo card. It stays **first** in order. Opening fonts are separate from slide caption fonts, and from closing words.
 
 **Stage** is **Match**, **Dark**, or **Light**. **Match** follows Style → Stage. Title ink follows that stage (light ink on Dark, dark ink on Light) until you pick a color.
 
 **Studio → Intensity** is how loud the photo behind the title is. It follows Style → Stage Intensity until you move it. **Match Show** puts it back. The wash eases into the first slide.
 
-Intro length follows **Energy** on its own timing: about **7s** at Calm, **6s** at default, **4s** at Intense. Photo stills use shorter holds at high Energy. See [Looks → Energy](style/looks.md#energy).
+Opening length follows **Energy** on its own timing: about **7s** at Calm, **6s** at default, **4s** at Intense. Photo stills use shorter holds at high Energy. See [Looks → Energy](style/looks.md#energy).
+
+## Multiline titles
+
+Long opening or closing text **wraps on its own** when it does not fit one line.
+
+To start a new line on purpose, press **Shift+Enter** (on stage after a double-click, or in the Titles field). Plain **Enter** keeps you in the field.
+
+Up to three lines on the opening card. Closing words allow a few more.
+
+## Fonts (Studio)
+
+**Studio** font menus — captions, opening title, and closing words — list **every font installed on this Mac**. **System** stays first, then A–Z. Each name is drawn **in that type**, so you can pick without guessing.
+
+A show stores the family name, not the font file. If that face is missing on another Mac, the menu still shows the saved name and the show falls back to System.
 
 ## Show cover and project name
 
-The **cover** is the poster image — intro background and **Library** thumbnail — not necessarily the first slide after the title.
+The **cover** is the poster image — opening background and **Library** thumbnail — not necessarily the first slide after the title.
 
-After import, MemoryString may pick cover and name while intro text is still **Memories**.
+After import, MemoryString may pick cover and name while opening text is still **Memories**.
 
 ### How the cover is chosen
 
@@ -29,7 +43,7 @@ Same on all import paths.
 
 **Choose from Library**, **Choose File…**, drop on **Background**, **Set Background Image**, or **Remove** stops automatic cover, including after **Keep Best Shots**.
 
-### Project name and intro title
+### Project name and opening title
 
 First import may set window title and suggested save name from:
 
@@ -38,17 +52,19 @@ First import may set window title and suggested save name from:
 
 Title Case applied to folder names. Generic names skipped. Existing titles are not overwritten.
 
-Export **Save As** prefers intro title — see [Format and export](export.md#export-movie).
+Export **Save As** prefers the opening title — see [Format and export](export.md#export-movie).
 
-## Intro Slide (Essential and Studio)
+## Opening (Essential and Studio)
 
-- **Show Intro Slide** — off removes opening card
-- Text field — type here or in Inspector clip bar. Up to three lines on card. Export filename suggestion uses this title
-- Pause and **double-click** title on stage to edit. **Single** click sets [center of interest](preview.md#center-of-interest)
+**Titles → Opening**
 
-Right-click intro → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect**. With background still, **Rotate & Flip** turns the photo, not the title.
+- **Show opening card** — off removes the opening card
+- Text field — type here or in Inspector clip bar. Export filename suggestion uses this title
+- Pause and **double-click** the title on stage to edit. **Single** click sets [center of interest](preview.md#center-of-interest)
 
-**Reset Intro to Defaults** turns card off and restores intro settings. Does not clear slide captions.
+Right-click the opening card → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect**. With a background still, **Rotate & Flip** turns the photo, not the title.
+
+**Reset Titles to Defaults** turns the opening card off, restores opening settings, and clears closing words. It does not clear slide captions. To drop only the opening photo, use **Remove** on the background well.
 
 ## Background (Essential and Studio)
 
@@ -58,27 +74,41 @@ Add a still behind the title: click well, **Choose…** / **Change…**, drop on
 
 The background fades up from the stage color and eases into the first slide. **Slow Zoom** eases in. It can run when Card Motion is **None**.
 
-## Text (Studio)
+## Opening Text (Studio)
 
-Hidden in **Essential** — type in Intro field; styling in **Studio**.
+Hidden in **Essential** — type in the Opening field; styling in **Studio**.
 
-Font, color, **Auto Size** / **Size**, **Align**, **Outline**, **Shadow**.
+Font (see [Fonts](#fonts-studio)), color, **Auto Size** / **Size**, **Align**, **Outline**, **Shadow**.
 
 ## Card & Motion (Studio)
 
-**Frame**, **Motion**, **Lens**, **Decoration** for the title card.
+**Frame**, **Motion**, **Lens**, **Decoration** for the opening card. On a **Light** stage, **Anamorphic Streaks** draws a colored line behind the title words. A **Dark** opening card keeps the usual bright bars.
 
-**Look** chips also skin intro (font, colors, frame, motion, lens). They do not change intro on/off, title text, or a background you chose.
+**Look** chips also skin the opening card (font, colors, frame, motion, lens). They do not change on/off, title text, or a background you chose.
+
+## Closing words
+
+Optional last line on the **existing** cream end card, above **Created with MemoryString**. No extra card, no credits roll, no subtitle.
+
+**Show closing words** is off until you turn it on. The text box already holds **The End**, so checking the box puts that line on the card. Change it, or clear the field for the mark only. Older saved shows keep whatever they had.
+
+**Titles → Closing → Show closing words**.
+
+- Pause on the end card and **double-click** to edit on stage
+- Same wrap and **Shift+Enter** as the opening title
+- The end card stays about three seconds. There is no duration slider
+
+**Studio:** **Ornament** (none, or a small mark under the words), then **Text** — font, color (**Match Stage** follows the MemoryString mark), **Auto Size** / **Size**, **Align**, **Legibility** (shadow, hairline outline, or both).
 
 ## Slide captions
 
-Optional. Not added unless you type or run **Auto Caption**. Not the intro title — usually place · date under a photo.
+Optional. Not added unless you type or run **Auto Caption**. Not the opening title — usually place · date under a photo.
 
 ![Auto caption on a slide: Golden Gate Park, San Francisco · 6 July 2024](../.gitbook/assets/caption-stage.jpg)
 
 ## Set a caption in the Inspector
 
-**Studio:** **Style** → **Captions** → **Type & Placement** for font, color, size, align, motion, placement, shade. Bulk **Auto Caption** / **Clear** here too.
+**Studio:** **Style** → **Captions** → **Type & Placement** for font, color, size, align, motion, placement, shade. Bulk **Auto Caption** / **Clear** here too. The font menu is the same live Mac list as Titles.
 
 **Size** sets one text size for every slide. Long captions wrap. Turn off **Auto Size** to set it by hand. Captions rise in by default (**Rise**). A group shows its caption once, with one entrance and one exit for the whole group.
 

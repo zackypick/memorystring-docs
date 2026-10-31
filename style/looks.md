@@ -14,11 +14,11 @@ A **Look** sets the whole movie style from one chip in Inspector → **Style**: 
 
 Click a chip. MemoryString deals a short list of transitions for that Look, more kinds as the show gets longer, and applies group settings for that Look. A group kind you turned off, such as **Perspective Pair**, stays off. Check it again under **Motion → Transitions** to bring it back.
 
-**Click the same Look again** for a new random deal: lens effects (every Look except **Clean**), transitions, and Match Look music if the playlist is still auto-seeded. Pinned **Lens Effect** on slides survive.
+**Click the same Look again** for a new random deal: lens effects (every Look except **Clean**), transitions, and Music Follows Show tracks if the playlist is still auto-seeded. Pinned **Lens Effect** on slides survive.
 
 Editing **Customize**, **Stage**, **Photo Size**, or **Motion** switches the chip to **Custom**.
 
-Energy, export format, intro on/off, intro text, chosen intro background, and per-photo overrides are not reset. A Look **does** change intro card styling.
+Energy, export format, opening on/off, opening text, chosen opening background, closing words, and per-photo overrides are not reset. A Look **does** change opening-card styling.
 
 Looks do not turn on **Atmosphere** or **Decals** by themselves.
 
@@ -76,7 +76,9 @@ Cool editorial look. Thin white frame, strong shadow, grayscale backdrop, dramat
 
 Slider from **Calm** to **Intense**. Labels: **Calm · Steady · Lively · Energetic · Intense**.
 
-Photo still duration scales with Energy — about **7.6s** at Calm, **4.0s** at default, **2.0s** at Intense. **Intro** uses separate timing: about **7s / 6s / 4s**. Energy does not clear hand-picked Motion checkboxes.
+Photo still duration scales with Energy — about **7.6s** at Calm, **4.0s** at default, **2.0s** at Intense. The **opening card** uses separate timing: about **7s / 6s / 4s**. Energy does not clear hand-picked Motion checkboxes.
+
+**Fit Show to Music** on the Audio tab moves this same Energy slider so the song covers the whole film, including the end card. See [Music → Length](../music.md#length).
 
 **Spiral-in** and **Reveal from depth** play at every Energy. Their slides run a little longer so the slow wind-in still lands.
 
@@ -106,4 +108,4 @@ A new show starts at **50%** on **Dark** and **80%** on **Light**. If you alread
 
 ## Captions on this tab
 
-Bulk **Auto Caption** / **Clear**, and (**Studio**) **Type & Placement**. See [Intro and captions](../intro-captions.md#set-a-caption-in-the-inspector).
+Bulk **Auto Caption** / **Clear**, and (**Studio**) **Type & Placement** (every installed font, each name in its own type). See [Titles and captions](../intro-captions.md#set-a-caption-in-the-inspector).

@@ -2,7 +2,7 @@
 
 Soundtrack lives in Inspector → **Audio** and on the **Audioline** under the **Timeline**. It is not in the **Library**.
 
-![Audio tab: Match Look Soundtrack, Royalty-Free Library, Add Music, Pick New / Extend / Surprise](../.gitbook/assets/inspector-audio-music.png)
+![Audio tab: Music Follows Show, playlist, Fit Show to Music, Extend to Fill](../.gitbook/assets/inspector-audio-music.png)
 
 ## Import your own
 
@@ -31,9 +31,9 @@ Sheet title: **Royalty Free - No Attribution Required**. Subtitle: **YouTube Aud
 
 Each row: checkbox, title / artist, style or **In project**, duration, play button to audition (does not move the show playhead). Check tracks, then **Add**. **Cancel** closes. **Add** needs at least one new track selected.
 
-## Match Look Soundtrack
+## Music Follows Show
 
-**Match Look Soundtrack** is on by default. Empty projects start quiet. After the first photos or videos land, MemoryString adds bundled track(s) from the current **Look** mood pool, or **Would It Matter** when no Look is selected. You can mute or remove anytime.
+**Music Follows Show** is on by default (this was **Match Look Soundtrack**). Empty projects start quiet. After the first photos or videos land, MemoryString adds bundled track(s) from the current **Look** mood pool, or **Would It Matter** when no Look is selected. You can mute or remove anytime.
 
 Each **Look** has a mood pool. **Energy** can lean calmer or brighter within that pool. The royalty-free sheet lists the **full catalog**, not only Look pools.
 
@@ -45,16 +45,23 @@ Each **Look** has a mood pool. **Energy** can lean calmer or brighter within tha
 
 **After you change the playlist by hand** (pick, reorder, trim, remove, or import), Look clicks do **not** swap the bed. New imports **append**.
 
-Turn **Match Look Soundtrack** off to keep the playlist when changing Looks.
+Turn **Music Follows Show** off to keep the playlist when changing Looks. **Fit Show to Music** turns it off after a successful fit, so adding photos later does not add more songs.
 
 Audio files are never imported as photos.
+
+## Length
+
+Under **Tracks**, Inspector → **Audio** has a **Length** section: show clock vs song clock, then **Fit Show to Music** and **Extend to Fill**.
+
+**Fit Show to Music** moves **Energy** (Calm through Intense) so the song covers the whole film, including the end card, and fades across the credit. Videos and the opening card keep their own length. Fit turns **Music Follows Show** off. If even Calm is too short or Intense is too long, Fit does nothing and the Audio tab says why. Also on **Motion → Timeline**, **Library** Show menu → **Audio**, and **Timing**.
+
+**Extend to Fill** keeps your tracks and adds music after them to cover the show.
 
 ## Audio tab bed actions
 
 Under the playlist:
 
-- **Pick New Music** — new Match Look bed for this Look. Asks before replacing music you added.
-- **Extend to Fill** — keeps your tracks and adds music after them to cover the show.
+- **Pick New Music** — new Music Follows Show bed for this Look. Asks before replacing music you added.
 - **Surprise me** — random track from the **full** catalog. Look clicks do not overwrite after Surprise.
 
 ## Audition the Audioline
@@ -109,7 +116,7 @@ On import, MemoryString **auto-skips silent lead-in and run-out** on tracks. Tri
 
 **Remove from Project** — royalty-free tracks remove immediately. Your imports ask first. **⌘Z** either way.
 
-**Reset Audio Settings** on the tab restores volume, mute, and Match Look. Tracks and trims stay.
+**Reset Audio Settings** on the tab restores volume, mute, and Music Follows Show. Tracks and trims stay.
 
 ## Mix
 
@@ -125,4 +132,4 @@ Only import tracks you have rights to use.
 
 Clip audio is separate from the soundtrack. On import, **speech stays**; **silence, wind, hiss, or quiet room noise may mute**. Talking, music, and sharp hits stay. Same in **Essential** and **Studio**. Opening a show re-checks. Details: [Auto detection](auto-detection.md#video-sound-auto-mute).
 
-Unmute or mute anytime: right-click **Mute Video Sound** / **Unmute Video Sound**, speaker badge, or Inspector footer. **Library** **⋯** can **Mute Noisy Videos**, **Mute All Videos**, or **Unmute All Videos**. See [Library](library.md#videos).
+Unmute or mute anytime: right-click **Mute Video Sound** / **Unmute Video Sound**, speaker badge, or Inspector footer. The **Library** Show menu can **Mute Noisy Videos**, **Mute All Videos**, or **Unmute All Videos**. See [Library](library.md#videos).

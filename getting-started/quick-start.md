@@ -29,7 +29,7 @@ Folder and Finder imports stay **linked** to the original files. Media from **Ph
 
 An empty **Library** shows **Nothing in library yet**. The preview area accepts drops. Hover hint for media: **Gather the thread**. Hover hint for a project file: **Bring back memories**.
 
-While the stage loader runs, drops are ignored. First import title: **Stringing it together...** with **Importing N of M...** and **Cancel**. Opening a project: **It's coming back now...** (no count). The loader is a spinner with a smoke animation.
+While the stage loader runs, drops are ignored. First import title: **Stringing it together...** with **Importing N of M...** and **Cancel** — **Add**, **+**, and Import stay grey. Hover: **Wait until this import finishes**. Opening a project: **It's coming back now...** (no count) — **Add**, **+**, and Import stay grey until the show is back. The loader is a spinner with a smoke animation.
 
 After the show has clips, a media drop reads **Add to story**. **Keep Best Shots** waits until the loader clears.
 
@@ -40,11 +40,11 @@ Other types are skipped.
 
 Got a whole trip? Use [Long story short](../long-story-short.md) (**File → Long story short**). Pick a length and it builds the movie from your best shots. An import that would put more than **150** photos and videos on the show offers it first.
 
-After import, **Keep Best Shots** may appear when similar photo groups are found. Extras move to **Outtakes**. Videos are **not** auto-trimmed on import. Right-click a clip → **Auto Trim**, or use Library **⋯**. Sideways photos and videos are already upright. See [Auto Trim](../auto-detection.md#auto-trim) and [Orientation](../auto-detection.md#orientation).
+After import, **Keep Best Shots** may appear when similar photo groups are found. Extras move to **Outtakes**. Videos are **not** auto-trimmed on import. Right-click a clip → **Auto Trim**, or use the **Library** Show menu. Sideways photos and videos are already upright. See [Auto Trim](../auto-detection.md#auto-trim) and [Orientation](../auto-detection.md#orientation).
 
 ## 3. Order the story
 
-Drag **Library** thumbnails or **Timeline** clips until the order feels right. The **Intro** slide stays first when it is on. The **Library** divider snaps to whole columns of cards.
+Drag **Library** thumbnails or **Timeline** clips until the order feels right. The **opening card** stays first when it is on. The **Library** divider snaps to whole columns of cards.
 
 **Library** calendar menu: **Oldest First (Story Order)**, **Newest First**, **Import Order**, or **Shuffle**. **Edit → Sort by Date Taken** offers the three date/import choices only. In **Essential**, a first import auto-sorts **Oldest First** when the **Library** was empty.
 
@@ -60,7 +60,7 @@ Press **Space** or use toolbar **Play/Pause**. Click or drag the playhead to scr
 
 Soundtrack lives in Inspector → **Audio** and on the **Audioline**, not in the **Library**.
 
-After the first photos land, **Match Look Soundtrack** (on by default) adds bundled tracks from the current **Look** mood pool. Use **Pick New Music**, **Extend to Fill**, and **Surprise me** under the playlist. Toolbar **+** → **Music…** or **Royalty-Free Library…**.
+After the first photos land, **Music Follows Show** (on by default) adds bundled tracks from the current **Look** mood pool. Use **Pick New Music**, **Extend to Fill**, **Surprise me**, or **Fit Show to Music** on the Audio tab. Toolbar **+** → **Music…** or **Royalty-Free Library…**.
 
 To trim a song, select it on the **Audioline**, scrub to the moment you want, then **Set Start Here** / **Set End Here**. See [Music](../music.md#audition-the-audioline).
 
@@ -69,9 +69,9 @@ To trim a song, select it on the **Audioline**, scrub to the moment you want, th
 Open the Inspector (**⌥⌘I**) for more control:
 
 - **Style** — Look, Energy, Stage, Photo Size, Captions, Customize (Studio)
-- **Intro** — opening card
+- **Titles** — opening card and optional closing words (**The End** is already in the box)
 - **Motion** — Studio only: Transitions, multi-photo groups
-- **Audio** — playlist, **Pick New Music** / **Extend to Fill** / **Surprise me**
+- **Audio** — playlist, **Music Follows Show**, **Fit Show to Music** / **Extend to Fill** / **Surprise me**
 - **Format** — aspect / Social Safe (Instagram first among Social swatches)
 
 ## 7. Export

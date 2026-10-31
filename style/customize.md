@@ -51,7 +51,7 @@ Checkboxes include **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prim
 
 Texture outside the lens pool.
 
-- **Film Grain** + **Grain Amount**
+- **Film Grain** + **Grain Amount** — grain sits on the photo, including while you scrub. Offset Wash’s faded copies stay clean
 - **Color Fringe** + **Fringe Amount**
 - **Film Scratches** + **Scratch Amount** — on backdrop only
 
