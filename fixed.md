@@ -14,6 +14,8 @@ What we fixed, by version.
 * **Fit Show to Music** covers the whole film, including the end card, and fades across the credit.
 * Checking a lens box when none were checked keeps that effect on the slide. **How often** stays off until **Randomize Selected** or **Refract Bubbles** is on.
 * On a light opening card, **Anamorphic Streaks** draws a colored line behind the title words.
+* Someone lying down is left as shot — auto-straighten no longer stands them up and tips the room.
+* After you rotate a photo, the blurred backdrop turns the same way as the card.
 
 ## Version 1.2.3
 

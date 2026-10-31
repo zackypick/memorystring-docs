@@ -79,7 +79,7 @@ Muted clips show a speaker-off badge in **Library** and **Timeline**.
 
 ## Orientation
 
-Sideways and upside-down photos and videos are turned upright on their own. The turn lives in the show. Original files are never rewritten.
+Sideways and upside-down photos and videos are turned upright on their own. The turn lives in the show. Original files are never rewritten. Someone lying on a sofa or the floor is left as shot — that is not a sideways phone.
 
 **When:** during import, while the loader is up — **+**, Finder drop, paste, folders, and **Import from Photos…**. The line under the title reads **Straightening N of M...**. The show lands already upright.
 
@@ -87,7 +87,7 @@ Sideways and upside-down photos and videos are turned upright on their own. The 
 
 **Opening a show:** turns this Mac already knows are applied before the timeline appears, so the length does not change a moment later. Photos this Mac has never checked are turned shortly after the show opens.
 
-**Override:** right-click **Rotate & Flip**, or **⌘]** / **⌘[**. Turning a photo back to as-shot sticks — MemoryString will not turn it again. See [Preview](preview.md#rotate-while-paused).
+**Override:** right-click **Rotate & Flip**, or **⌘]** / **⌘[**. Turning a photo back to as-shot sticks — MemoryString will not turn it again. The blurred backdrop follows the same turn as the card. See [Preview](preview.md#rotate-while-paused).
 
 ## Center of interest
 
