@@ -8,6 +8,7 @@ What we fixed, by version.
 
 ## Version 1.2.4
 
+* A person and a pet that sit together both stay in the blurred background, including a sleeping face. Clicking the spot Auto already chose keeps that same blur.
 * During **Stringing it together...**, **Add**, **+**, Import, and the Add menu stay grey until that screen is gone. Hover: **Wait until this import finishes**.
 * **Fit Show to Music** covers the whole film, including the end card, and fades across the credit.
 * Checking a lens box when none were checked keeps that effect on the slide. **How often** stays off until **Randomize Selected** or **Refract Bubbles** is on.
