@@ -8,6 +8,7 @@ What we fixed, by version.
 
 ## Version 1.2.4
 
+* On a tall photo of people in a place, the blur keeps the place. Two small faces sit to one side so the rest of the frame stays the scene, not a close-up of their shirts. One small face stays in the middle of that cover.
 * A person and a pet that sit together both stay in the blurred background, including a sleeping face. Clicking the spot Auto already chose keeps that same blur.
 * During **Stringing it together...**, **Add**, **+**, Import, and the Add menu stay grey until that screen is gone. Hover: **Wait until this import finishes**.
 * **Fit Show to Music** covers the whole film, including the end card, and fades across the credit.
