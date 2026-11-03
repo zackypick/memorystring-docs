@@ -1,5 +1,5 @@
 ---
-description: "MemoryString creates beautiful shows from your photos — easily and quickly. Free on your Mac."
+description: "MemoryString creates beautiful shows from your photos, easily and quickly. Free on your Mac."
 layout:
   title:
     visible: false

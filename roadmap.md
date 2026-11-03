@@ -4,18 +4,19 @@ description: "What's new in MemoryString 1.2.4, plus what comes next."
 
 # Roadmap
 
-MemoryString **1.2.4** adds **Titles** and closing words, **Music Follows Show**, **Peek**, and **Studio** fonts. **Fit Show to Music** covers the end card.
+MemoryString **1.2.4** leads with **Fit Show to Music**. The song covers the whole film, including the end card, and a successful fit turns **Music Follows Show** off. This release also adds **Titles** and closing words, **Peek**, and **Studio** fonts.
 
 ## What's new
 
 **1.2.4** (since the **1.2.2** App Store build)
 
+- **Fit Show to Music** covers the whole film, including the end card, and turns **Music Follows Show** off.
 - **Titles** holds the opening card and optional **closing words** on the end card.
 - **Music Follows Show** adds a track from the current Look. This was **Match Look Soundtrack**.
 - **Peek** inspects a parked Outtake. **Studio** font menus list every font on this Mac.
 - Scenic and person+pet backdrops keep the place and both subjects in the blur.
 - **Add** / Import stay grey during Long story short, Stringing it together, and while a saved show opens.
-- **Fit Show to Music** covers the end card. Someone lying down stays as shot. Rotate turns the backdrop with the card.
+- Someone lying down stays as shot. Rotate turns the backdrop with the card.
 - Paste and Photos drag no longer stick the loader. Grain and hex flare sit on the photo while you scrub. Long shows stream music.
 
 **1.2.2**
@@ -54,13 +55,17 @@ MemoryString **1.2.4** adds **Titles** and closing words, **Music Follows Show**
 
 ## This release
 
+### **Fit Show to Music**
+
+**Fit Show to Music** moves **Energy** so the song covers the whole film, including the end card, and fades across the credit. It turns **Music Follows Show** off. Your own tracks stay. See [Music](music.md#length).
+
 ### **Titles and closing words**
 
 Inspector → **Titles** holds the **opening card** and optional **closing words**. Closing words sit on the existing end card, above **Created with MemoryString**. They stay off until you turn them on. See [Titles and captions](intro-captions.md).
 
 ### **Music Follows Show**
 
-On by default. After the first photos or videos land, MemoryString adds a bundled track from the current **Look**. This was **Match Look Soundtrack**. **Fit Show to Music** covers the whole film, including the end card, then turns it off. See [Music](music.md#music-follows-show).
+On by default. After the first photos or videos land, MemoryString adds a bundled track from the current **Look**. This was **Match Look Soundtrack**. A successful **Fit Show to Music** turns **Music Follows Show** off. See [Music](music.md#music-follows-show).
 
 ### **Peek**
 
