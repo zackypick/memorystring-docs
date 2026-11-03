@@ -4,6 +4,14 @@ description: "What we fixed, by version."
 
 # Fixed
 
+## Version 1.2.5
+
+* On a full-body photo, the person sits beside the card so the place stays in the blur, not a crop of their shirt.
+* **Long story short** rebuilds start clean. Hand-set slide lengths, transitions, and lens choices are cleared. It keeps the Look, energy, rotation, captions, music, opening and closing title text, the cover photo, and which videos are muted.
+* Changing Look updates the card border while you scrub. The old frame does not stay on the photo.
+* On an empty project, Escape closes the **Add photos & videos** menu.
+* **Reset Titles to Defaults** says what it restores: opening text, font, colour, size, alignment, frame, motion, and decoration, and it clears the opening background and the closing words.
+
 ## Version 1.2.4
 
 Since the **1.2.2** App Store build (no separate 1.2.3 drop).

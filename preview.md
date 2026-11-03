@@ -36,7 +36,7 @@ Soft color from the edges of the current slide can tint the window chrome around
 
 ## Empty stage and opening loader
 
-A new empty project shows **Nothing in library yet** in the **Library**, **Nothing on the timeline yet** on the **Timeline**, and **Add photos & videos** on the preview.
+A new empty project shows **Nothing in library yet** in the **Library**, **Nothing on the timeline yet** on the **Timeline**, and **Add photos & videos** on the preview. That button opens a menu (Photos & Videos, Import from Photos, Music, Royalty-Free Library). Escape closes it.
 
 When you hover over the preview to drop media, the hint reads **Gather the thread**. When you hover a `.memorystring` file, the hint reads **Bring back memories**.
 
