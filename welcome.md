@@ -4,12 +4,10 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
 ---
 
 # MemoryString
-
-MemoryString creates beautiful shows from your photos — easily and quickly.
 
 Drop a folder. Pick a Look. Hit Export. The anniversary reel can be on the family group chat before the cake is cut.
 

@@ -1,5 +1,5 @@
 ---
-description: "Special thanks to Daniel Hertrich (hertrich.photo). Also GitBook, John Deere, Adam Engst (ridbits.com), and Gil Levy."
+description: "Special thanks to Daniel Hertrich (hertrich.photo). Also GitBook, John Deere, Adam Engst (tidbits.com), and Gil Levy."
 ---
 
 # Credits
@@ -23,7 +23,7 @@ These docs run on [GitBook](https://www.gitbook.com). GitBook gave MemoryString 
 
 ## Adam Engst
 
-**Adam Engst** ([ridbits.com](https://ridbits.com)) asked for two features that shipped:
+**Adam Engst** ([tidbits.com](https://tidbits.com)) asked for two features that shipped:
 
 - **Import from Photos…** — browse Recent, Albums, People, By Month, Trips & Events, and Media Type inside MemoryString
 - **Screensaver** — export a silent looping movie for System Settings → Wallpaper
