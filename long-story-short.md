@@ -21,7 +21,7 @@ A rebuild starts clean. Hand-set slide lengths, transitions, and lens choices ar
 
 ![Rebuild the show? Continue or Cancel](../.gitbook/assets/long-story-short-rebuild.png)
 
-While the sheet looks through the photos it says **Checking M of N photos…**. When that count is ready, the line under the slider reads **Up to about N min from M distinct shots**. The offer is the nearest minute that show can actually reach. The finished movie lands within about 10 seconds of the minute you pick.
+While the sheet looks through the photos it says **Checking M of N photos…**. When that count is ready, the line under the slider reads **Up to about N min from M distinct shots**. The offer is the nearest minute that show can actually reach. The finished movie lands within about 10 seconds of the minute you pick. **Fit Show to Music** can slow or speed the open show. That does not change this longest length, unless you moved the Energy slider yourself.
 
 ![Long story short: Duration sheet](../.gitbook/assets/long-story-short-duration.png)
 
