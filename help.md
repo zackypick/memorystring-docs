@@ -1,18 +1,22 @@
+---
+description: "Get help with MemoryString: the walkthrough, rating the app, sending feedback, and reporting a problem."
+---
+
 # Help
 
 **Help → MemoryString Help…** (**⌘/** or the **?** button on the toolbar) opens this site.
 
 **Help → Show Walkthrough** runs the first-run tour again. Seven stops:
 
-1. **Bring in moments** — Click **+** or drag in photos, videos, and music. Royalty-free tracks are here too.
-2. **Your Library** — Photos and clips appear here. Drag to reorder. Right-click for more options.
-3. **Shape the story** — Scrub the **Timeline**. Right-click a slide for transitions, duration, and more.
-4. **Watch it come alive** — Press **Space** or **Play** to preview.
-5. **Make it yours** — **Looks**, **Energy**, **Photo Size**, and **Captions** are in the Inspector.
-6. **Share your memory** — Open **Export** and pick a format.
-7. **Essential or Studio** — Use **Essential** for simplicity, or **Studio** for more controls.
+1. **Bring in moments**: Click **+** or drag in photos, videos, and music. Royalty-free tracks are here too.
+2. **Your Library**: Photos and clips appear here. Drag to reorder. Right-click for more options.
+3. **Shape the story**: Scrub the **Timeline**. Right-click a slide for transitions, duration, and more.
+4. **Watch it come alive**: Press **Space** or **Play** to preview.
+5. **Make it yours**: **Looks**, **Energy**, **Photo Size**, and **Captions** are in the Inspector.
+6. **Share your memory**: Open **Export** and pick a format.
+7. **Essential or Studio**: Use **Essential** for simplicity, or **Studio** for more controls.
 
-After a couple of successful exports, MemoryString asks Apple to show its own in-app star sheet when you come back to the app — not a homemade rate card. Apple decides whether the sheet appears. **Help → Rate MemoryString…** (and About) opens the App Store review page anytime you want to rate without waiting for that ask.
+After a couple of successful exports, MemoryString asks Apple to show its own in-app star sheet when you come back to the app, not a homemade rate card. Apple decides whether the sheet appears. **Help → Rate MemoryString…** (and About) opens the App Store review page anytime you want to rate without waiting for that ask.
 
 **Help → Send Feedback…** always opens Mail (to msfeedback@codebyz.com). It never hands the address to the browser.
 

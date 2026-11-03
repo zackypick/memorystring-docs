@@ -1,3 +1,7 @@
+---
+description: "Studio Customize in MemoryString: plate, ambience and blurred backdrop, lens effects, film grain, atmosphere and decals."
+---
+
 # Customize
 
 **Studio** → Inspector → **Style** → **Customize** fine-tunes plate, ambience, lens, film, and decorations. Sections start collapsed:
@@ -14,24 +18,24 @@ Even if several lens boxes are checked, each photo plays **at most one** pooled 
 
 Mat and card around the photo.
 
-- **Photo Border** — **White** or **Black** matte
+- **Photo Border**: **White** or **Black** matte
 - **Border Width** and **Border Opacity**
 - **Torn Edge** + strength
 - **Paper Curl**
-- **Drop Shadow** — Soft or Strong
-- **Rim Glow** — Soft or Strong
-- **Corners** — Rounded / Sharp
+- **Drop Shadow**: Soft or Strong
+- **Rim Glow**: Soft or Strong
+- **Corners**: Rounded / Sharp
 
 ## Ambience
 
 Effects around the plate.
 
-- **Floor Reflection** — Soft or Strong
+- **Floor Reflection**: Soft or Strong
 - **Glow on Entry**
-- **Wind** — **None**, **Gentle Wind**, **Light Wind**
-- **Wind Direction** — when Wind is on
+- **Wind**: **None**, **Gentle Wind**, **Light Wind**
+- **Wind Direction**: when Wind is on
 - **Light Leak**
-- **Backdrop** — Grayscale / Colored / Random
+- **Backdrop**: Grayscale / Colored / Random
 
 Backdrop is a blurred enlarged photo behind the card. It covers the stage and is never mirrored. When a face would sit behind the card, the wash zooms in so that face sits in the open side. On a tall photo of people in a place, the blur keeps the place: a small pair sits to one side, and one small face stays in that cover instead of filling the stage with shirts. On a group photo, the gray shows people, not the empty room: a two-shot parks the marked person on their own side, and a wide row keeps the end people beside the card when it can. Groups crossfade washes every few cards. An older show that saved **Offset** opens **Centered**.
 
@@ -51,9 +55,9 @@ Checkboxes include **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prim
 
 Texture outside the lens pool.
 
-- **Film Grain** + **Grain Amount** — grain sits on the photo, including while you scrub. Offset Wash’s faded copies stay clean
+- **Film Grain** + **Grain Amount**: grain sits on the photo, including while you scrub. Offset Wash’s faded copies stay clean
 - **Color Fringe** + **Fringe Amount**
-- **Film Scratches** + **Scratch Amount** — on backdrop only
+- **Film Scratches** + **Scratch Amount**: on backdrop only
 
 With a photo selected, **This Photo** can set **Inherit**, **Off**, or **On** per control.
 
@@ -61,8 +65,8 @@ With a photo selected, **This Photo** can set **Inherit**, **Off**, or **On** pe
 
 Optional weather and edge motifs. Default **None**. Looks do not set these.
 
-- **Atmosphere** — **None** · **Bubbles** · **Leaves**
-- **Decals** — **None** · **Travel** · **Vacation** · **Party** · **Florals** · **Wedding** · **Pets** · **Sports**
+- **Atmosphere**: **None** · **Bubbles** · **Leaves**
+- **Decals**: **None** · **Travel** · **Vacation** · **Party** · **Florals** · **Wedding** · **Pets** · **Sports**
 
 Effects stay at the edges, not covering the main photo.
 

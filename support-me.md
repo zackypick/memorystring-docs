@@ -1,5 +1,5 @@
 ---
-description: "Sponsor a Windows build of MemoryString — company credit in the app, website, and docs."
+description: "Sponsor a Windows build of MemoryString: company credit in the app, website, and docs."
 ---
 
 # Support me

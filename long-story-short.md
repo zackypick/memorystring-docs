@@ -21,7 +21,7 @@ If the show already has slides, it asks first: **Rebuild the show?** **Continue*
 
 While the sheet looks through the photos it says **Checking M of N photos…**. When that count is ready, the line under the slider reads **Up to about N min from M distinct shots**. The offer is the nearest minute that show can actually reach. The finished movie lands within about 10 seconds of the minute you pick.
 
-![Long story short — Duration sheet](.gitbook/assets/long-story-short-duration.png)
+![Long story short: Duration sheet](../.gitbook/assets/long-story-short-duration.png)
 
 ## Large imports
 
@@ -29,9 +29,9 @@ When an import would put more than **150** photos and videos on the show, Memory
 
 ![That would make a 2359-photo show: Long story short, Import all, Cancel](../.gitbook/assets/long-story-short-large-import.png)
 
-- **Long story short** — pick the best ones for a shareable movie
-- **Import all** — put everything on the show
-- **Cancel** — import nothing
+- **Long story short**: pick the best ones for a shareable movie
+- **Import all**: put everything on the show
+- **Cancel**: import nothing
 
 Same on every import path: **+**, Finder drop, **Import from Photos…**, Photos.app drag, folders, and paste.
 
@@ -45,9 +45,9 @@ Same on every import path: **+**, Finder drop, **Import from Photos…**, Photos
 
 The show plays in date order. The length lands within about 10 seconds of the minute you picked.
 
-While it works you may see **Making a long story short...**, **Checking M of N photos…**, **Picking the best shots...**, **Reviewing M of N...**, **Straightening M of N...**, **Arranging N shots…**, and **Finding focus M of N…**. While it fits the length, the line shows the clock so far, such as **2:23 of 10:00**. Kept shots are upright before the movie is laid out. Focus lands on a face, not the middle of the frame. After **Importing** and **Finding focus** finish, the show comes up — it does not sit on that last count. **Cancel** on the Duration sheet changes nothing. **Cancel** while it is building puts the previous show back. See [Orientation](auto-detection.md#orientation).
+While it works you may see **Making a long story short...**, **Checking M of N photos…**, **Picking the best shots...**, **Reviewing M of N...**, **Straightening M of N...**, **Arranging N shots…**, and **Finding focus M of N…**. While it fits the length, the line shows the clock so far, such as **2:23 of 10:00**. Kept shots are upright before the movie is laid out. Focus lands on a face, not the middle of the frame. After **Finding focus** finishes, the show comes up. It does not sit on that last count. **Cancel** on the Duration sheet changes nothing. **Cancel** while it is building puts the previous show back. See [Orientation](auto-detection.md#orientation).
 
-**Add**, **+**, Import Media, Import from Photos, Music, and drops stay grey while Long story short is running. They unlock when it finishes — including after Close, Open, or Cancel. Hover: **Wait until Long story short finishes**.
+**Add**, **+**, Import Media, Import from Photos, Music, and drops stay grey while Long story short is running. They unlock when it finishes, including after Close, Open, or Cancel. Hover: **Wait until Long story short finishes**.
 
 ## After it runs
 
@@ -57,7 +57,7 @@ While it works you may see **Making a long story short...**, **Checking M of N p
 - The title bar shows the new length
 - Close the project and open it again: the same order, the same length
 - Shots that did not make it are in [Outtakes](library.md#outtakes). Drag any of them up to put them back
-- A show you already styled keeps its **Look** and soundtrack. If the new cut runs longer than your music, bundled songs fill the rest. Your own tracks are never replaced
+- A show you already styled keeps its **Look** and soundtrack. If the new cut runs longer than your music, bundled songs fill the rest when **Music Follows Show** is on. Your own tracks are never replaced. To fit the show to one song instead, use [Fit Show to Music](music.md#length)
 - A brand-new project starts on **Clean**, on the **Light** stage, with bundled music
 - Undo with **⌘Z**
 

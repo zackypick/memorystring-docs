@@ -1,3 +1,7 @@
+---
+description: "Essential and Studio in MemoryString: the same free app at two depths. What each mode shows in the Inspector."
+---
+
 # Essential and Studio
 
 **Essential** and **Studio** are two levels of the same app. The toolbar segmented control switches between them. The project file is the same. **Studio** shows more Inspector tabs and options.
@@ -27,11 +31,11 @@
 | Style → **Customize** | Hidden | Plate, Ambience, Lens Effects, Film, Atmosphere & Decals |
 | Captions | Type in the clip bar; bulk Auto Caption / Clear | plus **Type & Placement** (every installed font, each name in its own type; color, size, align, motion, placement, shade) and **Caption Details** (what auto captions say, and in which language) |
 | Opening background | Choose / remove a still | plus Start zoom, Slow Zoom, Soften, Color / Grayscale. Loudness is Titles → Opening → Stage → Intensity |
-| Opening **Text** (font, color, size, align, outline, shadow) | Hidden — type in the title field | Shown |
-| Opening Card & Motion | — | Frame, Motion, Lens, Decoration |
+| Opening **Text** (font, color, size, align, outline, shadow) | Hidden. Type in the title field | Shown (every installed font, each name in its own type) |
+| Opening Card & Motion | None | Frame, Motion, Lens, Decoration |
 | Closing words | **Show closing words**; box starts with **The End** | plus font, color, size, align, ornament, legibility |
-| Smooth play | Auto-warms on **Play**; **Preparing smooth playback** card until the first five photo slides are ready; **Stop** while warming | Auto-warms on **Play** without blocking; **Warm Now** and **Stop** on the transport row |
-| Per-slide **Lens Effect** (right-click) | Hidden | Timeline / Library / intro |
+| Smooth play | Auto-warms on **Play**; **Preparing smooth playback** card until the next five photo slides are ready; **Stop** while warming | Auto-warms on **Play** without blocking; **Warm Now** and **Stop** on the transport row |
+| Per-slide **Lens Effect** (right-click) | Hidden | Timeline / Library / opening card |
 | Export **Quality** | Compact / Share / High / Best (slider; default **Share**) | same slider, plus target Mbps |
 
 Looks, Energy, Stage, Photo Size, Format, music, import, and export work in both modes.

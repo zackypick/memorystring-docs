@@ -2,7 +2,7 @@
 
 ## Get started
 
-* [MemoryString — free cinematic slideshow for Mac](welcome.md "Welcome")
+* [MemoryString: free cinematic slideshow for Mac](welcome.md "Welcome")
 * [Quick start](getting-started/quick-start.md)
 * [The Studio](workspace/the-studio.md)
 * [Essential and Studio](workspace/essential-studio.md)

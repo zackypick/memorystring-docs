@@ -1,3 +1,7 @@
+---
+description: "The eight MemoryString Looks, Energy, Photo Size, and Dark or Light stage. One chip styles the whole movie."
+---
+
 # Looks
 
 A **Look** sets the whole movie style from one chip in Inspector → **Style**: grade, border, stage, backdrop, lens effects, Photo Size, transitions, music mood, and which multi-photo groups run.
@@ -14,7 +18,7 @@ A **Look** sets the whole movie style from one chip in Inspector → **Style**: 
 
 Click a chip. MemoryString deals a short list of transitions for that Look, more kinds as the show gets longer, and applies group settings for that Look. A group kind you turned off, such as **Perspective Pair**, stays off. Check it again under **Motion → Transitions** to bring it back.
 
-**Click the same Look again** for a new random deal: lens effects (every Look except **Clean**), transitions, and Music Follows Show tracks if the playlist is still auto-seeded. Pinned **Lens Effect** on slides survive.
+**Click the same Look again** for a new random deal: lens effects (every Look except **Clean**), transitions, and Music Follows Show tracks if the playlist is still auto-seeded. A **Lens Effect** pinned on a slide stays.
 
 Editing **Customize**, **Stage**, **Photo Size**, or **Motion** switches the chip to **Custom**.
 
@@ -28,55 +32,55 @@ A Look with many lens boxes still plays **at most one** lens effect per photo. S
 
 Minimal style. White matte, soft shadow, **Large** Photo Size, grayscale backdrop, **Light** stage, soft transitions (Ken Burns, depth dissolve, reveal from depth). Stacks + carousel at defaults; **Perspective Pair** every 6. A new show starts here.
 
-![](../.gitbook/assets/look-clean.jpg)
+![Clean Look example frame](../.gitbook/assets/look-clean.jpg)
 
 ### Polaroid
 
 Instant-print feel. White matte with thick bottom margin, curl, gentle wind, playful transitions (card flip, slide, sparks, contact sheet). Dense stacks; carousel; **Perspective Pair** every 8.
 
-![](../.gitbook/assets/look-polaroid.jpg)
+![Polaroid Look example frame](../.gitbook/assets/look-polaroid.jpg)
 
 ### Vintage
 
 Aged album. Black mat, torn edge, warm leak, grayscale backdrop, grain and scratches, soft transitions (layers, same-photo fan, card flip). Sparse stacks and ribbon; Filmstrip on.
 
-![](../.gitbook/assets/look-vintage.jpg)
+![Vintage Look example frame](../.gitbook/assets/look-vintage.jpg)
 
 ### Cinematic
 
 Wide cinematic grade. Thin black frame, strong shadow, fine grain, grayscale backdrop, **Dark** stage, dramatic transitions (spiral-in, punch-in, accordion), **Large** Photo Size. Carousel and ribbon; Filmstrip and **Scatter & Settle** on some cadences.
 
-![](../.gitbook/assets/look-cinematic.jpg)
+![Cinematic Look example frame](../.gitbook/assets/look-cinematic.jpg)
 
 ### Noir
 
 Moody black-and-white. Soft mono grade, black frame, vignette, soft transitions; no spark trails. **Perspective Pair** every 7. Mats stay white or black paper.
 
-![](../.gitbook/assets/look-noir.jpg)
+![Noir Look example frame](../.gitbook/assets/look-noir.jpg)
 
 ### B&W
 
 Soft documentary grayscale. White mat, rounded corners, soft transitions; no spark trails. **Perspective Pair** every 8. Gentler than **Noir**.
 
-![](../.gitbook/assets/look-bw.jpg)
+![B&W Look example frame](../.gitbook/assets/look-bw.jpg)
 
 ### Golden Hour
 
 Warm late-day color. White mat, warm leak, stage sun wash, soft transitions. **Perspective Pair** every 8.
 
-![](../.gitbook/assets/look-golden-hour.jpg)
+![Golden Hour Look example frame](../.gitbook/assets/look-golden-hour.jpg)
 
 ### Crisp
 
 Cool editorial look. Thin white frame, strong shadow, grayscale backdrop, dramatic transitions (punch-in, flying card, spiral-in). **Perspective Pair** and Filmstrip every 8.
 
-![](../.gitbook/assets/look-crisp.jpg)
+![Crisp Look example frame](../.gitbook/assets/look-crisp.jpg)
 
 ## Energy
 
 Slider from **Calm** to **Intense**. Labels: **Calm · Steady · Lively · Energetic · Intense**.
 
-Photo still duration scales with Energy — about **7.6s** at Calm, **4.0s** at default, **2.0s** at Intense. The **opening card** uses separate timing: about **7s / 6s / 4s**. Energy does not clear hand-picked Motion checkboxes.
+Photo still duration scales with Energy, about **7.6s** at Calm, **4.0s** at default, **2.0s** at Intense. The **opening card** uses separate timing: about **7s / 6s / 4s**. Energy does not clear hand-picked Motion checkboxes.
 
 **Fit Show to Music** on the Audio tab moves this same Energy slider so the song covers the whole film, including the end card. See [Music → Length](../music.md#length).
 

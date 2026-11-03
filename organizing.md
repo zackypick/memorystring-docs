@@ -1,16 +1,20 @@
+---
+description: "Order a MemoryString slideshow: sort by date, shuffle, drag to reorder, groups, and Shuffle Transitions."
+---
+
 # Organizing the slideshow
 
 Slide order is your story. The **opening card** stays first when it is on. Sort, shuffle, and drag never move it among normal slides.
 
-<figure><img src="../.gitbook/assets/library-drag-singles-groups.gif" alt="Library — drag thumbs to reorder; drop on a slide or group seat to Replace"><figcaption>Library — drag thumbs to reorder; drop on a slide or group seat to Replace</figcaption></figure>
+<figure><img src="../.gitbook/assets/library-drag-singles-groups.gif" alt="Library: drag thumbs to reorder; drop on a slide or group seat to Replace"><figcaption>Library: drag thumbs to reorder; drop on a slide or group seat to Replace</figcaption></figure>
 
-<figure><img src="../.gitbook/assets/timeline-drag-singles-groups.gif" alt="Timeline — drag a single clip or a whole group on the photo lane"><figcaption>Timeline — drag a single clip or a whole group on the photo lane</figcaption></figure>
+<figure><img src="../.gitbook/assets/timeline-drag-singles-groups.gif" alt="Timeline: drag a single clip or a whole group on the photo lane"><figcaption>Timeline: drag a single clip or a whole group on the photo lane</figcaption></figure>
 
 ## Sort and shuffle slides
 
 Use the **Library** **calendar** menu (or right-click empty **Library** space) for sort and **Shuffle**. **Edit → Sort by Date Taken** and **Studio** **Motion → Timeline → Sort by Date Taken** offer the three date/import choices only. **Studio** **Motion** also has **Shuffle Slides**:
 
-![Library calendar: Oldest First, Newest First, Import Order, Shuffle](.gitbook/assets/library-menu-sort.png)
+![Library calendar: Oldest First, Newest First, Import Order, Shuffle](../.gitbook/assets/library-menu-sort.png)
 
 | Command | What it does |
 | --- | --- |
@@ -27,7 +31,7 @@ Date sorts use camera capture date (EXIF / recording date). If missing, file dat
 
 Use the captions bubble for bulk fill or clear. Settings: [Titles and captions](intro-captions.md#slide-captions).
 
-![Library captions: Auto Caption untitled, Auto Caption All, Clear All](.gitbook/assets/library-menu-captions.png)
+![Library captions: Auto Caption untitled, Auto Caption All, Clear All](../.gitbook/assets/library-menu-captions.png)
 
 ## Shuffle Transitions
 
@@ -35,7 +39,7 @@ Use the captions bubble for bulk fill or clear. Settings: [Titles and captions](
 
 Find it in the **Library** Show menu, Inspector → **Motion → Timeline**, or right-click empty **Library** space. If you set **Slide Transition** by hand, MemoryString asks before clearing those picks.
 
-![Library Show menu: Make Long story short, Shuffle Transitions, Reset Slide Durations](.gitbook/assets/library-options-menu.png)
+![Library Show menu: Make Long story short, Shuffle Transitions, Reset Slide Durations](../.gitbook/assets/library-options-menu.png)
 
 ![Motion → Timeline: Sort by Date Taken, Shuffle Slides, Shuffle Transitions, Reset Slide Durations](../.gitbook/assets/inspector-motion-timeline.png)
 
@@ -45,15 +49,15 @@ Clicking a **Look** chip also changes transitions. See [Looks](style/looks.md#th
 
 ## Drag to reorder
 
-**Library** — drag thumbnails in the grid. A group shows as one plate. Drop on the group’s first seat to **join** the group.
+**Library**: drag thumbnails in the grid. A group shows as one plate. Drop on the group’s first seat to **join** the group.
 
-**Timeline** photo lane — drag clips. The strip auto-scrolls near the edges. Hover a cell to peek; move off the strip and that moment stays on the preview.
+**Timeline** photo lane. Drag clips. The strip auto-scrolls near the edges. Hover a cell to peek; move off the strip and that moment stays on the preview.
 
 Drag from the **Library** to the **Timeline**:
 
-- Drop in a **gap** — insert or move
+- Drop in a **gap**: insert or move
 - Drop on a **single** slide or **group seat** until **Replace**
-- Drop on the **intro** tile — sets the intro background
+- Drop on the **opening card** tile: sets the opening background
 
 Music reorders on the **music lane**. See [Music](music.md#arrange-on-the-timeline).
 

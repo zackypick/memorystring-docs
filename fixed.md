@@ -33,7 +33,7 @@ Since the **1.2.2** App Store build (no separate 1.2.3 drop).
 * A big Long story short import no longer sits stuck after Importing M of N or Finding focus M of N.
 * Library ⋯ Mute Noisy Videos, Mute All Videos, and Unmute All Videos. The show stays clickable.
 * Wind and hiss on videos mute; talking, music, and sharp hits stay. Opening a show re-checks.
-* The gray behind a group photo shows people, not the empty room.
+* The blurred backdrop behind a group photo shows people, not the empty room.
 * Bundled songs are smaller. Same 63 tracks and lengths.
 
 ## Version 1.2.1
@@ -62,7 +62,7 @@ Since the **1.1.2** App Store build.
 * The timeline keeps responding after you change a group's transition.
 * A new show gets its music.
 * Importing the same photos again does not double the count.
-* Play fades the last group's backdrop into the dark ending.
+* Play fades the last group's backdrop into the end card.
 
 ## Version 1.1: Long story short
 

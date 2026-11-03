@@ -1,3 +1,7 @@
+---
+description: "Add music to a MemoryString slideshow: your own tracks or the royalty-free library, Music Follows Show, Fit Show to Music, and trimming on the Audioline."
+---
+
 # Music
 
 Soundtrack lives in Inspector → **Audio** and on the **Audioline** under the **Timeline**. It is not in the **Library**.
@@ -53,7 +57,7 @@ Audio files are never imported as photos.
 
 Under **Tracks**, Inspector → **Audio** has a **Length** section: show clock vs song clock, then **Fit Show to Music** and **Extend to Fill**.
 
-**Fit Show to Music** moves **Energy** (Calm through Intense) so the song covers the whole film, including the end card, and fades across the credit. Videos and the opening card keep their own length. Fit turns **Music Follows Show** off. If even Calm is too short or Intense is too long, Fit does nothing and the Audio tab says why. Also on **Motion → Timeline**, **Library** Show menu → **Audio**, and **Timing**.
+**Fit Show to Music** moves **Energy** (Calm through Intense) so the song covers the whole film, including the end card, and fades across the credit. Videos keep their length. The opening card follows the new **Energy** (about 7s, 6s, or 4s), unless you set its length by hand. A successful fit turns **Music Follows Show** off. If even Calm is too short or Intense is too long, Fit does nothing and the Audio tab says why. Also on **Library** Show menu → **Audio**, and **Edit → Timing**.
 
 **Extend to Fill** keeps your tracks and adds music after them to cover the show.
 
@@ -61,8 +65,8 @@ Under **Tracks**, Inspector → **Audio** has a **Length** section: show clock v
 
 Under the playlist:
 
-- **Pick New Music** — new Music Follows Show bed for this Look. Asks before replacing music you added.
-- **Surprise me** — random track from the **full** catalog. Look clicks do not overwrite after Surprise.
+- **Pick New Music**: new Music Follows Show bed for this Look. Asks before replacing music you added.
+- **Surprise me**: random track from the **full** catalog. Look clicks do not overwrite after Surprise.
 
 ## Audition the Audioline
 
@@ -112,9 +116,9 @@ Drag clips on the **Audioline**. The **Audio** tab has up / down arrows per row.
 
 On import, MemoryString **auto-skips silent lead-in and run-out** on tracks. Trim by ear with **Set Start Here** / **Set End Here** or edge grips. **Reset Length** restores the auto window or full file.
 
-**Mute Track** / **Unmute Track** — **Audioline** menu, **Audio** tab (click time readout), or Inspector when a soundtrack is selected.
+**Mute Track** / **Unmute Track**: **Audioline** menu, **Audio** tab (click time readout), or Inspector when a soundtrack is selected.
 
-**Remove from Project** — royalty-free tracks remove immediately. Your imports ask first. **⌘Z** either way.
+**Remove from Project**: royalty-free tracks remove immediately. Your imports ask first. **⌘Z** either way.
 
 **Reset Audio Settings** on the tab restores volume, mute, and Music Follows Show. Tracks and trims stay.
 

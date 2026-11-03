@@ -1,3 +1,7 @@
+---
+description: "A tour of the MemoryString window: Library, Outtakes, Preview, Inspector, Timeline, Audioline, and the toolbar."
+---
+
 # The Studio
 
 You step into the Studio.
@@ -14,23 +18,23 @@ The Studio is built around Library, Outtakes, Preview, Inspector, Timeline, and 
 
 | Pane | Where | What it is |
 | --- | --- | --- |
-| **Library** | Left | **Takes** — the show grid. Empty: **Nothing in library yet**. |
-| **Outtakes** | Left, under Takes | Parked photos — in the project, off the show. Empty: **Nothing discarded.** |
+| **Library** | Left | **Takes**, the show grid. Empty: **Nothing in library yet**. |
+| **Outtakes** | Left, under Takes | Parked photos, in the project, off the show. Empty: **Nothing discarded.** |
 | **Preview** | Center | The movie, plus Play / scrub. Empty: **Add photos & videos** plus *Drop photos and videos to start a memory*. |
 | **Inspector** | Right | Style, Titles, Motion, Audio, Format |
-| **Timeline** | Bottom | Photo lane — slides and groups. Empty: **Nothing on the timeline yet**. |
+| **Timeline** | Bottom | Photo lane. Slides and groups. Empty: **Nothing on the timeline yet**. |
 | **Audioline** | Under the Timeline | Soundtrack clips and their waveforms (the music lane). |
 
 ## Toolbar
 
-The project name sits on the left with the show's length next to it. The length updates as you edit. The useful stuff sits on the right — mode, export, help, and the Inspector toggle.
+The project name sits on the left with the show's length next to it. The length updates as you edit. The useful stuff sits on the right. Mode, export, help, and the Inspector toggle.
 
-![The toolbar — project, Add, Essential / Studio, Export, Help, Inspector](../.gitbook/assets/toolbar-right.png)
+![The toolbar: project, Add, Essential / Studio, Export, Help, Inspector](../.gitbook/assets/toolbar-right.png)
 
-- **Essential** / **Studio** — how many controls you see ([next page](essential-studio.md)). First-run walkthrough marks sit on this control, **+**, and **Export**.
-- **Export** — Export Movie dialog
-- **?** — MemoryString Help (**⌘/**). Opens this site.
-- Inspector toggle — show or hide the right column (**⌥⌘I**)
+- **Essential** / **Studio**: how many controls you see ([next page](essential-studio.md)). First-run walkthrough marks sit on this control, **+**, and **Export**.
+- **Export**: Export Movie dialog
+- **?**: MemoryString Help (**⌘/**). Opens this site.
+- Inspector toggle. Show or hide the right column (**⌥⌘I**)
 
 Toolbar **+** (near the project name) is **Photos & Videos…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…**.
 
@@ -40,25 +44,25 @@ Toolbar **+** (near the project name) is **Photos & Videos…**, **Import from P
 
 Photos and videos for this show. The column splits into **Takes** (the show grid) and **Outtakes** (in the project, off the show). Calendar sort, captions bubble, the stacked-slides **Show** menu (**Make Long story short**, **Keep Best Shots…**, **Auto Trim Videos…**, **Mute Noisy Videos**, **Fit Show to Music**, and more), and **+** sit on the header. **File → Import from Photos…** is on **+** too.
 
-![Library — Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
+![Library: Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
 
-**View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it — it snaps to whole columns of cards. The width is remembered.
+**View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it, it snaps to whole columns of cards. The width is remembered.
 
 More: [Library](../library.md).
 
 ## Outtakes
 
-Parked photos — in the project, not on the show. Keep Best extras land here, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy).
+Parked photos, in the project, not on the show. Keep Best extras land here, or anything you **Move to Outtakes** / drag down from Takes or the filmstrip (a move, not a copy).
 
-![Library — Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
+![Library: Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
 
-Click an outtake to select it; the playhead stays on the current movie slide. **Double-click** (or right-click → **Peek**) inspects it over the preview without putting it in the show. Drag up into Takes or the filmstrip to put it back on the show. Empty: **Nothing discarded.**
+Click an Outtake to select it; the playhead stays on the current movie slide. **Double-click** (or right-click → **Peek**) inspects it over the preview without putting it in the show. Drag up into Takes or the filmstrip to put it back on the show. Empty: **Nothing discarded.**
 
 More: [Library → Outtakes](../library.md#outtakes).
 
 ## Preview
 
-The stage is the movie. Under it, the transport — Play, `current / total`, slide **N of M**, and the scrub bar.
+The stage is the movie. Under it, the transport: Play, `current / total`, slide **N of M**, and the scrub bar.
 
 ![Preview stage and transport](../.gitbook/assets/preview-stage-transport.jpg)
 
@@ -70,19 +74,19 @@ More: [Preview](../preview.md).
 
 Style, Titles, Audio, and Format in **Essential**. **Studio** adds **Motion** and the deeper Customize drawers. Whatever tab you’re on, the bottom strip stays: caption (or opening / closing text), **Generate**, **Aa**, and trim / mute / volume / remove when a video or soundtrack is selected.
 
-![Inspector in Essential — Style, Titles, Audio, Format](../.gitbook/assets/window-inspector-essential.gif)
+![Inspector in Essential: Style, Titles, Audio, Format](../.gitbook/assets/window-inspector-essential.gif)
 
-![Inspector in Studio — Style, Titles, Motion, Audio, Format](../.gitbook/assets/window-inspector-studio.gif)
+![Inspector in Studio: Style, Titles, Motion, Audio, Format](../.gitbook/assets/window-inspector-studio.gif)
 
-The Inspector toggle (**⌥⌘I**) slides the column open and closed — it does not remount the preview.
+The Inspector toggle (**⌥⌘I**) slides the column open and closed, it does not remount the preview.
 
 More: [Essential and Studio](essential-studio.md).
 
 ## Timeline
 
-Photo lane — slides, opening card, and group cells. The **Audioline** sits underneath. Drag the **thin seam above the Timeline** up or down to grow or shrink the filmstrip (up to about **160** points extra). That height is remembered. The zoom slider (minus / plus magnifying glass) scales the strip **live**.
+Photo lane. Slides, opening card, and group cells. The **Audioline** sits underneath. Drag the **thin seam above the Timeline** up or down to grow or shrink the filmstrip (up to about **160** points extra). That height is remembered. The zoom slider (minus / plus magnifying glass) scales the strip **live**.
 
-![Timeline — photo lane, music, zoom](../.gitbook/assets/window-timeline.gif)
+![Timeline: photo lane, music, zoom](../.gitbook/assets/window-timeline.gif)
 
 ![Drag the seam to grow the filmstrip; zoom slider scales the strip live](../.gitbook/assets/timeline-expand-zoom.gif)
 
@@ -92,9 +96,9 @@ More: [Timeline](../timeline.md).
 
 ## Audioline
 
-The **Audioline** is the music lane under the photo strip — soundtrack clips and their waveforms. Soundtrack lives here and on Inspector → **Audio**, not in the Library.
+The **Audioline** is the music lane under the photo strip. Soundtrack clips and their waveforms. Soundtrack lives here and on Inspector → **Audio**, not in the Library.
 
-![Timeline — photo lane above, Audioline (music) below](../.gitbook/assets/window-timeline.gif)
+![Timeline: photo lane above, Audioline (music) below](../.gitbook/assets/window-timeline.gif)
 
 Click a clip to select it, then **scrub** the playhead to hear that song. That is how you find the moment to **Set Start Here** / **Set End Here**. Drag clips to line them up. Trim with edge grips (those also preview the cut). Waveform **narrows at the fade edges**. When the needle crosses from one song to the next, highlight and sound follow the clip under the needle.
 
@@ -102,10 +106,10 @@ More: [Music → Audition the Audioline](../music.md#audition-the-audioline).
 
 ## Text size
 
-Chrome, not captions. **View → Increase / Decrease / Default Text Size** (**⌘+** / **⌘-** / **⌘0**) scales app UI, **Library cards**, and **Timeline** strip height together — not slide captions.
+Chrome, not captions. **View → Increase / Decrease / Default Text Size** (**⌘+** / **⌘-** / **⌘0**) scales app UI, **Library cards**, and **Timeline** strip height together, not slide captions.
 
 ## Walkthrough
 
 Forgot the first-run tour? **Help → Show Walkthrough** plays it again. Marks sit on the live title-bar **+**, Essential/Studio, and **Export**. Seven stops: **Bring in moments** → **Your Library** → **Shape the story** → **Watch it come alive** → **Make it yours** → **Share your memory** → **Essential or Studio**. Full lines: [Help](../help.md).
 
-**MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow — your photos stay put; only the chrome forgets your habits.
+**MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow. Your photos stay put; only the chrome forgets your habits.
