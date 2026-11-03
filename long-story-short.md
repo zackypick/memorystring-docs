@@ -17,9 +17,11 @@ The sheet is titled **Long story short**. Under that: **Pick the best shots for 
 
 If the show already has slides, it asks first: **Rebuild the show?** **Continue** opens the Duration sheet. The show stays as it is behind the sheet. **Cancel** changes nothing. Only **Create** rebuilds.
 
+A rebuild starts clean. Hand-set slide lengths, transitions, and lens choices are cleared so the new length can land. It keeps the Look, energy, rotation, captions, music, opening and closing title text, the cover photo, and which videos are muted.
+
 ![Rebuild the show? Continue or Cancel](../.gitbook/assets/long-story-short-rebuild.png)
 
-While the sheet looks through the photos it says **Checking M of N photos…**. When that count is ready, the line under the slider reads **Up to about N min from M distinct shots**. The offer is the nearest minute that show can actually reach. The finished movie lands within about 10 seconds of the minute you pick.
+While the sheet looks through the photos it says **Checking M of N photos…**. When that count is ready, the line under the slider reads **Up to about N min from M distinct shots**. The offer is the nearest minute that show can actually reach. The finished movie lands within about 10 seconds of the minute you pick. **Fit Show to Music** can slow or speed the open show. That does not change this longest length, unless you moved the Energy slider yourself.
 
 ![Long story short: Duration sheet](../.gitbook/assets/long-story-short-duration.png)
 

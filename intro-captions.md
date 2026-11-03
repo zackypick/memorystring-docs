@@ -68,7 +68,7 @@ Export **Save As** prefers the opening title. See [Format and export](export.md#
 
 Right-click the opening card → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect**. With a background still, **Rotate & Flip** turns the photo, not the title.
 
-**Reset Titles to Defaults** turns the opening card back on (as in a new project), restores opening settings, and clears closing words. It does not clear slide captions. To drop only the opening photo, use **Remove** on the background well.
+**Reset Titles to Defaults** turns the opening card back on, as in a new project, and restores its text, font, colour, size, alignment, frame, motion, and decoration. It clears the opening background photo or video (and that photo's dim, soften, and slow zoom) and clears closing words. It does not clear slide captions. To drop only the opening background, use **Remove** in the background well. Hover the button for the same wording.
 
 ## Background (Essential and Studio)
 
