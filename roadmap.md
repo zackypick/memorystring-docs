@@ -4,12 +4,15 @@ description: "What's new in MemoryString 1.2.4, plus what comes next."
 
 # Roadmap
 
-MemoryString **1.1** shipped **Long story short** and richer **captions**. It also made group lengths easier to set and moved Help to this site.
+MemoryString **1.2.4** adds **Titles** and closing words, **Music Follows Show**, **Peek**, and **Studio** fonts. **Fit Show to Music** covers the end card.
 
 ## What's new
 
 **1.2.4** (since the **1.2.2** App Store build)
 
+- **Titles** holds the opening card and optional **closing words** on the end card.
+- **Music Follows Show** adds a track from the current Look. This was **Match Look Soundtrack**.
+- **Peek** inspects a parked Outtake. **Studio** font menus list every font on this Mac.
 - Scenic and person+pet backdrops keep the place and both subjects in the blur.
 - **Add** / Import stay grey during Long story short, Stringing it together, and while a saved show opens.
 - **Fit Show to Music** covers the end card. Someone lying down stays as shot. Rotate turns the backdrop with the card.
@@ -51,17 +54,33 @@ MemoryString **1.1** shipped **Long story short** and richer **captions**. It al
 
 ## This release
 
-### **Long story short**
+### **Titles and closing words**
 
-Build a shareable movie from a big pile of photos and videos. Pick a length from 1 to 30 minutes (default 3), capped at what the photos can fill. The best shots go on the show, spread across the whole trip. Videos are trimmed. The rest stay in **Outtakes**. Nothing is deleted. An import of more than 150 photos and videos offers it first. See [Long story short](long-story-short.md).
+Inspector → **Titles** holds the **opening card** and optional **closing words**. Closing words sit on the existing end card, above **Created with MemoryString**. They stay off until you turn them on. See [Titles and captions](intro-captions.md).
 
-### **Caption Details**
+### **Music Follows Show**
 
-Choose what automatic captions say: landmark, city, country, and date. Dates come short, long, or as numbers, with or without the weekday. Captions can be written in another language. One **Size** for every slide, and captions rise in by default. See [Titles and captions](intro-captions.md#caption-details-studio).
+On by default. After the first photos or videos land, MemoryString adds a bundled track from the current **Look**. This was **Match Look Soundtrack**. **Fit Show to Music** covers the whole film, including the end card, then turns it off. See [Music](music.md#music-follows-show).
 
-**Also in this version:** **Set Duration** on a group sets the whole group, the same as dragging its edge. **Esc** deselects. A live show clock in the title bar. **Help** opens this site. Lens effects show on fewer photos by default (**How often** 50%). A calmer default pace.
+### **Peek**
+
+Double-click an Outtake, or right-click → **Peek**, to look at a parked shot over the preview. It does not join the show or move the playhead. See [Library](library.md#outtakes).
+
+### **Studio fonts**
+
+Captions, the opening title, and closing words can use any font installed on this Mac. **System** stays first, then A–Z. Each name is drawn in that type. See [Titles and captions](intro-captions.md#fonts-studio).
 
 ## Earlier releases
+
+### **1.1**
+
+**Long story short** and richer **captions**. Group lengths are easier to set, and Help moved to this site.
+
+**Long story short.** Build a shareable movie from a big pile of photos and videos. Pick a length from 1 to 30 minutes (default 3), capped at what the photos can fill. The best shots go on the show, spread across the whole trip. Videos are trimmed. The rest stay in **Outtakes**. Nothing is deleted. An import of more than 150 photos and videos offers it first. See [Long story short](long-story-short.md).
+
+**Caption Details.** Choose what automatic captions say: landmark, city, country, and date. Dates come short, long, or as numbers, with or without the weekday. Captions can be written in another language. One **Size** for every slide, and captions rise in by default. See [Titles and captions](intro-captions.md#caption-details-studio).
+
+**Also in 1.1:** **Set Duration** on a group sets the whole group, the same as dragging its edge. **Esc** deselects. A live show clock in the title bar. **Help** opens this site. Lens effects show on fewer photos by default (**How often** 50%). A calmer default pace.
 
 ### **1.0**
 
@@ -70,10 +89,6 @@ Choose what automatic captions say: landmark, city, country, and date. Dates com
 ## Coming next
 
 In this order.
-
-### **Audio Sync**
-
-Match show length to the soundtrack. Clip timing adjusts so the movie ends with the music. Toggle in **Audio**. Your shots stay. **Beat-sync** is separate and handles songs that do not fit every cut.
 
 ### **Auto Enhance**
 
@@ -85,7 +100,7 @@ Optional gentle exposure and clarity on photos already in the show. It is not a 
 
 ### **Beat-sync**
 
-Cuts and transitions follow the beat of the song. Strength follows your **Energy** slider. **Studio** mode. Comes after **Audio Sync**, which sets length first. Respects any motion pins you set.
+Cuts and transitions follow the beat of the song. Strength follows your **Energy** slider. **Studio** mode. **Fit Show to Music** sets length first. Respects any motion pins you set.
 
 ### **Motion presets**
 
