@@ -38,9 +38,9 @@ When you hover over the preview to drop media, the hint reads **Gather the threa
 
 The first import shows a loader on the stage. It is a spinner with a smoke animation. The title is **Stringing it together...**. You may see a percent and **Cancel** if the import takes a while.
 
-Opening an existing `.memorystring` uses the same loader with **It's coming back now...** and no percent.
+Opening an existing `.memorystring` uses the same loader with **It's coming back now...** and no percent. **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey until that fog lifts. Hover: **Wait until the project finishes opening**.
 
-You cannot drop files while the loader is visible. **Keep Best Shots** waits until the loader finishes.
+You cannot drop files while either loader is visible. During **Stringing it together...**, **Add**, **+**, Import Media, and Import from Photos stay grey too. Hover: **Wait until this import finishes**. **Keep Best Shots** waits until the loader finishes.
 
 After the show has clips, a media drop overlay reads **Add to story**.
 
@@ -77,7 +77,7 @@ When a photo is paused, you may see a small round ring. That is **center of inte
 
 **On import:** every photo and video gets a point. MemoryString picks the largest face, else the main subject, else the center. Videos use several frames in the trim window.
 
-**Manual:** pause and click the photo. Drag to pan. Each change undoes with **⌘Z**.
+**Manual:** pause and click the photo. Drag to pan. Each change undoes with **⌘Z**. While **Export** or **Warm Now** has edits paused, a click on the preview does **not** move the focus spot.
 
 **Reset Center of Interest** (right-click the paused photo) removes your override and runs detection again.
 
@@ -87,12 +87,12 @@ Ken Burns and similar motion use center of interest. Some transitions show the w
 
 When the show ends on a group, Play fades that backdrop into the dark ending.
 
-On the **intro**, a single click on the still sets the same aim. **Double-click** the title to edit text.
+On the **opening card**, a single click on the still sets the same aim. **Double-click** the title to edit text. On the **end card**, **double-click** closing words to edit them. **Shift+Enter** starts a new line; long lines wrap on their own.
 
 ## Rotate while paused
 
 Right-click the paused photo or video → **Rotate Clockwise** / **Rotate Counter Clockwise** / **Flip Horizontal** / **Flip Vertical**. These options are hidden while playing. Sideways shots are already upright from import. Turning one back to as-shot sticks. See [Orientation](auto-detection.md#orientation).
 
-On the intro: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**. With a background still, **Rotate & Flip** turns the cover photo.
+On the opening card: **Set Intro Title**, **Set Background Image**, **Disable Intro Slide**, and (Studio) **Lens Effect**. With a background still, **Rotate & Flip** turns the cover photo.
 
-**Double-click** intro text to edit. **Double-click** a caption to edit it. Captioned slides show a small speech-bubble badge on the **Timeline**.
+**Double-click** opening title or closing words to edit. **Double-click** a caption to edit it. Captioned slides show a small speech-bubble badge on the **Timeline**.

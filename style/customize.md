@@ -33,7 +33,7 @@ Effects around the plate.
 - **Light Leak**
 - **Backdrop** — Grayscale / Colored / Random
 
-Backdrop is a blurred enlarged photo behind the card. It covers the stage and is never mirrored. When a face would sit behind the card, the wash zooms in so that face sits in the open side. On a group photo, the gray shows people, not the empty room: a two-shot parks the marked person on their own side, and a wide row keeps the end people beside the card when it can. Groups crossfade washes every few cards. An older show that saved **Offset** opens **Centered**.
+Backdrop is a blurred enlarged photo behind the card. It covers the stage and is never mirrored. When a face would sit behind the card, the wash zooms in so that face sits in the open side. On a tall photo of people in a place, the blur keeps the place: a small pair sits to one side, and one small face stays in that cover instead of filling the stage with shirts. On a group photo, the gray shows people, not the empty room: a two-shot parks the marked person on their own side, and a wide row keeps the end people beside the card when it can. Groups crossfade washes every few cards. An older show that saved **Offset** opens **Centered**.
 
 | Backdrop | What it does |
 | --- | --- |
@@ -51,7 +51,7 @@ Checkboxes include **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prim
 
 Texture outside the lens pool.
 
-- **Film Grain** + **Grain Amount**
+- **Film Grain** + **Grain Amount** — grain sits on the photo, including while you scrub. Offset Wash’s faded copies stay clean
 - **Color Fringe** + **Fringe Amount**
 - **Film Scratches** + **Scratch Amount** — on backdrop only
 

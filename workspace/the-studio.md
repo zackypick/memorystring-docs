@@ -17,7 +17,7 @@ The Studio is built around Library, Outtakes, Preview, Inspector, Timeline, and 
 | **Library** | Left | **Takes** — the show grid. Empty: **Nothing in library yet**. |
 | **Outtakes** | Left, under Takes | Parked photos — in the project, off the show. Empty: **Nothing discarded.** |
 | **Preview** | Center | The movie, plus Play / scrub. Empty: **Add photos & videos** plus *Drop photos and videos to start a memory*. |
-| **Inspector** | Right | Style, Intro, Motion, Audio, Format |
+| **Inspector** | Right | Style, Titles, Motion, Audio, Format |
 | **Timeline** | Bottom | Photo lane — slides and groups. Empty: **Nothing on the timeline yet**. |
 | **Audioline** | Under the Timeline | Soundtrack clips and their waveforms (the music lane). |
 
@@ -38,7 +38,7 @@ Toolbar **+** (near the project name) is **Photos & Videos…**, **Import from P
 
 ## Library
 
-Photos and videos for this show. The column splits into **Takes** (the show grid) and **Outtakes** (in the project, off the show). Calendar sort, captions bubble, **⋯** (**Keep Best Shots…**, **Auto Trim Videos…**, **Mute Noisy Videos**, and more), and **+** sit on the header. **File → Import from Photos…** is on **+** too.
+Photos and videos for this show. The column splits into **Takes** (the show grid) and **Outtakes** (in the project, off the show). Calendar sort, captions bubble, the stacked-slides **Show** menu (**Make Long story short**, **Keep Best Shots…**, **Auto Trim Videos…**, **Mute Noisy Videos**, **Fit Show to Music**, and more), and **+** sit on the header. **File → Import from Photos…** is on **+** too.
 
 ![Library — Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
 
@@ -52,7 +52,7 @@ Parked photos — in the project, not on the show. Keep Best extras land here, o
 
 ![Library — Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
 
-Click an outtake to select it; the playhead stays on the current movie slide. Drag up into Takes or the filmstrip to put it back on the show. Empty: **Nothing discarded.**
+Click an outtake to select it; the playhead stays on the current movie slide. **Double-click** (or right-click → **Peek**) inspects it over the preview without putting it in the show. Drag up into Takes or the filmstrip to put it back on the show. Empty: **Nothing discarded.**
 
 More: [Library → Outtakes](../library.md#outtakes).
 
@@ -68,11 +68,11 @@ More: [Preview](../preview.md).
 
 ## Inspector
 
-Style, Intro, Audio, and Format in **Essential**. **Studio** adds **Motion** and the deeper Customize drawers. Whatever tab you’re on, the bottom strip stays: caption (or intro text), **Generate**, **Aa**, and trim / mute / volume / remove when a video or soundtrack is selected.
+Style, Titles, Audio, and Format in **Essential**. **Studio** adds **Motion** and the deeper Customize drawers. Whatever tab you’re on, the bottom strip stays: caption (or opening / closing text), **Generate**, **Aa**, and trim / mute / volume / remove when a video or soundtrack is selected.
 
-![Inspector in Essential — Style, Intro, Audio, Format](../.gitbook/assets/window-inspector-essential.gif)
+![Inspector in Essential — Style, Titles, Audio, Format](../.gitbook/assets/window-inspector-essential.gif)
 
-![Inspector in Studio — Style, Intro, Motion, Audio, Format](../.gitbook/assets/window-inspector-studio.gif)
+![Inspector in Studio — Style, Titles, Motion, Audio, Format](../.gitbook/assets/window-inspector-studio.gif)
 
 The Inspector toggle (**⌥⌘I**) slides the column open and closed — it does not remount the preview.
 
@@ -80,7 +80,7 @@ More: [Essential and Studio](essential-studio.md).
 
 ## Timeline
 
-Photo lane — slides, intro, and group cells. The **Audioline** sits underneath. Drag the **thin seam above the Timeline** up or down to grow or shrink the filmstrip (up to about **160** points extra). That height is remembered. The zoom slider (minus / plus magnifying glass) scales the strip **live**.
+Photo lane — slides, opening card, and group cells. The **Audioline** sits underneath. Drag the **thin seam above the Timeline** up or down to grow or shrink the filmstrip (up to about **160** points extra). That height is remembered. The zoom slider (minus / plus magnifying glass) scales the strip **live**.
 
 ![Timeline — photo lane, music, zoom](../.gitbook/assets/window-timeline.gif)
 

@@ -1,6 +1,6 @@
 # Organizing the slideshow
 
-Slide order is your story. The **Intro** stays first when it is on. Sort, shuffle, and drag never move the intro among normal slides.
+Slide order is your story. The **opening card** stays first when it is on. Sort, shuffle, and drag never move it among normal slides.
 
 <figure><img src="../.gitbook/assets/library-drag-singles-groups.gif" alt="Library — drag thumbs to reorder; drop on a slide or group seat to Replace"><figcaption>Library — drag thumbs to reorder; drop on a slide or group seat to Replace</figcaption></figure>
 
@@ -25,7 +25,7 @@ Date sorts use camera capture date (EXIF / recording date). If missing, file dat
 
 ## Captions (Library bubble)
 
-Use the captions bubble for bulk fill or clear. Settings: [Intro and captions](intro-captions.md#slide-captions).
+Use the captions bubble for bulk fill or clear. Settings: [Titles and captions](intro-captions.md#slide-captions).
 
 ![Library captions: Auto Caption untitled, Auto Caption All, Clear All](.gitbook/assets/library-menu-captions.png)
 
@@ -33,9 +33,9 @@ Use the captions bubble for bulk fill or clear. Settings: [Intro and captions](i
 
 **Shuffle Transitions** keeps photo order. It picks new transitions and new places for groups. The kinds you checked under **Motion → Transitions** stay when you use **Shuffle** there. A per-slide **Slide Transition** stays unless you confirm clearing those picks.
 
-Find it in **Library** **⋯**, Inspector → **Motion → Timeline**, or right-click empty **Library** space. If you set **Slide Transition** by hand, MemoryString asks before clearing those picks.
+Find it in the **Library** Show menu, Inspector → **Motion → Timeline**, or right-click empty **Library** space. If you set **Slide Transition** by hand, MemoryString asks before clearing those picks.
 
-![Library ⋯: Long story short, Shuffle Transitions, Reset Slide Durations, Show Transition Names](.gitbook/assets/library-options-menu.png)
+![Library Show menu: Make Long story short, Shuffle Transitions, Reset Slide Durations](.gitbook/assets/library-options-menu.png)
 
 ![Motion → Timeline: Sort by Date Taken, Shuffle Slides, Shuffle Transitions, Reset Slide Durations](../.gitbook/assets/inspector-motion-timeline.png)
 
@@ -81,6 +81,6 @@ The group **badge** on a **Library** thumb selects the whole window again.
 
 **⌘Z** undoes sort, shuffle, **Shuffle Transitions**, drag reorder, **Keep Best Shots**, and **Auto Trim**. The **Edit** menu names the action.
 
-**Keep Best Shots** and **Auto Trim** are under **Library** **⋯**. **Auto Trim** is also on a video’s right-click menu. Keep Best extras go to [Outtakes](library.md#outtakes). See [Auto detection](auto-detection.md#auto-trim).
+**Keep Best Shots** and **Auto Trim** are under the **Library** Show menu. **Auto Trim** is also on a video’s right-click menu. Keep Best extras go to [Outtakes](library.md#outtakes). See [Auto detection](auto-detection.md#auto-trim).
 
 Right-click a Take → **Move to Outtakes**. Right-click an Outtake → **Move to Takes**. Drag between panes does the same.
