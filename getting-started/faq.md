@@ -8,7 +8,7 @@ description: "Common questions about MemoryString, the free slideshow app for Ma
 
 <summary>What is the best free slideshow app for Mac?</summary>
 
-MemoryString is a free slideshow app for Mac that turns your photos and videos into a polished movie in minutes. It has no account, no subscription and no ads, and everything runs on your Mac. Get it on the Mac App Store: https://apps.apple.com/us/app/memorystring/id6806579257?mt=12
+MemoryString is a free slideshow app for Mac that turns your photos and videos into a polished movie in minutes. It has no account, no subscription and no ads, and everything runs on your Mac. Get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq-best).
 
 </details>
 
@@ -34,9 +34,9 @@ Yes. MemoryString works entirely on your Mac. Nothing is uploaded, there is no c
 
 Build a show in MemoryString, then export it as a Mac screensaver instead of a movie. Your slideshow then plays whenever your Mac is idle.
 
-In the Export Movie dialog, check **Screensaver**, then export. You get a silent movie that loops: no music, no intro, no signature at the end.
+In the Export Movie dialog, check **Screensaver**, then export. You get a silent movie that loops: no music, no opening card, and no Created with MemoryString credit at the end.
 
-To use it, open **System Settings → Wallpaper**, add the folder that holds the file, and pick that movie.
+To use it, drop the file into **System Settings → Wallpaper**, then add that folder as a screensaver.
 
 </details>
 
@@ -52,7 +52,15 @@ iMovie is great for editing video, but building a slideshow from hundreds of pho
 
 <summary>Can I add my own music to a slideshow?</summary>
 
-Yes. Use a track from MemoryString's built-in royalty-free music library or add your own. Video sound can be turned down so the music leads, while speech and singing stay. Only add music you have the rights to use.
+Yes. Use a track from MemoryString's built-in royalty-free music library or add your own. Noisy video sound (wind, hiss, room noise) can mute so the music leads, while talking, music, and sharp hits stay. Only add music you have the rights to use.
+
+</details>
+
+<details>
+
+<summary>Can the slideshow end with the song?</summary>
+
+Yes. On the **Audio** tab, **Fit Show to Music** sets the pace so the song covers the whole film, including the end card, and fades across the credit. Videos keep their length. The opening card follows the new **Energy**, unless you set its length by hand. See [Music](../music.md#length).
 
 </details>
 
@@ -134,7 +142,7 @@ What it is not: a replacement for DaVinci or After Effects. If the job is a full
 
 <summary>The movie looks too busy. Can I calm it down?</summary>
 
-Yes. Start from **Clean**, set **Energy** to **Calm**, and drop **Stage Intensity** to 0. That leaves one picture on a plain background.
+Yes. Start from **Clean** and set **Energy** to **Calm**. In **Studio**, also drop **Stage Intensity** to 0. That leaves one picture on a plain background.
 
 A new show already starts on **Clean**. Other Looks are busier. In **Studio**, open **Motion** and turn off the transitions you don't want.
 
@@ -154,7 +162,7 @@ Photos you import from the Photos app are copied onto your Mac, so the show can 
 
 <summary>Is there a limit on how many photos? Can I import 1,000?</summary>
 
-There is no fixed limit. You can import 25,000 photos or more, even on an 8 GB Mac. The app can handle it.
+There is no fixed limit. Very large imports work, but importing several hundred files at once can use a lot of memory, and very long shows can feel heavy to edit. See [Known Issues](../known-issues.md).
 
 A show that long does not make sense. For most people, anything over about 10 minutes is already too long to watch.
 
@@ -168,7 +176,7 @@ If you have a whole trip and you do not want to pick the shots yourself, that is
 
 The usual way is the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq). Updates come from there, and you can rate the app.
 
-If the Store is not an option, [download the Mac installer](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.4/MemoryString-1.2.4.dmg).
+If the Store is not an option, [download the Mac installer](https://github.com/zackypick/memorystring-downloads/releases/latest).
 
 </details>
 
@@ -208,7 +216,7 @@ No. It makes the movie. Looks change the feel of the show. They are not a catalo
 
 <summary>What happens to photos that are not in the movie?</summary>
 
-They can sit in **Outtakes**. Nothing is deleted. Drag a photo back when you want it in the show.
+They can sit in **Outtakes**. Nothing is deleted. Double-click one to **Peek** at it over the preview without adding it, and drag it back when you want it in the show.
 
 </details>
 

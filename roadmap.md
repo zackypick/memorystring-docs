@@ -12,7 +12,7 @@ MemoryString **1.2.4** leads with **Fit Show to Music**. The song covers the who
 
 - **Fit Show to Music** covers the whole film, including the end card, and turns **Music Follows Show** off.
 - **Titles** holds the opening card and optional **closing words** on the end card.
-- **Music Follows Show** adds a track from the current Look. This was **Match Look Soundtrack**.
+- **Music Follows Show** keeps the soundtrack with the Look (was **Match Look Soundtrack**). Turn it off to keep your playlist when you change Looks.
 - **Peek** inspects a parked Outtake. **Studio** font menus list every font on this Mac.
 - Scenic and person+pet backdrops keep the place and both subjects in the blur.
 - **Add** / Import stay grey during Long story short, Stringing it together, and while a saved show opens.
@@ -22,8 +22,8 @@ MemoryString **1.2.4** leads with **Fit Show to Music**. The song covers the who
 **1.2.2**
 
 - A big **Long story short** import no longer sits stuck after **Importing M of N** or **Finding focus M of N**.
-- **Library** **⋯** **Videos** can **Mute Noisy Videos**, **Mute All Videos**, and **Unmute All Videos**. Wind and hiss go quiet; talking, music, and sharp hits stay. Opening a show re-checks.
-- On a group photo, the gray behind the card shows people, not the empty room.
+- **Library** Show menu → **Videos** can **Mute Noisy Videos**, **Mute All Videos**, and **Unmute All Videos**. Wind and hiss go quiet; talking, music, and sharp hits stay. Opening a show re-checks.
+- On a group photo, the blurred backdrop shows the people in the photo, not the empty room.
 - Same 63 bundled songs, about 36 MB smaller.
 
 **1.2.1**
@@ -37,7 +37,7 @@ MemoryString **1.2.4** leads with **Fit Show to Music**. The song covers the who
 - The backdrop covers the stage and is never mirrored. A face that would hide behind the card zooms into the open side. **Backdrop Seat** is gone.
 - **Long story short** finds each face (**Finding focus M of N…**) and deals groups across the finished show, the same way **Shuffle** does.
 - Dragging photos from **Outtakes** back to **Takes** finds that focus without freezing the window.
-- You can check every group kind. **Auto** still picks a short list from the length of the show, and never more than four.
+- You can check every group kind. **Auto** still picks a short list from the length of the show, and never more than three.
 
 **1.1.3**, since the **1.1.2** App Store build.
 
@@ -47,7 +47,7 @@ MemoryString **1.2.4** leads with **Fit Show to Music**. The song covers the who
 - **Keep Best** flags the same moment in the same framing. A different pose stays.
 - **Photos import** moves through **Importing M of N** faster.
 - **Pinned groups** stay when you delete, move, or change a transition. **Ungroup** keeps the mix on the other slides.
-- A show that ends on a group fades into the dark ending.
+- A show that ends on a group fades into the end card.
 - New shows start **Stage Intensity** at **50%** on Dark and **80%** on Light.
 - Scrub still follows after an edit.
 - **Go to Start** (|◀) sits beside **Timeline**. It jumps the playhead to **0:00** and scrolls a zoomed filmstrip back to the start. Same as **⌥⌘←**. It lights up when you hover it.
@@ -101,7 +101,7 @@ Optional gentle exposure and clarity on photos already in the show. It is not a 
 
 ### **Motion pins**
 
-**Studio.** Pin direction on one slide or group — enter from the left or right, filmstrip travel left or right (or up or down when vertical). Right-click the timeline item. Everyday shows stay automatic.
+**Studio.** Pin direction on one slide or group. Enter from the left or right, filmstrip travel left or right (or up or down when vertical). Right-click the timeline item. Everyday shows stay automatic.
 
 ### **Beat-sync**
 
@@ -109,4 +109,4 @@ Cuts and transitions follow the beat of the song. Strength follows your **Energy
 
 ### **Motion presets**
 
-Save a motion style you reuse across shows — which moves are on, direction defaults, what you never want (for example never ribbon). Apply as show defaults; pins on individual slides stay until you clear them.
+Save a motion style you reuse across shows, which moves are on, direction defaults, what you never want (for example never ribbon). Apply as show defaults; pins on individual slides stay until you clear them.

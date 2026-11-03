@@ -1,8 +1,12 @@
+---
+description: "From an empty project to an exported MemoryString movie: import, order, preview, music with Fit Show to Music, titles, and export."
+---
+
 # Quick start
 
 This guide gets you from empty project to exported movie in a few steps. For a guided tour, use **Help → Show Walkthrough**, or [watch the demos](../welcome.md#watch-a-demo).
 
-![Empty project — drop media or use Add photos & videos](../.gitbook/assets/empty-start.png)
+![Empty project: drop media or use Add photos & videos](../.gitbook/assets/empty-start.png)
 
 ## 1. Start a project
 
@@ -19,9 +23,9 @@ Imported photos and videos appear in the **Library** on the left.
 Folder and Finder imports stay **linked** to the original files. Media from **Photos.app** is **copied** into Application Support **Imports** because Photos does not allow stable links. Pasted screenshots with no file are copied the same way. See [Library](../library.md#import).
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
-2. Or **File → Import from Photos…** (also on **+**) — **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**
+2. Or **File → Import from Photos…** (also on **+**): **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**
 3. Or drop folders, photos, or videos on the window (including from Photos.app).
-4. Or drop a folder, or paste (**⌘V**).
+4. Or paste (**⌘V**).
 
 ![Toolbar + : Photos & Videos, Import from Photos, Music, Royalty-Free Library](../.gitbook/assets/toolbar-plus-menu.png)
 
@@ -29,7 +33,7 @@ Folder and Finder imports stay **linked** to the original files. Media from **Ph
 
 An empty **Library** shows **Nothing in library yet**. The preview area accepts drops. Hover hint for media: **Gather the thread**. Hover hint for a project file: **Bring back memories**.
 
-While the stage loader runs, drops are ignored. First import title: **Stringing it together...** with **Importing N of M...** and **Cancel** — **Add**, **+**, and Import stay grey. Hover: **Wait until this import finishes**. Opening a project: **It's coming back now...** (no count) — **Add**, **+**, and Import stay grey until the show is back. The loader is a spinner with a smoke animation.
+While the stage loader runs, drops are ignored. First import title: **Stringing it together...** with **Importing N of M...** and **Cancel**. **Add**, **+**, and Import stay grey. Hover: **Wait until this import finishes**. Opening a project: **It's coming back now...** (no count). **Add**, **+**, and Import stay grey until the show is back. The loader is a spinner with a smoke animation.
 
 After the show has clips, a media drop reads **Add to story**. **Keep Best Shots** waits until the loader clears.
 
@@ -40,7 +44,7 @@ Other types are skipped.
 
 Got a whole trip? Use [Long story short](../long-story-short.md) (**File → Long story short**). Pick a length and it builds the movie from your best shots. An import that would put more than **150** photos and videos on the show offers it first.
 
-After import, **Keep Best Shots** may appear when similar photo groups are found. Extras move to **Outtakes**. Videos are **not** auto-trimmed on import. Right-click a clip → **Auto Trim**, or use the **Library** Show menu. Sideways photos and videos are already upright. See [Auto Trim](../auto-detection.md#auto-trim) and [Orientation](../auto-detection.md#orientation).
+After import, **Keep Best Shots** may appear when similar photo groups are found. Extras move to **Outtakes**, where you can double-click one to **Peek** at it. Videos are **not** auto-trimmed on import. Right-click a clip → **Auto Trim**, or use the **Library** Show menu. Sideways photos and videos are already upright. See [Auto Trim](../auto-detection.md#auto-trim) and [Orientation](../auto-detection.md#orientation).
 
 ## 3. Order the story
 
@@ -54,7 +58,7 @@ More detail: [Organizing](../organizing.md).
 
 ## 4. Preview
 
-Press **Space** or use toolbar **Play/Pause**. Click or drag the playhead to scrub. Hover the **Timeline** photo lane to peek. See [Preview](../preview.md#playback).
+Press **Space** or use **Play/Pause** under the preview. Click or drag the playhead to scrub. Hover the **Timeline** photo lane to peek. See [Preview](../preview.md#playback).
 
 ## 5. Music
 
@@ -68,14 +72,14 @@ To trim a song, select it on the **Audioline**, scrub to the moment you want, th
 
 Open the Inspector (**⌥⌘I**) for more control:
 
-- **Style** — Look, Energy, Stage, Photo Size, Captions, Customize (Studio)
-- **Titles** — opening card and optional closing words (**The End** is already in the box)
-- **Motion** — Studio only: Transitions, multi-photo groups
-- **Audio** — playlist, **Music Follows Show**, **Fit Show to Music** / **Extend to Fill** / **Surprise me**
-- **Format** — aspect / Social Safe (Instagram first among Social swatches)
+- **Style**: Look, Energy, Stage, Photo Size, Captions, Customize (Studio)
+- **Titles**: opening card and optional closing words (**The End** is already in the box)
+- **Motion**: Studio only: Transitions, multi-photo groups
+- **Audio**: playlist, **Music Follows Show**, **Fit Show to Music** / **Extend to Fill** / **Surprise me**
+- **Format**: aspect / Social Safe (Instagram first among Social swatches)
 
 ## 7. Export
 
-Toolbar **Export** or **File → Export Movie…** (**⌘E**). Choose format, resolution, quality (Compact / Share / High / Best), and frame rate. Click **Export**. Check **Screensaver** for a looping display movie (no audio, skips intro). Wait for **Creating memory…**.
+Toolbar **Export** or **File → Export Movie…** (**⌘E**). Choose format, resolution, quality (Compact / Share / High / Best), and frame rate. Click **Export**. Check **Screensaver** for a looping display movie (no audio, skips the opening card). Wait for **Creating memory…**.
 
-You get an H.264 MP4. Share movies end with a **Created with MemoryString** credit. The app is free, and the credit helps more people find it.
+You get an H.264 MP4. Every exported movie (except Screensaver) ends with a **Created with MemoryString** credit. The app is free, and the credit helps more people find it.

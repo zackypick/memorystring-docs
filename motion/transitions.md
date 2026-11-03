@@ -1,3 +1,7 @@
+---
+description: "The 17 single-slide transitions and multi-photo group kinds in MemoryString, and how Auto and How many choose them."
+---
+
 # Transitions
 
 Transitions control how each photo enters and leaves. In **Studio**, open Inspector → **Motion** → **Transitions**.
@@ -109,7 +113,7 @@ Fast zoom through the frame.
 
 ### Spiral-in
 
-Card spirals in; wash zooms.
+The card winds in on one spiral, about two turns, and keeps crawling through the hold. The exit continues the same way. A wash zooms behind it.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-spiral-in.mp4" %}
 
@@ -151,7 +155,7 @@ Photo moves with a motion echo.
 
 ### Swirl-in
 
-Card spirals in and out.
+The card comes in from far away while it turns about one and a half times, then sits face-front. The exit turns back out.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-swirl-in.mp4" %}
 
@@ -162,9 +166,9 @@ Per-slide pick: right-click → **Slide Transition** (includes **Random**). See 
 
 ## Multi-photo
 
-Several photos in one beat — **3D Ribbon, Carousel, Filmstrip, Perspective Pair, Photo Stack, Scatter & Settle**.
+Several photos in one beat: **3D Ribbon, Carousel, Filmstrip, Perspective Pair, Photo Stack, Scatter & Settle**.
 
-Checked kinds are the ones this show groups with. You can check every kind. A short show does not turn a box back off. **Auto** still picks a short list from the length of the show, and never more than four kinds. **How many** at **0** leaves one photo at a time.
+Checked kinds are the ones this show groups with. You can check every kind. A short show does not turn a box back off. **Auto** picks a short list from the length of the show, up to three kinds (see the table above). **How many** at **0** leaves one photo at a time.
 
 **Perspective Pair** is not forced. **Auto** may still pick it as one of the kinds. Uncheck it and those pairs become single slides. When there is room, another slide sits between the two shots. It stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again. Check it to bring the pairs back. **⌘Z** restores them.
 

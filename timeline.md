@@ -1,3 +1,7 @@
+---
+description: "The MemoryString Timeline: reorder and trim slides, zoom, Go to Start, groups on the strip, the end card, and the Audioline."
+---
+
 # Timeline
 
 The strip under the preview shows time, slides, and music. Use it to reorder, trim, and scrub.
@@ -10,9 +14,9 @@ The strip under the preview shows time, slides, and music. Use it to reorder, tr
 
 ## Layout
 
-1. **Time ruler** — click or drag to seek
-2. **Photo lane** — slides, intro, and group cells. Hover a cell to peek; move off the strip and that moment stays on the preview. Hover is ignored while playing
-3. **Audioline** — soundtrack clips
+1. **Time ruler**: click or drag to seek
+2. **Photo lane**: slides, the opening card, and group cells. Hover a cell to preview that moment; move off the strip and the moment you left stays on the preview. Hover is ignored while playing
+3. **Audioline**: soundtrack clips
 
 The header shows **Timeline**, then **|◀** (**Go to Start**). Click it and the playhead jumps to **0:00**. If the filmstrip is zoomed or scrolled, it scrolls back to the start. The same key is **⌥⌘←**. The button is dimmed only when the timeline is empty, and it highlights when you hover it.
 
@@ -24,18 +28,18 @@ The header also shows the selected clip **name**, and zoom. **1.0×** fits the w
 
 Drag the **thin seam** between the preview and **Timeline** **up** to grow the photo lane, **down** to shrink. Height is remembered. **⌘+** / **⌘-** scale strip height with UI text size.
 
-![Drag the seam to grow the filmstrip; zoom slider scales the strip live](.gitbook/assets/timeline-expand-zoom.gif)
+![Drag the seam to grow the filmstrip; zoom slider scales the strip live](../.gitbook/assets/timeline-expand-zoom.gif)
 
 ### Zoom and gestures
 
-- **Zoom slider** — live zoom; all the way left for full overview
+- **Zoom slider**: live zoom; all the way left for full overview
 - **Pinch** on trackpad
-- **Scroll wheel** over **Timeline** — up zooms in, down out
+- **Scroll wheel** over **Timeline**: up zooms in, down out
 - **⌥⌘+** / **⌥⌘-**
 - **Two-finger pan** or horizontal scroll
 - **Middle-mouse drag** to pan
 
-**⌘+** / **⌘-** / **⌘0** change UI text size for **Library** cards and strip height — not zoom.
+**⌘+** / **⌘-** / **⌘0** change UI text size for **Library** cards and strip height, not zoom.
 
 Long projects scroll instead of squeezing cells. During playback the strip follows the playhead.
 
@@ -43,20 +47,20 @@ Dragging the playhead shows a blue time chip. **←** / **→** nudge (~0.1s); *
 
 ## Reorder and trim
 
-Drag clips on the photo lane. From **Library**: gap = insert/move; drop on slide or group seat = **Replace**; intro tile = intro background. Music reorders on the **Audioline**.
+Drag clips on the photo lane. From **Library**: gap = insert/move; drop on slide or group seat = **Replace**; the opening-card tile sets its background. Music reorders on the **Audioline**.
 
 First click on a group selects the whole window. Second click on a thumb selects one seat. See [Organizing](organizing.md#in-group-photos-and-videos).
 
 Select a clip and drag **edge grips**:
 
-- **Videos** — trim with frame feedback; **2 second** minimum. **Reset Video Duration** restores full file
-- **Music** — edge drag auditions that point. **Set Start Here** / **Set End Here** at playhead. See [Music → Audition the Audioline](music.md#audition-the-audioline). **Reset Length** restores auto-skipped edges or full file
-- **Stills** — edge drag changes hold time
+- **Videos**: trim with frame feedback; **2 second** minimum. **Reset Video Duration** restores full file
+- **Music**: edge drag auditions that point. **Set Start Here** / **Set End Here** at playhead. See [Music → Audition the Audioline](music.md#audition-the-audioline). **Reset Length** restores auto-skipped edges or full file
+- **Stills**: edge drag changes hold time
 
 Right-click a photo or video on the photo lane:
 
-- **Slide Transition** — pick a cut or **Random** (groups: **Group Transition** / **Ungroup**)
-- **Lens Effect** — Studio only
+- **Slide Transition**: pick a cut or **Random** (groups: **Group Transition** / **Ungroup**)
+- **Lens Effect**: Studio only
 - **Rotate & Flip**
 - **Set Duration…** (**⌘D**). Videos: **Timing** submenu with duration and **Set Start Here** / **Set End Here**
 - **Set Caption** (**⇧⌘C**)
@@ -76,7 +80,7 @@ Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Res
 
 ![Timeline video menu: Auto Trim, Mute Video Sound, Timing](../.gitbook/assets/timeline-video-context-menu.png)
 
-**Auto Trim** — about four seconds from the middle, face nudge ~70% success. Not on import. Undo **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
+**Auto Trim**: about four seconds from the middle, with a small nudge toward a face, and the cut works about 70% of the time. Not on import. Undo **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
 
 Right-click video or music for **Set Start Here** / **Set End Here** and reset duration/length.
 
@@ -84,7 +88,7 @@ Inspector clip footer has the same trims for selected video or soundtrack.
 
 ![Slide Length for the selected slide](../.gitbook/assets/set-duration.png)
 
-**Auto Caption** is not on this menu — use **Library** captions bubble, **Edit**, Style → Captions, or **Generate**.
+**Auto Caption** is not on this menu. Use **Library** captions bubble, **Edit**, Style → Captions, or **Generate**.
 
 Right-click selects the clip under the pointer and seeks the playhead there. **Esc** deselects clips and music tracks.
 
@@ -105,7 +109,7 @@ Also on the **Library** Show menu. The opening card stays first. **⌘Z** undoes
 
 ## End card
 
-Every show ends with a **Created with MemoryString** credit. On the photo lane this is a trailing **end** cell. You can select it but not trim or reorder it like media. Optional **closing words** (the box starts with **The End**) sit on that same card — see [Titles and captions](intro-captions.md#closing-words). Double-click the card to edit.
+Every show ends with a **Created with MemoryString** credit. On the photo lane this is a trailing **end** cell. You can select it but not trim or reorder it like media. Optional **closing words** (the box starts with **The End**) sit on that same card. See [Titles and captions](intro-captions.md#closing-words). Double-click the card to edit.
 
 ## Groups on the strip
 

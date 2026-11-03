@@ -1,3 +1,7 @@
+---
+description: "Import photos and videos into MemoryString from folders or Photos, sort them, Peek at Outtakes, and use the Library Show menu."
+---
+
 # Library
 
 Photos and videos for your movie appear in the **Library** on the left. Music is in Inspector → **Audio**, not here.
@@ -17,9 +21,9 @@ Folder and Finder imports stay **linked** to originals. If you move or delete an
 **Photos.app** media is **copied** to Application Support **Imports** because Photos does not allow stable links. Pasted images with no file are copied the same way.
 
 - Toolbar or **Library** **+** → **Photos & Videos…**, or **File → Import Media…**
-- **File → Import from Photos…** — see [Import from Photos](#import-from-photos)
+- **File → Import from Photos…**: see [Import from Photos](#import-from-photos)
 - Drop folders, photos, or videos on the window
-- **Edit → Paste** (**⌘V**) — files, folders, images from other apps, or screenshots. A `.memorystring` file **opens** when pasted.
+- **Edit → Paste** (**⌘V**): files, folders, images from other apps, or screenshots. A `.memorystring` file **opens** when pasted.
 - Empty **Library**: **Nothing in library yet**. Preview accepts drops. Hover: **Gather the thread** for media; **Bring back memories** for a project file.
 
 **+**, **Add photos & videos**, **File → Import Media…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…** grey out while **Stringing it together...** is up, while **Long story short** is running, and while a saved show is opening (**It's coming back now…**). Hover: **Wait until this import finishes**, **Wait until Long story short finishes**, or **Wait until the project finishes opening**. Drops and paste wait too.
@@ -34,7 +38,7 @@ Videos show a play badge and duration. Multi-select shows a count.
 **Essential:** after import, if the **Library** was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. **Studio** does not. **⌘Z** undoes.
 
 {% hint style="info" %}
-**Keep Best Shots** may ask after import when photos of the same moment appear. A different pose is not flagged. **Keep Best** (default) or **Keep All**. Extras go to **Outtakes**. Undo **⌘Z**. Videos are not Keep Best targets. Prompt waits until import loader clears. Videos are not auto-trimmed on import — use **Auto Trim** from a clip menu or the **Library** Show menu. Sideways and upside-down photos and videos are turned upright during import, before they land. See [Auto detection](auto-detection.md#keep-best-shots) and [Orientation](auto-detection.md#orientation).
+**Keep Best Shots** may ask after import when photos of the same moment appear. A different pose is not flagged. **Keep Best** (default) or **Keep All**. Extras go to **Outtakes**. Undo **⌘Z**. Videos are not Keep Best targets. Prompt waits until import loader clears. Videos are not auto-trimmed on import. Use **Auto Trim** from a clip menu or the **Library** Show menu. Sideways and upside-down photos and videos are turned upright during import, before they land. See [Auto detection](auto-detection.md#keep-best-shots) and [Orientation](auto-detection.md#orientation).
 {% endhint %}
 
 ![Keep Best import prompt: Keep All or Keep Best](../.gitbook/assets/keep-best-import-prompt.png)
@@ -51,42 +55,42 @@ An import that would put more than **150** photos and videos on the show asks fi
 
 ![File menu: Import from Photos…](../.gitbook/assets/file-menu-import-photos.png)
 
-![Import from Photos — Recent, Albums, People, By Month, Trips & Events, Media Type](../.gitbook/assets/photos-import-hub.png)
+![Import from Photos: Recent, Albums, People, By Month, Trips & Events, Media Type](../.gitbook/assets/photos-import-hub.png)
 
 Categories:
 
-- **Recent** — Last 7 Days / Last 30 Days / Last Year
+- **Recent**: Last 7 Days / Last 30 Days / Last Year
 - **Albums**
-- **People** — A–Z. If empty, **Choose Photos Library…** once
+- **People**: A–Z. If empty, **Choose Photos Library…** once
 - **By Month**
 - **Trips & Events**
-- **Media Type** — Videos, Panoramas, Screenshots, Live Photos, Bursts
+- **Media Type**: Videos, Panoramas, Screenshots, Live Photos, Bursts
 
-![Recent — Last 30 Days, Select All / Deselect, ready to import](../.gitbook/assets/photos-import-recent.png)
+![Recent: Last 30 Days, Select All / Deselect, ready to import](../.gitbook/assets/photos-import-recent.png)
 
-![Albums — pick one or more, then Import](../.gitbook/assets/photos-import-albums.png)
+![Albums: pick one or more, then Import](../.gitbook/assets/photos-import-albums.png)
 
-![People — named faces, A–Z](../.gitbook/assets/photos-import-people.png)
+![People: named faces, A–Z](../.gitbook/assets/photos-import-people.png)
 
-![Date filter open — From / To, Apply, Clear](../.gitbook/assets/photos-import-dates.png)
+![Date filter open: From / To, Apply, Clear](../.gitbook/assets/photos-import-dates.png)
 
-![By Month — years and months](../.gitbook/assets/photos-import-by-month.png)
+![By Month: years and months](../.gitbook/assets/photos-import-by-month.png)
 
-![Trips & Events — Photos events, or empty if none](../.gitbook/assets/photos-import-trips.png)
+![Trips & Events: Photos events, or empty if none](../.gitbook/assets/photos-import-trips.png)
 
-![Media Type — Videos, Panoramas, Screenshots, Live Photos, Bursts](../.gitbook/assets/photos-import-media-type.png)
+![Media Type: Videos, Panoramas, Screenshots, Live Photos, Bursts](../.gitbook/assets/photos-import-media-type.png)
 
 **Select All** / **Deselect** on Recent. **From** / **To** date filter on most lists. Footer **Import** / **Cancel**.
 
 First time, macOS asks for Photos access. Allow both prompts.
 
-![Photo Library — Allow Access to All Photos](../.gitbook/assets/photos-permission-library.png)
+![Photo Library: Allow Access to All Photos](../.gitbook/assets/photos-permission-library.png)
 
-![Photos automation — Allow so album counts and covers can load](../.gitbook/assets/photos-permission-automation.png)
+![Photos automation: Allow so album counts and covers can load](../.gitbook/assets/photos-permission-automation.png)
 
-If **Allow “MemoryString” to find devices on local networks?** appears, **Allow** is fine. The show does not browse your LAN.
+If **Allow “MemoryString” to find devices on local networks?** appears, **Allow** is fine. MemoryString does not browse your local network.
 
-![Local Network — Allow if it appears](../.gitbook/assets/photos-permission-local-network.png)
+![Local Network: Allow if it appears](../.gitbook/assets/photos-permission-local-network.png)
 
 If Photos access is missing, the sheet says **Access Your Photos** or **Photos Access Required**. **Allow Access** asks again, or opens System Settings → Privacy & Security → Photos when macOS already has an answer. There is no second settings button.
 
@@ -94,7 +98,7 @@ Photos imports are **copied** to Application Support **Imports**. Finder folder 
 
 Same rules on every path: **+**, Finder drop, Photos.app drag (often one file at a time), paste. **Keep Best** counts the **whole drop**.
 
-While a first-import loader runs — **Stringing it together...** (percent, **Cancel**, and finding focus) — drops, paste, **Add**, **+**, Import Media, and Import from Photos stay grey. Hover: **Wait until this import finishes**. While a saved show is opening — **It's coming back now...** (no percent) — drops, paste, **Add**, **+**, Import Media, Import from Photos, and Music stay grey until the fog lifts. Same grey lock during **Long story short**; Add comes back after Close, Open, or Cancel. Loader is a spinner with smoke animation.
+While a first-import loader runs, **Stringing it together...** (percent, **Cancel**, and finding focus), drops, paste, **Add**, **+**, Import Media, and Import from Photos stay grey. Hover: **Wait until this import finishes**. While a saved show is opening, **It's coming back now...** (no percent), drops, paste, **Add**, **+**, Import Media, Import from Photos, and Music stay grey until the fog lifts. Same grey lock during **Long story short**; Add comes back after Close, Open, or Cancel. Loader is a spinner with smoke animation.
 
 ## Cover and show name
 
@@ -102,7 +106,7 @@ First import into a new show (opening title **Memories**) can set project name a
 
 - **Photos albums:** Apple key photo may become cover unless it is already first or second on the show.
 - **Name:** single album, person, or trip import; or folder name from **Add Folder** / Finder folder drop. Title Case applied. Generic names skipped.
-- Manual **Choose from Library**, **Choose File…**, intro drop, or **Remove** stops automatic cover forever.
+- Manual **Choose from Library**, **Choose File…**, a drop on the opening card, or **Remove** stops automatic cover forever.
 
 ## Outtakes
 
@@ -110,11 +114,11 @@ First import into a new show (opening title **Memories**) can set project name a
 
 ![Outtakes bin with three photos](../.gitbook/assets/library-outtakes.png)
 
-Header shows count when not empty. **Outtakes** holds shots in the project but not on the show — from **Keep Best**, [Long story short](long-story-short.md), or **Move to Outtakes**. On a group, **Move to Outtakes** moves one seat; **Entire group ▸** moves all. Empty: **Nothing discarded.**
+Header shows count when not empty. **Outtakes** holds shots in the project but not on the show, from **Keep Best**, [Long story short](long-story-short.md), or **Move to Outtakes**. On a group, **Move to Outtakes** moves one seat; **Entire group ▸** moves all. Empty: **Nothing discarded.**
 
 Click selects; preview stays on the current slide. Drag up to return to the show. That photo’s focus is found on the way back, so a face does not stay in the middle of the frame. A large drop does not freeze the window. Drop on the opening card sets its background. Right-click **Peek**, **Move to Takes**, or **Remove from Project**. Calendar sort sorts **Outtakes** too. **Shuffle** is show-only.
 
-**Peek** inspects a parked shot over the preview without putting it in the show or moving the playhead. Double-click an outtake, or right-click → **Peek**. Click other outtakes to switch. Leave with **Close** (bottom-right), **Esc**, **Play**, or a Take click. Space on a peeked video plays that clip only.
+**Peek** inspects a parked shot over the preview without putting it in the show or moving the playhead. Double-click an Outtake, or right-click → **Peek**. Click other Outtakes to switch. Leave with **Close** (bottom-right), **Esc**, **Play**, or a Take click. Space on a peeked video plays that clip only.
 
 ![Outtake menu: Peek, Move to Takes, Remove from Project](../.gitbook/assets/library-outtakes-menu.png)
 
@@ -143,13 +147,13 @@ See [Titles and captions](intro-captions.md#auto-caption).
 
 ## Show menu
 
-The stacked-slides icon (not ⋯) opens **Show**. Cut names under thumbs are always on — there is no checkbox to hide them.
+The stacked-slides icon (not ⋯) opens **Show**. Cut names under thumbs are always on. There is no checkbox to hide them.
 
 ![Library Show menu: Make Long story short, Videos, Audio](../.gitbook/assets/library-options-menu.png)
 
-- **Show** — **Make Long story short**, **Shuffle Transitions**, **Reset Slide Durations**, **Keep Best Shots…**
-- **Videos** — **Auto Trim Videos…**, **Reset Video Durations**, **Mute Noisy Videos**, **Mute All Videos**, **Unmute All Videos**
-- **Audio** — **Fit Show to Music**, **Extend to Fill** — see [Music](music.md#length)
+- **Show**: **Make Long story short**, **Shuffle Transitions**, **Reset Slide Durations**, **Keep Best Shots…**
+- **Videos**: **Auto Trim Videos…**, **Reset Video Durations**, **Mute Noisy Videos**, **Mute All Videos**, **Unmute All Videos**
+- **Audio**: **Fit Show to Music**, **Extend to Fill**. See [Music](music.md#length)
 
 **Import from Photos…** is on toolbar **+** and **File**, not this menu.
 
@@ -164,8 +168,8 @@ Whole groups move together until you select one seat. See [Organizing](organizin
 On a photo or video (not empty space):
 
 - **Slide Transition** or **Random**
-- **Group Transition** — two or more singles, or change group type
-- **Lens Effect** — Studio only
+- **Group Transition**: two or more singles, or change group type
+- **Lens Effect**: Studio only
 - Videos: **Auto Trim**, **Reset Video Duration**, **Mute Video Sound**
 - **Set Duration…** (**⌘D**)
 
@@ -194,13 +198,13 @@ Click selects and seeks. Right-click opens menu and stages clip on preview. **�
 
 ### Videos
 
-On import: speech stays; silence, wind, hiss, or quiet room noise may mute. Talking, music, and sharp hits stay. On-device. Skip speech prompt → loudness only. Opening a show re-checks clips you have not already unmuted. [Auto detection](auto-detection.md#video-sound-auto-mute).
+On import: speech stays; silence, wind, hiss, or quiet room noise may mute. Talking, music, and sharp hits stay. On-device. If you choose **Use Loudness Only**, muting uses loudness alone. Opening a show re-checks clips you have not already unmuted. [Auto detection](auto-detection.md#video-sound-auto-mute).
 
-**Mute Video Sound** / **Unmute Video Sound** — right-click, badge, or Inspector.
+**Mute Video Sound** / **Unmute Video Sound**: right-click, badge, or Inspector.
 
 **Library** Show menu **Videos**: **Mute Noisy Videos** (show stays clickable), **Mute All Videos**, **Unmute All Videos**. Mute all and unmute all stick when you reopen. **Mute Noisy Videos** decides again from the file.
 
-**Auto Trim** — right-click or the **Library** Show menu. Not on import. ~4s middle, ~70% success. **2 second** minimum trim. **Reset Video Duration** restores full clip.
+**Auto Trim**: right-click or the **Library** Show menu. Not on import. Keeps about 4 seconds from the middle, with a small nudge toward a face, and the cut works about 70% of the time. Hand trims have a **2 second** minimum. **Reset Video Duration** restores the full clip.
 
 ## Multi-photo badges
 

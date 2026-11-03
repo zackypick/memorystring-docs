@@ -1,12 +1,16 @@
+---
+description: "Watch and scrub your MemoryString slideshow, smooth playback warming, center of interest, and rotating photos while paused."
+---
+
 # Preview
 
 The large area in the center is where you watch your movie while you edit. Photos and videos live in the **Library**. Order and trim also use the **Timeline**.
 
-![Preview transport: time, slide counter, Warm Now, Stop, and Warming k/n — no Auto-warm checkbox](../.gitbook/assets/transport.png)
+![Preview transport: time, slide counter, Warm Now, Stop, and Warming k/n: no Auto-warm checkbox](../.gitbook/assets/transport.png)
 
 ## Playback
 
-Use **Space** or the toolbar **Play/Pause** button to play and pause.
+Use **Space** or the **Play/Pause** button under the preview to play and pause.
 
 The **speaker** button sits just to the right of **Play/Pause**. It mutes sound in the preview only. The exported movie still has sound.
 
@@ -65,11 +69,13 @@ Both modes start warming when you press **Play**.
 
 Status under the preview can show:
 
-1. Export — *Edits paused while creating memory*
-2. Warming or updating — *Warming k/n* or *Updating k/n*
+1. Export: *Edits paused while creating memory*
+2. Warming or updating. *Warming k/n* or *Updating k/n*
 3. **Loading music…**
 
 See [Essential and Studio](workspace/essential-studio.md#what-changes).
+
+When the show ends on a group, Play fades that backdrop into the end card. On a Light stage the card is cream. On a Dark stage it is black.
 
 ## Center of interest
 
@@ -84,8 +90,6 @@ When a photo is paused, you may see a small round ring. That is **center of inte
 ![Paused preview: Rotate, Flip, Reset Center of Interest](../.gitbook/assets/preview-context-menu.png)
 
 Ken Burns and similar motion use center of interest. Some transitions show the whole photo and ignore it.
-
-When the show ends on a group, Play fades that backdrop into the dark ending.
 
 On the **opening card**, a single click on the still sets the same aim. **Double-click** the title to edit text. On the **end card**, **double-click** closing words to edit them. **Shift+Enter** starts a new line; long lines wrap on their own.
 

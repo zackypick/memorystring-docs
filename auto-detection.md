@@ -8,13 +8,13 @@ These tools help with a messy camera roll. Everything runs on your Mac. Original
 
 ## The helpers
 
-- **[Long story short](long-story-short.md)** — Builds a movie of the length you pick from your best shots. Uses Keep Best and Auto Trim. The rest go to **Outtakes**.
-- **Keep Best Shots** — From similar burst photos, keep one strong shot. Extras move to **Outtakes** (still in the project, not in the show). Import may ask; **Library** Show menu anytime. Default: **Keep Best**. Undo **⌘Z**.
-- **Auto Trim** — About four seconds from the middle of a video clip, with up to about one second nudge toward a face. Works about 70% of the time. Right-click or **Library** Show menu — not on import. After it runs, use **Reset Video Duration** to restore full length. Undo **⌘Z**.
-- **Video mute** — On import, quiet clips with only room noise so music can lead.
-- **Orientation** — Turns sideways and upside-down photos and videos upright while they import, before they land on the timeline. Original files stay as shot.
-- **Center of interest** — Finds faces and subjects so motion frames the right area.
-- **Auto Caption** — Fills captions only when you choose **Auto Caption** — never on import by itself.
+- **[Long story short](long-story-short.md)**: Builds a movie of the length you pick from your best shots. Uses Keep Best and Auto Trim. The rest go to **Outtakes**.
+- **Keep Best Shots**: From similar burst photos, keep the strongest shot (on a large import, sometimes a second, wider one). Extras move to **Outtakes** (still in the project, not in the show). Import may ask; **Library** Show menu anytime. Default: **Keep Best**. Undo **⌘Z**.
+- **Auto Trim**: About four seconds from the middle of a video clip, with up to about one second nudge toward a face. Works about 70% of the time. Right-click or **Library** Show menu, not on import. After it runs, use **Reset Video Duration** to restore full length. Undo **⌘Z**.
+- **Video mute**: On import, quiet clips with only room noise so music can lead.
+- **Orientation**: Turns sideways and upside-down photos and videos upright while they import, before they land on the timeline. Original files stay as shot.
+- **Center of interest**: Finds faces and subjects so motion frames the right area.
+- **Auto Caption**: Fills captions only when you choose **Auto Caption**, never on import by itself.
 
 ![Paused photo with the center-of-interest ring](../.gitbook/assets/preview-coi.png)
 
@@ -22,7 +22,7 @@ These tools help with a messy camera roll. Everything runs on your Mac. Original
 
 When several photos are the same moment in the same framing, MemoryString can keep the one with open eyes, a smile, sharpness, and good exposure. A different pose stays in the show. On a large import it can also keep a second, wider shot from that moment.
 
-**When:** during **import**, before the show is built — the fog (or the loading pill on an existing show) says **Comparing similar shots N of M...**, then asks. Anytime later from **Library** Show menu → **Keep Best Shots…**. Videos are not included.
+**When:** during **import**, before the show is built, the fog (or the loading pill on an existing show) says **Comparing similar shots N of M...**, then asks. Anytime later from **Library** Show menu → **Keep Best Shots…**. Videos are not included.
 
 **The dialog** shows how many groups and extra shots. **Keep the best shot only?** Default button: **Keep Best**. **Keep All** leaves every photo.
 
@@ -58,10 +58,10 @@ Speech on camera stays audible. Wind, hiss, and quiet room tone may mute so the 
 
 **When:** as each **video** is imported (**Essential** and **Studio**), and again when you open a show, for clips you have not already unmuted. Stills have no clip audio. Soundtrack tracks are not auto-muted. **Library** Show menu → **Mute Noisy Videos** runs the same pass on every show video while you keep working.
 
-**First import with video:** MemoryString may ask **Allow On-Device Speech Detection?** The sheet waits until the show is on screen — it does not pop during the loading fog.
+**First import with video:** MemoryString may ask **Allow On-Device Speech Detection?** The sheet waits until the show is on screen. It does not pop during the loading fog.
 
-- **Continue** — then macOS’s Speech prompt. Detection is **on-device**. It does not save a transcript.
-- **Use Loudness Only** — skip speech. Mute still uses loudness.
+- **Continue**: then macOS’s Speech prompt. Detection is **on-device**. It does not save a transcript.
+- **Use Loudness Only**: skip speech. Mute still uses loudness.
 
 If you deny speech, later imports use loudness only until you reset that choice.
 
@@ -75,19 +75,19 @@ If you deny speech, later imports use loudness only until you reset that choice.
 
 Muted clips show a speaker-off badge in **Library** and **Timeline**.
 
-**Override:** right-click **Mute Video Sound** / **Unmute Video Sound**, the speaker badge, or the Inspector clip footer. **Library** **⋯** → **Mute All Videos** / **Unmute All Videos** flips every show video at once and remembers that choice. See [Library](library.md#videos) and [Music](music.md#video-sound-not-the-music-lane).
+**Override:** right-click **Mute Video Sound** / **Unmute Video Sound**, the speaker badge, or the Inspector clip footer. **Library** Show menu → **Videos** → **Mute All Videos** / **Unmute All Videos** flips every show video at once and remembers that choice. See [Library](library.md#videos) and [Music](music.md#video-sound-not-the-audioline).
 
 ## Orientation
 
-Sideways and upside-down photos and videos are turned upright on their own. The turn lives in the show. Original files are never rewritten. Someone lying on a sofa or the floor is left as shot — that is not a sideways phone.
+Sideways and upside-down photos and videos are turned upright on their own. The turn lives in the show. Original files are never rewritten. Someone lying on a sofa or the floor is left as shot. That is not a sideways phone.
 
-**When:** during import, while the loader is up — **+**, Finder drop, paste, folders, and **Import from Photos…**. The line under the title reads **Straightening N of M...**. The show lands already upright.
+**When:** during import, while the loader is up: **+**, Finder drop, paste, folders, and **Import from Photos…**. The line under the title reads **Straightening N of M...**. The show lands already upright.
 
 **Long story short** turns the shots it keeps, after **Reviewing**, before the movie is laid out. Extras added to reach the length are turned the same way.
 
 **Opening a show:** turns this Mac already knows are applied before the timeline appears, so the length does not change a moment later. Photos this Mac has never checked are turned shortly after the show opens.
 
-**Override:** right-click **Rotate & Flip**, or **⌘]** / **⌘[**. Turning a photo back to as-shot sticks — MemoryString will not turn it again. The blurred backdrop follows the same turn as the card. See [Preview](preview.md#rotate-while-paused).
+**Override:** right-click **Rotate & Flip**, or **⌘]** / **⌘[**. Turning a photo back to as-shot sticks. MemoryString will not turn it again. The blurred backdrop follows the same turn as the card. See [Preview](preview.md#rotate-while-paused).
 
 ## Center of interest
 
@@ -95,7 +95,7 @@ Motion aims at the person or subject that matters. **When:** on **import**, ever
 
 **How it picks** (on-device):
 
-1. **Largest usable face** — near the **eyes**
+1. **Largest usable face**: near the **eyes**
 2. Else **main subject**
 3. Else **center** of the frame
 
@@ -109,13 +109,13 @@ Ken Burns and punch-in use center of interest. Some whole-photo transitions igno
 
 ## Auto Caption
 
-**Auto Caption** can fill **place · date** — not camera codes like `IMG_4821`. You run it yourself from the **Library** captions bubble, **Edit → Auto Caption N Untitled Slides**, Style → Captions, or Inspector **Generate**. Not on import.
+**Auto Caption** can fill **place · date**, not camera codes like `IMG_4821`. You run it yourself from the **Library** captions bubble, **Edit → Auto Caption Untitled Slides**, Style → Captions, or Inspector **Generate**. Not on import.
 
 Untitled-only commands **never overwrite** text you typed. **Auto Caption All Slides…** overwrites after confirmation.
 
 **Fill order** for an empty caption:
 
-1. **Place · date** — GPS (EXIF / QuickTime) or IPTC city/country. **Country** only when the show has more than one country.
+1. **Place · date**: GPS (EXIF / QuickTime) or IPTC city/country. **Country** follows **Caption Details**. With **Only When the Show Visits Several Countries** on (Studio, and on by default), a one-country show leaves it out.
 2. Else **capture date** from EXIF or video creation date.
 3. Else a **readable filename** with real words.
 

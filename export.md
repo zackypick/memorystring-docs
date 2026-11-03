@@ -1,5 +1,5 @@
 ---
-description: "Format and export a MemoryString slideshow as H.264 MP4 on your Mac — Social and Classic frames, Social Safe, 1080p or 4K."
+description: "Format and export a MemoryString slideshow as H.264 MP4 on your Mac: Social and Classic frames, Social Safe, 1080p or 4K."
 ---
 
 # Format and export
@@ -8,11 +8,11 @@ Inspector → **Format** sets the aspect you edit in. It is also the default for
 
 ![Inspector Format: Social order Instagram · TikTok · Pinterest · YouTube](../.gitbook/assets/inspector-format-swatches.png)
 
-Same show, same moment, one photo on stage — each destination frame side by side.
+Same show, same moment, one photo on stage. Each destination frame side by side.
 
 ## Social
 
-Tall frames for phones and feeds. Swatch order: **Instagram · TikTok · Pinterest · YouTube**.
+Frames for phones, feeds, and YouTube. Swatch order: **Instagram · TikTok · Pinterest · YouTube**.
 
 ### Instagram
 
@@ -40,7 +40,7 @@ TV · 16:9 (1920×1080, default)
 
 ## Classic
 
-Wider stages — TV, photo print, square post, cinema ribbon.
+Wider stages: TV, photo print, square post, cinema ribbon.
 
 ### Classic
 
@@ -86,13 +86,13 @@ Toolbar **Export** or **File → Export Movie…** (**⌘E**).
 
 ![Export Movie: Instagram-first Social swatches, folder chip, Compact→Best, Screensaver](../.gitbook/assets/export-dialog.png)
 
-- **Save As** — filename; folder chip (click to choose). Default name uses title text, then project name, then **Untitled Memory**. File type: `.mp4`.
-- **Format** — swatches for **this encode** (does not change live preview)
-- **Resolution** — **1080p** (default) or **4K**. 4K takes much longer. **Cinema (21:9)** has no 4K option. If memory is low, 4K may ask you to close apps or use 1080p.
-- **Social Safe** — same as on **Format**
-- **Quality** — **Compact**, **Share**, **High**, **Best** (**Share** default). **Studio** also shows Mbps.
-- **Frame Rate** — **30** or **60**
-- **Screensaver** — see below
+- **Save As**: filename; folder chip (click to choose). Default name uses title text, then project name, then **Untitled Memory**. File type: `.mp4`.
+- **Format**: swatches for **this encode** (does not change live preview)
+- **Resolution**: **1080p** (default) or **4K**. 4K takes much longer. **Cinema (21:9)** has no 4K option. If memory is low, 4K may ask you to close apps or use 1080p.
+- **Social Safe**: same as on **Format**
+- **Quality**: **Compact**, **Share**, **High**, **Best** (**Share** default). **Studio** also shows Mbps.
+- **Frame Rate**: **30** or **60**
+- **Screensaver**: see below
 
 The footer shows projected size and duration. Click **Export**. Toolbar shows **Creating memory…** and percent. Editing pauses (*Edits paused while creating memory*). Export waits if music is still loading.
 
@@ -100,10 +100,10 @@ You get an H.264 MP4. The `.memorystring` project stays editable. Preview with *
 
 ## Screensaver
 
-Check **Screensaver** when the file should loop on a Mac display — not for sharing with sound.
+Check **Screensaver** when the file should loop on a Mac display, not for sharing with sound.
 
 - **No audio**
-- **Skips intro**
+- **Skips the opening card**
 - **Fades to stage color** at start and end (Dark or Light). No branded end hold
 - Needs at least one photo or video
 - Per project. Turning it on sets **1080p / 30 / Share**; you can change those

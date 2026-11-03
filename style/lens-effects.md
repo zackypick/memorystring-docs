@@ -1,3 +1,7 @@
+---
+description: "All MemoryString lens effects with example clips: Anamorphic Streaks, Bokeh, Flare, Refract Bubbles and more."
+---
+
 # Lens effects
 
 Lens effects add optical light on the frame. **Studio** → **Style** → **Customize** → **Lens Effects**.
@@ -22,7 +26,7 @@ Soft out-of-focus circles.
 
 ### Flare
 
-Hexagonal flare beam. It sits on the photo with the grain, including while you scrub — not only after you click a clip.
+Hexagonal flare beam. It sits on the photo with the grain, including while you scrub, not only after you click a clip.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-flare.mp4" %}
 
@@ -103,7 +107,7 @@ Plate, Ambience, Film, Atmosphere: [Customize](customize.md).
 
 Horizontal light bars, steered off the subject ([center of interest](../preview.md#center-of-interest)).
 
-On a **Light** opening card, with that card's own Lens set to **Anamorphic Streaks**, the bar is a colored line behind the title words. **Match** follows the show stage. A **Dark** opening card, and every other slide, keep the usual light bars.
+On a **Light** opening card, with that card's own Lens set to **Anamorphic Streaks**, the bar is a colored line behind the title words. When the opening card's Stage is **Match**, it follows the show's stage. A **Dark** opening card, and every other slide, keep the usual light bars.
 
 Presets: **Subtle Cinema** (default) · **Strong Anamorphic** · **Vintage Film** · **Blue Heavy**
 

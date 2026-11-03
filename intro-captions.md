@@ -1,3 +1,7 @@
+---
+description: "Opening card, closing words (The End), Studio fonts, and slide captions with Auto Caption and Caption Details in MemoryString."
+---
+
 # Titles and captions
 
 Inspector → **Titles** holds the **opening card** and optional **closing words**. **Captions** are optional text on individual slides. New projects start with **Show opening card** on and title **Memories**. Closing words are off until you turn them on.
@@ -18,26 +22,26 @@ Opening length follows **Energy** on its own timing: about **7s** at Calm, **6s*
 
 Long opening or closing text **wraps on its own** when it does not fit one line.
 
-To start a new line on purpose, press **Shift+Enter** (on stage after a double-click, or in the Titles field). Plain **Enter** keeps you in the field.
+To start a new line on purpose, press **Shift+Enter** (on stage after a double-click, or in the Titles field). On stage, plain **Enter** finishes editing. In the Titles field, plain **Enter** keeps you in the field.
 
 Up to three lines on the opening card. Closing words allow a few more.
 
 ## Fonts (Studio)
 
-**Studio** font menus — captions, opening title, and closing words — list **every font installed on this Mac**. **System** stays first, then A–Z. Each name is drawn **in that type**, so you can pick without guessing.
+**Studio** font menus (captions, opening title, and closing words) list **every font installed on this Mac**. **System** stays first, then A–Z. Each name is drawn **in that type**, so you can pick without guessing.
 
 A show stores the family name, not the font file. If that face is missing on another Mac, the menu still shows the saved name and the show falls back to System.
 
 ## Show cover and project name
 
-The **cover** is the poster image — opening background and **Library** thumbnail — not necessarily the first slide after the title.
+The **cover** is the poster image: opening background and **Library** thumbnail, not necessarily the first slide after the title.
 
 After import, MemoryString may pick cover and name while opening text is still **Memories**.
 
 ### How the cover is chosen
 
-1. **Photos albums** — Apple key photo if available, unless it is already first or second on the show. People, Trips, Recent, By Month, and Media Type have no key photo.
-2. **Otherwise** — a still on the show (not **Outtakes**, not video). Prefers middle of story, sharp face when possible.
+1. **Photos albums**: Apple key photo if available, unless it is already first or second on the show. People, Trips, Recent, By Month, and Media Type have no key photo.
+2. **Otherwise**: a still on the show (not **Outtakes**, not video). Prefers middle of story, sharp face when possible.
 
 Same on all import paths.
 
@@ -52,19 +56,19 @@ First import may set window title and suggested save name from:
 
 Title Case applied to folder names. Generic names skipped. Existing titles are not overwritten.
 
-Export **Save As** prefers the opening title — see [Format and export](export.md#export-movie).
+Export **Save As** prefers the opening title. See [Format and export](export.md#export-movie).
 
 ## Opening (Essential and Studio)
 
 **Titles → Opening**
 
-- **Show opening card** — off removes the opening card
-- Text field — type here or in Inspector clip bar. Export filename suggestion uses this title
+- **Show opening card**: off removes the opening card
+- Text field. Type here or in Inspector clip bar. Export filename suggestion uses this title
 - Pause and **double-click** the title on stage to edit. **Single** click sets [center of interest](preview.md#center-of-interest)
 
 Right-click the opening card → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect**. With a background still, **Rotate & Flip** turns the photo, not the title.
 
-**Reset Titles to Defaults** turns the opening card off, restores opening settings, and clears closing words. It does not clear slide captions. To drop only the opening photo, use **Remove** on the background well.
+**Reset Titles to Defaults** turns the opening card off, restores opening settings, and clears closing words. (New projects start with it on.) It does not clear slide captions. To drop only the opening photo, use **Remove** on the background well.
 
 ## Background (Essential and Studio)
 
@@ -76,7 +80,7 @@ The background fades up from the stage color and eases into the first slide. **S
 
 ## Opening Text (Studio)
 
-Hidden in **Essential** — type in the Opening field; styling in **Studio**.
+Hidden in **Essential**. Type in the Opening field; styling in **Studio**.
 
 Font (see [Fonts](#fonts-studio)), color, **Auto Size** / **Size**, **Align**, **Outline**, **Shadow**.
 
@@ -88,7 +92,7 @@ Font (see [Fonts](#fonts-studio)), color, **Auto Size** / **Size**, **Align**, *
 
 ## Closing words
 
-Optional last line on the **existing** cream end card, above **Created with MemoryString**. No extra card, no credits roll, no subtitle.
+Optional last line on the existing end card, above **Created with MemoryString**. The card is cream on a Light stage and black on a Dark stage. No extra card, no credits roll, no subtitle.
 
 **Show closing words** is off until you turn it on. The text box already holds **The End**, so checking the box puts that line on the card. Change it, or clear the field for the mark only. Older saved shows keep whatever they had.
 
@@ -98,11 +102,11 @@ Optional last line on the **existing** cream end card, above **Created with Memo
 - Same wrap and **Shift+Enter** as the opening title
 - The end card stays about three seconds. There is no duration slider
 
-**Studio:** **Ornament** (none, or a small mark under the words), then **Text** — font, color (**Match Stage** follows the MemoryString mark), **Auto Size** / **Size**, **Align**, **Legibility** (shadow, hairline outline, or both).
+**Studio:** **Ornament** (none, or a small mark under the words), then **Text**. Font, color (**Match Stage** follows the MemoryString mark), **Auto Size** / **Size**, **Align**, **Legibility** (shadow, hairline outline, or both).
 
 ## Slide captions
 
-Optional. Not added unless you type or run **Auto Caption**. Not the opening title — usually place · date under a photo.
+Optional. Not added unless you type or run **Auto Caption**. Not the opening title. Usually place · date under a photo.
 
 ![Auto caption on a slide: Golden Gate Park, San Francisco · 6 July 2024](../.gitbook/assets/caption-stage.jpg)
 
@@ -120,7 +124,7 @@ On stage, groups show the **lead** seat’s caption. Speech-bubble badge is on t
 
 **Position** per slide: Inherit / Bottom / Top / Center, or drag on preview. **Essential** types in clip bar; open **Studio** for **Type & Placement**.
 
-Bulk: **Auto Caption N Untitled Slides**, **Auto Caption All Slides…**, **Clear All Captions…**. **Studio**: **Reset Caption Style**, **Reset N Positions**.
+Bulk: **Auto Caption N Untitled Slide(s)**, **Auto Caption All Slides…**, **Clear All Captions…**. **Studio**: **Reset Caption Style**, **Reset N Positions**.
 
 ### Auto Caption
 
@@ -132,19 +136,19 @@ Does **not** run on import. Fills empty captions on-device: place · date → ca
 
 ![Caption Details: Landmark, City, Country, Date, Day, Weekday, Language](../.gitbook/assets/caption-details.png)
 
-- **Landmark** — for example **Golden Gate Park**
+- **Landmark**: for example **Golden Gate Park**
 - **City**
-- **Country** — with **Only When the Show Visits Several Countries** on, a one-country show leaves it out
-- **Date** — **Off**, **Short**, **Long**, or **Numbers**. **Numbers** adds **Date Order** (Day/Month/Year, Month/Day/Year, Year-Month-Day) and **Two-Digit Year**
-- **Day** — off shows month and year only. **Weekday** adds the day name
-- **Language** — for place names and dates. **Same as Mac** by default
+- **Country**: with **Only When the Show Visits Several Countries** on, a one-country show leaves it out
+- **Date**: **Off**, **Short**, **Long**, or **Numbers**. **Numbers** adds **Date Order** (Day/Month/Year, Month/Day/Year, Year-Month-Day) and **Two-Digit Year**
+- **Day**: off shows month and year only. **Weekday** adds the day name
+- **Language**: for place names and dates. **Same as Mac** by default
 
 Changes apply to automatic captions. Captions you typed or edited stay as they are.
 
 ![Library captions: Auto Caption untitled, Auto Caption All, Clear All](../.gitbook/assets/library-menu-captions.png)
 
 - **Library** captions bubble
-- **Edit → Auto Caption N Untitled Slides**
+- **Edit → Auto Caption Untitled Slides**
 - **Style** → Captions
 - Inspector **Generate**
 
