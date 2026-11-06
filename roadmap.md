@@ -1,12 +1,21 @@
 ---
-description: "What's new in MemoryString 1.2.4, plus what comes next."
+description: "What's new in MemoryString 1.2.5, plus what comes next."
 ---
 
 # Roadmap
 
-MemoryString **1.2.4** leads with **Fit Show to Music**. The song covers the whole film, including the end card, and a successful fit turns **Music Follows Show** off. This release also adds **Titles** and closing words, **Peek**, and **Studio** fonts.
+MemoryString **1.2.5** keeps **Long story short** length steady after **Fit Show to Music**, starts rebuilds clean, and keeps full-body scenic blur beside the card. **1.2.4** brought **Fit Show to Music**, **Titles**, **Peek**, and **Studio** fonts.
 
 ## What's new
+
+**1.2.5**
+
+- **Long story short** keeps the same longest length after **Fit Show to Music**, unless you moved **Energy** yourself.
+- A rebuild starts clean: hand-set slide lengths, transitions, and lens choices clear. Look, energy, rotation, captions, music, titles, cover, and muted videos stay.
+- On a full-body photo, the person sits beside the card so the place stays in the blur.
+- Changing Look updates the card border while you scrub.
+- On an empty project, Escape closes the **Add photos & videos** menu.
+- **Reset Titles to Defaults** says what it restores, and clears the opening background and closing words.
 
 **1.2.4** (since the **1.2.2** App Store build)
 
