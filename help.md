@@ -22,6 +22,8 @@ After a couple of successful exports, MemoryString asks Apple to show its own in
 
 **Help → Report a Problem…** sends a crash report by email. It includes stacks, Mac specs, and breadcrumbs. It does not include your media file names.
 
+MemoryString can also send anonymous crash reports automatically so rare Mac crashes can be fixed faster. That is on by default. Turn it off anytime with **MemoryString → Share Crash Reports** (uncheck). Reports do not include your photos, music, or project filenames. Details: [Privacy Policy](https://www.codebyz.com/products/memory-string/privacy).
+
 **MemoryString → About MemoryString** shows version and creator info, plus Rate and Send Feedback.
 
 Demo videos: [Welcome](welcome.md#watch-a-demo). Thanks: [Credits](credits.md).
