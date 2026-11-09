@@ -49,7 +49,7 @@ Each **Look** has a mood pool. **Energy** can lean calmer or brighter within tha
 
 **After you change the playlist by hand** (pick, reorder, trim, remove, or import), Look clicks do **not** swap the bed. New imports **append**.
 
-Turn **Music Follows Show** off to keep the playlist when changing Looks. **Fit Show to Music** turns it off after a successful fit, so adding photos later does not add more songs.
+Turn **Music Follows Show** off to keep the playlist when changing Looks. Turn it back on to refill a short auto bed so the song covers the show again. **Fit Show to Music** turns it off after a successful fit, so adding photos later does not add more songs.
 
 Audio files are never imported as photos.
 
@@ -57,7 +57,7 @@ Audio files are never imported as photos.
 
 Under **Tracks**, Inspector → **Audio** has a **Length** section: show clock vs song clock, then **Fit Show to Music** and **Extend to Fill**.
 
-**Fit Show to Music** moves **Energy** (Calm through Intense) so the song covers the whole film, including the end card, and fades across the credit. Videos keep their length. The opening card follows the new **Energy** (about 7s, 6s, or 4s), unless you set its length by hand. A successful fit turns **Music Follows Show** off. If even Calm is too short or Intense is too long, Fit does nothing and the Audio tab says why. Also on **Library** Show menu → **Audio**, and **Edit → Timing**.
+**Fit Show to Music** moves **Energy** (Calm through Intense) so the song covers the whole film, including the end card, and fades across the credit. Videos keep their length. Groups keep enough time when the show stretches to a longer song. The opening card follows the new **Energy** (about 7s, 6s, or 4s), unless you set its length by hand. A successful fit turns **Music Follows Show** off. If even Calm is too short or Intense is too long, Fit does nothing and the Audio tab says why. Also on **Library** Show menu → **Audio**, and **Edit → Timing**.
 
 **Extend to Fill** keeps your tracks and adds music after them to cover the show.
 

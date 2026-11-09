@@ -28,7 +28,7 @@ Up to three lines on the opening card. Closing words allow a few more.
 
 ## Fonts (Studio)
 
-**Studio** font menus (captions, opening title, and closing words) list **every font installed on this Mac**. **System** stays first, then A–Z. Each name is drawn **in that type**, so you can pick without guessing.
+**Studio** font menus (captions, opening title, and closing words) list **every font installed on this Mac**. **System** stays first, then A–Z. Each name is drawn **in that type**, so you can pick without guessing. Opening or closing a title font menu previews that face on the stage; the choice sticks only when you click a name.
 
 A show stores the family name, not the font file. If that face is missing on another Mac, the menu still shows the saved name and the show falls back to System.
 
