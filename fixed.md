@@ -6,6 +6,7 @@ description: "What we fixed, by version."
 
 ## Version 1.2.6
 
+* Build 144: Escape on the MCP Settings sheet no longer crashes the app.
 * Build 143: Closing the main window quits the app (App Store Guideline 4). There is no separate Settings window to reopen.
 * **MemoryString → Settings…** opens MCP Server as a sheet. **Close** or Escape dismisses it.
 * Untitled work with content asks **Save** / **Don't Save** / **Cancel** before the window goes away.
