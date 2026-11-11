@@ -27,7 +27,9 @@ Toolbar **+**, **File → Add Music → Royalty-Free Library…**, or **Audio** 
 
 ![Royalty Free - No Attribution Required sheet](../.gitbook/assets/royalty-free-library.png)
 
-Sheet title: **Royalty Free - No Attribution Required**. Subtitle: **YouTube Audio Library, cleared for MemoryString**. Built-in tracks need no attribution.
+Sheet title: **Royalty Free - No Attribution Required**. Subtitle: **CC0 / public domain — free to use, no credit needed**. Built-in tracks are public-domain / CC0 from the sources listed in the app; they need no attribution.
+
+If you believe a bundled track is misattributed, contact us and we will pull it quickly.
 
 **Sort:** Catalog · Title (A–Z) · Genre (A–Z) · Duration (shortest / longest first).
 
@@ -37,7 +39,7 @@ Each row: checkbox, title / artist, style or **In project**, duration, play butt
 
 ## Music Follows Show
 
-**Music Follows Show** is on by default (this was **Match Look Soundtrack**). Empty projects start quiet. After the first photos or videos land, MemoryString adds bundled track(s) from the current **Look** mood pool, or **Would It Matter** when no Look is selected. You can mute or remove anytime.
+**Music Follows Show** is on by default (this was **Match Look Soundtrack**). Empty projects start quiet. After the first photos or videos land, MemoryString adds bundled track(s) from the current **Look** mood pool, or **Quiet Village 1** when no Look is selected. You can mute or remove anytime.
 
 Each **Look** has a mood pool. **Energy** can lean calmer or brighter within that pool. The royalty-free sheet lists the **full catalog**, not only Look pools.
 
