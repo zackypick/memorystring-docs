@@ -27,13 +27,11 @@ Toolbar **+**, **File → Add Music → Royalty-Free Library…**, or **Audio** 
 
 ![Royalty Free - No Attribution Required sheet](../.gitbook/assets/royalty-free-library.png)
 
-Sheet title: **Royalty Free - No Attribution Required**. Subtitle: **CC0 / public domain — free to use, no credit needed**. Built-in tracks are public-domain / CC0 from the sources listed in the app; they need no attribution.
+Sheet title: **Royalty Free - No Attribution Required**. Subtitle: **CC0 / public domain — free to use, no credit needed**.
 
-If you believe a bundled track is misattributed, contact us and we will pull it quickly.
+Built-in tracks are CC0 / public domain from the sources listed in the app. Free to use, no credit needed. If a track looks misattributed, **Help → Send Feedback…** and we will pull it quickly.
 
 **Sort:** Catalog · Title (A–Z) · Genre (A–Z) · Duration (shortest / longest first).
-
-![Sort the royalty-free catalog by Catalog order, Title, Genre, or Duration](../.gitbook/assets/royalty-free-library-sort.png)
 
 Each row: checkbox, title / artist, style or **In project**, duration, play button to audition (does not move the show playhead). Check tracks, then **Add**. **Cancel** closes. **Add** needs at least one new track selected.
 

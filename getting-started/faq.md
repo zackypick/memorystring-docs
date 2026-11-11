@@ -52,7 +52,7 @@ iMovie is great for editing video, but building a slideshow from hundreds of pho
 
 <summary>Can I add my own music to a slideshow?</summary>
 
-Yes. Use a track from MemoryString's built-in royalty-free music library or add your own. Noisy video sound (wind, hiss, room noise) can mute so the music leads, while talking, music, and sharp hits stay. Only add music you have the rights to use.
+Yes. Use a track from MemoryString's built-in royalty-free library or add your own. Built-in tracks are CC0 / public domain — free to use, no credit needed. If a bundled track looks misattributed, **Help → Send Feedback…** and we will pull it quickly. Noisy video sound (wind, hiss, room noise) can mute so the music leads, while talking, music, and sharp hits stay. Only add music you have the rights to use.
 
 </details>
 
