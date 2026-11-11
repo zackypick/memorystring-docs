@@ -6,7 +6,7 @@ description: "Let an AI agent drive MemoryString on your Mac through its local M
 
 Let an agent drive the open project: import, restyle, scrub, and export, without clicking every pane. Works only **while the app is open**. Nothing listens until you enable it, and only on your Mac (`127.0.0.1`).
 
-**MemoryString → Settings…** (**⌘,**). It opens as a sheet on the main window. **Close** or Escape dismisses it.
+**MemoryString → Settings…** (**⌘,**). It opens as a sheet on the main window. **Close** or Escape dismisses it (including after the sheet finishes closing).
 
 ![Enable MCP Server, Port, Copy Client Config, access token](../.gitbook/assets/mcp-settings.png)
 

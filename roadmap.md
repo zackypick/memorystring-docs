@@ -11,7 +11,7 @@ MemoryString **1.2.6** closes the app when you close the window, opens MCP Setti
 **1.2.6**
 
 - Closing the main window (red button or **⌘W**) quits the app. Untitled work with content asks **Save** / **Don't Save** / **Cancel** first.
-- **MemoryString → Settings…** (**⌘,**) opens MCP Server as a sheet on the main window (Close or Escape dismisses it). There is no separate Settings window.
+- **MemoryString → Settings…** (**⌘,**) opens MCP Server as a sheet on the main window (Close or Escape dismisses it, including after the sheet finishes closing). There is no separate Settings window.
 - Anonymous crash reports can go to the makers automatically so rare Mac crashes get fixed faster. On by default. Turn off anytime with **MemoryString → Share Crash Reports**. Reports do not include your photos, music, or project filenames.
 - Turning **Music Follows Show** back on refills a short music bed so the song covers the show again.
 - **Fit Show to Music** keeps group timing when it stretches the show to a longer song.
