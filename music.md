@@ -27,17 +27,17 @@ Toolbar **+**, **File → Add Music → Royalty-Free Library…**, or **Audio** 
 
 ![Royalty Free - No Attribution Required sheet](../.gitbook/assets/royalty-free-library.png)
 
-Sheet title: **Royalty Free - No Attribution Required**. Subtitle: **YouTube Audio Library, cleared for MemoryString**. Built-in tracks need no attribution.
+Sheet title: **Royalty Free - No Attribution Required**. Subtitle: **CC0 / public domain — free to use, no credit needed**.
+
+Built-in tracks are CC0 / public domain from the sources listed in the app. Free to use, no credit needed. If a track looks misattributed, **Help → Send Feedback…** and we will pull it quickly.
 
 **Sort:** Catalog · Title (A–Z) · Genre (A–Z) · Duration (shortest / longest first).
-
-![Sort the royalty-free catalog by Catalog order, Title, Genre, or Duration](../.gitbook/assets/royalty-free-library-sort.png)
 
 Each row: checkbox, title / artist, style or **In project**, duration, play button to audition (does not move the show playhead). Check tracks, then **Add**. **Cancel** closes. **Add** needs at least one new track selected.
 
 ## Music Follows Show
 
-**Music Follows Show** is on by default (this was **Match Look Soundtrack**). Empty projects start quiet. After the first photos or videos land, MemoryString adds bundled track(s) from the current **Look** mood pool, or **Would It Matter** when no Look is selected. You can mute or remove anytime.
+**Music Follows Show** is on by default (this was **Match Look Soundtrack**). Empty projects start quiet. After the first photos or videos land, MemoryString adds bundled track(s) from the current **Look** mood pool, or **Quiet Village 1** when no Look is selected. You can mute or remove anytime.
 
 Each **Look** has a mood pool. **Energy** can lean calmer or brighter within that pool. The royalty-free sheet lists the **full catalog**, not only Look pools.
 
@@ -49,7 +49,7 @@ Each **Look** has a mood pool. **Energy** can lean calmer or brighter within tha
 
 **After you change the playlist by hand** (pick, reorder, trim, remove, or import), Look clicks do **not** swap the bed. New imports **append**.
 
-Turn **Music Follows Show** off to keep the playlist when changing Looks. **Fit Show to Music** turns it off after a successful fit, so adding photos later does not add more songs.
+Turn **Music Follows Show** off to keep the playlist when changing Looks. Turn it back on to refill a short auto bed so the song covers the show again. **Fit Show to Music** turns it off after a successful fit, so adding photos later does not add more songs.
 
 Audio files are never imported as photos.
 
@@ -57,7 +57,7 @@ Audio files are never imported as photos.
 
 Under **Tracks**, Inspector → **Audio** has a **Length** section: show clock vs song clock, then **Fit Show to Music** and **Extend to Fill**.
 
-**Fit Show to Music** moves **Energy** (Calm through Intense) so the song covers the whole film, including the end card, and fades across the credit. Videos keep their length. The opening card follows the new **Energy** (about 7s, 6s, or 4s), unless you set its length by hand. A successful fit turns **Music Follows Show** off. If even Calm is too short or Intense is too long, Fit does nothing and the Audio tab says why. Also on **Library** Show menu → **Audio**, and **Edit → Timing**.
+**Fit Show to Music** moves **Energy** (Calm through Intense) so the song covers the whole film, including the end card, and fades across the credit. Videos keep their length. Groups keep enough time when the show stretches to a longer song. The opening card follows the new **Energy** (about 7s, 6s, or 4s), unless you set its length by hand. A successful fit turns **Music Follows Show** off. If even Calm is too short or Intense is too long, Fit does nothing and the Audio tab says why. Also on **Library** Show menu → **Audio**, and **Edit → Timing**.
 
 **Extend to Fill** keeps your tracks and adds music after them to cover the show.
 

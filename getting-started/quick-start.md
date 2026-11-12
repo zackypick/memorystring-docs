@@ -12,9 +12,9 @@ This guide gets you from empty project to exported movie in a few steps. For a g
 
 You always edit a `.memorystring` project file.
 
-- **File → New** (**⌘N**), or **⌘W** to close the current document. The red close button does not quit the app. Reopen from the Dock.
+- **File → New** (**⌘N**). **⌘W** or the red close button quits. Untitled work with content asks **Save** / **Don't Save** / **Cancel** first.
 - **File → Open…** (**⌘O**), **Open Recent**, or drop a `.memorystring` file on the window.
-- The app autosaves after you save once. Use **⌘S** / **⇧⌘S** anytime. **⌘Q** asks to save untitled work.
+- The app autosaves after you save once. Use **⌘S** / **⇧⌘S** anytime. **⌘Q** also asks to save untitled work.
 
 ## 2. Import media
 

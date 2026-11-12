@@ -14,11 +14,11 @@ Menu items show their shortcuts too. This page lists the main keys.
 | **⌘O** | Open… |
 | **⌘S** | Save |
 | **⇧⌘S** | Save As… |
-| **⌘W** | Close project (does not quit) |
+| **⌘W** | Close window and quit |
 | **⌘Q** | Quit |
 | **⌘E** | Export Movie… |
 
-The window close button closes the window only. Reopen from the Dock.
+The red close button also quits. Untitled work with content asks **Save** / **Don't Save** / **Cancel** first.
 
 ## Edit
 
@@ -61,7 +61,7 @@ The window close button closes the window only. Reopen from the Dock.
 | Key | Action |
 | --- | --- |
 | **⌘/** | MemoryString Help… (opens this site) |
-| **⌘,** | Settings… (Enable MCP Server lives here) |
+| **⌘,** | Settings… (MCP Server sheet on the main window) |
 
 **Help → Show Walkthrough** replays the first-run tour. After a couple of successful exports, Apple’s own in-app star sheet may appear. **Help → Rate MemoryString…** opens the App Store review page anytime. **Help → Send Feedback…** opens Mail. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
 

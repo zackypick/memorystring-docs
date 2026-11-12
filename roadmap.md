@@ -1,12 +1,21 @@
 ---
-description: "What's new in MemoryString 1.2.5, plus what comes next."
+description: "What's new in MemoryString 1.2.6, plus what comes next."
 ---
 
 # Roadmap
 
-MemoryString **1.2.5** keeps **Long story short** length steady after **Fit Show to Music**, starts rebuilds clean, and keeps full-body scenic blur beside the card. **1.2.4** brought **Fit Show to Music**, **Titles**, **Peek**, and **Studio** fonts.
+MemoryString **1.2.6** closes the app when you close the window, opens MCP Settings as a sheet, adds quieter crash reporting you can turn off, and fixes Music Follows Show, Fit Show to Music, and title-font browsing. **1.2.5** kept **Long story short** length steady after **Fit Show to Music**. **1.2.4** brought **Fit Show to Music**, **Titles**, **Peek**, and **Studio** fonts.
 
 ## What's new
+
+**1.2.6**
+
+- Closing the main window (red button or **⌘W**) quits the app. Untitled work with content asks **Save** / **Don't Save** / **Cancel** first.
+- **MemoryString → Settings…** (**⌘,**) opens MCP Server as a sheet on the main window (Close or Escape dismisses it, including after the sheet finishes closing). There is no separate Settings window.
+- Anonymous crash reports can go to the makers automatically so rare Mac crashes get fixed faster. On by default. Turn off anytime with **MemoryString → Share Crash Reports**. Reports do not include your photos, music, or project filenames.
+- Turning **Music Follows Show** back on refills a short music bed so the song covers the show again.
+- **Fit Show to Music** keeps group timing when it stretches the show to a longer song.
+- Opening or closing a **Studio** title font menu previews that face on the stage. The choice sticks only when you click a name.
 
 **1.2.5**
 

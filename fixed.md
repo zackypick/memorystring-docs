@@ -4,6 +4,19 @@ description: "What we fixed, by version."
 
 # Fixed
 
+## Version 1.2.6
+
+* Build 145: Closing MCP Settings with **Close** or Escape no longer crashes after the sheet finishes dismissing.
+* Build 144: Escape on the MCP Settings sheet no longer crashes the app.
+* Build 143: Closing the main window quits the app (App Store Guideline 4). There is no separate Settings window to reopen.
+* **MemoryString → Settings…** opens MCP Server as a sheet. **Close** or Escape dismisses it.
+* Untitled work with content asks **Save** / **Don't Save** / **Cancel** before the window goes away.
+* On an empty project, Escape closes the **Add photos & videos** menu while the movie is playing too.
+* Quieter crash reporting: only real crashes, errors, and hangs longer than about 5 seconds.
+* Turning **Music Follows Show** back on refills a short music bed.
+* **Fit Show to Music** keeps group timing when it stretches the show to a longer song.
+* Opening or closing a **Studio** title font menu previews that face on the stage.
+
 ## Version 1.2.5
 
 * Build 139: **Long story short** keeps the same longest length after **Fit Show to Music**, unless you moved the Energy slider yourself.
