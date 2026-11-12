@@ -126,6 +126,8 @@ On import, MemoryString **auto-skips silent lead-in and run-out** on tracks. Tri
 
 Tracks crossfade with short tapers. Music **ducks** under video sound. Per-track volume and mute apply in preview and export.
 
+Soundtrack tracks are **auto-leveled** in the show so quieter and louder songs sit near the same loudness in preview and export. The royalty-free sheet and **Audio** tab row play still preview each file as it is, so a pick can sound uneven before you add it.
+
 The transport **speaker** (right of **Play/Pause**) mutes **all preview audio** without changing export or per-clip mute. See [Preview](preview.md#playback).
 
 While a soundtrack decodes, the stage may show **Loading music…**. Photos stay editable. Export waits.
