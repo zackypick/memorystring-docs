@@ -4,6 +4,14 @@ description: "What we fixed, by version."
 
 # Fixed
 
+## Version 1.2.7
+
+* Soft heroes after a fast scrub sharpen when you stop, instead of staying blurry until you click.
+* Soft-stack and other wash seams keep coverage through the crossfade (no cream flash between slides).
+* Large imports stay responsive — identity work stays off the main thread so drops do not beach-ball.
+* Crash upload stays silent; no false “app hung” sheet while a report sends.
+* **Help → Send Feedback…** / **Report a Problem…** open Apple Mail drafts (with a crash zip for Report a Problem).
+
 ## Version 1.2.6
 
 * Build 145: Closing MCP Settings with **Close** or Escape no longer crashes after the sheet finishes dismissing.
