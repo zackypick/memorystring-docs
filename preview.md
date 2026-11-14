@@ -20,7 +20,7 @@ The mute choice lasts until you quit the app.
 
 Other playback controls:
 
-- Click or drag the playhead or time ruler to scrub. After you edit, dragging still follows. The slide you stop on comes up first. A slide with no backdrop fills in while you drag, and the stage stays light. **Scatter & Settle** shows the same readable moment while you scrub as a filmstrip does
+- Click or drag the playhead or time ruler to scrub. After you edit, dragging still follows. The slide you stop on comes up first. A slide with no backdrop fills in while you drag, and the stage stays light.
 - Hover the **Timeline** photo lane to peek at that moment. When you move the pointer off the strip, the preview stays on that moment. Hover does not work while the movie is playing
 - **←** / **→** nudge the playhead. **⇧** with arrow keys takes larger steps
 - **⌘→** / **⌘←** go to the next or previous slide
@@ -30,23 +30,15 @@ The clock shows `current / total`. **1 of N** counts every photo card, including
 
 Both **Essential** and **Studio** warm up smooth playback when you press **Play**. **Studio** adds **Warm Now** and **Stop** on the transport row.
 
-## Workbench ambilight
+## Color glow
 
 Soft color from the edges of the current slide can tint the window chrome around the preview. This is display only. It does not appear on the photo or in the export.
 
-## Empty stage and opening loader
+## Empty stage
 
-A new empty project shows **Nothing in library yet** in the **Library**, **Nothing on the timeline yet** on the **Timeline**, and **Add photos & videos** on the preview. That button opens a menu (Photos & Videos, Import from Photos, Music, Royalty-Free Library). Escape closes it.
+A new empty project shows **Add photos & videos** on the preview. That button opens a menu (Photos & Videos, Import from Photos, Music, Royalty-Free Library). Escape closes it. You can also drop photos, videos, or a `.memorystring` project onto the preview.
 
-When you hover over the preview to drop media, the hint reads **Gather the thread**. When you hover a `.memorystring` file, the hint reads **Bring back memories**.
-
-The first import shows a loader on the stage. It is a spinner with a smoke animation. The title is **Stringing it together...**. You may see a percent and **Cancel** if the import takes a while.
-
-Opening an existing `.memorystring` uses the same loader with **It's coming back now...** and no percent. **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey until that fog lifts. Hover: **Wait until the project finishes opening**.
-
-You cannot drop files while either loader is visible. During **Stringing it together...**, **Add**, **+**, Import Media, and Import from Photos stay grey too. Hover: **Wait until this import finishes**. **Keep Best Shots** waits until the loader finishes.
-
-After the show has clips, a media drop overlay reads **Add to story**.
+While MemoryString imports or opens a show, a progress message sits on the stage and adding more media waits until it finishes. **Cancel** stops a long import.
 
 ## Live preview, smooth playback, and export
 
@@ -54,7 +46,7 @@ After the show has clips, a media drop overlay reads **Add to story**.
 | --- | --- |
 | **Live preview** | What you see while you edit. Changes appear right away. A heavy show may stutter. |
 | **Scrub** | Move the playhead or hover the photo lane. After smooth playback is ready, scrub uses that smoother pass. |
-| **Smooth playback (baked)** | A prepared pass so **Space** and scrub stay fluid. **Play** switches to it when enough slides are ready. |
+| **Smooth playback** | A prepared pass so **Space** and scrub stay fluid. **Play** switches to it when enough slides are ready. |
 | **Export** | The H.264 MP4 you share. Same look and timing as smooth playback. Export format can differ from the preview swatch in **Format**. |
 
 MemoryString does not prepare smooth playback in the background while you edit. Edits show on the live preview first.

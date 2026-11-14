@@ -14,7 +14,7 @@ The opening card is full bleed. It fills the stage. It is not a floating photo c
 
 **Stage** is **Match**, **Dark**, or **Light**. **Match** follows Style → Stage. Title ink follows that stage (light ink on Dark, dark ink on Light) until you pick a color.
 
-**Studio → Intensity** is how loud the photo behind the title is. It follows Style → Stage Intensity until you move it. **Match Show** puts it back. The wash eases into the first slide.
+**Studio → Intensity** sets how strongly the photo behind the title shows. It follows Style → Stage Intensity until you move it. **Match Show** puts it back. The wash eases into the first slide.
 
 Opening length follows **Energy** on its own timing: about **7s** at Calm, **6s** at default, **4s** at Intense. Photo stills use shorter holds at high Energy. See [Looks → Energy](style/looks.md#energy).
 
@@ -68,13 +68,13 @@ Export **Save As** prefers the opening title. See [Format and export](export.md#
 
 Right-click the opening card → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect**. With a background still, **Rotate & Flip** turns the photo, not the title.
 
-**Reset Titles to Defaults** turns the opening card back on, as in a new project, and restores its text, font, colour, size, alignment, frame, motion, and decoration. It clears the opening background photo or video (and that photo's dim, soften, and slow zoom) and clears closing words. It does not clear slide captions. To drop only the opening background, use **Remove** in the background well. Hover the button for the same wording.
+**Reset Titles to Defaults** turns the opening card back on, as in a new project, and restores its text, font, color, size, alignment, frame, motion, and decoration. It clears the opening background photo or video (and that photo's dim, soften, and slow zoom) and clears closing words. It does not clear slide captions. To drop only the opening background, use **Remove** in the background well. Hover the button for the same wording.
 
 ## Background (Essential and Studio)
 
 Add a still behind the title: click well, **Choose…** / **Change…**, drop on well, **Choose from Library** / **Choose File…**, **Remove**. Missing file shows **Missing**. See [Show cover](#show-cover-and-project-name).
 
-**Studio** with a background: **Start zoom** (100–140%), **Slow Zoom**, **Soften**, **Color** / **Grayscale**. How loud that photo is lives under **Stage → Intensity**, not a separate Dim slider.
+**Studio** with a background: **Start zoom** (100–140%), **Slow Zoom**, **Soften**, **Color** / **Grayscale**. How strongly that photo shows is set under **Stage → Intensity**, not a separate Dim slider.
 
 The background fades up from the stage color and eases into the first slide. **Slow Zoom** eases in. It can run when Card Motion is **None**.
 

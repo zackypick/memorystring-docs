@@ -6,7 +6,7 @@ description: "All MemoryString lens effects with example clips: Anamorphic Strea
 
 Lens effects add optical light on the frame. **Studio** → **Style** → **Customize** → **Lens Effects**.
 
-Checkboxes (A–Z order in the app):
+Checkboxes:
 
 **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prime, Pulse, Refract Bubbles, Sparkle, Starburst, Sweep, Veiling Glare, Vignette**
 
@@ -26,7 +26,7 @@ Soft out-of-focus circles.
 
 ### Flare
 
-Hexagonal flare beam. It sits on the photo with the grain, including while you scrub, not only after you click a clip.
+Hexagonal flare beam.
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-flare.mp4" %}
 

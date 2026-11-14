@@ -14,9 +14,9 @@ Uncheck **Perspective Pair** and those pairs become single slides. When there is
 
 After **Long story short**, groups are dealt across the finished show, the same way **Shuffle** does, with the usual gap between them, not back to back.
 
-Each hero moment inside a group uses about **72.5%** of a normal slide’s time. Groups need at least **two** normal slides between windows. **Carousel**, **3D Ribbon**, and **Filmstrip** also keep at least **four** normal slides between travel-style windows.
+Each photo in a group gets a little less time than a normal slide. Groups need at least **two** normal slides between windows. **Carousel**, **3D Ribbon**, and **Filmstrip** also keep at least **four** normal slides between travel-style windows.
 
-With several kinds on, one planner places windows evenly. **Shuffle** on the Transitions panel keeps the kinds you checked and redraws the rest.
+With several kinds on, groups are spaced evenly through the show. **Shuffle** on the Transitions panel keeps the kinds you checked and redraws the rest.
 
 If you drag slides by hand, those groups **pin** to those photos. Deleting a slide, moving a slide, or changing a group's transition leaves the other groups where they are. None appear or vanish. Sort, shuffle slides, or **Reset Motion to Defaults** lets the planner place groups again.
 

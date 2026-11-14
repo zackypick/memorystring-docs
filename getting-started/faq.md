@@ -8,7 +8,7 @@ description: "Common questions about MemoryString, the free slideshow app for Ma
 
 <summary>What is the best free slideshow app for Mac?</summary>
 
-MemoryString is a free slideshow app for Mac that turns your photos and videos into a polished movie in minutes. It has no account, no subscription and no ads, and everything runs on your Mac. Get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq-best).
+MemoryString is a free slideshow app for Mac that turns your photos and videos into a polished movie in minutes. It has no account, no subscription and no ads, and your photos and videos never leave your Mac. Get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq-best).
 
 </details>
 
@@ -44,7 +44,7 @@ To use it, drop the file into **System Settings → Wallpaper**, then add that f
 
 <summary>Is there an iMovie alternative for photo slideshows?</summary>
 
-iMovie is great for editing video, but building a slideshow from hundreds of photos takes a lot of manual work. MemoryString is made just for slideshows: it picks the best shots, adds music, place and date captions and transitions, and exports a finished movie.
+iMovie is great for editing video, but building a slideshow from hundreds of photos takes a lot of manual work. MemoryString is made just for slideshows: it picks the best shots, adds music and transitions, can caption each photo with place and date, and exports a finished movie.
 
 </details>
 
@@ -118,7 +118,7 @@ This stays on your Mac. A live Google Photos or Lightroom connection would send 
 
 I built it for myself. I used DaVinci, After Effects, ProShow, iMovie, and more. That is how I learned what I like and what I don't.
 
-I was tired of apps that nag you to pay more after you already paid, and still give you a mediocre movie. Wondershare Filmora is one example.
+I was tired of apps that keep asking you to pay more after you already paid.
 
 Then I thought: why not let everyone use it?
 
@@ -164,7 +164,7 @@ Photos you import from the Photos app are copied onto your Mac, so the show can 
 
 There is no fixed limit. Very large imports work, but importing several hundred files at once can use a lot of memory, and very long shows can feel heavy to edit. See [Known Issues](../known-issues.md).
 
-A show that long does not make sense. For most people, anything over about 10 minutes is already too long to watch.
+Most people find a show over about 10 minutes long to sit through, so a shorter cut usually works better.
 
 If you have a whole trip and you do not want to pick the shots yourself, that is what [Long story short](../long-story-short.md) is for. It builds a watchable movie from the best of the pile, limited by how much the photos can fill, and leaves the rest in Outtakes. When an import would put more than 150 photos and videos on the show, MemoryString offers it first.
 
@@ -184,7 +184,7 @@ If the Store is not an option, [download the Mac installer](https://github.com/z
 
 <summary>Why doesn't it reopen my last show?</summary>
 
-On purpose. If a show crashes the app, reopening it would crash again. Use **File → Open** for a saved show.
+On purpose. MemoryString starts with an empty project so you choose what to work on. Use **File → Open Recent** or **File → Open** for a saved show.
 
 </details>
 
@@ -200,7 +200,7 @@ MemoryString shows the file in Finder. It does not open a video player.
 
 <summary>Can I remove "Created with MemoryString" at the end?</summary>
 
-The MemoryString signature stays at the end of the movie you share. The app is free, and that signature is how someone watching it finds MemoryString and can download it too. There is no plan to let you change it or take it off.
+The MemoryString signature stays at the end of the movie you share. The app is free, and that signature is how someone watching it finds MemoryString and can download it too. For a loop with no credit, export a **Screensaver**.
 
 </details>
 

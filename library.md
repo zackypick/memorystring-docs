@@ -18,15 +18,15 @@ Use menus, drag-and-drop, paste, or **Import from Photos…**.
 
 Folder and Finder imports stay **linked** to originals. If you move or delete an original, the clip breaks until you relink.
 
-**Photos.app** media is **copied** to Application Support **Imports** because Photos does not allow stable links. Pasted images with no file are copied the same way.
+**Photos.app** media is **copied** into MemoryString's own storage on your Mac, because Photos does not let apps link to its files. Pasted images with no file are copied the same way.
 
 - Toolbar or **Library** **+** → **Photos & Videos…**, or **File → Import Media…**
 - **File → Import from Photos…**: see [Import from Photos](#import-from-photos)
 - Drop folders, photos, or videos on the window
 - **Edit → Paste** (**⌘V**): files, folders, images from other apps, or screenshots. A `.memorystring` file **opens** when pasted.
-- Empty **Library**: **Nothing in library yet**. Preview accepts drops. Hover: **Gather the thread** for media; **Bring back memories** for a project file.
+- Drop media on the empty preview to start.
 
-**+**, **Add photos & videos**, **File → Import Media…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…** grey out while **Stringing it together...** is up, while **Long story short** is running, and while a saved show is opening (**It's coming back now…**). Hover: **Wait until this import finishes**, **Wait until Long story short finishes**, or **Wait until the project finishes opening**. Drops and paste wait too.
+Adding media (including drops and paste) waits while an import, **Long story short**, or opening a saved show is in progress.
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
@@ -94,11 +94,9 @@ If **Allow “MemoryString” to find devices on local networks?** appears, **Al
 
 If Photos access is missing, the sheet says **Access Your Photos** or **Photos Access Required**. **Allow Access** asks again, or opens System Settings → Privacy & Security → Photos when macOS already has an answer. There is no second settings button.
 
-Photos imports are **copied** to Application Support **Imports**. Finder folder drops stay linked. A Photos import moves through **Importing M of N** several photos at a time.
+Photos imports are **copied**. Finder folder drops stay linked. A Photos import moves through **Importing M of N** several photos at a time.
 
 Same rules on every path: **+**, Finder drop, Photos.app drag (often one file at a time), paste. **Keep Best** counts the **whole drop**.
-
-While a first-import loader runs, **Stringing it together...** (percent, **Cancel**, and finding focus), drops, paste, **Add**, **+**, Import Media, and Import from Photos stay grey. Hover: **Wait until this import finishes**. While a saved show is opening, **It's coming back now...** (no percent), drops, paste, **Add**, **+**, Import Media, Import from Photos, and Music stay grey until the fog lifts. Same grey lock during **Long story short**; Add comes back after Close, Open, or Cancel. Loader is a spinner with smoke animation.
 
 ## Cover and show name
 
@@ -147,7 +145,7 @@ See [Titles and captions](intro-captions.md#auto-caption).
 
 ## Show menu
 
-The stacked-slides icon (not ⋯) opens **Show**. Cut names under thumbs are always on. There is no checkbox to hide them.
+The stacked-slides icon (not ⋯) opens **Show**.
 
 ![Library Show menu: Make Long story short, Videos, Audio](../.gitbook/assets/library-options-menu.png)
 
@@ -204,7 +202,7 @@ On import: speech stays; silence, wind, hiss, or quiet room noise may mute. Talk
 
 **Library** Show menu **Videos**: **Mute Noisy Videos** (show stays clickable), **Mute All Videos**, **Unmute All Videos**. Mute all and unmute all stick when you reopen. **Mute Noisy Videos** decides again from the file.
 
-**Auto Trim**: right-click or the **Library** Show menu. Not on import. Keeps about 4 seconds from the middle, with a small nudge toward a face, and the cut works about 70% of the time. Hand trims have a **2 second** minimum. **Reset Video Duration** restores the full clip.
+**Auto Trim**: right-click or the **Library** Show menu. Not on import. Keeps about 4 seconds from the middle, with a small nudge toward a face. Hand trims have a **2 second** minimum. **Reset Video Duration** restores the full clip.
 
 ## Multi-photo badges
 

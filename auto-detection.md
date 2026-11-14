@@ -4,13 +4,13 @@ description: "Keep Best Shots, upright photos, and Auto Trim for a messy camera 
 
 # Auto detection
 
-These tools help with a messy camera roll. Everything runs on your Mac. Original files are never changed.
+These tools help with a messy camera roll. Your photos and videos never leave your Mac. Original files are never changed.
 
 ## The helpers
 
 - **[Long story short](long-story-short.md)**: Builds a movie of the length you pick from your best shots. Uses Keep Best and Auto Trim. The rest go to **Outtakes**.
 - **Keep Best Shots**: From similar burst photos, keep the strongest shot (on a large import, sometimes a second, wider one). Extras move to **Outtakes** (still in the project, not in the show). Import may ask; **Library** Show menu anytime. Default: **Keep Best**. Undo **⌘Z**.
-- **Auto Trim**: About four seconds from the middle of a video clip, with up to about one second nudge toward a face. Works about 70% of the time. Right-click or **Library** Show menu, not on import. After it runs, use **Reset Video Duration** to restore full length. Undo **⌘Z**.
+- **Auto Trim**: About four seconds from the middle of a video clip, with up to about one second nudge toward a face. Right-click or **Library** Show menu, not on import. After it runs, use **Reset Video Duration** to restore full length. Undo **⌘Z**.
 - **Video mute**: On import, quiet clips with only room noise so music can lead.
 - **Orientation**: Turns sideways and upside-down photos and videos upright while they import, before they land on the timeline. Original files stay as shot.
 - **Center of interest**: Finds faces and subjects so motion frames the right area.
@@ -22,7 +22,7 @@ These tools help with a messy camera roll. Everything runs on your Mac. Original
 
 When several photos are the same moment in the same framing, MemoryString can keep the one with open eyes, a smile, sharpness, and good exposure. A different pose stays in the show. On a large import it can also keep a second, wider shot from that moment.
 
-**When:** during **import**, before the show is built, the fog (or the loading pill on an existing show) says **Comparing similar shots N of M...**, then asks. Anytime later from **Library** Show menu → **Keep Best Shots…**. Videos are not included.
+**When:** during **import**, before the show is built, MemoryString compares similar shots, then asks. Anytime later from **Library** Show menu → **Keep Best Shots…**. Videos are not included.
 
 **The dialog** shows how many groups and extra shots. **Keep the best shot only?** Default button: **Keep Best**. **Keep All** leaves every photo.
 
@@ -38,7 +38,7 @@ One undo restores the whole pass. See [Library](library.md#import) and [Library 
 
 For a long phone clip, **Auto Trim** keeps about **four seconds** around the middle (two seconds before and after the midpoint, clamped to the clip). If a face is just outside that window, it may shift up to **~1 second** toward it. Clips shorter than four seconds keep the whole file.
 
-The cut works about **70%** of the time. Trim by hand when you need to.
+Auto Trim picks a good moment most of the time. If it misses, drag the edges or use **Set Start Here** / **Set End Here**.
 
 Clips trimmed by **Auto Trim** show a small scissors mark below the mute icon on **Timeline**, **Library**, and **Outtakes** cards. Solid scissors = **Auto Trim**. Outline = you trimmed by hand. The mark shows on hover or selection and goes away after **Reset Video Duration**.
 
@@ -58,7 +58,7 @@ Speech on camera stays audible. Wind, hiss, and quiet room tone may mute so the 
 
 **When:** as each **video** is imported (**Essential** and **Studio**), and again when you open a show, for clips you have not already unmuted. Stills have no clip audio. Soundtrack tracks are not auto-muted. **Library** Show menu → **Mute Noisy Videos** runs the same pass on every show video while you keep working.
 
-**First import with video:** MemoryString may ask **Allow On-Device Speech Detection?** The sheet waits until the show is on screen. It does not pop during the loading fog.
+**First import with video:** MemoryString may ask **Allow On-Device Speech Detection?** The sheet waits until the show is on screen.
 
 - **Continue**: then macOS’s Speech prompt. Detection is **on-device**. It does not save a transcript.
 - **Use Loudness Only**: skip speech. Mute still uses loudness.

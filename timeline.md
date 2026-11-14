@@ -80,7 +80,7 @@ Videos also: **Mute Video Sound** / **Unmute Video Sound**, **Auto Trim**, **Res
 
 ![Timeline video menu: Auto Trim, Mute Video Sound, Timing](../.gitbook/assets/timeline-video-context-menu.png)
 
-**Auto Trim**: about four seconds from the middle, with a small nudge toward a face, and the cut works about 70% of the time. Not on import. Undo **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
+**Auto Trim**: about four seconds from the middle, with a small nudge toward a face. Not on import. Undo **⌘Z**. See [Auto detection](auto-detection.md#auto-trim).
 
 Right-click video or music for **Set Start Here** / **Set End Here** and reset duration/length.
 

@@ -30,7 +30,7 @@ description: "Essential and Studio in MemoryString: the same free app at two dep
 | Style → **Stage Intensity** | Hidden | Slider under Dark / Light |
 | Style → **Customize** | Hidden | Plate, Ambience, Lens Effects, Film, Atmosphere & Decals |
 | Captions | Type in the clip bar; bulk Auto Caption / Clear | plus **Type & Placement** (every installed font, each name in its own type; color, size, align, motion, placement, shade) and **Caption Details** (what auto captions say, and in which language) |
-| Opening background | Choose / remove a still | plus Start zoom, Slow Zoom, Soften, Color / Grayscale. Loudness is Titles → Opening → Stage → Intensity |
+| Opening background | Choose / remove a still | plus Start zoom, Slow Zoom, Soften, Color / Grayscale. Its strength is set by Titles → Opening → Stage → Intensity |
 | Opening **Text** (font, color, size, align, outline, shadow) | Hidden. Type in the title field | Shown (every installed font, each name in its own type) |
 | Opening Card & Motion | None | Frame, Motion, Lens, Decoration |
 | Closing words | **Show closing words**; box starts with **The End** | plus font, color, size, align, ornament, legibility |
@@ -43,5 +43,5 @@ Looks, Energy, Stage, Photo Size, Format, music, import, and export work in both
 **Essential import:** if the **Library** was empty or already **Oldest First**, new stills auto-sort **Oldest First (Story Order)**. **Studio** does not. **⌘Z** undoes it. **Keep Best Shots** and **Auto Trim** work in both modes ([Auto detection](../auto-detection.md#keep-best-shots)).
 
 {% hint style="info" %}
-**MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow.
+**MemoryString → Reset All Settings…** restores app preferences only (mode, text size, and layout). It does **not** change the open slideshow.
 {% endhint %}

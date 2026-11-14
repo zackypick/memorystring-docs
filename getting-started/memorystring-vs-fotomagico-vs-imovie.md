@@ -37,7 +37,7 @@ iMovie lets you cut on a timeline with tracks and precise edits. MemoryString do
 
 ## MemoryString helpers, then export
 
-[Keep Best Shots](../auto-detection.md#keep-best-shots) can keep the best frame from a near-duplicate burst. Import may ask when similar stills appear. Extras stay in the project as [Outtakes](../library.md#outtakes). [Auto Trim](../auto-detection.md#auto-trim) keeps about four seconds from the middle of a clip (with a small face nudge). You choose it from the menu, not on import. It works about 70% of the time.
+[Keep Best Shots](../auto-detection.md#keep-best-shots) can keep the best frame from a near-duplicate burst. Import may ask when similar stills appear. Extras stay in the project as [Outtakes](../library.md#outtakes). [Auto Trim](../auto-detection.md#auto-trim) keeps about four seconds from the middle of a clip (with a small face nudge). You choose it from the menu, not on import.
 
 [Import from Photos…](../library.md#import-from-photos) opens a dedicated sheet: Recent, Albums, People, By Month, Trips & Events, and Media Type, with a From / To date filter.
 

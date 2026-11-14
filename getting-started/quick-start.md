@@ -20,7 +20,7 @@ You always edit a `.memorystring` project file.
 
 Imported photos and videos appear in the **Library** on the left.
 
-Folder and Finder imports stay **linked** to the original files. Media from **Photos.app** is **copied** into Application Support **Imports** because Photos does not allow stable links. Pasted screenshots with no file are copied the same way. See [Library](../library.md#import).
+Folder and Finder imports stay **linked** to the original files. Media from **Photos.app** is **copied** into MemoryString's own storage on your Mac, because Photos does not let apps link to its files. Pasted screenshots with no file are copied the same way. See [Library](../library.md#import).
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
 2. Or **File → Import from Photos…** (also on **+**): **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**
@@ -31,11 +31,11 @@ Folder and Finder imports stay **linked** to the original files. Media from **Ph
 
 ![Import from Photos sheet](../.gitbook/assets/photos-import-hub.png)
 
-An empty **Library** shows **Nothing in library yet**. The preview area accepts drops. Hover hint for media: **Gather the thread**. Hover hint for a project file: **Bring back memories**.
+You can also drop media straight onto the empty preview.
 
-While the stage loader runs, drops are ignored. First import title: **Stringing it together...** with **Importing N of M...** and **Cancel**. **Add**, **+**, and Import stay grey. Hover: **Wait until this import finishes**. Opening a project: **It's coming back now...** (no count). **Add**, **+**, and Import stay grey until the show is back. The loader is a spinner with a smoke animation.
+While MemoryString imports or opens a show, adding more media waits until it finishes.
 
-After the show has clips, a media drop reads **Add to story**. **Keep Best Shots** waits until the loader clears.
+**Keep Best Shots** waits until the import finishes.
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
