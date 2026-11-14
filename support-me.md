@@ -14,4 +14,4 @@ If a **company** wants to sponsor that work, we can talk. In return for funding 
 
 This is company sponsorship for the Windows product. It is not a tip jar for the Mac app. The Mac app stays free.
 
-Interested? Email **[zacky@codebyz.com](mailto:zacky@codebyz.com?subject=MemoryString%20Windows%20sponsorship)** with a short note about your company and your idea.
+Interested? Email **[feedback@memorystring.app](mailto:feedback@memorystring.app?subject=MemoryString%20Windows%20sponsorship)** with a short note about your company and your idea.

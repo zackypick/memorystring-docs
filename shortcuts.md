@@ -63,10 +63,10 @@ The red close button also quits. Untitled work with content asks **Save** / **Do
 | **⌘/** | MemoryString Help… (opens this site) |
 | **⌘,** | Settings… (MCP Server sheet on the main window) |
 
-**Help → Show Walkthrough** replays the first-run tour. **Help → Rate MemoryString…** opens the App Store review page. **Help → Send Feedback…** opens Mail. **Help → Report a Problem…** emails a sanitized crash report (no media filenames).
+**Help → Show Walkthrough** replays the first-run tour. **Help → Rate MemoryString…** opens the App Store review page. **Help → Send Feedback…** opens an email to feedback@memorystring.app. **Help → Report a Problem…** opens an email to reports@memorystring.app.
 
 While typing an opening or closing title, **Shift+Enter** starts a new line. Long lines wrap on their own.
 
 ## Tips
 
-**Space** and arrow keys still work while you edit title text in some cases. **⌘V** / **⌘C** stay plain text while a caption or title field is focused. Undo and Redo cover most Inspector changes. **Playback → Play** or **Pause** also toggles playback. **⌘D** applies to every selected slide. **⌘+** / **⌘-** / **⌘0** change UI text size for **Library** cards and **Timeline** strip height. They do not change slide caption size.
+**⌘V** / **⌘C** stay plain text while a caption or title field is focused. Undo and Redo cover most Inspector changes. **Playback → Play** or **Pause** also toggles playback. **⌘D** applies to every selected slide. **⌘+** / **⌘-** / **⌘0** change UI text size for **Library** cards and **Timeline** strip height. They do not change slide caption size.

@@ -4,74 +4,47 @@ description: "What we fixed, by version."
 
 # Fixed
 
+New features for each version are on [What's new](roadmap.md).
+
 ## Version 1.2.6
 
-* Build 145: Closing MCP Settings with **Close** or Escape no longer crashes after the sheet finishes dismissing.
-* Build 144: Escape on the MCP Settings sheet no longer crashes the app.
-* Build 143: Closing the main window quits the app. There is no separate Settings window to reopen.
-* **MemoryString → Settings…** opens MCP Server as a sheet. **Close** or Escape dismisses it.
-* Untitled work with content asks **Save** / **Don't Save** / **Cancel** before the window goes away.
+* Closing MCP Settings with **Close** or Escape no longer quits unexpectedly.
 * On an empty project, Escape closes the **Add photos & videos** menu while the movie is playing too.
-* Crash reports are limited to real crashes and errors. You can turn them off anytime.
-* Turning **Music Follows Show** back on refills a short music bed.
-* **Fit Show to Music** keeps group timing when it stretches the show to a longer song.
-* Opening or closing a **Studio** title font menu previews that face on the stage.
 
 ## Version 1.2.5
 
-* Build 139: **Long story short** keeps the same longest length after **Fit Show to Music**, unless you moved the Energy slider yourself.
-* On a full-body photo, the person sits beside the card so the place stays in the blur, not a crop of their shirt.
-* **Long story short** rebuilds start clean. Hand-set slide lengths, transitions, and lens choices are cleared. It keeps the Look, energy, rotation, captions, music, opening and closing title text, the cover photo, and which videos are muted.
+* **Long story short** keeps the same longest length after **Fit Show to Music**, unless you moved the Energy slider yourself.
 * Changing Look updates the card border while you scrub. The old frame does not stay on the photo.
 * On an empty project, Escape closes the **Add photos & videos** menu.
-* **Reset Titles to Defaults** says what it restores: opening text, font, colour, size, alignment, frame, motion, and decoration, and it clears the opening background and the closing words.
 
 ## Version 1.2.4
 
-Since the **1.2.2** App Store build (no separate 1.2.3 drop).
+Since the **1.2.2** App Store build (no separate 1.2.3 release).
 
-* On a tall photo of people in a place, the blur keeps the place. Two small faces sit to one side so the rest of the frame stays the scene, not a close-up of their shirts. One small face stays in the middle of that cover.
-* A person and a pet that sit together both stay in the blurred background, including a sleeping face. Clicking the spot Auto already chose keeps that same blur.
-* During **Stringing it together...**, **Add**, **+**, Import, and the Add menu stay grey until that screen is gone. Hover: **Wait until this import finishes**.
-* **Add**, **+**, Import Media, Import from Photos, Music, paste, and drops stay grey while Long story short is running, and while a saved show is opening (**It's coming back now…**). Add comes back after Close, Open, or Cancel.
-* **Fit Show to Music** covers the whole film, including the end card, and fades across the credit.
+* Clicking the spot Auto already chose for focus keeps the same background blur, and no longer makes the background jump.
+* Adding media waits until an import, **Long story short**, or opening a show has finished, so nothing gets lost.
 * Checking a lens box when none were checked keeps that effect on the slide. **How often** stays off until **Randomize Selected** or **Refract Bubbles** is on.
 * On a light opening card, **Anamorphic Streaks** draws a colored line behind the title words.
 * Someone lying down is left as shot. Auto-straighten no longer stands them up and tips the room.
 * After you rotate a photo, the blurred backdrop turns the same way as the card.
-* After **Long story short** finishes, **Stringing it together...** leaves the preview and the status bar.
+* After **Long story short** finishes, its progress message clears from the preview and the status bar.
 * While Export or Warm Now has edits paused, clicking the preview no longer moves the focus spot.
-* Paste no longer leaves the loading screen stuck. Dragging from Photos.app no longer aborts.
-* Import into a show that already has photos shows **Loading photos** without fogging the living show.
-* Skip of a duplicate import no longer leaves a phantom undo.
-* Print / Vintage grain and hex flare sit on the photo, including while you scrub. Offset Wash’s faded copies stay clean.
-* Speech permission waits until the show is on screen.
-* Library cut names stay visible under thumbs (the old checkbox is gone).
-* Clicking the Auto focus spot on a photo no longer jumps the background.
-* Long shows stream music instead of mixing the whole soundtrack at once. Export waits until songs are loaded.
+* Paste no longer leaves the loading screen stuck. Dragging from Photos.app no longer stops partway.
+* Adding photos to a show that already has photos no longer covers the whole preview while they load.
+* Skipping a duplicate import no longer leaves an extra step in Undo.
+* Film grain and Flare stay on the photo while you scrub.
+* The speech permission prompt waits until the show is on screen.
+* Transition names always show under Library thumbnails.
+* Long shows load music faster. Export waits until songs are ready.
 
 ## Version 1.2.2
 
-* A big Long story short import no longer sits stuck after Importing M of N or Finding focus M of N.
-* Library ⋯ Mute Noisy Videos, Mute All Videos, and Unmute All Videos. The show stays clickable.
-* Wind and hiss on videos mute; talking, music, and sharp hits stay. Opening a show re-checks.
-* The blurred backdrop behind a group photo shows people, not the empty room.
-* Bundled songs are smaller. Same 63 tracks and lengths.
-
-## Version 1.2.1
-
-* Long story short goes up to 30 minutes, still capped at what the photos can fill.
-* The finished movie lands within about 10 seconds of the length you pick.
-* Closing and opening the project keeps that order and that length.
+* A big **Long story short** import no longer gets stuck partway through.
 
 ## Version 1.2.0
 
-* Long story short deals groups across the finished show, the same way Shuffle does.
 * Moving a lot of photos between Takes and Outtakes no longer freezes the app on the drop.
-* The intro wash eases into the first slide, and the intro uses the show’s stage.
-* A backdrop face sits beside the card. The wash covers the stage and is never mirrored.
 * A portrait backdrop keeps its crop when the photo size changes.
-* You can check every group kind. Auto still picks a short list from the length of the show.
 
 ## Version 1.1.3
 
@@ -94,13 +67,13 @@ Since the **1.1.2** App Store build.
 * Reset Video Duration restores the full clip in one press.
 * Captions no longer jump when a filmstrip enters.
 * Delete is faster and keeps the playhead and timeline zoom where they were.
-* Undo of a delete no longer shows the importing pill.
+* Undoing a delete no longer shows an import progress message.
 * Intro keeps its length when you drag the next slide's start.
 * Dropping a song always lands it on the Audioline.
-* Library video thumbs no longer stay grey after reopen.
+* Library video thumbnails no longer stay grey after reopen.
 * By Month Photos imports bring in every photo in the month.
-* Photos library ids no longer show up in captions.
-* Open and Save panels no longer swallow shortcuts.
+* Captions no longer show internal Photos library codes.
+* Keyboard shortcuts keep working after an Open or Save dialog.
 * Spiral-in and Reveal from depth play at every Energy.
 * Right-click on a slide no longer scrolls the timeline.
 * Essential can play the show while an export runs.
@@ -110,20 +83,19 @@ Since the **1.1.2** App Store build.
 
 * Auto and Reset Center of Interest no longer crash on open.
 * A crash that could happen when opening the app is fixed.
-* Photos Import covers deadlock fixed.
+* Album and people covers in Import from Photos no longer freeze the sheet.
 * A crash after Photos access is granted is fixed.
 * Date filter no longer jumps.
-* Large-import memory leak fixed.
-* Timeline rotate keeps caches; video Set Duration no longer appears stuck.
-* Wrap join and extract no longer hang.
-* Outtakes crash, splitter overlap, and Takes seek fixed.
-* The splitter no longer overlaps Library or Style.
-* Video-only folders wait on spinner instead of hanging.
-* Existing projects skip the first-run bumper.
-* Photos pills pulse while loading; waiting percent fades with the copy.
-* Rotate and flip now hit the clip under the pointer.
-* Collapsed groups live-resize correctly.
-* Auto Trim and Reset available on first right-click.
-* Lens Effect checkmarks and fade after spinner fixed.
-* Smoother window resize; plus Add label centered.
+* Large imports use much less memory.
+* Rotating a clip on the Timeline is faster, and Set Duration on a video no longer looks stuck.
+* Joining photos into a group or pulling one out no longer hangs.
+* Outtakes no longer crash, and clicking a Take jumps to it.
+* The Library divider no longer overlaps the Library or Style panes.
+* Importing a folder with only videos no longer hangs.
+* Opening an existing project skips the first-run welcome.
+* Rotate and flip now apply to the clip under the pointer.
+* Groups on the Timeline resize correctly.
+* Auto Trim and Reset are available on the first right-click.
+* Lens Effect checkmarks show correctly.
+* Smoother window resizing.
 * The empty-stage button stays hidden while the first-run welcome is showing.

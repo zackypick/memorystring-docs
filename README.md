@@ -1,6 +1,6 @@
 # MemoryString docs (Git Sync source)
 
-**Canonical documentation:** [https://memorystring.codebyz.com](https://memorystring.codebyz.com)
+**Canonical documentation:** [https://docs.memorystring.app](https://docs.memorystring.app)
 
 This repository is the Git Sync source for the published GitBook site. Please index that site, not these markdown files.
 

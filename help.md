@@ -18,11 +18,11 @@ description: "Get help with MemoryString: the walkthrough, rating the app, sendi
 
 **Help → Rate MemoryString…** (and About) opens the App Store review page.
 
-**Help → Send Feedback…** always opens Mail (to msfeedback@codebyz.com). It never hands the address to the browser.
+**Help → Send Feedback…** opens a new email to [feedback@memorystring.app](mailto:feedback@memorystring.app) in Mail. Questions, ideas, and general contact go there too.
 
-**Help → Report a Problem…** sends a crash report by email. It includes technical details about the crash and your Mac model and system version. It does not include your media file names.
+**Help → Report a Problem…** opens a new email to [reports@memorystring.app](mailto:reports@memorystring.app) so you can tell us what went wrong. Your photos and videos are never attached.
 
-MemoryString can also send anonymous crash reports automatically so rare Mac crashes can be fixed faster. That is on by default. Turn it off anytime with **MemoryString → Share Crash Reports** (uncheck). Reports do not include your photos, music, or project filenames. Details: [Privacy Policy](https://www.codebyz.com/products/memory-string/privacy).
+Privacy details: [Privacy Policy](https://memorystring.app/privacy).
 
 **MemoryString → About MemoryString** shows version and creator info, plus Rate and Send Feedback.
 

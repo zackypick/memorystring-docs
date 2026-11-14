@@ -38,7 +38,7 @@
 * [Help](help.md)
 * [Known Issues](known-issues.md)
 * [Fixed](fixed.md)
-* [Roadmap](roadmap.md)
+* [What's new](roadmap.md)
 * [Credits](credits.md)
 * [Support me](support-me.md)
 * [MCP Server](mcp.md)
