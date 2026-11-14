@@ -1,5 +1,5 @@
 ---
-description: "MemoryString is a free Mac slideshow app and FotoMagico alternative that turns a folder of photos into a movie with Long story short, Keep Best Shots and Fit Show to Music. An honest comparison, not a replacement."
+description: "Honest comparison of MemoryString, FotoMagico, and iMovie. MemoryString is a free Mac slideshow app, not a FotoMagico replacement."
 layout:
   width: wide
 ---
@@ -61,4 +61,3 @@ Every movie ends with a **Created with MemoryString** credit. There is no toggle
 
 New here? [Quick start](quick-start.md) gets you to a finished movie.
 
-MemoryString was previously released as MemoryFlow. Same app, same free license. Better name.

@@ -8,11 +8,11 @@ description: "What we fixed, by version."
 
 * Build 145: Closing MCP Settings with **Close** or Escape no longer crashes after the sheet finishes dismissing.
 * Build 144: Escape on the MCP Settings sheet no longer crashes the app.
-* Build 143: Closing the main window quits the app (App Store Guideline 4). There is no separate Settings window to reopen.
+* Build 143: Closing the main window quits the app. There is no separate Settings window to reopen.
 * **MemoryString → Settings…** opens MCP Server as a sheet. **Close** or Escape dismisses it.
 * Untitled work with content asks **Save** / **Don't Save** / **Cancel** before the window goes away.
 * On an empty project, Escape closes the **Add photos & videos** menu while the movie is playing too.
-* Quieter crash reporting: only real crashes, errors, and hangs longer than about 5 seconds.
+* Crash reports are limited to real crashes and errors. You can turn them off anytime.
 * Turning **Music Follows Show** back on refills a short music bed.
 * **Fit Show to Music** keeps group timing when it stretches the show to a longer song.
 * Opening or closing a **Studio** title font menu previews that face on the stage.
@@ -108,16 +108,16 @@ Since the **1.1.2** App Store build.
 
 ## Version 1.0: Photos Import
 
-* Auto COI and Reset COI no longer crash on open.
-* AttributeGraph crash on open resolved.
+* Auto and Reset Center of Interest no longer crash on open.
+* A crash that could happen when opening the app is fixed.
 * Photos Import covers deadlock fixed.
-* People fallback and post-auth crash fixed.
+* A crash after Photos access is granted is fixed.
 * Date filter no longer jumps.
 * Large-import memory leak fixed.
 * Timeline rotate keeps caches; video Set Duration no longer appears stuck.
 * Wrap join and extract no longer hang.
 * Outtakes crash, splitter overlap, and Takes seek fixed.
-* Rate card dims preview only; splitter no longer overlaps Library or Style.
+* The splitter no longer overlaps Library or Style.
 * Video-only folders wait on spinner instead of hanging.
 * Existing projects skip the first-run bumper.
 * Photos pills pulse while loading; waiting percent fades with the copy.
@@ -126,4 +126,4 @@ Since the **1.1.2** App Store build.
 * Auto Trim and Reset available on first right-click.
 * Lens Effect checkmarks and fade after spinner fixed.
 * Smoother window resize; plus Add label centered.
-* Hide empty-stage CTA under bumper.
+* The empty-stage button stays hidden while the first-run welcome is showing.

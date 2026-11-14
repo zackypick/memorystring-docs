@@ -30,7 +30,7 @@ MemoryString **1.2.6** closes the app when you close the window, opens MCP Setti
 
 - **Fit Show to Music** covers the whole film, including the end card, and turns **Music Follows Show** off.
 - **Titles** holds the opening card and optional **closing words** on the end card.
-- **Music Follows Show** keeps the soundtrack with the Look (was **Match Look Soundtrack**). Turn it off to keep your playlist when you change Looks.
+- **Music Follows Show** keeps the soundtrack with the Look. Turn it off to keep your playlist when you change Looks.
 - **Peek** inspects a parked Outtake. **Studio** font menus list every font on this Mac.
 - Scenic and person+pet backdrops keep the place and both subjects in the blur.
 - **Add** / Import stay grey during Long story short, Stringing it together, and while a saved show opens.
@@ -83,7 +83,7 @@ Inspector → **Titles** holds the **opening card** and optional **closing words
 
 ### **Music Follows Show**
 
-On by default. After the first photos or videos land, MemoryString adds a bundled track from the current **Look**. This was **Match Look Soundtrack**. A successful **Fit Show to Music** turns **Music Follows Show** off. See [Music](music.md#music-follows-show).
+On by default. After the first photos or videos land, MemoryString adds a bundled track from the current **Look**. A successful **Fit Show to Music** turns **Music Follows Show** off. See [Music](music.md#music-follows-show).
 
 ### **Peek**
 

@@ -52,7 +52,7 @@ iMovie is great for editing video, but building a slideshow from hundreds of pho
 
 <summary>Can I add my own music to a slideshow?</summary>
 
-Yes. Use a track from MemoryString's built-in royalty-free library or add your own. Built-in tracks are CC0 / public domain — free to use, no credit needed. If a bundled track looks misattributed, **Help → Send Feedback…** and we will pull it quickly. Noisy video sound (wind, hiss, room noise) can mute so the music leads, while talking, music, and sharp hits stay. Only add music you have the rights to use.
+Yes. Use a track from MemoryString's built-in royalty-free library or add your own. Built-in tracks are CC0 / public domain, free to use, no credit needed. If a bundled track looks misattributed, **Help → Send Feedback…** and we will pull it quickly. Noisy video sound (wind, hiss, room noise) can mute so the music leads, while talking, music, and sharp hits stay. Only add music you have the rights to use.
 
 </details>
 
@@ -176,7 +176,7 @@ If you have a whole trip and you do not want to pick the shots yourself, that is
 
 The usual way is the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq). Updates come from there, and you can rate the app.
 
-If the Store is not an option, [download the Mac installer](https://github.com/zackypick/memorystring-downloads/releases/latest).
+If the Store is not an option, [download the Mac installer](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.6/MemoryString-1.2.6.dmg).
 
 </details>
 

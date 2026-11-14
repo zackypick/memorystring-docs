@@ -17,7 +17,7 @@ That’s it. A film you’d actually send. Minutes, not an evening. Free, on you
 
 [**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-welcome): free. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
-[Download MemoryString for Mac](https://github.com/zackypick/memorystring-downloads/releases/latest): free, always the latest build.
+If the App Store is not an option, [download the Mac installer](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.6/MemoryString-1.2.6.dmg).
 
 ## Watch a demo
 
