@@ -4,14 +4,16 @@ description: "What's new in MemoryString 1.2.7, plus what comes next."
 
 # Roadmap
 
-MemoryString **1.2.7** refreshes the built-in music catalog (CC0), opens feedback and crash mail in Apple Mail, and smooths scrub heroes and wash seams. **1.2.6** closed the app when you closed the window and quieted crash reporting. **1.2.5** kept **Long story short** length steady after **Fit Show to Music**.
+MemoryString **1.2.7** refreshes the built-in music catalog (CC0), points Help links and support mail at memorystring.app, fixes Surprise me / Pick New Music, and smooths scrub heroes and wash seams. **1.2.6** closed the app when you closed the window and quieted crash reporting. **1.2.5** kept **Long story short** length steady after **Fit Show to Music**.
 
 ## What's new
 
 **1.2.7**
 
 - Built-in soundtrack is a larger **CC0 / public domain** catalog. Look pools and loudness are leveled so quieter and louder songs sit nearer the same level in the show.
-- **Help → Send Feedback…** and **Help → Report a Problem…** open Apple Mail drafts (to ms-feedback@codebyz.com and ms-report@codebyz.com), with a crash zip attached for Report a Problem.
+- **Surprise me** and **Pick New Music** rotate through fitting songs instead of always landing on the shortest catalog stem.
+- Product site, docs, and support mail use **memorystring.app**, **docs.memorystring.app**, **feedback@memorystring.app**, and **reports@memorystring.app**.
+- **Help → Send Feedback…** and **Help → Report a Problem…** open Apple Mail drafts, with a crash zip attached for Report a Problem.
 - Crash upload stays silent in the background — no false “app hung” sheets while a report sends.
 - Soft heroes after a fast scrub sharpen when you stop, instead of staying blurry until you click.
 - Soft-stack and other wash seams keep coverage through the crossfade so cream holes do not flash between slides.
