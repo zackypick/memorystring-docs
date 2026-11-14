@@ -70,46 +70,46 @@ Optional weather and edge motifs. Default **None**. Looks do not set these.
 
 Effects stay at the edges, not covering the main photo.
 
-### Atmosphere — Bubbles
+### Atmosphere: Bubbles
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/atm-bubbles.mp4" %}
 
 
-### Atmosphere — Leaves
+### Atmosphere: Leaves
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/atm-leaves.mp4" %}
 
 
-### Decals — Travel
+### Decals: Travel
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-travel.mp4" %}
 
 
-### Decals — Vacation
+### Decals: Vacation
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-vacation.mp4" %}
 
 
-### Decals — Party
+### Decals: Party
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-party.mp4" %}
 
 
-### Decals — Florals
+### Decals: Florals
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-florals.mp4" %}
 
 
-### Decals — Wedding
+### Decals: Wedding
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-wedding.mp4" %}
 
 
-### Decals — Pets
+### Decals: Pets
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-pets.mp4" %}
 
 
-### Decals — Sports
+### Decals: Sports
 
 {% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-sports.mp4" %}

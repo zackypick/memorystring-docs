@@ -4,7 +4,7 @@ description: "Special thanks to Daniel Hertrich (hertrich.photo). Also GitBook, 
 
 # Credits
 
-## Special thanks — Daniel Hertrich
+## Special thanks to Daniel Hertrich
 
 **Daniel Hertrich** ([hertrich.photo](https://www.hertrich.photo/fototraining)) is a photographer, and in practice MemoryString’s tester. He reports bugs with care. He also suggests improvements, some already in the app, the rest likely in coming versions.
 

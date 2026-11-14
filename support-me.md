@@ -10,7 +10,7 @@ If a **company** wants to sponsor that work, we can talk. In return for funding 
 
 - In the **Windows app**
 - On the **MemoryString website**
-- Here in the **GitBook** docs
+- Here in these docs
 
 This is company sponsorship for the Windows product. It is not a tip jar for the Mac app. The Mac app stays free.
 
