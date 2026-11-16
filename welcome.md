@@ -29,6 +29,10 @@ If the App Store is not an option, [download the Mac installer](https://github.c
 
 {% embed url="https://www.codebyz.com/products/memory-string/memories4.mp4" %}
 
+## Video tutorials
+
+Watch step-by-step videos on the [MemoryString YouTube channel](https://www.youtube.com/@MemoryStringApp).
+
 ## Who made it
 
 Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved. Thanks: [Credits](credits.md).

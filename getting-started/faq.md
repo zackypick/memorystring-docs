@@ -4,6 +4,8 @@ description: "Common questions about MemoryString, the free slideshow app for Ma
 
 # FAQ
 
+Video tutorials are on the [MemoryString YouTube channel](https://www.youtube.com/@MemoryStringApp).
+
 <details>
 
 <summary>What is the best free slideshow app for Mac?</summary>

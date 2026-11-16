@@ -26,4 +26,4 @@ Privacy details: [Privacy Policy](https://memorystring.app/privacy).
 
 **MemoryString → About MemoryString** shows version and creator info, plus Rate and Send Feedback.
 
-Demo videos: [Welcome](welcome.md#watch-a-demo). Thanks: [Credits](credits.md).
+Demo videos: [Welcome](welcome.md#watch-a-demo). Video tutorials: [MemoryString on YouTube](https://www.youtube.com/@MemoryStringApp). Thanks: [Credits](credits.md).
