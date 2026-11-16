@@ -22,7 +22,7 @@ Opening length follows **Energy** on its own timing: about **7s** at Calm, **6s*
 
 Long opening or closing text **wraps on its own** when it does not fit one line.
 
-To start a new line on purpose, press **Shift+Enter** (on stage after a double-click, or in the Titles field). On stage, plain **Enter** finishes editing. In the Titles field, plain **Enter** keeps you in the field.
+To break a title into lines, pause, **double-click** the title in the Preview to edit it in place, then press **Shift+Enter**. The fields in the inspector don't take line breaks. On stage, plain **Enter** finishes editing.
 
 Up to three lines on the opening card. Closing words allow a few more.
 
@@ -98,8 +98,8 @@ Optional last line on the existing end card, above **Created with MemoryString**
 
 **Titles → Closing → Show closing words**.
 
-- Pause on the end card and **double-click** to edit on stage
-- Same wrap and **Shift+Enter** as the opening title
+- Pause on the end card and **double-click** the closing words in the Preview to edit them in place
+- To break the closing words into lines, press **Shift+Enter** after that double-click. The fields in the inspector don't take line breaks
 - The end card stays about three seconds. There is no duration slider
 
 **Studio:** **Ornament** (none, or a small mark under the words), then **Text**. Font, color (**Match Stage** follows the MemoryString mark), **Auto Size** / **Size**, **Align**, **Legibility** (shadow, hairline outline, or both).

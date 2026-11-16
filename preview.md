@@ -83,7 +83,7 @@ When a photo is paused, you may see a small round ring. That is **center of inte
 
 Ken Burns and similar motion use center of interest. Some transitions show the whole photo and ignore it.
 
-On the **opening card**, a single click on the still sets the same aim. **Double-click** the title to edit text. On the **end card**, **double-click** closing words to edit them. **Shift+Enter** starts a new line; long lines wrap on their own.
+On the **opening card**, a single click on the still sets the same aim. **Double-click** the title in the Preview to edit it in place, then press **Shift+Enter** to start a new line. On the **end card**, **double-click** the closing words and use **Shift+Enter** the same way. The fields in the inspector don't take line breaks. Long lines wrap on their own.
 
 ## Rotate while paused
 
