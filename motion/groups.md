@@ -8,6 +8,12 @@ Sometimes several photos share one moment: stacks, carousels, ribbons, and simil
 
 ![3D Ribbon and Carousel cadence](../.gitbook/assets/inspector-motion-groups.png)
 
+Watch Carousel, 3D Ribbon, Filmstrip, Photo Stack, and Scatter & Settle play in one show. In Studio mode, they live under Motion, then Transitions, in the Group Transitions list.
+
+{% embed url="https://youtu.be/Fh5_A9B1NFc" %}
+
+A shorter look is in [Group Transitions, on your Mac](https://youtube.com/shorts/4DaMyKX9P1Y).
+
 On a new show, photos from the same shoot stay together. A group does not mix two shoots. A two-shot series does not have to be a **Perspective Pair**. **Auto** may still pick Pair as one of the kinds. If a window would still mix two shoots, those photos stay single slides.
 
 Uncheck **Perspective Pair** and those pairs become single slides. When there is room, another slide sits between the two shots. Pair stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again. Check it to bring the pairs back. **⌘Z** restores them.
@@ -106,6 +112,8 @@ Cards throw in, land, step forward in order, then throw off.
 - **Filmstrip**: horizontal or vertical strip
 - **Scatter & Settle**: tossed cards on stage
 - **How many at 0**: one photo at a time with single-slide transitions
+
+The walkthrough above shows five of these kinds. Perspective Pair is not in that video.
 
 ## Timeline / Library
 

@@ -29,9 +29,17 @@ If the App Store is not an option, [download the Mac installer](https://github.c
 
 {% embed url="https://www.codebyz.com/products/memory-string/memories4.mp4" %}
 
+### A show made with MemoryString
+
+{% embed url="https://youtu.be/_C4gILnKN44" %}
+
 ## Video tutorials
 
-Watch step-by-step videos on the [MemoryString YouTube channel](https://www.youtube.com/@MemoryStringApp).
+Watch the first-movie walkthrough:
+
+{% embed url="https://youtu.be/M9LE0RbdVtc" %}
+
+A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY). Step-by-step pages start at [Quick start](getting-started/quick-start.md). All tutorials are on the [MemoryString YouTube channel](https://www.youtube.com/@MemoryStringApp).
 
 ## Who made it
 

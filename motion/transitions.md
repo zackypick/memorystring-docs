@@ -10,6 +10,12 @@ The checked boxes are the kinds this show uses. They match the timeline, includi
 
 ![Motion → Transitions: How many, Auto, and the kinds this show uses](../.gitbook/assets/inspector-motion-transitions.png)
 
+Watch Single Transitions play in a show. This tutorial pins six kinds, then pins a seventh from the Timeline.
+
+{% embed url="https://youtu.be/rYW05G_0ZM0" %}
+
+A shorter look at three of them is in [Three Slide Transitions](https://youtube.com/shorts/IGZMaK-6H-s).
+
 ## How many
 
 **Single slides** and **Multi-photo groups** each have a **How many** slider and an **Auto** switch.
@@ -172,4 +178,4 @@ Checked kinds are the ones this show groups with. You can check every kind. A sh
 
 **Perspective Pair** is not forced. **Auto** may still pick it as one of the kinds. Uncheck it and those pairs become single slides. When there is room, another slide sits between the two shots. It stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again. Check it to bring the pairs back. **⌘Z** restores them.
 
-Details: [Multi-photo groups](groups.md).
+Details: [Multi-photo groups](groups.md). Watch [Group Transitions](https://youtu.be/Fh5_A9B1NFc).
