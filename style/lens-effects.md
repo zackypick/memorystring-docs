@@ -97,7 +97,7 @@ Each photo plays **at most one** pooled lens effect. The choice is stable for th
 
 Checking a box when none are checked keeps that effect on the slide you are on. **How often** stays off until **Randomize Selected** is on, or **Refract Bubbles** is checked.
 
-**Studio:** right-click **Timeline** or **Library** → **Lens Effect** to pin **this photo**. **Entire group ▸ Lens** copies to all seats. Pins survive Look changes. **Anamorphic Streaks** and **Bokeh** do not auto-assign on group seats.
+**Studio:** right-click **Timeline** or **Library** → **Lens Effect** to pin **this photo**. **None** keeps that photo bare. **Automatic** clears the pin so the Look mix can deal again. **Entire group ▸ Lens** copies to all seats. Pins survive Look changes. **Style → Customize → Lens Effects → Clear all pins** drops every per-photo lock without unchecking the pool boxes. **Anamorphic Streaks** and **Bokeh** do not auto-assign on group seats.
 
 On a group, vignette and light leak apply once for the whole window.
 
