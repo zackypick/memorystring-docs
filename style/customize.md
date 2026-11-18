@@ -72,44 +72,44 @@ Effects stay at the edges, not covering the main photo.
 
 ### Atmosphere: Bubbles
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/atm-bubbles.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/atm-bubbles.mp4#t=2" %}
 
 
 ### Atmosphere: Leaves
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/atm-leaves.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/atm-leaves.mp4#t=2" %}
 
 
 ### Decals: Travel
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-travel.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-travel.mp4#t=2" %}
 
 
 ### Decals: Vacation
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-vacation.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-vacation.mp4#t=2" %}
 
 
 ### Decals: Party
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-party.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-party.mp4#t=2" %}
 
 
 ### Decals: Florals
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-florals.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-florals.mp4#t=2" %}
 
 
 ### Decals: Wedding
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-wedding.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-wedding.mp4#t=2" %}
 
 
 ### Decals: Pets
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-pets.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-pets.mp4#t=2" %}
 
 
 ### Decals: Sports
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-sports.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/decal-sports.mp4#t=2" %}

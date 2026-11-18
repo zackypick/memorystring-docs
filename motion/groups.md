@@ -43,7 +43,7 @@ Videos in a group play in their seat. Unmuted video audio plays only while that 
 
 Fanned pile with backdrop washes behind. The blurred backdrop shows the people in the photo, not the empty room.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-photo-stack.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-photo-stack.mp4#t=2" %}
 
 
 ## Carousel
@@ -54,7 +54,7 @@ Fanned pile with backdrop washes behind. The blurred backdrop shows the people i
 
 Cards join a ring, rotate, then leave.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-carousel.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-carousel.mp4#t=1.5" %}
 
 
 ## 3D Ribbon
@@ -65,7 +65,7 @@ Cards join a ring, rotate, then leave.
 
 Depth belt with one hero at a time.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-ribbon.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-ribbon.mp4#t=2" %}
 
 
 ## Perspective Pair
@@ -75,7 +75,7 @@ Depth belt with one hero at a time.
 
 Two-card cover flow: front becomes hero, then moves aside.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-perspective-pair.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-perspective-pair.mp4#t=1.2" %}
 
 
 ## Filmstrip
@@ -86,7 +86,7 @@ Two-card cover flow: front becomes hero, then moves aside.
 
 Flat strip with center hero at Photo Size.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-filmstrip.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-filmstrip.mp4#t=2" %}
 
 
 ## Scatter & Settle
@@ -100,7 +100,7 @@ Flat strip with center hero at Photo Size.
 
 Cards throw in, land, step forward in order, then throw off.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-scatter-settle.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-scatter-settle.mp4#t=2.5" %}
 
 
 ## When to use it
