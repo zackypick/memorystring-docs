@@ -12,6 +12,10 @@ Checkboxes:
 
 Plus **Randomize Selected** and **How often**. Clips below are real exports with that effect pinned.
 
+Watch lens effects play in a show:
+
+{% embed url="https://youtu.be/pypsTKsK7xA" %}
+
 ### Anamorphic Streaks
 
 Horizontal light bars across stage and card.
