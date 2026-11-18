@@ -12,7 +12,7 @@ Watch Carousel, 3D Ribbon, Filmstrip, Photo Stack, and Scatter & Settle play in 
 
 {% embed url="https://youtu.be/lKKIKFACmyc" %}
 
-Shorter looks are in [Group Transitions Part 1](https://youtube.com/shorts/B7qeAFquFtk) and [Group Transitions Part 2](https://youtube.com/shorts/kTFvl2KEadU).
+Shorter looks are in [Group Transitions Part 1](https://youtube.com/shorts/kxQDJMHyYVk) and [Group Transitions Part 2](https://youtube.com/shorts/H3RLFcZR8FQ).
 
 On a new show, photos from the same shoot stay together. A group does not mix two shoots. A two-shot series does not have to be a **Perspective Pair**. **Auto** may still pick Pair as one of the kinds. If a window would still mix two shoots, those photos stay single slides.
 
