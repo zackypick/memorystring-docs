@@ -10,7 +10,7 @@ Sometimes several photos share one moment: stacks, carousels, ribbons, and simil
 
 Watch Carousel, 3D Ribbon, Filmstrip, Photo Stack, and Scatter & Settle play in one show. In Studio mode, they live under Motion, then Transitions, in the Group Transitions list.
 
-{% embed url="https://youtu.be/B59sZ4n0GXc" %}
+{% embed url="https://youtu.be/lKKIKFACmyc" %}
 
 Shorter looks are in [Group Transitions Part 1](https://youtube.com/shorts/B7qeAFquFtk) and [Group Transitions Part 2](https://youtube.com/shorts/kTFvl2KEadU).
 
