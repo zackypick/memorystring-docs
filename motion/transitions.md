@@ -12,7 +12,7 @@ The checked boxes are the kinds this show uses. They match the timeline, includi
 
 Watch Single Transitions play in a show. This tutorial pins six kinds, then pins a seventh from the Timeline.
 
-{% embed url="https://youtu.be/rYW05G_0ZM0" %}
+{% embed url="https://youtu.be/s37Rexxuwek" %}
 
 A shorter look at three of them is in [Three Slide Transitions](https://youtube.com/shorts/IGZMaK-6H-s).
 
