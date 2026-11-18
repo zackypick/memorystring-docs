@@ -42,3 +42,7 @@
 * [Credits](credits.md)
 * [Support me](support-me.md)
 * [MCP Server](mcp.md)
+
+## Links
+
+* [TikTok](https://www.tiktok.com/@memorystring)
