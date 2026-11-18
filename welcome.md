@@ -23,11 +23,11 @@ If the App Store is not an option, [download the Mac installer](https://github.c
 
 ### How to use MemoryString
 
-{% embed url="https://www.codebyz.com/products/memory-string/how-to.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/how-to.mp4#t=2" %}
 
 ### Slideshow export example
 
-{% embed url="https://www.codebyz.com/products/memory-string/memories4.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/memories4.mp4#t=2" %}
 
 ### A show made with MemoryString
 
