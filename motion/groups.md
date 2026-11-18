@@ -10,9 +10,9 @@ Sometimes several photos share one moment: stacks, carousels, ribbons, and simil
 
 Watch Carousel, 3D Ribbon, Filmstrip, Photo Stack, and Scatter & Settle play in one show. In Studio mode, they live under Motion, then Transitions, in the Group Transitions list.
 
-{% embed url="https://youtu.be/Fh5_A9B1NFc" %}
+{% embed url="https://youtu.be/B59sZ4n0GXc" %}
 
-A shorter look is in [Group Transitions, on your Mac](https://youtube.com/shorts/4DaMyKX9P1Y).
+Shorter looks are in [Group Transitions Part 1](https://youtube.com/shorts/B7qeAFquFtk) and [Group Transitions Part 2](https://youtube.com/shorts/kTFvl2KEadU).
 
 On a new show, photos from the same shoot stay together. A group does not mix two shoots. A two-shot series does not have to be a **Perspective Pair**. **Auto** may still pick Pair as one of the kinds. If a window would still mix two shoots, those photos stay single slides.
 
