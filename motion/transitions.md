@@ -178,4 +178,4 @@ Checked kinds are the ones this show groups with. You can check every kind. A sh
 
 **Perspective Pair** is not forced. **Auto** may still pick it as one of the kinds. Uncheck it and those pairs become single slides. When there is room, another slide sits between the two shots. It stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again. Check it to bring the pairs back. **⌘Z** restores them.
 
-Details: [Multi-photo groups](groups.md). Watch [Group Transitions](https://youtu.be/Fh5_A9B1NFc).
+Details: [Multi-photo groups](groups.md). Watch [Group Transitions](https://youtu.be/B59sZ4n0GXc).
