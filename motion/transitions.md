@@ -51,119 +51,119 @@ One photo at a time. At least **one** transition type stays on. MemoryString has
 
 Slow zoom toward the focus point.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-ken-burns.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-ken-burns.mp4#t=2" %}
 
 
 ### Depth dissolve
 
 Photo sharpens from blur.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-depth-dissolve.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-depth-dissolve.mp4#t=2.5" %}
 
 
 ### Layers
 
 Outgoing photo fades while the next appears.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-layers.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-layers.mp4#t=2" %}
 
 
 ### Card flip
 
 Card flips in and out.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-card-flip.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-card-flip.mp4#t=0.5" %}
 
 
 ### Slide rotate
 
 Card slides in from off-screen and slides out.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-slide-rotate.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-slide-rotate.mp4#t=1" %}
 
 
 ### Spark slide
 
 Card slides with a spark trail.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-spark-slide.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-spark-slide.mp4#t=0.5" %}
 
 
 ### Sparkle wipe
 
 Glitter trail as the next photo arrives.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-sparkle-wipe.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-sparkle-wipe.mp4#t=0.8" %}
 
 
 ### Flying card
 
 Card moves through 3D space.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-flying-card.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-flying-card.mp4#t=1" %}
 
 
 ### Offset wash
 
 Photo on one side, color wash on the other.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-offset-wash.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-offset-wash.mp4#t=0.5" %}
 
 
 ### Punch-in
 
 Fast zoom through the frame.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-punch-in.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-punch-in.mp4#t=0.5" %}
 
 
 ### Spiral-in
 
 The card winds in on one spiral, about two turns, and keeps crawling through the hold. The exit continues the same way. A wash zooms behind it.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-spiral-in.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-spiral-in.mp4#t=0.5" %}
 
 
 ### Reveal from depth
 
 Photo pushes forward out of blur.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-reveal-from-depth.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-reveal-from-depth.mp4#t=4" %}
 
 
 ### Accordion fold
 
 Fold animation in and out.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-accordion-fold.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-accordion-fold.mp4#t=1" %}
 
 
 ### Contact sheet
 
 One sharp photo on a dim grid of the same image.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-contact-sheet.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-contact-sheet.mp4#t=1.5" %}
 
 
 ### Same-photo fan
 
 One photo with soft side copies.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-same-photo-fan.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-same-photo-fan.mp4#t=2" %}
 
 
 ### Motion trail
 
 Photo moves with a motion echo.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-motion-trail.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-motion-trail.mp4#t=0.5" %}
 
 
 ### Swirl-in
 
 The card comes in from far away while it turns about one and a half times, then sits face-front. The exit turns back out.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-swirl-in.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/trans-swirl-in.mp4#t=1.5" %}
 
 
 **Spiral-in** and **Reveal from depth** wind in slowly, so their slides run a little longer than the rest. They play at every **Energy**. Captions wait until the photo nearly lands.
