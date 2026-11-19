@@ -66,7 +66,7 @@ Soft documentary grayscale. White mat, rounded corners, soft transitions; no spa
 
 ### Golden Hour
 
-Warm late-day color. White mat, warm leak, stage sun wash, soft transitions. **Perspective Pair** every 8.
+Warm late-day color. White mat, warm leak, stage sun wash, soft transitions. **Perspective Pair** every 8. The sun stays off faces, titles, and the end card. The exit card stays the same warm color as the slides. Preview and export match.
 
 ![Golden Hour Look example frame](../.gitbook/assets/look-golden-hour.jpg)
 

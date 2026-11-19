@@ -4,7 +4,7 @@ description: "What's new in MemoryString 1.2.7, plus what comes next."
 
 # Roadmap
 
-MemoryString **1.2.7** refreshes the built-in music catalog (CC0), points Help links and support mail at memorystring.app, fixes Surprise me / Pick New Music, and smooths scrub heroes and wash seams. **1.2.6** closed the app when you closed the window and quieted crash reporting. **1.2.5** kept **Long story short** length steady after **Fit Show to Music**.
+MemoryString **1.2.7** refreshes the built-in music catalog (CC0), points Help links and support mail at memorystring.app, lets you zoom and aim the blurred backdrop, and keeps Golden Hour warm through the exit card. **1.2.6** closed the app when you closed the window and quieted crash reporting. **1.2.5** kept **Long story short** length steady after **Fit Show to Music**.
 
 ## What's new
 
@@ -18,6 +18,12 @@ MemoryString **1.2.7** refreshes the built-in music catalog (CC0), points Help l
 - Soft heroes after a fast scrub sharpen when you stop, instead of staying blurry until you click.
 - Soft-stack and other wash seams keep coverage through the crossfade so cream holes do not flash between slides.
 - Large imports stay responsive: identity hashing stays off the main thread so drops do not beach-ball.
+- The blurred backdrop zooms wide photos so a face sits beside the card, and seats a tall frame in the open blur above or below the card. The crop does not cut a head off the top.
+- Pinch, or hold **Command** and scroll, to zoom that blur from half the automatic crop to 2.5×. The same gesture works on the opening card. The pointer is a grab hand over the focus circle. Drag the circle to aim the blur.
+- **Golden Hour** keeps the sun off faces, titles, and the end card. The exit card stays the same warm color as the slides. The exported movie matches the preview.
+- When the show ends before the song does, the music fades out over about 5 seconds. A playlist song that would only start on the end card is left off.
+- **Studio** titles: **Match Closing Style** and **Go to Opening** sit under the opening words. **Match Opening Style** and **Go to Closing** sit under the closing words. Match copies the look once. It does not keep the two in sync.
+- **Help → YouTube Channel** opens the MemoryString channel. **Help → MemoryString Website** and **Help → Documentation** sit with it.
 
 **1.2.6**
 

@@ -59,6 +59,8 @@ Under **Tracks**, Inspector → **Audio** has a **Length** section: show clock v
 
 **Fit Show to Music** moves **Energy** (Calm through Intense) so the song covers the whole film, including the end card, and fades across the credit. Videos keep their length. Groups keep enough time when the show stretches to a longer song. The opening card follows the new **Energy** (about 7s, 6s, or 4s), unless you set its length by hand. A successful fit turns **Music Follows Show** off. If even Calm is too short or Intense is too long, Fit does nothing and the Audio tab says why. Also on **Library** Show menu → **Audio**, and **Edit → Timing**.
 
+When the show ends before the song does, the music fades out over about 5 seconds. A playlist song that would only start on the end card is left off, so nothing new begins on the credit.
+
 **Extend to Fill** keeps your tracks and adds music after them to cover the show.
 
 ## Audio tab bed actions

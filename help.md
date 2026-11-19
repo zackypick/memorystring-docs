@@ -4,7 +4,7 @@ description: "Get help with MemoryString: the walkthrough, rating the app, sendi
 
 # Help
 
-**Help → MemoryString Help…** (**⌘/** or the **?** button on the toolbar) opens this site.
+**Help → MemoryString Website** opens memorystring.app. **Help → Documentation** (**⌘/** or the **?** button on the toolbar) opens this site. **Help → YouTube Channel** opens the MemoryString channel.
 
 **Help → Show Walkthrough** runs the first-run tour again. Seven stops:
 
@@ -18,11 +18,11 @@ description: "Get help with MemoryString: the walkthrough, rating the app, sendi
 
 **Help → Rate MemoryString…** (and About) opens the App Store review page.
 
-**Help → Send Feedback…** always opens Apple Mail (to ms-feedback@codebyz.com). It never hands the address to the browser.
+**Help → Send Feedback…** always opens Apple Mail (to feedback@memorystring.app). It never hands the address to the browser.
 
-**Help → Report a Problem…** opens an Apple Mail draft to ms-report@codebyz.com with a sanitized crash zip attached. It includes technical details about the crash and your Mac model and system version. It does not include your media file names.
+**Help → Report a Problem…** opens an Apple Mail draft to reports@memorystring.app with a sanitized crash zip attached. It includes technical details about the crash and your Mac model and system version. It does not include your media file names.
 
-MemoryString can also send anonymous crash reports automatically so rare Mac crashes can be fixed faster. That is on by default. Turn it off anytime with **MemoryString → Share Crash Reports** (uncheck). Reports do not include your photos, music, or project filenames. Details: [Privacy Policy](https://www.codebyz.com/products/memory-string/privacy).
+MemoryString can also send anonymous crash reports automatically so rare Mac crashes can be fixed faster. That is on by default. Turn it off anytime with **MemoryString → Share Crash Reports** (uncheck). Reports do not include your photos, music, or project filenames. Details: [Privacy Policy](https://memorystring.app/privacy).
 
 **MemoryString → About MemoryString** shows version and creator info, plus Rate and Send Feedback.
 
