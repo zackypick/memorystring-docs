@@ -57,6 +57,18 @@ A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY)
 > **Esther**  
 > *Missionary wife, Christian school and seminary, El Salvador*
 
+> Philip Michaels at Six Colors (19 Oct 2026) called MemoryString a free iMovie alternative that gets you "to the finished product faster," with more control than Photos Memory Movie.
+>
+> [Read the App Report](https://sixcolors.com/post/2026/10/app-report-help-is-on-the-way/)
+
+> ★★★★★ **Superschnell Supereasy**
+>
+> *"Eine Slideshow für ein Geburtstag mit über 400 Fotos in gerade mal 20 Minuten erstellt. Top!"*
+>
+> English translation: Super fast, super easy. Made a birthday slideshow with over 400 photos in just 20 minutes. Top!
+>
+> [Electrocker, Mac App Store (Germany), Oct 2026](https://apps.apple.com/de/app/memorystring/id6806579257?see-all=reviews)
+
 ## Who made it
 
 Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved. Thanks: [Credits](credits.md).
