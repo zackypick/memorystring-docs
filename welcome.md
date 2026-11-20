@@ -23,18 +23,6 @@ Or get it on the [**Mac App Store**](https://www.codebyz.com/api/go/memory-strin
 
 <a href="https://www.youtube.com/@MemoryStringApp" class="button secondary" data-icon="youtube">Watch on YouTube</a> <a href="https://www.tiktok.com/@memorystring" class="button secondary" data-icon="tiktok">Follow on TikTok</a> <a href="https://alternativeto.net/software/memorystring/about/" class="button secondary">AlternativeTo</a>
 
-## What people say
-
-> Was looking for something quick to put all the pictures together for a graduation. It worked great!
->
-> **Esther**  
-> *Missionary wife, Christian school and seminary, El Salvador*
-
-> I love the automatic transitions without having to do them all myself.
->
-> **Esther**  
-> *Missionary wife, Christian school and seminary, El Salvador*
-
 ## Watch a demo
 
 ### How to use MemoryString
@@ -56,6 +44,18 @@ Watch the first-movie walkthrough:
 {% embed url="https://youtu.be/M9LE0RbdVtc" %}
 
 A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY). Step-by-step pages start at [Quick start](getting-started/quick-start.md). All tutorials are on the [MemoryString YouTube channel](https://www.youtube.com/@MemoryStringApp).
+
+## What people say
+
+> Was looking for something quick to put all the pictures together for a graduation. It worked great!
+>
+> **Esther**  
+> *Missionary wife, Christian school and seminary, El Salvador*
+
+> I love the automatic transitions without having to do them all myself.
+>
+> **Esther**  
+> *Missionary wife, Christian school and seminary, El Salvador*
 
 ## Who made it
 
