@@ -47,12 +47,7 @@ A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY)
 
 ## What people say
 
-> Was looking for something quick to put all the pictures together for a graduation. It worked great!
->
-> **Esther**  
-> *Missionary wife, Christian school and seminary, El Salvador*
-
-> I love the automatic transitions without having to do them all myself.
+> Was looking for something quick to put all the pictures together for a graduation. It worked great! I love the automatic transitions without having to do them all myself.
 >
 > **Esther**  
 > *Missionary wife, Christian school and seminary, El Salvador*
