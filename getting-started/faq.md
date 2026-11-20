@@ -162,6 +162,14 @@ Photos you import from the Photos app are copied onto your Mac, so the show can 
 
 <details>
 
+<summary>Why are we not using AI?</summary>
+
+MemoryString is a local app: your photos never leave your Mac, so there's no server for an AI model to run on or learn from. Adding cloud AI would mean uploading your family library to someone else's computer, which defeats the whole point. And as AI services get breached, anything sent to them can leak, including your kids' photos, the locations in their EXIF data, and your captions.
+
+</details>
+
+<details>
+
 <summary>Is there a limit on how many photos? Can I import 1,000?</summary>
 
 There is no fixed limit. Very large imports work, but importing several hundred files at once can use a lot of memory, and very long shows can feel heavy to edit. See [Known Issues](../known-issues.md).
