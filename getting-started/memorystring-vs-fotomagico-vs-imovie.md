@@ -11,7 +11,7 @@ Three Mac apps can turn photos into something you can watch. They solve differen
 MemoryString is a free Mac slideshow app. Drop a folder of photos, pick a Look, export an MP4. FotoMagico targets live presentations and pro slideshow editing. iMovie is Apple’s video editor for manual cutting. This page compares them honestly. MemoryString is not a full replacement for every job.
 
 {% hint style="success" %}
-**Get MemoryString free** on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare). No account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+**Get MemoryString free**: [Download MemoryString 1.2.7](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) (DMG installer, the newest version) or get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare). No account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 {% endhint %}
 
 ## See it in action
@@ -69,6 +69,6 @@ Every movie ends with a **Created with MemoryString** credit. There is no toggle
 
 ## Get it
 
-[**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare): free, no account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+[**Download MemoryString 1.2.7**](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) (DMG installer, free, the newest version) or get it on the [**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare) (version 1.2.6, currently under review for 1.2.7). No account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
 New here? [Quick start](quick-start.md) gets you to a finished movie.
