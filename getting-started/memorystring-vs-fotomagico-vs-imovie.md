@@ -14,6 +14,12 @@ MemoryString is a free Mac slideshow app. Drop a folder of photos, pick a Look, 
 **Get MemoryString free**: [Download MemoryString 1.2.7](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) (DMG installer, the newest version) or get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare). No account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 {% endhint %}
 
+**Your kids' faces are not training data.**
+
+## Who holds your photos
+
+As AI spreads, breaches will only get more common, and family photos are exactly what attackers want. Every cloud or AI slideshow service can be breached, and once photos are out they don't come back. A breach doesn't stop at the pictures: it takes the addresses in EXIF data, where each shot was taken, the dates, the people named in captions, a map of where your family actually is. MemoryString works differently: nothing is uploaded, no account is created, and no model ever sees your library.
+
 ## See it in action
 
 Watch MemoryString turn a folder of photos into a movie.
