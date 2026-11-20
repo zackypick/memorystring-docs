@@ -9,6 +9,8 @@ layout:
 
 # MemoryString
 
+**Your kids' faces are not training data.** MemoryString runs entirely on your Mac: nothing is uploaded, no account is created, and no model ever sees your library, so a cloud breach can't expose your family photos. [Read the privacy policy](https://memorystring.app/privacy).
+
 Drop a folder. Pick a Look. Hit Export. The anniversary reel can be on the family group chat before the cake is cut.
 
 That’s it. A film you’d actually send. Minutes, not an evening. Free, on your Mac.
