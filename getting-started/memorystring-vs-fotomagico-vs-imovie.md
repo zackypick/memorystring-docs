@@ -67,7 +67,7 @@ Apple Photos Memories is the free automatic memory movie built into Apple Photos
 
 ## Photopia is slideshow software
 
-Photopia (Photopia Creator and Director) is slideshow software by former ProShow developers, the successor to ProShow which closed January 31, 2020. Available on Windows and Mac, and can import old ProShow shows and effects. A dedicated slideshow tool. MemoryString is free and local-first on Mac.
+Photopia (Photopia Creator and Director) is slideshow software from former ProShow developers, made after ProShow's maker Photodex closed on January 31, 2020. Available on Windows and Mac, and can import old ProShow shows and effects. A dedicated slideshow tool. MemoryString is free and local-first on Mac.
 
 ## Pro video editors are overkill
 
