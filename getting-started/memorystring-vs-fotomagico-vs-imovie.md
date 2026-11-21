@@ -1,14 +1,14 @@
 ---
-description: "Honest comparison of MemoryString, FotoMagico, and iMovie. MemoryString is a free Mac slideshow app, not a FotoMagico replacement."
+description: "Honest comparison of MemoryString, FotoMagico, iMovie, Final Cut Pro, CapCut, Apple Photos Memories, and Photopia. MemoryString is a free Mac slideshow app, not a FotoMagico replacement."
 layout:
   width: wide
 ---
 
 # MemoryString vs FotoMagico vs iMovie
 
-Three Mac apps can turn photos into something you can watch. They solve different problems.
+Mac apps can turn photos into something you can watch. They solve different problems.
 
-MemoryString is a free Mac slideshow app. Drop a folder of photos, pick a Look, export an MP4. FotoMagico targets live presentations and pro slideshow editing. iMovie is Apple’s video editor for manual cutting. This page compares them honestly. MemoryString is not a full replacement for every job.
+MemoryString is a free Mac slideshow app. Drop a folder of photos, pick a Look, export an MP4. FotoMagico targets live presentations and pro slideshow editing. iMovie is Apple’s video editor for manual cutting. Final Cut Pro is a pro video editor. CapCut is a social creator's app. Apple Photos Memories makes automatic movies. Photopia is dedicated slideshow software. This page compares them honestly. MemoryString is not a full replacement for every job.
 
 {% hint style="success" %}
 **Get MemoryString free**: [Download MemoryString 1.2.7](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) (DMG installer, the newest version) or get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare). No account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
@@ -52,6 +52,26 @@ If you present in a hall with a clicker, need iPad authoring, or want layers and
 ## iMovie is a longer editing session
 
 iMovie lets you cut on a timeline with tracks and precise edits. MemoryString does not replace that. If you want a movie from a burst of similar photos for friends or family, MemoryString is built for that path.
+
+## Final Cut Pro is for serious video work
+
+Final Cut Pro is Apple's professional video editor for serious hobbyists and pros. Available on Mac and iPad with a one-time purchase on Mac, subscription on iPad. Very powerful for manual editing, but building a photo story means doing everything by hand: timing, motion, keyframes. MemoryString does that for you with [Looks](../style/looks.md) and automatic timing.
+
+## CapCut targets short social videos
+
+CapCut is ByteDance's free editor with paid Pro features, built for social creators making short vertical videos. Available on phones, desktop, and web. Template driven and cloud tied. MemoryString wins on local-first privacy and long photo stories with [Long story short](../long-story-short.md) handling trips up to 30 minutes.
+
+## Apple Photos Memories is effortless but limited
+
+Apple Photos Memories is the free automatic memory movie built into Apple Photos. Effortless but very little control over style, timing, or music. That control gap is what MemoryString fills: choose your own [Looks](../style/looks.md), [music](../music.md), [captions](../intro-captions.md), and shot selection with [Keep Best Shots](../auto-detection.md#keep-best-shots).
+
+## Photopia is slideshow software
+
+Photopia (Photopia Creator and Director) is slideshow software by former ProShow developers, the successor to ProShow which closed January 31, 2020. Available on Windows and Mac, and can import old ProShow shows and effects. A dedicated slideshow tool. MemoryString is free and local-first on Mac.
+
+## Pro video editors are overkill
+
+DaVinci Resolve and Premiere Pro are powerful professional video editors, but they are overkill for photo stories where MemoryString handles motion and timing automatically.
 
 ## MemoryString helpers, then export
 
