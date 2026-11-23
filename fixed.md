@@ -16,6 +16,7 @@ New features for each version are on [What's new](roadmap.md).
 * Soft heroes after a fast scrub sharpen when you stop, instead of staying blurry until you click.
 * Soft-stack and other wash seams keep coverage through the crossfade (no cream flash between slides).
 * Large imports stay responsive  -  identity work stays off the main thread so drops do not beach-ball.
+* Large projects: the Library and timeline no longer feel heavy on shows with many clips.
 * Crash upload stays silent; no false “app hung” sheet while a report sends.
 * **Help → Send Feedback…** / **Report a Problem…** open Apple Mail drafts (with a crash zip for Report a Problem).
 
@@ -35,6 +36,8 @@ New features for each version are on [What's new](roadmap.md).
 
 Since the **1.2.2** App Store build (no separate 1.2.3 release).
 
+* Import from Photos: album and people cover thumbnails no longer stall on first load in large Photos libraries.
+* Importing several hundred assets at once no longer spikes memory use.
 * Clicking the spot Auto already chose for focus keeps the same background blur, and no longer makes the background jump.
 * Adding media waits until an import, **Long story short**, or opening a show has finished, so nothing gets lost.
 * Checking a lens box when none were checked keeps that effect on the slide. **How often** stays off until **Randomize Selected** or **Refract Bubbles** is on.
