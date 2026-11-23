@@ -191,7 +191,7 @@ Very little. A few small helpers (like picking the best of similar shots) run on
 
 <summary>Is there a limit on how many photos? Can I import 1,000?</summary>
 
-There is no fixed limit. Very large imports work, but importing several hundred files at once can use a lot of memory, and very long shows can feel heavy to edit. See [Known Issues](../known-issues.md).
+There is no fixed limit. Very large imports work, and very long shows can feel heavy to edit. See [Known Issues](../known-issues.md).
 
 Most people find a show over about 10 minutes long to sit through, so a shorter cut usually works better.
 
