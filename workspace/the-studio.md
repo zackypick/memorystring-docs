@@ -4,11 +4,7 @@ description: "A tour of the MemoryString window: Library, Outtakes, Preview, Ins
 
 # The Studio
 
-You step into the Studio.
-
-This wasn’t built just to produce the best slideshows you’ve ever made. It was built so that working on them feels like something. The oak and the gold are the room you live in while you create.
-
-Most apps treat the workspace like a factory floor. We treated it like a place you’d want to spend an evening. Because you will.
+The Studio is where you build your movie: a warm, oak-and-gold workspace with everything on one screen.
 
 ## The panes
 
@@ -46,7 +42,7 @@ Photos and videos for this show. The column splits into **Takes** (the show grid
 
 ![Library: Takes on top, Outtakes below](../.gitbook/assets/library-photos.png)
 
-**View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it, it snaps to whole columns of cards. The width is remembered.
+**View → Toggle Sidebar** (**⌃⌘S**) slides the column open and closed. Drag the **vertical divider** on its right edge to widen or narrow it. It snaps to whole columns of cards. The width is remembered.
 
 More: [Library](../library.md).
 
@@ -78,7 +74,7 @@ Style, Titles, Audio, and Format in **Essential**. **Studio** adds **Motion** an
 
 ![Inspector in Studio: Style, Titles, Motion, Audio, Format](../.gitbook/assets/window-inspector-studio.gif)
 
-The Inspector toggle (**⌥⌘I**) slides the column open and closed, it does not remount the preview.
+The Inspector toggle (**⌥⌘I**) slides the column open and closed.
 
 More: [Essential and Studio](essential-studio.md).
 
@@ -112,4 +108,4 @@ Chrome, not captions. **View → Increase / Decrease / Default Text Size** (**�
 
 Forgot the first-run tour? **Help → Show Walkthrough** plays it again. Marks sit on the live title-bar **+**, Essential/Studio, and **Export**. Seven stops: **Bring in moments** → **Your Library** → **Shape the story** → **Watch it come alive** → **Make it yours** → **Share your memory** → **Essential or Studio**. Full lines: [Help](../help.md).
 
-**MemoryString → Reset All Settings…** restores app preferences only (mode, text size, chrome layout, library badges, walkthrough flag). It does **not** change the open slideshow. Your photos stay put; only the chrome forgets your habits.
+**MemoryString → Reset All Settings…** restores app preferences only (mode, text size, and layout). It does **not** change the open slideshow. Your photos stay put; only the chrome forgets your habits.

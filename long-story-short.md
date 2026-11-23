@@ -47,9 +47,9 @@ Same on every import path: **+**, Finder drop, **Import from Photos…**, Photos
 
 The show plays in date order. The length lands within about 10 seconds of the minute you picked.
 
-While it works you may see **Making a long story short...**, **Checking M of N photos…**, **Picking the best shots...**, **Reviewing M of N...**, **Straightening M of N...**, **Arranging N shots…**, and **Finding focus M of N…**. While it fits the length, the line shows the clock so far, such as **2:23 of 10:00**. Kept shots are upright before the movie is laid out. Focus lands on a face, not the middle of the frame. After **Finding focus** finishes, the show comes up. It does not sit on that last count. **Cancel** on the Duration sheet changes nothing. **Cancel** while it is building puts the previous show back. See [Orientation](auto-detection.md#orientation).
+While it works, a progress line shows how far it has got. Kept shots are turned upright and focus lands on faces before the movie is laid out. **Cancel** on the Duration sheet changes nothing. **Cancel** while it is building puts the previous show back. See [Orientation](auto-detection.md#orientation).
 
-**Add**, **+**, Import Media, Import from Photos, Music, and drops stay grey while Long story short is running. They unlock when it finishes, including after Close, Open, or Cancel. Hover: **Wait until Long story short finishes**.
+Adding media waits until Long story short finishes or you cancel it.
 
 ## After it runs
 

@@ -14,7 +14,7 @@ The opening card is full bleed. It fills the stage. It is not a floating photo c
 
 **Stage** is **Match**, **Dark**, or **Light**. **Match** follows Style → Stage. Title ink follows that stage (light ink on Dark, dark ink on Light) until you pick a color.
 
-**Studio → Intensity** is how loud the photo behind the title is. It follows Style → Stage Intensity until you move it. **Match Show** puts it back. The wash eases into the first slide.
+**Studio → Intensity** sets how strongly the photo behind the title shows. It follows Style → Stage Intensity until you move it. **Match Show** puts it back. The wash eases into the first slide.
 
 Opening length follows **Energy** on its own timing: about **7s** at Calm, **6s** at default, **4s** at Intense. Photo stills use shorter holds at high Energy. See [Looks → Energy](style/looks.md#energy).
 
@@ -22,7 +22,7 @@ Opening length follows **Energy** on its own timing: about **7s** at Calm, **6s*
 
 Long opening or closing text **wraps on its own** when it does not fit one line.
 
-To start a new line on purpose, press **Shift+Enter** (on stage after a double-click, or in the Titles field). On stage, plain **Enter** finishes editing. In the Titles field, plain **Enter** keeps you in the field.
+To break a title into lines, pause, **double-click** the title in the Preview to edit it in place, then press **Shift+Enter**. The fields in the inspector don't take line breaks. On stage, plain **Enter** finishes editing.
 
 Up to three lines on the opening card. Closing words allow a few more.
 
@@ -69,7 +69,7 @@ Export **Save As** prefers the opening title. See [Format and export](export.md#
 
 Right-click the opening card → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect**. With a background still, **Rotate & Flip** turns the photo, not the title.
 
-**Reset Titles to Defaults** turns the opening card back on, as in a new project, and restores its text, font, colour, size, alignment, frame, motion, and decoration. It clears the opening background photo or video (and that photo's dim, soften, and slow zoom) and clears closing words. It does not clear slide captions. To drop only the opening background, use **Remove** in the background well. Hover the button for the same wording.
+**Reset Titles to Defaults** turns the opening card back on, as in a new project, and restores its text, font, color, size, alignment, frame, motion, and decoration. It clears the opening background photo or video (and that photo's dim, soften, and slow zoom) and clears closing words. It does not clear slide captions. To drop only the opening background, use **Remove** in the background well. Hover the button for the same wording.
 
 ## Background (Essential and Studio)
 
@@ -99,8 +99,8 @@ Optional last line on the existing end card, above **Created with MemoryString**
 
 **Titles → Closing → Show closing words**.
 
-- Pause on the end card and **double-click** to edit on stage
-- Same wrap and **Shift+Enter** as the opening title
+- Pause on the end card and **double-click** the closing words in the Preview to edit them in place
+- To break the closing words into lines, press **Shift+Enter** after that double-click. The fields in the inspector don't take line breaks
 - The end card stays about three seconds. There is no duration slider
 - **Studio:** **Match Opening Style** copies the opening look once. It does not keep the two in sync. **Go to Closing** parks the playhead on the end card.
 

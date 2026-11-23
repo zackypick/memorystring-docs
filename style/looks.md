@@ -30,13 +30,13 @@ A Look with many lens boxes still plays **at most one** lens effect per photo. S
 
 ### Clean
 
-Minimal style. White matte, soft shadow, **Large** Photo Size, grayscale backdrop, **Light** stage, soft transitions (Ken Burns, depth dissolve, reveal from depth). Stacks + carousel at defaults; **Perspective Pair** every 6. A new show starts here.
+Minimal style. White mat, soft shadow, **Large** Photo Size, grayscale backdrop, **Light** stage, soft transitions (Ken Burns, depth dissolve, reveal from depth). Stacks + carousel at defaults; **Perspective Pair** every 6. A new show starts here.
 
 ![Clean Look example frame](../.gitbook/assets/look-clean.jpg)
 
 ### Polaroid
 
-Instant-print feel. White matte with thick bottom margin, curl, gentle wind, playful transitions (card flip, slide, sparks, contact sheet). Dense stacks; carousel; **Perspective Pair** every 8.
+Instant-print feel. White mat with thick bottom margin, curl, gentle wind, playful transitions (card flip, slide, sparks, contact sheet). Dense stacks; carousel; **Perspective Pair** every 8.
 
 ![Polaroid Look example frame](../.gitbook/assets/look-polaroid.jpg)
 

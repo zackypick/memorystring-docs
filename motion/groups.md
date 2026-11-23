@@ -8,15 +8,21 @@ Sometimes several photos share one moment: stacks, carousels, ribbons, and simil
 
 ![3D Ribbon and Carousel cadence](../.gitbook/assets/inspector-motion-groups.png)
 
+Watch Carousel, 3D Ribbon, Filmstrip, Photo Stack, and Scatter & Settle play in one show. In Studio mode, they live under Motion, then Transitions, in the Group Transitions list.
+
+{% embed url="https://youtu.be/lKKIKFACmyc" %}
+
+Shorter looks are in [Group Transitions Part 1](https://youtube.com/shorts/kxQDJMHyYVk) and [Group Transitions Part 2](https://youtube.com/shorts/H3RLFcZR8FQ).
+
 On a new show, photos from the same shoot stay together. A group does not mix two shoots. A two-shot series does not have to be a **Perspective Pair**. **Auto** may still pick Pair as one of the kinds. If a window would still mix two shoots, those photos stay single slides.
 
 Uncheck **Perspective Pair** and those pairs become single slides. When there is room, another slide sits between the two shots. Pair stays off after **Shuffle**, a length change, reopening the project, and clicking the **Look** again. Check it to bring the pairs back. **⌘Z** restores them.
 
 After **Long story short**, groups are dealt across the finished show, the same way **Shuffle** does, with the usual gap between them, not back to back.
 
-Each hero moment inside a group uses about **72.5%** of a normal slide’s time. Groups need at least **two** normal slides between windows. **Carousel**, **3D Ribbon**, and **Filmstrip** also keep at least **four** normal slides between travel-style windows.
+Each photo in a group gets a little less time than a normal slide. Groups need at least **two** normal slides between windows. **Carousel**, **3D Ribbon**, and **Filmstrip** also keep at least **four** normal slides between travel-style windows.
 
-With several kinds on, one planner places windows evenly. **Shuffle** on the Transitions panel keeps the kinds you checked and redraws the rest.
+With several kinds on, groups are spaced evenly through the show. **Shuffle** on the Transitions panel keeps the kinds you checked and redraws the rest.
 
 If you drag slides by hand, those groups **pin** to those photos. Deleting a slide, moving a slide, or changing a group's transition leaves the other groups where they are. None appear or vanish. Sort, shuffle slides, or **Reset Motion to Defaults** lets the planner place groups again.
 
@@ -37,7 +43,7 @@ Videos in a group play in their seat. Unmuted video audio plays only while that 
 
 Fanned pile with backdrop washes behind. The blurred backdrop shows the people in the photo, not the empty room.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-photo-stack.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-photo-stack.mp4#t=2" %}
 
 
 ## Carousel
@@ -48,7 +54,7 @@ Fanned pile with backdrop washes behind. The blurred backdrop shows the people i
 
 Cards join a ring, rotate, then leave.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-carousel.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-carousel.mp4#t=1.5" %}
 
 
 ## 3D Ribbon
@@ -59,7 +65,7 @@ Cards join a ring, rotate, then leave.
 
 Depth belt with one hero at a time.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-ribbon.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-ribbon.mp4#t=2" %}
 
 
 ## Perspective Pair
@@ -69,7 +75,7 @@ Depth belt with one hero at a time.
 
 Two-card cover flow: front becomes hero, then moves aside.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-perspective-pair.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-perspective-pair.mp4#t=1.2" %}
 
 
 ## Filmstrip
@@ -80,7 +86,7 @@ Two-card cover flow: front becomes hero, then moves aside.
 
 Flat strip with center hero at Photo Size.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-filmstrip.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-filmstrip.mp4#t=2" %}
 
 
 ## Scatter & Settle
@@ -94,7 +100,7 @@ Flat strip with center hero at Photo Size.
 
 Cards throw in, land, step forward in order, then throw off.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-scatter-settle.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/group-scatter-settle.mp4#t=2.5" %}
 
 
 ## When to use it
@@ -106,6 +112,8 @@ Cards throw in, land, step forward in order, then throw off.
 - **Filmstrip**: horizontal or vertical strip
 - **Scatter & Settle**: tossed cards on stage
 - **How many at 0**: one photo at a time with single-slide transitions
+
+The walkthrough above shows five of these kinds. Perspective Pair is not in that video.
 
 ## Timeline / Library
 

@@ -6,6 +6,12 @@ description: "From an empty project to an exported MemoryString movie: import, o
 
 This guide gets you from empty project to exported movie in a few steps. For a guided tour, use **Help → Show Walkthrough**, or [watch the demos](../welcome.md#watch-a-demo).
 
+Watch the first-movie walkthrough:
+
+{% embed url="https://youtu.be/M9LE0RbdVtc" %}
+
+A shorter overview is in [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY). There is also [a tour of the MemoryString window](https://youtu.be/LFCqu23v3gw).
+
 ![Empty project: drop media or use Add photos & videos](../.gitbook/assets/empty-start.png)
 
 ## 1. Start a project
@@ -16,26 +22,30 @@ You always edit a `.memorystring` project file.
 - **File → Open…** (**⌘O**), **Open Recent**, or drop a `.memorystring` file on the window.
 - The app autosaves after you save once. Use **⌘S** / **⇧⌘S** anytime. **⌘Q** also asks to save untitled work.
 
+Watch [Save and open projects](https://youtu.be/R0rdqTwATEY).
+
 ## 2. Import media
 
 Imported photos and videos appear in the **Library** on the left.
 
-Folder and Finder imports stay **linked** to the original files. Media from **Photos.app** is **copied** into Application Support **Imports** because Photos does not allow stable links. Pasted screenshots with no file are copied the same way. See [Library](../library.md#import).
+Folder and Finder imports stay **linked** to the original files. Media from **Photos.app** is **copied** into MemoryString's own storage on your Mac, because Photos does not let apps link to its files. Pasted screenshots with no file are copied the same way. See [Library](../library.md#import).
 
 1. Toolbar **+** → **Photos & Videos…**, or **File → Import Media…**
 2. Or **File → Import from Photos…** (also on **+**): **Recent**, **Albums**, **People**, **By Month**, **Trips & Events**, **Media Type**
 3. Or drop folders, photos, or videos on the window (including from Photos.app).
 4. Or paste (**⌘V**).
 
+Watch [Add photos and videos](https://youtu.be/VX7dxffh5TI) and [Import from Photos](https://youtu.be/N0LQz04pFV0).
+
 ![Toolbar + : Photos & Videos, Import from Photos, Music, Royalty-Free Library](../.gitbook/assets/toolbar-plus-menu.png)
 
 ![Import from Photos sheet](../.gitbook/assets/photos-import-hub.png)
 
-An empty **Library** shows **Nothing in library yet**. The preview area accepts drops. Hover hint for media: **Gather the thread**. Hover hint for a project file: **Bring back memories**.
+You can also drop media straight onto the empty preview.
 
-While the stage loader runs, drops are ignored. First import title: **Stringing it together...** with **Importing N of M...** and **Cancel**. **Add**, **+**, and Import stay grey. Hover: **Wait until this import finishes**. Opening a project: **It's coming back now...** (no count). **Add**, **+**, and Import stay grey until the show is back. The loader is a spinner with a smoke animation.
+While MemoryString imports or opens a show, adding more media waits until it finishes.
 
-After the show has clips, a media drop reads **Add to story**. **Keep Best Shots** waits until the loader clears.
+**Keep Best Shots** waits until the import finishes.
 
 **Photos:** `.jpg` / `.jpeg` / `.jfif`, `.png`, `.heic` / `.heif`, `.tif` / `.tiff`, `.webp`, `.bmp`, `.gif`  
 **Videos:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.mkv`, `.mpg` / `.mpeg`, `.m2v`
@@ -44,7 +54,7 @@ Other types are skipped.
 
 Got a whole trip? Use [Long story short](../long-story-short.md) (**File → Long story short**). Pick a length and it builds the movie from your best shots. An import that would put more than **150** photos and videos on the show offers it first.
 
-After import, **Keep Best Shots** may appear when similar photo groups are found. Extras move to **Outtakes**, where you can double-click one to **Peek** at it. Videos are **not** auto-trimmed on import. Right-click a clip → **Auto Trim**, or use the **Library** Show menu. Sideways photos and videos are already upright. See [Auto Trim](../auto-detection.md#auto-trim) and [Orientation](../auto-detection.md#orientation).
+After import, **Keep Best Shots** may appear when similar photo groups are found. Extras move to **Outtakes**, where you can double-click one to **Peek** at it. Videos are **not** auto-trimmed on import. Right-click a clip → **Auto Trim**, or use the **Library** Show menu. Sideways photos and videos are already upright. See [Auto Trim](../auto-detection.md#auto-trim) and [Orientation](../auto-detection.md#orientation). Watch [Keep Best: the best shot from every burst](https://youtu.be/-m5ZBxgk9OI).
 
 ## 3. Order the story
 
@@ -58,7 +68,7 @@ More detail: [Organizing](../organizing.md).
 
 ## 4. Preview
 
-Press **Space** or use **Play/Pause** under the preview. Click or drag the playhead to scrub. Hover the **Timeline** photo lane to peek. See [Preview](../preview.md#playback).
+Press **Space** or use **Play/Pause** under the preview. Click or drag the playhead to scrub. Hover the **Timeline** photo lane to peek. See [Preview](../preview.md#playback). Watch [Preview and playback](https://youtu.be/5PAx37PYExw).
 
 ## 5. Music
 
@@ -66,7 +76,7 @@ Soundtrack lives in Inspector → **Audio** and on the **Audioline**, not in the
 
 After the first photos land, **Music Follows Show** (on by default) adds bundled tracks from the current **Look** mood pool. Use **Pick New Music**, **Extend to Fill**, **Surprise me**, or **Fit Show to Music** on the Audio tab. Toolbar **+** → **Music…** or **Royalty-Free Library…**.
 
-To trim a song, select it on the **Audioline**, scrub to the moment you want, then **Set Start Here** / **Set End Here**. See [Music](../music.md#audition-the-audioline).
+To trim a song, select it on the **Audioline**, scrub to the moment you want, then **Set Start Here** / **Set End Here**. See [Music](../music.md#audition-the-audioline). Watch [Add music in one click](https://youtu.be/Vsa7V2BLGyk).
 
 ## 6. Polish (optional)
 
@@ -78,8 +88,12 @@ Open the Inspector (**⌥⌘I**) for more control:
 - **Audio**: playlist, **Music Follows Show**, **Fit Show to Music** / **Extend to Fill** / **Surprise me**
 - **Format**: aspect / Social Safe (Instagram first among Social swatches)
 
+Watch [The eight Looks](https://youtu.be/uUJ9RTxCVR8), [Energy, Photo Size and Stage](https://youtu.be/t4SyO4p5F5Y), [Essential and Studio modes](https://youtu.be/K3CKUj1hrwA), and [Opening title and closing words](https://youtu.be/uVcnvhG28uo).
+
 ## 7. Export
 
 Toolbar **Export** or **File → Export Movie…** (**⌘E**). Choose format, resolution, quality (Compact / Share / High / Best), and frame rate. Click **Export**. Check **Screensaver** for a looping display movie (no audio, skips the opening card). Wait for **Creating memory…**.
 
 You get an H.264 MP4. Every exported movie (except Screensaver) ends with a **Created with MemoryString** credit. The app is free, and the credit helps more people find it.
+
+Watch [Export your movie](https://youtu.be/oXZNbhkYRys).

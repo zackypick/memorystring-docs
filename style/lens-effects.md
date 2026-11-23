@@ -6,89 +6,93 @@ description: "All MemoryString lens effects with example clips: Anamorphic Strea
 
 Lens effects add optical light on the frame. **Studio** → **Style** → **Customize** → **Lens Effects**.
 
-Checkboxes (A–Z order in the app):
+Checkboxes:
 
 **Anamorphic Streaks, Bokeh, Flare, Ghosting, Orbs, 50mm Prime, Pulse, Refract Bubbles, Sparkle, Starburst, Sweep, Veiling Glare, Vignette**
 
 Plus **Randomize Selected** and **How often**. Clips below are real exports with that effect pinned.
 
+Watch lens effects play in a show:
+
+{% embed url="https://youtu.be/pypsTKsK7xA" %}
+
 ### Anamorphic Streaks
 
 Horizontal light bars across stage and card.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-anamorphic-streaks.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-anamorphic-streaks.mp4#t=2" %}
 
 ### Bokeh
 
 Soft out-of-focus circles.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-bokeh.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-bokeh.mp4#t=2" %}
 
 ### Flare
 
-Hexagonal flare beam. It sits on the photo with the grain, including while you scrub, not only after you click a clip.
+Hexagonal flare beam.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-flare.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-flare.mp4#t=2" %}
 
 ### Ghosting
 
 Chromatic ghost copies along the flare.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-ghosting.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-ghosting.mp4#t=2" %}
 
 ### Orbs
 
 Warm and cool discs drifting.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-orbs.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-orbs.mp4#t=2" %}
 
 ### 50mm Prime
 
 Central glow with soft orbs along the flare line.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-50mm-prime.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-50mm-prime.mp4#t=2" %}
 
 ### Pulse
 
 Small discs pulsing near the focus point.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-pulse.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-pulse.mp4#t=2" %}
 
 ### Refract Bubbles
 
 Glass spheres that bend the image at the sides.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-refract-bubbles.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-refract-bubbles.mp4#t=2" %}
 
 ### Sparkle
 
 Soft dust motes.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-sparkle.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-sparkle.mp4#t=2" %}
 
 ### Starburst
 
 Diffraction spikes from a bright point.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-starburst.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-starburst.mp4#t=2" %}
 
 ### Sweep
 
 Soft discs sweeping across the frame.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-sweep.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-sweep.mp4#t=2" %}
 
 ### Veiling Glare
 
 Soft highlight bloom.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-veiling-glare.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-veiling-glare.mp4#t=2" %}
 
 ### Vignette
 
 Darker edges around the print.
 
-{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-vignette.mp4" %}
+{% embed url="https://www.codebyz.com/products/memory-string/catalog/lens-vignette.mp4#t=2" %}
 
 Each photo plays **at most one** pooled lens effect. The choice is stable for that photo.
 

@@ -2,9 +2,11 @@
 description: "What's new in MemoryString 1.2.7, plus what comes next."
 ---
 
-# Roadmap
+# What's new
 
 MemoryString **1.2.7** refreshes the built-in music catalog (CC0), points Help links and support mail at memorystring.app, lets you zoom and aim the blurred backdrop, and keeps Golden Hour warm through the exit card. **1.2.6** closed the app when you closed the window and quieted crash reporting. **1.2.5** kept **Long story short** length steady after **Fit Show to Music**.
+
+Bug fixes are listed by version on [Fixed](fixed.md).
 
 ## What's new
 
@@ -28,38 +30,31 @@ MemoryString **1.2.7** refreshes the built-in music catalog (CC0), points Help l
 **1.2.6**
 
 - Closing the main window (red button or **⌘W**) quits the app. Untitled work with content asks **Save** / **Don't Save** / **Cancel** first.
-- **MemoryString → Settings…** (**⌘,**) opens MCP Server as a sheet on the main window (Close or Escape dismisses it, including after the sheet finishes closing). There is no separate Settings window.
-- Anonymous crash reports can go to the makers automatically so rare Mac crashes get fixed faster. On by default. Turn off anytime with **MemoryString → Share Crash Reports**. Reports do not include your photos, music, or project filenames.
+- **MemoryString → Settings…** (**⌘,**) opens MCP Server as a sheet on the main window. **Close** or Escape dismisses it. There is no separate Settings window.
 - Turning **Music Follows Show** back on refills a short music bed so the song covers the show again.
 - **Fit Show to Music** keeps group timing when it stretches the show to a longer song.
 - Opening or closing a **Studio** title font menu previews that face on the stage. The choice sticks only when you click a name.
 
 **1.2.5**
 
-- **Long story short** keeps the same longest length after **Fit Show to Music**, unless you moved **Energy** yourself.
-- A rebuild starts clean: hand-set slide lengths, transitions, and lens choices clear. Look, energy, rotation, captions, music, titles, cover, and muted videos stay.
+- A **Long story short** rebuild starts clean: hand-set slide lengths, transitions, and lens choices clear. Look, energy, rotation, captions, music, titles, cover, and muted videos stay.
 - On a full-body photo, the person sits beside the card so the place stays in the blur.
-- Changing Look updates the card border while you scrub.
-- On an empty project, Escape closes the **Add photos & videos** menu.
 - **Reset Titles to Defaults** says what it restores, and clears the opening background and closing words.
 
 **1.2.4** (since the **1.2.2** App Store build)
 
-- **Fit Show to Music** covers the whole film, including the end card, and turns **Music Follows Show** off.
-- **Titles** holds the opening card and optional **closing words** on the end card.
-- **Music Follows Show** keeps the soundtrack with the Look. Turn it off to keep your playlist when you change Looks.
-- **Peek** inspects a parked Outtake. **Studio** font menus list every font on this Mac.
-- Scenic and person+pet backdrops keep the place and both subjects in the blur.
-- **Add** / Import stay grey during Long story short, Stringing it together, and while a saved show opens.
-- Someone lying down stays as shot. Rotate turns the backdrop with the card.
-- Paste and Photos drag no longer stick the loader. Grain and hex flare sit on the photo while you scrub. Long shows stream music.
+- **Fit Show to Music** moves **Energy** so the song covers the whole film, including the end card, and fades across the credit. It turns **Music Follows Show** off. Your own tracks stay. See [Music](music.md#length).
+- **Titles** holds the **opening card** and optional **closing words**. Closing words sit on the existing end card, above **Created with MemoryString**, and stay off until you turn them on. See [Titles and captions](intro-captions.md).
+- **Music Follows Show** keeps the soundtrack with the Look. It is on by default. Turn it off to keep your playlist when you change Looks. See [Music](music.md#music-follows-show).
+- **Peek**: double-click an Outtake, or right-click → **Peek**, to look at a parked shot over the preview without putting it on the show. See [Library](library.md#outtakes).
+- **Studio fonts**: captions, the opening title, and closing words can use any font installed on this Mac, each name drawn in its own type. See [Titles and captions](intro-captions.md#fonts-studio).
+- Scenic and person-and-pet backdrops keep the place and both subjects in the blur.
 
 **1.2.2**
 
-- A big **Long story short** import no longer sits stuck after **Importing M of N** or **Finding focus M of N**.
 - **Library** Show menu → **Videos** can **Mute Noisy Videos**, **Mute All Videos**, and **Unmute All Videos**. Wind and hiss go quiet; talking, music, and sharp hits stay. Opening a show re-checks.
 - On a group photo, the blurred backdrop shows the people in the photo, not the empty room.
-- Same 63 bundled songs, about 36 MB smaller.
+- The 50 bundled songs take about 36 MB less space.
 
 **1.2.1**
 
@@ -67,48 +62,23 @@ MemoryString **1.2.7** refreshes the built-in music catalog (CC0), points Help l
 
 **1.2.0**
 
-- The intro is full bleed and follows the show’s stage. **Intensity** follows Stage Intensity until you pin it. The wash eases into the first slide. **Allow Access** is the one Photos button.
+- The intro is full bleed and follows the show’s stage. **Intensity** follows Stage Intensity until you change it. The intro eases into the first slide.
 - A new show is **Clean** on the **Light** stage. **Cinematic** stays on **Dark**. **Clean** and **Crisp** use a grayscale backdrop. **Polaroid** and **Golden Hour** stay in color.
-- The backdrop covers the stage and is never mirrored. A face that would hide behind the card zooms into the open side. **Backdrop Seat** is gone.
-- **Long story short** finds each face (**Finding focus M of N…**) and deals groups across the finished show, the same way **Shuffle** does.
-- Dragging photos from **Outtakes** back to **Takes** finds that focus without freezing the window.
+- The backdrop covers the stage and is never mirrored. A face that would hide behind the card moves into the open side.
+- **Long story short** finds each face and deals groups across the finished show, the same way **Shuffle** does.
 - You can check every group kind. **Auto** still picks a short list from the length of the show, and never more than three.
 
-**1.1.3**, since the **1.1.2** App Store build.
+**1.1.3** (since the **1.1.2** App Store build)
 
 - **Motion → Transitions.** Checked boxes are the kinds this show uses. **How many** and **Auto** set how many single-slide transitions and group kinds, and the list grows with the show. **Shuffle** keeps kinds you checked. Each change re-cuts the show.
 - **Photo series.** Photos from the same shoot stay in one group. A group does not mix two shoots.
-- **Long story short.** The Duration sheet leaves the show alone until **Create**. The offer is the nearest minute that show can fill. While it looks, it says **Checking M of N photos…**. A series stays one group. Near-duplicates are not side by side.
+- **Long story short.** The Duration sheet leaves the show alone until **Create**. The offer is the nearest minute that show can fill. A series stays one group. Near-duplicates are not side by side.
 - **Keep Best** flags the same moment in the same framing. A different pose stays.
-- **Photos import** moves through **Importing M of N** faster.
+- Imports from Photos are faster.
 - **Pinned groups** stay when you delete, move, or change a transition. **Ungroup** keeps the mix on the other slides.
-- A show that ends on a group fades into the end card.
 - New shows start **Stage Intensity** at **50%** on Dark and **80%** on Light.
-- Scrub still follows after an edit.
-- **Go to Start** (|◀) sits beside **Timeline**. It jumps the playhead to **0:00** and scrolls a zoomed filmstrip back to the start. Same as **⌥⌘←**. It lights up when you hover it.
-- After **Long story short**, groups sit with the usual gap between them, not back to back. **Perspective Pair** can be turned off like any other group kind. A two-shot series does not have to be a pair. **Auto** may still pick Pair as one of the kinds.
-
-## This release
-
-### **Fit Show to Music**
-
-**Fit Show to Music** moves **Energy** so the song covers the whole film, including the end card, and fades across the credit. It turns **Music Follows Show** off. Your own tracks stay. See [Music](music.md#length).
-
-### **Titles and closing words**
-
-Inspector → **Titles** holds the **opening card** and optional **closing words**. Closing words sit on the existing end card, above **Created with MemoryString**. They stay off until you turn them on. See [Titles and captions](intro-captions.md).
-
-### **Music Follows Show**
-
-On by default. After the first photos or videos land, MemoryString adds a bundled track from the current **Look**. A successful **Fit Show to Music** turns **Music Follows Show** off. See [Music](music.md#music-follows-show).
-
-### **Peek**
-
-Double-click an Outtake, or right-click → **Peek**, to look at a parked shot over the preview. It does not join the show or move the playhead. See [Library](library.md#outtakes).
-
-### **Studio fonts**
-
-Captions, the opening title, and closing words can use any font installed on this Mac. **System** stays first, then A–Z. Each name is drawn in that type. See [Titles and captions](intro-captions.md#fonts-studio).
+- **Go to Start** (|◀) sits beside **Timeline**. It jumps the playhead to **0:00** and scrolls a zoomed filmstrip back to the start. Same as **⌥⌘←**.
+- After **Long story short**, groups sit with the usual gap between them, not back to back. **Perspective Pair** can be turned off like any other group kind.
 
 ## Earlier releases
 
@@ -125,23 +95,3 @@ Captions, the opening title, and closing words can use any font installed on thi
 ### **1.0**
 
 **Photos import**, **Outtakes**, and **Auto Trim**. Also a compact export dialog, screensaver export, timeline multi-select, rebuilt Timing and Rotate & Flip menus, video duration on library thumbs, and an update notice in the footer and app menu.
-
-## Coming next
-
-In this order.
-
-### **Auto Enhance**
-
-Optional gentle exposure and clarity on photos already in the show. It is not a second Look system. Off by default. Your **Look** still defines the movie.
-
-### **Motion pins**
-
-**Studio.** Pin direction on one slide or group. Enter from the left or right, filmstrip travel left or right (or up or down when vertical). Right-click the timeline item. Everyday shows stay automatic.
-
-### **Beat-sync**
-
-Cuts and transitions follow the beat of the song. Strength follows your **Energy** slider. **Studio** mode. **Fit Show to Music** sets length first. Respects any motion pins you set.
-
-### **Motion presets**
-
-Save a motion style you reuse across shows, which moves are on, direction defaults, what you never want (for example never ribbon). Apply as show defaults; pins on individual slides stay until you clear them.

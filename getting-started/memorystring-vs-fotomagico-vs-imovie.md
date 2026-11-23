@@ -1,14 +1,32 @@
 ---
-description: "Honest comparison of MemoryString, FotoMagico, and iMovie. MemoryString is a free Mac slideshow app, not a FotoMagico replacement."
+description: "Honest comparison of MemoryString, FotoMagico, iMovie, Final Cut Pro, CapCut, Apple Photos Memories, and Photopia. MemoryString is a free Mac slideshow app, not a FotoMagico replacement."
 layout:
   width: wide
 ---
 
 # MemoryString vs FotoMagico vs iMovie
 
-Three Mac apps can turn photos into something you can watch. They solve different problems.
+Mac apps can turn photos into something you can watch. They solve different problems.
 
-MemoryString is a free Mac slideshow app. Drop a folder of photos, pick a Look, export an MP4. FotoMagico targets live presentations and pro slideshow editing. iMovie is Apple’s video editor for manual cutting. This page compares them honestly. MemoryString is not a full replacement for every job.
+MemoryString is a free Mac slideshow app. Drop a folder of photos, pick a Look, export an MP4. FotoMagico targets live presentations and pro slideshow editing. iMovie is Apple’s video editor for manual cutting. Final Cut Pro is a pro video editor. CapCut is a social creator's app. Apple Photos Memories makes automatic movies. Photopia is dedicated slideshow software. This page compares them honestly. MemoryString is not a full replacement for every job.
+
+{% hint style="success" %}
+**Get MemoryString free**: [Download MemoryString 1.2.7](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) (DMG installer, the newest version) or get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare). No account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+{% endhint %}
+
+**Your kids' faces are not training data.**
+
+## Who holds your photos
+
+As AI spreads, breaches will only get more common, and family photos are exactly what attackers want. Every cloud or AI slideshow service can be breached, and once photos are out they don't come back. A breach doesn't stop at the pictures: it takes the addresses in EXIF data, where each shot was taken, the dates, the people named in captions, a map of where your family actually is. MemoryString works differently: nothing is uploaded, no account is created, and no model ever sees your library.
+
+## See it in action
+
+Watch MemoryString turn a folder of photos into a movie.
+
+{% embed url="https://youtu.be/xjduu2NUKkY" %}
+
+More videos: [Your first movie](https://youtu.be/M9LE0RbdVtc) and [Eight Looks](https://youtu.be/KVsfmvt9duQ). All tutorials are on the [MemoryString YouTube channel](https://www.youtube.com/@MemoryStringApp). The product site is [memorystring.app](https://memorystring.app).
 
 ## Where each one sits
 
@@ -35,9 +53,29 @@ If you present in a hall with a clicker, need iPad authoring, or want layers and
 
 iMovie lets you cut on a timeline with tracks and precise edits. MemoryString does not replace that. If you want a movie from a burst of similar photos for friends or family, MemoryString is built for that path.
 
+## Final Cut Pro is for serious video work
+
+Final Cut Pro is Apple's professional video editor for serious hobbyists and pros. Available on Mac and iPad with a one-time purchase on Mac, subscription on iPad. Very powerful for manual editing, but building a photo story means doing everything by hand: timing, motion, keyframes. MemoryString does that for you with [Looks](../style/looks.md) and automatic timing.
+
+## CapCut targets short social videos
+
+CapCut is ByteDance's free editor with paid Pro features, built for social creators making short vertical videos. Available on phones, desktop, and web. Template driven and cloud tied. MemoryString wins on local-first privacy and long photo stories with [Long story short](../long-story-short.md) handling trips up to 30 minutes.
+
+## Apple Photos Memories is effortless but limited
+
+Apple Photos Memories is the free automatic memory movie built into Apple Photos. Effortless but very little control over style, timing, or music. That control gap is what MemoryString fills: choose your own [Looks](../style/looks.md), [music](../music.md), [captions](../intro-captions.md), and shot selection with [Keep Best Shots](../auto-detection.md#keep-best-shots).
+
+## Photopia is slideshow software
+
+Photopia (Photopia Creator and Director) is slideshow software from former ProShow developers, made after ProShow's maker Photodex closed on January 31, 2020. Available on Windows and Mac, and can import old ProShow shows and effects. A dedicated slideshow tool. MemoryString is free and local-first on Mac.
+
+## Pro video editors are overkill
+
+DaVinci Resolve and Premiere Pro are powerful professional video editors, but they are overkill for photo stories where MemoryString handles motion and timing automatically.
+
 ## MemoryString helpers, then export
 
-[Keep Best Shots](../auto-detection.md#keep-best-shots) can keep the best frame from a near-duplicate burst. Import may ask when similar stills appear. Extras stay in the project as [Outtakes](../library.md#outtakes). [Auto Trim](../auto-detection.md#auto-trim) keeps about four seconds from the middle of a clip (with a small face nudge). You choose it from the menu, not on import. It works about 70% of the time.
+[Keep Best Shots](../auto-detection.md#keep-best-shots) can keep the best frame from a near-duplicate burst. Import may ask when similar stills appear. Extras stay in the project as [Outtakes](../library.md#outtakes). [Auto Trim](../auto-detection.md#auto-trim) keeps about four seconds from the middle of a clip (with a small face nudge). You choose it from the menu, not on import.
 
 [Import from Photos…](../library.md#import-from-photos) opens a dedicated sheet: Recent, Albums, People, By Month, Trips & Events, and Media Type, with a From / To date filter.
 
@@ -57,7 +95,6 @@ Every movie ends with a **Created with MemoryString** credit. There is no toggle
 
 ## Get it
 
-[**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare): free, no account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+[**Download MemoryString 1.2.7**](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) (DMG installer, free, the newest version) or get it on the [**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare) (version 1.2.6, currently under review for 1.2.7). No account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
 New here? [Quick start](quick-start.md) gets you to a finished movie.
-
