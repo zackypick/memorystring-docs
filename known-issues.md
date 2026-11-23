@@ -6,7 +6,7 @@ description: "Things we’re working on. Updated with each release."
 
 No open known issues as of **1.2.7**.
 
-These were fixed in 1.2.3 work and shipped in **1.2.4** (there was no separate 1.2.3 release):
+Fixed in **1.2.4**:
 
 * Import from Photos: album and people cover thumbnails stalling on first load in large Photos libraries.
 * Large imports: importing several hundred assets at once spiking memory use.
