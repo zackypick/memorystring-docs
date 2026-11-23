@@ -49,7 +49,11 @@ A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY)
 
 ## What people say
 
-> Philip Michaels at Six Colors (19 Oct 2026) called MemoryString a free iMovie alternative that gets you "to the finished product faster," with more control than Photos Memory Movie.
+> **A free iMovie alternative that gets you "to the finished product faster."**
+>
+> With more control than Photos Memory Movie.
+>
+> Philip Michaels at Six Colors (19 Oct 2026)
 >
 > [Read the App Report](https://sixcolors.com/post/2026/10/app-report-help-is-on-the-way/)
 
