@@ -58,7 +58,7 @@ A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY)
 >
 > [Read the App Report](https://sixcolors.com/post/2026/10/app-report-help-is-on-the-way/)
 
-> ★★★★★ **Superschnell Supereasy**
+> ![5 out of 5 stars](.gitbook/assets/rating-5-of-5-yellow-sm.png) **Superschnell Supereasy**
 >
 > *"Eine Slideshow für ein Geburtstag mit über 400 Fotos in gerade mal 20 Minuten erstellt. Top!"*
 >
@@ -66,7 +66,7 @@ A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY)
 >
 > [Electrocker, Mac App Store (Germany), Oct 2026](https://apps.apple.com/de/app/memorystring/id6806579257?see-all=reviews)
 
-> ![4.3 out of 5 stars](.gitbook/assets/rating-4-3-of-5-white-sm.png) **4.3 out of 5**
+> ![4.3 out of 5 stars](.gitbook/assets/rating-4-3-of-5-yellow-sm.png) **4.3 out of 5**
 >
 > **"Long story short alone is worth the download."**
 >
