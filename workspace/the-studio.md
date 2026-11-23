@@ -4,7 +4,11 @@ description: "A tour of the MemoryString window: Library, Outtakes, Preview, Ins
 
 # The Studio
 
-The Studio is where you build your movie: a warm, oak-and-gold workspace with everything on one screen.
+You step into the Studio.
+
+This wasn’t built just to produce the best slideshows you’ve ever made. It was built so that working on them feels like something. The oak and the gold are the room you live in while you create.
+
+Most apps treat the workspace like a factory floor. We treated it like a place you’d want to spend an evening. Because you will.
 
 ## The panes
 
