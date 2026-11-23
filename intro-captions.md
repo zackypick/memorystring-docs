@@ -65,6 +65,7 @@ Export **Save As** prefers the opening title. See [Format and export](export.md#
 - **Show opening card**: off removes the opening card
 - Text field. Type here or in Inspector clip bar. Export filename suggestion uses this title
 - Pause and **double-click** the title on stage to edit. **Single** click sets [center of interest](preview.md#center-of-interest)
+- **Studio:** **Match Closing Style** copies font, size, color, align, legibility, and ornament from Closing. It copies once. It does not keep them in sync. It stays off until closing words are on. **Go to Opening** parks the playhead on the opening card.
 
 Right-click the opening card → **Disable Intro Slide**, **Set Intro Title**, **Set Background Image**. Studio adds **Lens Effect**. With a background still, **Rotate & Flip** turns the photo, not the title.
 
@@ -74,7 +75,7 @@ Right-click the opening card → **Disable Intro Slide**, **Set Intro Title**, *
 
 Add a still behind the title: click well, **Choose…** / **Change…**, drop on well, **Choose from Library** / **Choose File…**, **Remove**. Missing file shows **Missing**. See [Show cover](#show-cover-and-project-name).
 
-**Studio** with a background: **Start zoom** (100–140%), **Slow Zoom**, **Soften**, **Color** / **Grayscale**. How strongly that photo shows is set under **Stage → Intensity**, not a separate Dim slider.
+**Studio** with a background: **Start zoom** from half the automatic crop to 2.5× (pinch, or **Command**-scroll, same as the stage blur), **Slow Zoom**, **Soften**, **Color** / **Grayscale**. How loud that photo is lives under **Stage → Intensity**, not a separate Dim slider.
 
 The background fades up from the stage color and eases into the first slide. **Slow Zoom** eases in. It can run when Card Motion is **None**.
 
@@ -101,6 +102,7 @@ Optional last line on the existing end card, above **Created with MemoryString**
 - Pause on the end card and **double-click** the closing words in the Preview to edit them in place
 - To break the closing words into lines, press **Shift+Enter** after that double-click. The fields in the inspector don't take line breaks
 - The end card stays about three seconds. There is no duration slider
+- **Studio:** **Match Opening Style** copies the opening look once. It does not keep the two in sync. **Go to Closing** parks the playhead on the end card.
 
 **Studio:** **Ornament** (none, or a small mark under the words), then **Text**. Font, color (**Match Stage** follows the MemoryString mark), **Auto Size** / **Size**, **Align**, **Legibility** (shadow, hairline outline, or both).
 

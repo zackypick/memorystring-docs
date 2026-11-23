@@ -186,7 +186,7 @@ If you have a whole trip and you do not want to pick the shots yourself, that is
 
 Yes. [Download the latest MemoryString 1.2.7](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) (DMG installer, the newest version).
 
-You can also get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq) (version 1.2.6, currently under review for 1.2.7). Updates come from there, and you can rate the app.
+You can also get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq). Updates come from there, and you can rate the app.
 
 </details>
 

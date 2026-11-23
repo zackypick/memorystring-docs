@@ -60,10 +60,10 @@ The red close button also quits. Untitled work with content asks **Save** / **Do
 
 | Key | Action |
 | --- | --- |
-| **⌘/** | MemoryString Help… (opens this site) |
+| **⌘/** | Documentation (opens this site) |
 | **⌘,** | Settings… (MCP Server sheet on the main window) |
 
-**Help → Show Walkthrough** replays the first-run tour. **Help → Rate MemoryString…** opens the App Store review page. **Help → Send Feedback…** opens an email to feedback@memorystring.app. **Help → Report a Problem…** opens an email to reports@memorystring.app.
+**Help → Show Walkthrough** replays the first-run tour. **Help → YouTube Channel** opens the MemoryString channel. **Help → Rate MemoryString…** opens the App Store review page. **Help → Send Feedback…** opens Mail to feedback@memorystring.app. **Help → Report a Problem…** emails a sanitized crash report to reports@memorystring.app (no media filenames).
 
 To break an opening title or closing words into lines, pause, **double-click** the text in the Preview to edit it in place, then press **Shift+Enter**. The fields in the inspector don't take line breaks. Long lines wrap on their own.
 

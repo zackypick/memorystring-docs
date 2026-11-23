@@ -8,6 +8,8 @@ description: "Studio Customize in MemoryString: plate, ambience and blurred back
 
 **Plate · Ambience · Lens Effects · Film · Atmosphere & Decals**
 
+Click a section title to open it. Titles are indented. Opening one closes the others.
+
 ![Customize disclosures at the bottom of Style](../.gitbook/assets/inspector-style.png)
 
 Even if several lens boxes are checked, each photo plays **at most one** pooled lens effect. Click the same **Look** again for a new random pick (except **Clean**). See [Looks](looks.md#the-eight-chips).
@@ -37,7 +39,9 @@ Effects around the plate.
 - **Light Leak**
 - **Backdrop**: Grayscale / Colored / Random
 
-Backdrop is a blurred, enlarged copy of the photo behind the card. It covers the stage and is never mirrored, and it keeps faces and the scene visible beside the card.
+Backdrop is a blurred enlarged photo behind the card. It covers the stage and is never mirrored. When a face would sit behind the card, the wash zooms in so that face sits in the open side. A wide photo zooms until the face clears the card. A tall frame seats the person in the open blur above or below the card. The crop stops before it cuts a head off the top. On a tall photo of people in a place, the blur keeps the place: a small pair sits to one side, and one small face stays in that cover instead of filling the stage with shirts. A full-body portrait seats the person beside the card so the scene stays in the blur. On a group photo, the gray shows people, not the empty room: a two-shot parks the marked person on their own side, and a wide row keeps the end people beside the card when it can. Groups crossfade washes every few cards. An older show that saved **Offset** opens **Centered**.
+
+Pinch, or hold **Command** and scroll, to zoom the blur from half the automatic crop to 2.5×. A plain scroll still moves the playhead. The pointer turns into a grab hand over the focus circle. Drag the circle to aim the blur. The same zoom works on the opening card. **Long story short** clears a hand zoom on the blur, the same way it clears a hand-placed focus. Look, captions, music, and titles stay.
 
 | Backdrop | What it does |
 | --- | --- |

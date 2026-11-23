@@ -29,7 +29,7 @@ The project name sits on the left with the show's length next to it. The length 
 
 - **Essential** / **Studio**: how many controls you see ([next page](essential-studio.md)). First-run walkthrough marks sit on this control, **+**, and **Export**.
 - **Export**: Export Movie dialog
-- **?**: MemoryString Help (**⌘/**). Opens this site.
+- **?**: Documentation (**⌘/**). Opens this site.
 - Inspector toggle. Show or hide the right column (**⌥⌘I**)
 
 Toolbar **+** (near the project name) is **Photos & Videos…**, **Import from Photos…**, **Music…**, and **Royalty-Free Library…**.

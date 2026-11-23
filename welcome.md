@@ -17,9 +17,9 @@ That’s it. A film you’d actually send. Minutes, not an evening. Free, on you
 
 ## Get it
 
-[**Download the latest MemoryString 1.2.7**](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) (DMG installer, free). macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+[**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-welcome): free. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
-Or get it on the [**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-welcome) (version 1.2.6, currently under review for 1.2.7).
+If the App Store is not an option, [Download MemoryString 1.2.7 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg).
 
 <a href="https://www.youtube.com/@MemoryStringApp" class="button secondary" data-icon="youtube">Watch on YouTube</a> <a href="https://www.tiktok.com/@memorystring" class="button secondary" data-icon="tiktok">Follow on TikTok</a> <a href="https://alternativeto.net/software/memorystring/about/" class="button secondary">AlternativeTo</a>
 
@@ -68,6 +68,6 @@ A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY)
 
 Created by Zacky Pickholz. [www.codebyz.com](https://www.codebyz.com). © 2026 All rights reserved. Thanks: [Credits](credits.md).
 
-New here? [Quick start](getting-started/quick-start.md). [Common questions](getting-started/faq.md). In the app, **Help → MemoryString Help…** (**⌘/**) opens this site.
+New here? [Quick start](getting-started/quick-start.md). [Common questions](getting-started/faq.md). In the app, **Help → Documentation** (**⌘/**) opens this site.
 
 [![MemoryString | AlternativeTo](https://alternativeto.net/static/badges/badge-compact-color.svg)](https://alternativeto.net/software/memorystring/about/?utm_source=badge&utm_medium=referral)

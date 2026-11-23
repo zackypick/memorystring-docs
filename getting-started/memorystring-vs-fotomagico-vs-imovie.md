@@ -95,6 +95,6 @@ Every movie ends with a **Created with MemoryString** credit. There is no toggle
 
 ## Get it
 
-[**Download MemoryString 1.2.7**](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) (DMG installer, free, the newest version) or get it on the [**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare) (version 1.2.6, currently under review for 1.2.7). No account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+Get it on the [**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare), free. If the App Store is not an option, [Download MemoryString 1.2.7 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg). No account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
 New here? [Quick start](quick-start.md) gets you to a finished movie.

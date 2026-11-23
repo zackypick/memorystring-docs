@@ -6,6 +6,20 @@ description: "What we fixed, by version."
 
 New features for each version are on [What's new](roadmap.md).
 
+## Version 1.2.7
+
+* The automatic backdrop crop no longer chops a head off the stage or drops a forehead past the top.
+* Golden Hour sun stays off faces, titles, and the end card. It does not pop across the frame or stack a second sun on the fade. The exit card stays warm, matching the slides, in preview and in the exported movie.
+* Filmstrip windows stay filled when the preview is still cold, and under Golden Hour.
+* Editing the opening title keeps the photo on screen. The old title words do not linger as a ghost.
+* A playlist song does not start on the end card. One that would only play there is left off.
+* Soft heroes after a fast scrub sharpen when you stop, instead of staying blurry until you click.
+* Soft-stack and other wash seams keep coverage through the crossfade (no cream flash between slides).
+* Large imports stay responsive  -  identity work stays off the main thread so drops do not beach-ball.
+* Crash upload stays silent; no false “app hung” sheet while a report sends.
+* **Help → Send Feedback…** / **Report a Problem…** open Apple Mail drafts (with a crash zip for Report a Problem).
+
+
 ## Version 1.2.6
 
 * Closing MCP Settings with **Close** or Escape no longer quits unexpectedly.

@@ -75,7 +75,9 @@ When a photo is paused, you may see a small round ring. That is **center of inte
 
 **On import:** every photo and video gets a point. MemoryString picks the largest face, else the main subject, else the center. Videos use several frames in the trim window.
 
-**Manual:** pause and click the photo. Drag to pan. Each change undoes with **⌘Z**. While **Export** or **Warm Now** has edits paused, a click on the preview does **not** move the focus spot.
+**Manual:** pause and click the photo. Drag to pan. Each change undoes with **⌘Z**. While **Export** or **Warm Now** has edits paused, a click on the preview does **not** move the focus spot. The pointer is a grab hand while it is over the circle.
+
+**Zoom the blur:** pinch, or hold **Command** and scroll, from half the automatic crop to 2.5×. A plain scroll still moves the playhead. Drag the circle to aim where the blur sits. The same zoom works on the opening card.
 
 **Reset Center of Interest** (right-click the paused photo) removes your override and runs detection again.
 
