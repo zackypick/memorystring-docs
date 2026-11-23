@@ -49,11 +49,6 @@ A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY)
 
 ## What people say
 
-> Was looking for something quick to put all the pictures together for a graduation. It worked great! I love the automatic transitions without having to do them all myself.
->
-> **Esther**  
-> *Missionary wife, Christian school and seminary, El Salvador*
-
 > Philip Michaels at Six Colors (19 Oct 2026) called MemoryString a free iMovie alternative that gets you "to the finished product faster," with more control than Photos Memory Movie.
 >
 > [Read the App Report](https://sixcolors.com/post/2026/10/app-report-help-is-on-the-way/)
@@ -75,6 +70,11 @@ A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY)
 > Cliff Wade at Pure App Reviews (23 Nov 2026), 4.3 out of 5
 >
 > [Read the review](https://www.pureapp.reviews/memorystring-review-free-slideshows-macos/)
+
+> Was looking for something quick to put all the pictures together for a graduation. It worked great! I love the automatic transitions without having to do them all myself.
+>
+> **Esther**  
+> *Missionary wife, Christian school and seminary, El Salvador*
 
 ## Who made it
 
