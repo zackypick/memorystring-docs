@@ -1,5 +1,5 @@
 ---
-description: "From an empty project to an exported MemoryString movie: import, order, preview, music with Fit Show to Music, titles, and export."
+description: "From an empty project to an exported MemoryString movie: import, order, preview, music with Fit Show to Music, one-click captions, titles, and export."
 ---
 
 # Quick start
@@ -82,7 +82,7 @@ To trim a song, select it on the **Audioline**, scrub to the moment you want, th
 
 Open the Inspector (**⌥⌘I**) for more control:
 
-- **Style**: Look, Energy, Stage, Photo Size, Captions, Customize (Studio)
+- **Style**: Look, Energy, Stage, Photo Size, Captions, Customize (Studio). Click the captions bubble in the Library, or **Generate** in the Inspector, to caption photos with their place and date in one click
 - **Titles**: opening card and optional closing words (**The End** is already in the box)
 - **Motion**: Studio only: Transitions, multi-photo groups
 - **Audio**: playlist, **Music Follows Show**, **Fit Show to Music** / **Extend to Fill** / **Surprise me**

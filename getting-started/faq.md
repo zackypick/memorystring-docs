@@ -1,5 +1,5 @@
 ---
-description: "Common questions about MemoryString, the free slideshow app for Mac: importing from Photos, music, export, the screensaver, and more."
+description: "Common questions about MemoryString, the free slideshow app for Mac: importing from Photos, one-click captions, music, export, the screensaver, and more."
 ---
 
 # FAQ
@@ -18,7 +18,7 @@ MemoryString is a free slideshow app for Mac that turns your photos and videos i
 
 <summary>How do I turn thousands of trip photos into a short movie on my Mac?</summary>
 
-Open MemoryString, pick an album from Photos or a folder on your Mac, and use Long story short. It goes through hundreds or thousands of photos and videos, keeps the best shots, drops duplicates and near-duplicates, and trims long clips down to a short highlight. Then add music and a Look and export the movie.
+Open MemoryString, pick an album from Photos or a folder on your Mac, and use Long story short. It goes through hundreds or thousands of photos and videos, keeps the best shots, drops duplicates and near-duplicates, and trims long clips down to a short highlight. Then add music and a Look, caption your photos in one click, and export the movie.
 
 </details>
 
@@ -46,7 +46,26 @@ To use it, drop the file into **System Settings → Wallpaper**, then add that f
 
 <summary>Is there an iMovie alternative for photo slideshows?</summary>
 
-iMovie is great for editing video, but building a slideshow from hundreds of photos takes a lot of manual work. MemoryString is made just for slideshows: it picks the best shots, adds music and transitions, can caption each photo with place and date, and exports a finished movie.
+iMovie is great for editing video, but building a slideshow from hundreds of photos takes a lot of manual work. MemoryString is made just for slideshows: it picks the best shots, adds music and transitions, captions each photo with place and date in one click, and exports a finished movie.
+
+</details>
+
+
+<details>
+
+<summary>Can MemoryString caption my photos automatically?</summary>
+
+Yes. Click the captions bubble in the Library header and choose Auto Caption, or click Generate on the right in the Inspector. One click captions your photos with their place and date, for example Golden Gate Park, San Francisco · 6 July 2024. If a photo has no place, it uses the capture date, or a readable filename. You can edit any caption after. It does not run until you ask.
+
+See [Titles and captions](../intro-captions.md#auto-caption).
+
+</details>
+
+<details>
+
+<summary>What can MemoryString do in one click?</summary>
+
+Long story short builds a movie of the length you pick from your best shots. One Look styles the whole show. Keep Best Shots keeps the strongest photo from each similar burst. Auto Trim keeps about four seconds from a long clip. Pick New Music or Surprise me adds a soundtrack, and tracks are auto-leveled so they sit at a similar loudness. Photos and videos land upright, and motion frames faces and subjects on its own. Fit Show to Music makes the song cover the whole film.
 
 </details>
 

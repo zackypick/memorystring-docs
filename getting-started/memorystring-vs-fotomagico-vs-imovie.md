@@ -8,7 +8,7 @@ layout:
 
 Mac apps can turn photos into something you can watch. They solve different problems.
 
-MemoryString is a free Mac slideshow app. Drop a folder of photos, pick a Look, export an MP4. FotoMagico targets live presentations and pro slideshow editing. iMovie is Apple’s video editor for manual cutting. Final Cut Pro is a pro video editor. CapCut is a social creator's app. Apple Photos Memories makes automatic movies. Photopia is dedicated slideshow software. This page compares them honestly. MemoryString is not a full replacement for every job.
+MemoryString is a free Mac slideshow app. Drop a folder of photos, pick a Look, add captions in one click, and export an MP4. FotoMagico targets live presentations and pro slideshow editing. iMovie is Apple’s video editor for manual cutting. Final Cut Pro is a pro video editor. CapCut is a social creator's app. Apple Photos Memories makes automatic movies. Photopia is dedicated slideshow software. This page compares them honestly. MemoryString is not a full replacement for every job.
 
 {% hint style="success" %}
 **Get MemoryString free**: [Download on the Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-compare). [Or download directly (DMG)](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg). No account, no subscription. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
