@@ -7,6 +7,7 @@ description: "Things we’re working on. Updated with each release."
 As of **1.2.7**:
 
 * Refractive Bubbles lens effect: bubbles can repeat the same pattern across slides, show the previous photo, freeze while scrubbing, or briefly turn black. Fixed for the next release.
+* Changing a Look: may be a bit laggy or a little heavy. Fixed for the next release.
 
 Fixed in **1.2.4**:
 
