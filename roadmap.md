@@ -16,7 +16,7 @@ Bug fixes are listed by version on [Fixed](fixed.md).
 - **Surprise me** and **Pick New Music** rotate through fitting songs instead of always landing on the shortest catalog stem.
 - Product site, docs, and support mail use **memorystring.app**, **docs.memorystring.app**, **feedback@memorystring.app**, and **reports@memorystring.app**.
 - **Help → Send Feedback…** and **Help → Report a Problem…** open Apple Mail drafts, with a crash zip attached for Report a Problem.
-- Crash upload stays silent in the background — no false “app hung” sheets while a report sends.
+- Crash upload stays silent in the background  -  no false “app hung” sheets while a report sends.
 - Soft heroes after a fast scrub sharpen when you stop, instead of staying blurry until you click.
 - Soft-stack and other wash seams keep coverage through the crossfade so cream holes do not flash between slides.
 - Large imports stay responsive: identity hashing stays off the main thread so drops do not beach-ball.
