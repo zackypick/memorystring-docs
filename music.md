@@ -29,7 +29,7 @@ Toolbar **+**, **File → Add Music → Royalty-Free Library…**, or **Audio** 
 
 Sheet title: **Royalty Free - No Attribution Required**. Subtitle: **CC0 / public domain, free to use, no credit needed**.
 
-Built-in tracks are CC0 / public domain from the sources listed in the app. Free to use, no credit needed. If a track looks misattributed, **Help → Send Feedback…** and we will pull it quickly.
+The catalog has 50 handpicked tracks. Built-in tracks are CC0 / public domain from the sources listed in the app. Free to use, no credit needed. If a track looks misattributed, **Help → Send Feedback…** and we will pull it quickly.
 
 **Sort:** Catalog · Title (A–Z) · Genre (A–Z) · Duration (shortest / longest first).
 

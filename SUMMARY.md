@@ -45,4 +45,5 @@
 
 ## Links
 
+* [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-summary)
 * [TikTok](https://www.tiktok.com/@memorystring)

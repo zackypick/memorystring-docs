@@ -10,7 +10,7 @@ Video tutorials are on the [MemoryString YouTube channel](https://www.youtube.co
 
 <summary>What is the best free slideshow app for Mac?</summary>
 
-MemoryString is a free slideshow app for Mac that turns your photos and videos into a polished movie in minutes. It has no account, no subscription and no ads, and your photos and videos never leave your Mac. [Download MemoryString 1.2.7](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) or get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq-best).
+MemoryString is a free slideshow app for Mac that turns your photos and videos into a polished movie in minutes. It has no account, no subscription and no ads, and your photos and videos never leave your Mac. Get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq-best) or [download MemoryString 1.2.7 directly (DMG)](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg).
 
 </details>
 
@@ -162,9 +162,9 @@ Photos you import from the Photos app are copied onto your Mac, so the show can 
 
 <details>
 
-<summary>Why are we not using AI?</summary>
+<summary>Does MemoryString use AI?</summary>
 
-MemoryString is a local app: your photos never leave your Mac, so there's no server for an AI model to run on or learn from. Adding cloud AI would mean uploading your family library to someone else's computer, which defeats the whole point. And as AI services get breached, anything sent to them can leak, including your kids' photos, the locations in their EXIF data, and your captions.
+Very little. A few small helpers (like picking the best of similar shots) run on Apple's on-device frameworks on your Mac. Nothing is ever uploaded, shared, or used to train anything.
 
 </details>
 
