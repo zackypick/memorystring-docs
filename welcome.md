@@ -66,9 +66,13 @@ A shorter overview is [MemoryString in 40 seconds](https://youtu.be/xjduu2NUKkY)
 >
 > [Electrocker, Mac App Store (Germany), Oct 2026](https://apps.apple.com/de/app/memorystring/id6806579257?see-all=reviews)
 
-> ★★★★☆ **4.3 out of 5**
+> <img src=".gitbook/assets/rating-4-3-of-5.svg" alt="4.3 out of 5 stars" width="108"> **4.3 out of 5**
 >
-> Cliff Wade at Pure App Reviews (23 Nov 2026) rated MemoryString 4.3 out of 5: "Free, on-device, and it does the curating that people actually fail at. Long story short alone is worth the download."
+> **"Long story short alone is worth the download."**
+>
+> *"Free, on-device, and it does the curating that people actually fail at."*
+>
+> Cliff Wade at Pure App Reviews (23 Nov 2026), 4.3 out of 5
 >
 > [Read the review](https://www.pureapp.reviews/memorystring-review-free-slideshows-macos/)
 
