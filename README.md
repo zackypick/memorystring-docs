@@ -8,9 +8,9 @@ Video and image assets in `.gitbook/assets/` stay here so GitBook embeds keep wo
 
 ## Get it
 
-[**Download on the Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-readme). Free. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
+[**Mac App Store**](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-readme): free. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
-[Download MemoryString 1.2.8 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.8/MemoryString-1.2.8.dmg)
+If the App Store is not an option, [Download MemoryString 1.2.8 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.8/MemoryString-1.2.8.dmg).
 
 ## Video tutorials
 

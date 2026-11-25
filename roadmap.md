@@ -8,8 +8,6 @@ MemoryString is a free slideshow app for Mac. Here is what comes next, and a one
 
 ## Up next
 
-Responsiveness and Refractive Bubbles are still in progress. They are not in 1.2.8.
-
 **1.2.9.1** More realistic effects, and a new multi-card perspective transition.
 
 **1.2.9.2** A lens pass: upgrades to the lens effects, in its own version.
@@ -18,7 +16,7 @@ Responsiveness and Refractive Bubbles are still in progress. They are not in 1.2
 
 Newest first.
 
-**1.2.8** The ribbon background stays steady, a calm show fades at the open and the end, and scatter cards keep their size.
+**1.2.8** Faster Look clicks, cleaner Refractive Bubbles, and Fit Show to Music that leaves Music Follows Show on.
 
 **1.2.7** A new 50-track CC0 soundtrack, backdrop zoom and aim, and Golden Hour that stays warm through the exit card.
 

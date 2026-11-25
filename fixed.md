@@ -8,6 +8,12 @@ New features for each version are on [What's new](roadmap.md).
 
 ## Version 1.2.8
 
+* Look chips apply faster.
+* Refractive Bubbles fade before the next slide, including filmstrip and accordion.
+* Accordion photos stay on screen while you scrub.
+* **Fit Show to Music** leaves **Music Follows Show** on. The fitted song stays.
+* The first show points at the soundtrack lane.
+* The timeline stays live on a big show.
 * The ribbon background stays a steady gray while the photos slide. It does not flash when the backdrop photo changes.
 * A calm show fades in at the open and out at the end.
 * Scatter cards keep their size and stay on the stage.
