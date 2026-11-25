@@ -16,7 +16,7 @@ MemoryString is a free slideshow app for Mac. Here is what comes next, and a one
 
 Newest first.
 
-**1.2.8** Faster Look clicks, cleaner Refractive Bubbles, and Fit Show to Music that leaves Music Follows Show on.
+**1.2.8** Faster Look clicks, cleaner Refract Bubbles, and Fit Show to Music that leaves Music Follows Show on.
 
 **1.2.7** A new 50-track CC0 soundtrack, backdrop zoom and aim, and Golden Hour that stays warm through the exit card.
 

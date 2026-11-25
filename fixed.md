@@ -9,7 +9,18 @@ New features for each version are on [What's new](roadmap.md).
 ## Version 1.2.8
 
 * Look chips apply faster.
-* Refractive Bubbles fade before the next slide, including filmstrip and accordion.
+* Refract Bubbles fade before the next slide, including filmstrip and accordion.
+* Refract Bubbles no longer repeat the same pattern across slides, show the previous photo, freeze while you scrub, or turn black on the Dark stage.
+* Bright skin no longer turns into flat white patches inside bubbles.
+* Lens Effect **None** on a slide turns bubbles off there.
+* Every lens effect fades out before the next slide.
+* Playback keeps getting ready when your Mac is low on memory.
+* Fixed crashes and freezes: dragging a slider, scrubbing music, the export chime, a cold photo border in the Library, and cache cleanup on big libraries.
+* Undo after a delete is faster and restores everything exactly. Music undo works again.
+* Filmstrip starts vertical on TikTok, Instagram, and Pinterest, and horizontal on YouTube, Classic, Photo, and Cinema.
+* Importing several Photos albums at once asks **Keep Best** once.
+* Double-click edits a new show's opening title the first time.
+* A numbers-only date caption stays on the photo.
 * Accordion photos stay on screen while you scrub.
 * **Fit Show to Music** leaves **Music Follows Show** on. The fitted song stays.
 * The first show points at the soundtrack lane.
