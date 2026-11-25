@@ -10,7 +10,7 @@ Video tutorials are on the [MemoryString YouTube channel](https://www.youtube.co
 
 <summary>What is the best free slideshow app for Mac?</summary>
 
-MemoryString is a free slideshow app for Mac that turns your photos and videos into a polished movie in minutes. It has no account, no subscription and no ads, and your photos and videos never leave your Mac. Get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq-best) or [download MemoryString 1.2.7 directly (DMG)](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg).
+MemoryString is a free slideshow app for Mac that turns your photos and videos into a polished movie in minutes. It has no account, no subscription and no ads, and your photos and videos never leave your Mac. Get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq-best) or [Download MemoryString 1.2.8 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.8/MemoryString-1.2.8.dmg).
 
 </details>
 
@@ -203,7 +203,7 @@ If you have a whole trip and you do not want to pick the shots yourself, that is
 
 <summary>Is there a download that isn't the App Store?</summary>
 
-Yes. [Download the latest MemoryString 1.2.7](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg) (DMG installer, the newest version).
+Yes. [Download MemoryString 1.2.8 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.8/MemoryString-1.2.8.dmg).
 
 You can also get it on the [Mac App Store](https://www.codebyz.com/api/go/memory-string-app-store?from=gitbook-faq). Updates come from there, and you can rate the app.
 
