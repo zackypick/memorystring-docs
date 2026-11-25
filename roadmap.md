@@ -8,7 +8,7 @@ MemoryString is a free slideshow app for Mac. Here is what comes next, and a one
 
 ## Up next
 
-**1.2.8** Responsiveness and Refractive Bubbles. Nearly done. Look switching is faster: a Look click that took about 0.6 to 2 seconds now takes about 0.25 seconds. Refractive Bubbles is improved.
+Responsiveness and Refractive Bubbles are still in progress. They are not in 1.2.8.
 
 **1.2.9.1** More realistic effects, and a new multi-card perspective transition.
 
@@ -17,6 +17,8 @@ MemoryString is a free slideshow app for Mac. Here is what comes next, and a one
 ## Shipped
 
 Newest first.
+
+**1.2.8** The ribbon background stays steady, a calm show fades at the open and the end, and scatter cards keep their size.
 
 **1.2.7** A new 50-track CC0 soundtrack, backdrop zoom and aim, and Golden Hour that stays warm through the exit card.
 

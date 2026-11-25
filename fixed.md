@@ -6,6 +6,12 @@ description: "What we fixed, by version."
 
 New features for each version are on [What's new](roadmap.md).
 
+## Version 1.2.8
+
+* The ribbon background stays a steady gray while the photos slide. It does not flash when the backdrop photo changes.
+* A calm show fades in at the open and out at the end.
+* Scatter cards keep their size and stay on the stage.
+
 ## Version 1.2.7
 
 * The automatic backdrop crop no longer chops a head off the stage or drops a forehead past the top.

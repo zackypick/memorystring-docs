@@ -21,7 +21,7 @@ That’s it. A film you’d actually send. Minutes, not an evening. Free, on you
 
 Free. macOS 14 (Sonoma) or later, Apple Silicon and Intel.
 
-[Or download directly (DMG)](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.7/MemoryString-1.2.7.dmg)
+[Download MemoryString 1.2.8 for Mac](https://github.com/zackypick/memorystring-downloads/releases/download/v1.2.8/MemoryString-1.2.8.dmg)
 
 <a href="https://www.youtube.com/@MemoryStringApp" class="button secondary" data-icon="youtube">Watch on YouTube</a> <a href="https://www.tiktok.com/@memorystring" class="button secondary" data-icon="tiktok">Follow on TikTok</a> <a href="https://x.com/memorystringapp" class="button secondary" data-icon="x">Follow on X</a> <a href="https://alternativeto.net/software/memorystring/about/" class="button secondary">AlternativeTo</a>
 
