@@ -8,6 +8,7 @@ New features for each version are on [What's new](roadmap.md).
 
 ## Version 1.2.8
 
+* Save in the Mac App Store version writes the file you picked, including a show on another disk.
 * Look chips apply faster.
 * Refract Bubbles fade before the next slide, including filmstrip and accordion.
 * Refract Bubbles no longer repeat the same pattern across slides, show the previous photo, freeze while you scrub, or turn black on the Dark stage.
